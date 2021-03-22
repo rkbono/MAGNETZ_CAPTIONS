@@ -1,0 +1,2452 @@
+1
+00:00:01,280 --> 00:00:06,160
+okay is that visible
+
+2
+00:00:03,120 --> 00:00:08,480
+to people thumbs up right yep okay
+
+3
+00:00:06,160 --> 00:00:10,480
+excellent all right well thank you very
+
+4
+00:00:08,480 --> 00:00:13,280
+much uh for the kind introduction
+
+5
+00:00:10,480 --> 00:00:14,960
+will um and as first speaker um i will
+
+6
+00:00:13,280 --> 00:00:16,640
+say yeah very big thank you to
+
+7
+00:00:14,960 --> 00:00:17,840
+to will and lot and anybody else for
+
+8
+00:00:16,640 --> 00:00:19,039
+setting this up it's great to see so
+
+9
+00:00:17,840 --> 00:00:20,960
+many people um
+
+10
+00:00:19,039 --> 00:00:22,800
+uh here we're looking forward to this
+
+11
+00:00:20,960 --> 00:00:25,359
+okay so um
+
+12
+00:00:22,800 --> 00:00:28,000
+yeah i'm going for uh an award for the
+
+13
+00:00:25,359 --> 00:00:31,119
+most co-authors on a talk here
+
+14
+00:00:28,000 --> 00:00:33,600
+um but fully justified of course um
+
+15
+00:00:31,119 --> 00:00:34,559
+because this this talk is kind of a
+
+16
+00:00:33,600 --> 00:00:36,719
+quite high level
+
+17
+00:00:34,559 --> 00:00:38,239
+overview with kind of a trunk of a tree
+
+18
+00:00:36,719 --> 00:00:38,559
+i guess where it's kind of branching off
+
+19
+00:00:38,239 --> 00:00:40,640
+to
+
+20
+00:00:38,559 --> 00:00:42,239
+to uh other people's presentations and
+
+21
+00:00:40,640 --> 00:00:44,239
+recent recent papers
+
+22
+00:00:42,239 --> 00:00:45,520
+and so on um but there is a kind of
+
+23
+00:00:44,239 --> 00:00:47,360
+tight theme which is
+
+24
+00:00:45,520 --> 00:00:49,039
+integrating early magnetic data with
+
+25
+00:00:47,360 --> 00:00:49,760
+with numerical dynamo simulations and
+
+26
+00:00:49,039 --> 00:00:52,559
+that's
+
+27
+00:00:49,760 --> 00:00:53,440
+central to to what we're trying to do um
+
+28
+00:00:52,559 --> 00:00:56,800
+in liverpool
+
+29
+00:00:53,440 --> 00:00:58,399
+and was the topic of a workshop we had
+
+30
+00:00:56,800 --> 00:01:00,320
+about a year and a half ago
+
+31
+00:00:58,399 --> 00:01:01,600
+before all this covered nonsense started
+
+32
+00:01:00,320 --> 00:01:03,520
+um
+
+33
+00:01:01,600 --> 00:01:06,000
+in wales so that's where this photo is
+
+34
+00:01:03,520 --> 00:01:08,560
+from um here
+
+35
+00:01:06,000 --> 00:01:09,360
+okay so this is a very broad
+
+36
+00:01:08,560 --> 00:01:11,840
+introduction
+
+37
+00:01:09,360 --> 00:01:12,960
+so when paleomagnetists and this will be
+
+38
+00:01:11,840 --> 00:01:16,240
+a talk primarily
+
+39
+00:01:12,960 --> 00:01:16,880
+for paleomagnetism um when we talk about
+
+40
+00:01:16,240 --> 00:01:18,799
+models
+
+41
+00:01:16,880 --> 00:01:20,880
+uh more often than not we're referring
+
+42
+00:01:18,799 --> 00:01:24,080
+to to field models based on
+
+43
+00:01:20,880 --> 00:01:27,200
+spherical harmonic descriptions um uh
+
+44
+00:01:24,080 --> 00:01:30,159
+of the real field uh to some degree
+
+45
+00:01:27,200 --> 00:01:31,360
+um so these can be time varying like
+
+46
+00:01:30,159 --> 00:01:33,840
+these ones
+
+47
+00:01:31,360 --> 00:01:36,320
+this one over here figures this is ggf
+
+48
+00:01:33,840 --> 00:01:38,560
+100k so the longest time varying model
+
+49
+00:01:36,320 --> 00:01:39,360
+um that we have last hundred thousand
+
+50
+00:01:38,560 --> 00:01:42,479
+years
+
+51
+00:01:39,360 --> 00:01:45,680
+um or they can be statistical um
+
+52
+00:01:42,479 --> 00:01:46,880
+so uh no real times every draw from the
+
+53
+00:01:45,680 --> 00:01:49,280
+model is a single
+
+54
+00:01:46,880 --> 00:01:50,640
+instant snapshot uh in time and here
+
+55
+00:01:49,280 --> 00:01:53,759
+we're not looking for the time
+
+56
+00:01:50,640 --> 00:01:54,880
+series then we're looking at um mean
+
+57
+00:01:53,759 --> 00:01:56,799
+values
+
+58
+00:01:54,880 --> 00:01:58,240
+being paleomagnetic pole latitudes shown
+
+59
+00:01:56,799 --> 00:02:01,280
+up here here at the top
+
+60
+00:01:58,240 --> 00:02:03,840
+um and the shapes of distributions in in
+
+61
+00:02:01,280 --> 00:02:07,360
+this case for virtual geomagnetic
+
+62
+00:02:03,840 --> 00:02:10,160
+poles sampled different uh latitudes
+
+63
+00:02:07,360 --> 00:02:11,599
+uh now both these models um more
+
+64
+00:02:10,160 --> 00:02:14,239
+generally why models are so useful
+
+65
+00:02:11,599 --> 00:02:16,000
+is is um that they give global coverage
+
+66
+00:02:14,239 --> 00:02:18,879
+okay so they will
+
+67
+00:02:16,000 --> 00:02:20,879
+they're designed to match um
+
+68
+00:02:18,879 --> 00:02:22,879
+paleomagnetic data from from specific
+
+69
+00:02:20,879 --> 00:02:24,879
+places um
+
+70
+00:02:22,879 --> 00:02:26,640
+but the idea is they fill in the gaps
+
+71
+00:02:24,879 --> 00:02:28,319
+everywhere else on the surface of the
+
+72
+00:02:26,640 --> 00:02:29,780
+earth so you can go anywhere and ask
+
+73
+00:02:28,319 --> 00:02:30,879
+what the field was doing
+
+74
+00:02:29,780 --> 00:02:33,360
+[Music]
+
+75
+00:02:30,879 --> 00:02:35,040
+but something that is highly pertinent
+
+76
+00:02:33,360 --> 00:02:36,480
+to these sorts of models
+
+77
+00:02:35,040 --> 00:02:38,160
+is that they're not physics-based so
+
+78
+00:02:36,480 --> 00:02:41,760
+that's not to say that they're
+
+79
+00:02:38,160 --> 00:02:42,160
+unphysical uh physics uh creeps in there
+
+80
+00:02:41,760 --> 00:02:44,000
+from
+
+81
+00:02:42,160 --> 00:02:46,239
+from the rules that are associated with
+
+82
+00:02:44,000 --> 00:02:48,959
+the the how the spherical harmonics
+
+83
+00:02:46,239 --> 00:02:50,000
+uh relate uh to each other and the power
+
+84
+00:02:48,959 --> 00:02:52,160
+spectrum
+
+85
+00:02:50,000 --> 00:02:53,920
+um but that comes in from from
+
+86
+00:02:52,160 --> 00:02:55,200
+observations of the recent field not
+
+87
+00:02:53,920 --> 00:02:59,120
+from any um
+
+88
+00:02:55,200 --> 00:03:01,120
+uh physical uh processes um
+
+89
+00:02:59,120 --> 00:03:03,040
+but you know the first order of the
+
+90
+00:03:01,120 --> 00:03:04,000
+physics of what's producing the magnetic
+
+91
+00:03:03,040 --> 00:03:08,400
+field
+
+92
+00:03:04,000 --> 00:03:12,480
+is you know fairly well understood
+
+93
+00:03:08,400 --> 00:03:16,800
+so it's in dynamo theory so essentially
+
+94
+00:03:12,480 --> 00:03:17,760
+we have a rapidly rotating spherical
+
+95
+00:03:16,800 --> 00:03:20,159
+shell
+
+96
+00:03:17,760 --> 00:03:21,120
+the outer core filled with conductive
+
+97
+00:03:20,159 --> 00:03:24,560
+fluid
+
+98
+00:03:21,120 --> 00:03:26,720
+that is convecting and there's a dynamic
+
+99
+00:03:24,560 --> 00:03:28,000
+process going on that's generating
+
+100
+00:03:26,720 --> 00:03:30,080
+as it passes through the existing
+
+101
+00:03:28,000 --> 00:03:30,799
+magnetic field generating more magnetic
+
+102
+00:03:30,080 --> 00:03:32,799
+field so
+
+103
+00:03:30,799 --> 00:03:34,319
+this is more or less the entirety of the
+
+104
+00:03:32,799 --> 00:03:35,680
+equations that you have to solve
+
+105
+00:03:34,319 --> 00:03:38,159
+don't worry i'm not going to go through
+
+106
+00:03:35,680 --> 00:03:40,159
+them but just point out that
+
+107
+00:03:38,159 --> 00:03:41,920
+workstations or supercomputers you can
+
+108
+00:03:40,159 --> 00:03:43,840
+simultaneously solve
+
+109
+00:03:41,920 --> 00:03:45,440
+these equations and time step through
+
+110
+00:03:43,840 --> 00:03:48,640
+the dynamic process
+
+111
+00:03:45,440 --> 00:03:51,519
+producing as a result an output that is
+
+112
+00:03:48,640 --> 00:03:53,120
+a magnetic field as viewed at the
+
+113
+00:03:51,519 --> 00:03:55,280
+surface which is what of course is
+
+114
+00:03:53,120 --> 00:03:58,799
+paleomagnetism we're interested in
+
+115
+00:03:55,280 --> 00:03:59,439
+now any model has input parameters so
+
+116
+00:03:58,799 --> 00:04:02,159
+these are
+
+117
+00:03:59,439 --> 00:04:02,799
+kind of the tuning knobs i guess for um
+
+118
+00:04:02,159 --> 00:04:04,879
+for what you
+
+119
+00:04:02,799 --> 00:04:06,080
+you twiddle to get the model to behave
+
+120
+00:04:04,879 --> 00:04:09,840
+in a different way
+
+121
+00:04:06,080 --> 00:04:13,519
+and the primary ones for dynamo models
+
+122
+00:04:09,840 --> 00:04:16,160
+are these dimensional four dimensionless
+
+123
+00:04:13,519 --> 00:04:17,680
+numbers here i'll only mention two of
+
+124
+00:04:16,160 --> 00:04:18,320
+them briefly one of them the ekman
+
+125
+00:04:17,680 --> 00:04:21,519
+number
+
+126
+00:04:18,320 --> 00:04:24,720
+so this is the ratio of um viscous
+
+127
+00:04:21,519 --> 00:04:28,000
+coriolis forces and this is
+
+128
+00:04:24,720 --> 00:04:30,720
+extremely small in the earth like 10
+
+129
+00:04:28,000 --> 00:04:31,919
+to the minus 16. um in the models we
+
+130
+00:04:30,720 --> 00:04:35,280
+can't get down to
+
+131
+00:04:31,919 --> 00:04:38,400
+that such low values uh where um
+
+132
+00:04:35,280 --> 00:04:40,160
+11 or 12 volts of magnitude uh higher
+
+133
+00:04:38,400 --> 00:04:41,600
+than this so that means we're ramping up
+
+134
+00:04:40,160 --> 00:04:43,280
+the viscosity and
+
+135
+00:04:41,600 --> 00:04:45,600
+the reason for this is that that
+
+136
+00:04:43,280 --> 00:04:48,560
+suppresses all the small scale
+
+137
+00:04:45,600 --> 00:04:50,240
+um turbulence which we couldn't hope to
+
+138
+00:04:48,560 --> 00:04:53,199
+simulate even in our
+
+139
+00:04:50,240 --> 00:04:54,560
+fastest uh supercomputers the other one
+
+140
+00:04:53,199 --> 00:04:56,160
+i'll mention is the rayleigh number
+
+141
+00:04:54,560 --> 00:04:57,600
+so hopefully many of you familiar with
+
+142
+00:04:56,160 --> 00:05:00,560
+this already that describes the
+
+143
+00:04:57,600 --> 00:05:01,759
+um what defines the the bigger of the um
+
+144
+00:05:00,560 --> 00:05:04,479
+the convection
+
+145
+00:05:01,759 --> 00:05:06,800
+um in the system this we have to ramp up
+
+146
+00:05:04,479 --> 00:05:10,080
+artificially high to overcome this
+
+147
+00:05:06,800 --> 00:05:11,360
+this enhanced viscosity um now so that
+
+148
+00:05:10,080 --> 00:05:12,160
+means that we're not in the earth like
+
+149
+00:05:11,360 --> 00:05:15,600
+regime
+
+150
+00:05:12,160 --> 00:05:17,680
+in these um but there is a whole wealth
+
+151
+00:05:15,600 --> 00:05:18,320
+of literature out there and to kind of
+
+152
+00:05:17,680 --> 00:05:19,520
+sum up
+
+153
+00:05:18,320 --> 00:05:21,520
+i guess the state of the art as i
+
+154
+00:05:19,520 --> 00:05:21,919
+understand it we're more or less in a
+
+155
+00:05:21,520 --> 00:05:24,800
+place
+
+156
+00:05:21,919 --> 00:05:25,919
+now where the false balance um is
+
+157
+00:05:24,800 --> 00:05:28,479
+arguably
+
+158
+00:05:25,919 --> 00:05:30,000
+the same as in the earth uh and so for
+
+159
+00:05:28,479 --> 00:05:31,840
+all extents and purposes that we're
+
+160
+00:05:30,000 --> 00:05:33,919
+interested in the resource large scale
+
+161
+00:05:31,840 --> 00:05:35,160
+features of the field emerging at the
+
+162
+00:05:33,919 --> 00:05:36,639
+the surface
+
+163
+00:05:35,160 --> 00:05:39,360
+[Music]
+
+164
+00:05:36,639 --> 00:05:41,440
+yeah there's arguably realistic we are
+
+165
+00:05:39,360 --> 00:05:43,520
+uh we are generating an earth-like
+
+166
+00:05:41,440 --> 00:05:45,520
+process
+
+167
+00:05:43,520 --> 00:05:46,639
+okay so here's some some models here
+
+168
+00:05:45,520 --> 00:05:48,800
+shown on the left here we've got a
+
+169
+00:05:46,639 --> 00:05:51,039
+fairly recent one by julian ober
+
+170
+00:05:48,800 --> 00:05:52,000
+and co-authors high-resolution model
+
+171
+00:05:51,039 --> 00:05:54,880
+we're showing the
+
+172
+00:05:52,000 --> 00:05:55,520
+um velocity of the flow uh in the core
+
+173
+00:05:54,880 --> 00:05:56,639
+here and you
+
+174
+00:05:55,520 --> 00:05:58,720
+might be able to make out there's
+
+175
+00:05:56,639 --> 00:05:59,600
+different flow structures inside and
+
+176
+00:05:58,720 --> 00:06:02,240
+outside this
+
+177
+00:05:59,600 --> 00:06:03,440
+inner core tangent cylinder so that's
+
+178
+00:06:02,240 --> 00:06:05,440
+aligned
+
+179
+00:06:03,440 --> 00:06:06,479
+around the inner core in the direction
+
+180
+00:06:05,440 --> 00:06:08,880
+of the rotation
+
+181
+00:06:06,479 --> 00:06:09,680
+um axis and here we've got some some
+
+182
+00:06:08,880 --> 00:06:12,800
+outputs
+
+183
+00:06:09,680 --> 00:06:13,919
+and uh there's from paper from lulia in
+
+184
+00:06:12,800 --> 00:06:16,319
+2013
+
+185
+00:06:13,919 --> 00:06:18,000
+and we've got a nice time series here
+
+186
+00:06:16,319 --> 00:06:19,759
+where we've got a reversal
+
+187
+00:06:18,000 --> 00:06:21,759
+shown in there a few things that kind of
+
+188
+00:06:19,759 --> 00:06:22,560
+look a bit like small excursions and
+
+189
+00:06:21,759 --> 00:06:25,360
+we've got the
+
+190
+00:06:22,560 --> 00:06:26,800
+dipole moment going uh up and down and
+
+191
+00:06:25,360 --> 00:06:27,919
+you know what could look like a
+
+192
+00:06:26,800 --> 00:06:30,880
+plausible manner
+
+193
+00:06:27,919 --> 00:06:31,600
+um so dynamic models produce time
+
+194
+00:06:30,880 --> 00:06:34,479
+varying
+
+195
+00:06:31,600 --> 00:06:34,880
+outputs are these time series but we of
+
+196
+00:06:34,479 --> 00:06:37,440
+course
+
+197
+00:06:34,880 --> 00:06:39,440
+these well apart from some things that
+
+198
+00:06:37,440 --> 00:06:39,840
+julian has done on the very recent field
+
+199
+00:06:39,440 --> 00:06:41,759
+of
+
+200
+00:06:39,840 --> 00:06:43,120
+um and others have worked on data
+
+201
+00:06:41,759 --> 00:06:45,680
+assimilation where
+
+202
+00:06:43,120 --> 00:06:47,360
+try to mimic the the very recent field
+
+203
+00:06:45,680 --> 00:06:48,560
+uh without exception
+
+204
+00:06:47,360 --> 00:06:49,919
+other time series that you'll see from
+
+205
+00:06:48,560 --> 00:06:50,479
+dynamic models are the ones that we're
+
+206
+00:06:49,919 --> 00:06:51,840
+using
+
+207
+00:06:50,479 --> 00:06:53,520
+they're not trying to replicate any
+
+208
+00:06:51,840 --> 00:06:56,319
+particular point in history
+
+209
+00:06:53,520 --> 00:06:56,720
+of um of the earth's magnetic field so
+
+210
+00:06:56,319 --> 00:06:59,440
+you
+
+211
+00:06:56,720 --> 00:07:01,360
+treat these time simulations as a dynamo
+
+212
+00:06:59,440 --> 00:07:02,880
+as the outputs of a dynamic process not
+
+213
+00:07:01,360 --> 00:07:04,400
+the geodynamo
+
+214
+00:07:02,880 --> 00:07:06,560
+and you look at them in a statistical
+
+215
+00:07:04,400 --> 00:07:07,440
+sense um but similar to the field models
+
+216
+00:07:06,560 --> 00:07:09,440
+they give
+
+217
+00:07:07,440 --> 00:07:10,479
+global coverage and now at least you
+
+218
+00:07:09,440 --> 00:07:12,160
+know
+
+219
+00:07:10,479 --> 00:07:14,319
+they are based in the physics rather
+
+220
+00:07:12,160 --> 00:07:17,440
+than just being you know geometrical
+
+221
+00:07:14,319 --> 00:07:20,639
+descriptions of the field okay so
+
+222
+00:07:17,440 --> 00:07:22,160
+we tend to use um as paleomagnetists you
+
+223
+00:07:20,639 --> 00:07:22,880
+know we we do use field models
+
+224
+00:07:22,160 --> 00:07:25,039
+particularly
+
+225
+00:07:22,880 --> 00:07:25,919
+uh archaeo magnets use time varying
+
+226
+00:07:25,039 --> 00:07:27,759
+field models
+
+227
+00:07:25,919 --> 00:07:29,599
+a lot and paleomagnetists use
+
+228
+00:07:27,759 --> 00:07:31,440
+statistical field models a lot so
+
+229
+00:07:29,599 --> 00:07:33,599
+to test whether there are directions of
+
+230
+00:07:31,440 --> 00:07:36,479
+average secular variation for example
+
+231
+00:07:33,599 --> 00:07:37,520
+um and to correct for inclination uh
+
+232
+00:07:36,479 --> 00:07:42,319
+shadowing using the
+
+233
+00:07:37,520 --> 00:07:44,479
+ei technique based on the tko3 model
+
+234
+00:07:42,319 --> 00:07:45,360
+but we don't tend to use dynamo models
+
+235
+00:07:44,479 --> 00:07:47,199
+okay and
+
+236
+00:07:45,360 --> 00:07:48,400
+we're looking to to try and maybe change
+
+237
+00:07:47,199 --> 00:07:49,919
+that uh because there's some good
+
+238
+00:07:48,400 --> 00:07:52,479
+reasons why we should be using
+
+239
+00:07:49,919 --> 00:07:53,680
+uh diamond models so as i've said you
+
+240
+00:07:52,479 --> 00:07:55,199
+know the outputs the
+
+241
+00:07:53,680 --> 00:07:57,360
+physics-based dynamically
+
+242
+00:07:55,199 --> 00:07:59,280
+self-consistent uh we have the potential
+
+243
+00:07:57,360 --> 00:08:00,800
+for extremely long time series
+
+244
+00:07:59,280 --> 00:08:02,479
+so time varying models you know i got to
+
+245
+00:08:00,800 --> 00:08:04,240
+100 000 years
+
+246
+00:08:02,479 --> 00:08:05,599
+at the most you know we can produce
+
+247
+00:08:04,240 --> 00:08:06,800
+things that are tens hundreds of
+
+248
+00:08:05,599 --> 00:08:10,639
+millions of years
+
+249
+00:08:06,800 --> 00:08:12,319
+um long and um
+
+250
+00:08:10,639 --> 00:08:14,160
+i guess the the big cell for dynamo
+
+251
+00:08:12,319 --> 00:08:15,280
+models is that because it's related to
+
+252
+00:08:14,160 --> 00:08:17,599
+the physics of
+
+253
+00:08:15,280 --> 00:08:18,960
+of the the core and the deep earth we
+
+254
+00:08:17,599 --> 00:08:20,639
+have the potential to recover
+
+255
+00:08:18,960 --> 00:08:21,759
+information then about what saying what
+
+256
+00:08:20,639 --> 00:08:24,639
+our results mean
+
+257
+00:08:21,759 --> 00:08:26,000
+uh not only for the field but also for
+
+258
+00:08:24,639 --> 00:08:27,919
+um for article dynamics
+
+259
+00:08:26,000 --> 00:08:29,919
+and mental forcing and core evolution
+
+260
+00:08:27,919 --> 00:08:32,000
+and so on um
+
+261
+00:08:29,919 --> 00:08:33,519
+but there are some uh some negatives as
+
+262
+00:08:32,000 --> 00:08:35,120
+well that have to bear in mind with
+
+263
+00:08:33,519 --> 00:08:36,080
+dynamic models first is that these
+
+264
+00:08:35,120 --> 00:08:38,640
+they're all
+
+265
+00:08:36,080 --> 00:08:40,719
+dimensionless essentially so that's fine
+
+266
+00:08:38,640 --> 00:08:43,760
+for directions and directions that's all
+
+267
+00:08:40,719 --> 00:08:44,959
+that's all okay um but for intensities
+
+268
+00:08:43,760 --> 00:08:47,120
+and for time
+
+269
+00:08:44,959 --> 00:08:48,880
+um these need to be scaled so the models
+
+270
+00:08:47,120 --> 00:08:50,880
+need to be calibrated and
+
+271
+00:08:48,880 --> 00:08:53,040
+there are some uncertainties associated
+
+272
+00:08:50,880 --> 00:08:55,040
+with that with that calibration
+
+273
+00:08:53,040 --> 00:08:56,560
+um they're very computationally
+
+274
+00:08:55,040 --> 00:08:58,880
+expensive to run
+
+275
+00:08:56,560 --> 00:09:00,480
+and that said what you emerged that
+
+276
+00:08:58,880 --> 00:09:02,160
+we're mostly interested in is time
+
+277
+00:09:00,480 --> 00:09:04,240
+series of gauss coefficients it's
+
+278
+00:09:02,160 --> 00:09:07,040
+exactly the same as you'd have from
+
+279
+00:09:04,240 --> 00:09:09,040
+a time bearing model so you can then
+
+280
+00:09:07,040 --> 00:09:10,160
+play around with the outputs of them in
+
+281
+00:09:09,040 --> 00:09:11,680
+the same way as you would
+
+282
+00:09:10,160 --> 00:09:13,920
+with a time varying model you'll need to
+
+283
+00:09:11,680 --> 00:09:15,440
+run them uh actually once
+
+284
+00:09:13,920 --> 00:09:17,200
+uh and then this final point that i
+
+285
+00:09:15,440 --> 00:09:19,360
+think gets to the nub of why
+
+286
+00:09:17,200 --> 00:09:21,200
+we don't use them more is that yeah
+
+287
+00:09:19,360 --> 00:09:23,040
+perimeters dynamic modelers
+
+288
+00:09:21,200 --> 00:09:24,880
+you know just don't talk to each other
+
+289
+00:09:23,040 --> 00:09:26,399
+um very much there's some notable
+
+290
+00:09:24,880 --> 00:09:29,600
+exceptions in the past so
+
+291
+00:09:26,399 --> 00:09:31,440
+um mcfadden michael hinney and merrell
+
+292
+00:09:29,600 --> 00:09:32,640
+um did some good work great work in the
+
+293
+00:09:31,440 --> 00:09:35,600
+90s and
+
+294
+00:09:32,640 --> 00:09:36,800
+um robco and gary glatzmeyer they've
+
+295
+00:09:35,600 --> 00:09:39,680
+done some work in the
+
+296
+00:09:36,800 --> 00:09:40,640
+uh and the naughties more recently um
+
+297
+00:09:39,680 --> 00:09:42,080
+but other than that
+
+298
+00:09:40,640 --> 00:09:44,000
+generally there's been a there's been a
+
+299
+00:09:42,080 --> 00:09:46,000
+gap between um
+
+300
+00:09:44,000 --> 00:09:47,360
+these two communities that we're trying
+
+301
+00:09:46,000 --> 00:09:48,480
+to trying to bridge
+
+302
+00:09:47,360 --> 00:09:51,680
+because there's some some really good
+
+303
+00:09:48,480 --> 00:09:53,200
+reasons to do that um
+
+304
+00:09:51,680 --> 00:09:55,120
+because over here we've got
+
+305
+00:09:53,200 --> 00:09:56,000
+paleomagnetic measurements so clearly
+
+306
+00:09:55,120 --> 00:09:58,000
+observations
+
+307
+00:09:56,000 --> 00:10:00,000
+of the real world but they have the
+
+308
+00:09:58,000 --> 00:10:02,320
+problems that
+
+309
+00:10:00,000 --> 00:10:03,760
+they're especially temporarily
+
+310
+00:10:02,320 --> 00:10:05,680
+restricted
+
+311
+00:10:03,760 --> 00:10:08,240
+and where the data can come from and
+
+312
+00:10:05,680 --> 00:10:08,240
+we've got the
+
+313
+00:10:08,560 --> 00:10:12,240
+error and bias associated with with the
+
+314
+00:10:10,480 --> 00:10:13,519
+measurement processes themselves and
+
+315
+00:10:12,240 --> 00:10:15,600
+recording processes
+
+316
+00:10:13,519 --> 00:10:16,959
+and over here geodynamic model outputs
+
+317
+00:10:15,600 --> 00:10:19,120
+so yep the
+
+318
+00:10:16,959 --> 00:10:20,320
+the you know predictions from a
+
+319
+00:10:19,120 --> 00:10:23,680
+simulated
+
+320
+00:10:20,320 --> 00:10:26,160
+um geodynamic process uh they give
+
+321
+00:10:23,680 --> 00:10:26,959
+you know perfect coverage so complete
+
+322
+00:10:26,160 --> 00:10:28,720
+global and
+
+323
+00:10:26,959 --> 00:10:31,040
+get them we tend to use one through the
+
+324
+00:10:28,720 --> 00:10:33,040
+time step of around 65 years
+
+325
+00:10:31,040 --> 00:10:34,320
+so that's a pretty high resolution
+
+326
+00:10:33,040 --> 00:10:36,560
+temporal resolution
+
+327
+00:10:34,320 --> 00:10:37,839
+um but of course we require constraints
+
+328
+00:10:36,560 --> 00:10:40,959
+and observations
+
+329
+00:10:37,839 --> 00:10:42,000
+so how can um these two areas help each
+
+330
+00:10:40,959 --> 00:10:44,480
+other well i've
+
+331
+00:10:42,000 --> 00:10:46,000
+kind of noted that down as a series of
+
+332
+00:10:44,480 --> 00:10:49,279
+research questions that are going to be
+
+333
+00:10:46,000 --> 00:10:53,040
+covered in the rest of this talk so
+
+334
+00:10:49,279 --> 00:10:55,440
+we have we can ask how realistic
+
+335
+00:10:53,040 --> 00:10:56,720
+these models are and what input
+
+336
+00:10:55,440 --> 00:10:59,279
+parameters
+
+337
+00:10:56,720 --> 00:11:00,320
+best produces realism and going the
+
+338
+00:10:59,279 --> 00:11:02,320
+other way what can the
+
+339
+00:11:00,320 --> 00:11:04,399
+how can the models help um our
+
+340
+00:11:02,320 --> 00:11:04,800
+measurements uh they can tell us about
+
+341
+00:11:04,399 --> 00:11:08,079
+the
+
+342
+00:11:04,800 --> 00:11:09,279
+ancient us um the magnetic field give us
+
+343
+00:11:08,079 --> 00:11:10,079
+more information than just our
+
+344
+00:11:09,279 --> 00:11:12,839
+measurements do
+
+345
+00:11:10,079 --> 00:11:14,320
+and about the uh the source of that as
+
+346
+00:11:12,839 --> 00:11:17,760
+well
+
+347
+00:11:14,320 --> 00:11:19,040
+okay so um
+
+348
+00:11:17,760 --> 00:11:20,800
+first question how realistic are the
+
+349
+00:11:19,040 --> 00:11:21,920
+models so when we first came to this we
+
+350
+00:11:20,800 --> 00:11:23,120
+thought this you know we're not the
+
+351
+00:11:21,920 --> 00:11:24,320
+first to think about this and we thought
+
+352
+00:11:23,120 --> 00:11:26,560
+this problem was solved
+
+353
+00:11:24,320 --> 00:11:28,720
+um because there are already criteria
+
+354
+00:11:26,560 --> 00:11:31,920
+out there um
+
+355
+00:11:28,720 --> 00:11:33,920
+so notably other christians criteria
+
+356
+00:11:31,920 --> 00:11:35,120
+from 2010 and these certainly there's a
+
+357
+00:11:33,920 --> 00:11:36,800
+whole bunch of models and they are
+
+358
+00:11:35,120 --> 00:11:38,079
+earth-like and they're all good but then
+
+359
+00:11:36,800 --> 00:11:39,279
+we looked at them
+
+360
+00:11:38,079 --> 00:11:40,959
+details started comparing them to
+
+361
+00:11:39,279 --> 00:11:42,800
+paleomagnetic datasets rather than just
+
+362
+00:11:40,959 --> 00:11:44,320
+stuff from the the recent field
+
+363
+00:11:42,800 --> 00:11:46,560
+and we found that there's a whole host
+
+364
+00:11:44,320 --> 00:11:47,920
+of problems which um
+
+365
+00:11:46,560 --> 00:11:50,399
+i've kind of listed here and i'll give
+
+366
+00:11:47,920 --> 00:11:51,920
+you some examples down here from one of
+
+367
+00:11:50,399 --> 00:11:53,600
+the early models we looked at so this
+
+368
+00:11:51,920 --> 00:11:57,040
+one you know it reverses
+
+369
+00:11:53,600 --> 00:11:58,720
+um great um this inclination normally is
+
+370
+00:11:57,040 --> 00:12:00,320
+huge you know 16 degrees
+
+371
+00:11:58,720 --> 00:12:02,240
+inclination anomaly so that would be a
+
+372
+00:12:00,320 --> 00:12:03,680
+real problem for uh plate tectonic
+
+373
+00:12:02,240 --> 00:12:04,079
+reconstructions there's no evidence of
+
+374
+00:12:03,680 --> 00:12:05,839
+sport
+
+375
+00:12:04,079 --> 00:12:08,000
+at least in the last 10 million years or
+
+376
+00:12:05,839 --> 00:12:09,600
+so and the other big problem we found
+
+377
+00:12:08,000 --> 00:12:10,240
+was that paleosecular variation was
+
+378
+00:12:09,600 --> 00:12:12,800
+often very
+
+379
+00:12:10,240 --> 00:12:14,399
+unearth-like so we'd expect vgp
+
+380
+00:12:12,800 --> 00:12:15,040
+dispersion angular dispersion to be
+
+381
+00:12:14,399 --> 00:12:16,480
+about
+
+382
+00:12:15,040 --> 00:12:17,839
+11 degrees or something that's what we
+
+383
+00:12:16,480 --> 00:12:19,040
+see for the last 10 million years and
+
+384
+00:12:17,839 --> 00:12:20,880
+here it's up in the
+
+385
+00:12:19,040 --> 00:12:22,240
+you know the mid-20s or something at low
+
+386
+00:12:20,880 --> 00:12:24,959
+latitude and
+
+387
+00:12:22,240 --> 00:12:26,880
+increasing with latitude as we do see so
+
+388
+00:12:24,959 --> 00:12:30,000
+we had this whole bunch of problems
+
+389
+00:12:26,880 --> 00:12:31,279
+uh with all our simulations so we built
+
+390
+00:12:30,000 --> 00:12:33,120
+up 46
+
+391
+00:12:31,279 --> 00:12:34,480
+and we wanted some way to say okay which
+
+392
+00:12:33,120 --> 00:12:34,800
+ones are more accurate than the others
+
+393
+00:12:34,480 --> 00:12:38,000
+and
+
+394
+00:12:34,800 --> 00:12:40,880
+how are they um inaccurate uh so
+
+395
+00:12:38,000 --> 00:12:43,360
+this was worked by um by courtney sprain
+
+396
+00:12:40,880 --> 00:12:45,760
+um she published this paper in 2009
+
+397
+00:12:43,360 --> 00:12:46,959
+on the qpm criteria so set of five
+
+398
+00:12:45,760 --> 00:12:47,760
+criteria i'm not going to go through
+
+399
+00:12:46,959 --> 00:12:50,800
+them all
+
+400
+00:12:47,760 --> 00:12:52,079
+um just to say you can see from this bar
+
+401
+00:12:50,800 --> 00:12:54,160
+chart over here
+
+402
+00:12:52,079 --> 00:12:55,440
+um that we've got a lot of big red
+
+403
+00:12:54,160 --> 00:12:57,200
+columns so
+
+404
+00:12:55,440 --> 00:12:58,480
+most of the models failed most of the
+
+405
+00:12:57,200 --> 00:13:00,240
+criteria
+
+406
+00:12:58,480 --> 00:13:02,079
+so you can have a maximum qpm score of
+
+407
+00:13:00,240 --> 00:13:03,279
+five if you're meeting all five but we
+
+408
+00:13:02,079 --> 00:13:04,880
+don't even go up to that on the scale
+
+409
+00:13:03,279 --> 00:13:07,920
+because none of them went above
+
+410
+00:13:04,880 --> 00:13:10,240
+three okay and the other question is is
+
+411
+00:13:07,920 --> 00:13:11,600
+this misfit so this is based on the
+
+412
+00:13:10,240 --> 00:13:14,880
+normalization
+
+413
+00:13:11,600 --> 00:13:17,120
+uh of the um the discrepancy in
+
+414
+00:13:14,880 --> 00:13:19,200
+uh the simulated and the reference
+
+415
+00:13:17,120 --> 00:13:20,399
+values but also taking into account the
+
+416
+00:13:19,200 --> 00:13:23,839
+uncertainties
+
+417
+00:13:20,399 --> 00:13:26,959
+as well and what we found
+
+418
+00:13:23,839 --> 00:13:27,680
+uh for these um is that we never got
+
+419
+00:13:26,959 --> 00:13:30,079
+below
+
+420
+00:13:27,680 --> 00:13:30,720
+this magic number of five which means
+
+421
+00:13:30,079 --> 00:13:32,800
+that we
+
+422
+00:13:30,720 --> 00:13:34,320
+yeah five is is a good number because
+
+423
+00:13:32,800 --> 00:13:38,399
+that means on average then
+
+424
+00:13:34,320 --> 00:13:40,720
+all of our criteria are within um errors
+
+425
+00:13:38,399 --> 00:13:41,680
+of one another uh so we scratched our
+
+426
+00:13:40,720 --> 00:13:45,279
+heads a little bit
+
+427
+00:13:41,680 --> 00:13:48,480
+and um went to work on this and
+
+428
+00:13:45,279 --> 00:13:49,760
+domenico midori uh liverpool
+
+429
+00:13:48,480 --> 00:13:51,920
+did some great work on this and the
+
+430
+00:13:49,760 --> 00:13:54,480
+first thing he found was
+
+431
+00:13:51,920 --> 00:13:55,760
+that we have this nice we tended when
+
+432
+00:13:54,480 --> 00:13:57,600
+you plot the models together you tend to
+
+433
+00:13:55,760 --> 00:13:59,360
+get this nice parabola shape
+
+434
+00:13:57,600 --> 00:14:02,079
+in this space where you've got the qpm
+
+435
+00:13:59,360 --> 00:14:04,880
+misfit here with five as magic number
+
+436
+00:14:02,079 --> 00:14:06,720
+down here uh against the die polarity so
+
+437
+00:14:04,880 --> 00:14:08,160
+how much does a dipole dominate at the
+
+438
+00:14:06,720 --> 00:14:11,199
+core mantle boundary
+
+439
+00:14:08,160 --> 00:14:12,880
+and where these things dipped uh to
+
+440
+00:14:11,199 --> 00:14:14,560
+their lowest misfit to the most
+
+441
+00:14:12,880 --> 00:14:16,399
+realistic models was also
+
+442
+00:14:14,560 --> 00:14:18,240
+a roundabout within areas of where
+
+443
+00:14:16,399 --> 00:14:20,880
+earth-like models were predicting
+
+444
+00:14:18,240 --> 00:14:23,040
+uh of where sorry um descriptive field
+
+445
+00:14:20,880 --> 00:14:25,920
+models were predicting the dipolarity
+
+446
+00:14:23,040 --> 00:14:26,800
+uh to be as well but a lot of models
+
+447
+00:14:25,920 --> 00:14:30,240
+never really got
+
+448
+00:14:26,800 --> 00:14:31,680
+never got close to this this um this
+
+449
+00:14:30,240 --> 00:14:35,279
+magic line of
+
+450
+00:14:31,680 --> 00:14:35,839
+five um and what we actually found was
+
+451
+00:14:35,279 --> 00:14:38,800
+that it
+
+452
+00:14:35,839 --> 00:14:40,480
+it required then to go to chemical
+
+453
+00:14:38,800 --> 00:14:41,680
+chemically forced models so models
+
+454
+00:14:40,480 --> 00:14:43,120
+purely driven
+
+455
+00:14:41,680 --> 00:14:44,720
+by the growth of the inner core and the
+
+456
+00:14:43,120 --> 00:14:46,800
+release of light elements there rather
+
+457
+00:14:44,720 --> 00:14:48,880
+than by thermal convection
+
+458
+00:14:46,800 --> 00:14:50,320
+um but once we did that then we did find
+
+459
+00:14:48,880 --> 00:14:52,800
+some models that did dip in
+
+460
+00:14:50,320 --> 00:14:54,240
+into this area um we didn't find
+
+461
+00:14:52,800 --> 00:14:56,320
+anything that was absolutely perfect
+
+462
+00:14:54,240 --> 00:14:59,360
+with a qpm of five but we did get to a
+
+463
+00:14:56,320 --> 00:15:02,240
+misfit of about two and a half
+
+464
+00:14:59,360 --> 00:15:02,959
+um so this is our model with the lowest
+
+465
+00:15:02,240 --> 00:15:06,160
+misfit
+
+466
+00:15:02,959 --> 00:15:07,920
+and where it falls down um in terms of
+
+467
+00:15:06,160 --> 00:15:09,279
+failing criteria is it doesn't reverse
+
+468
+00:15:07,920 --> 00:15:10,480
+quite enough so you can see it's got a
+
+469
+00:15:09,279 --> 00:15:13,199
+nice earth like
+
+470
+00:15:10,480 --> 00:15:14,720
+reversal in there and excursions but
+
+471
+00:15:13,199 --> 00:15:16,720
+they're just not frequent enough to
+
+472
+00:15:14,720 --> 00:15:17,920
+uh to represent the last 10 million
+
+473
+00:15:16,720 --> 00:15:19,600
+years
+
+474
+00:15:17,920 --> 00:15:21,199
+okay now an interesting we've got a nice
+
+475
+00:15:19,600 --> 00:15:22,720
+dipolar shape and we've got this
+
+476
+00:15:21,199 --> 00:15:25,839
+variability in
+
+477
+00:15:22,720 --> 00:15:27,279
+dipole moment that appears earth
+
+478
+00:15:25,839 --> 00:15:29,759
+uh now an interesting observation to
+
+479
+00:15:27,279 --> 00:15:32,959
+make from this is that if you take
+
+480
+00:15:29,759 --> 00:15:34,320
+th this model and you just you you
+
+481
+00:15:32,959 --> 00:15:35,600
+change nothing about it apart from the
+
+482
+00:15:34,320 --> 00:15:36,639
+rayleigh number you force it a little
+
+483
+00:15:35,600 --> 00:15:39,360
+bit harder you change the rayleigh
+
+484
+00:15:36,639 --> 00:15:40,000
+number 4.6 to 1.8 times 10 to the 7 so
+
+485
+00:15:39,360 --> 00:15:42,079
+that's
+
+486
+00:15:40,000 --> 00:15:43,600
+just sucking the heat out of the core a
+
+487
+00:15:42,079 --> 00:15:44,880
+little bit faster allowing the unicorn
+
+488
+00:15:43,600 --> 00:15:46,160
+to grow a bit faster
+
+489
+00:15:44,880 --> 00:15:47,839
+and suddenly you've got a completely
+
+490
+00:15:46,160 --> 00:15:49,120
+different model that's now got reversal
+
+491
+00:15:47,839 --> 00:15:50,720
+hyperactivity
+
+492
+00:15:49,120 --> 00:15:52,800
+uh in there it's looking a lot less
+
+493
+00:15:50,720 --> 00:15:54,160
+dipolar and it's looking a lot weaker as
+
+494
+00:15:52,800 --> 00:15:55,519
+well so this is really
+
+495
+00:15:54,160 --> 00:15:58,800
+supporting that you don't need to do
+
+496
+00:15:55,519 --> 00:16:03,040
+much to the geodynamo to make it
+
+497
+00:15:58,800 --> 00:16:07,279
+change its behavior quite radically um
+
+498
+00:16:03,040 --> 00:16:09,839
+okay so we got to uh to near enough our
+
+499
+00:16:07,279 --> 00:16:11,120
+most earth-like model um but that's not
+
+500
+00:16:09,839 --> 00:16:12,880
+to say that all the ones that weren't
+
+501
+00:16:11,120 --> 00:16:13,600
+earth-like weren't also really useful
+
+502
+00:16:12,880 --> 00:16:16,880
+for us
+
+503
+00:16:13,600 --> 00:16:19,199
+um so one thing that richard bono
+
+504
+00:16:16,880 --> 00:16:20,399
+um worked on was looking at all the
+
+505
+00:16:19,199 --> 00:16:23,360
+models and finding
+
+506
+00:16:20,399 --> 00:16:24,560
+that they all contained um or a large
+
+507
+00:16:23,360 --> 00:16:27,279
+number of them contain
+
+508
+00:16:24,560 --> 00:16:27,759
+systematic um covariance between
+
+509
+00:16:27,279 --> 00:16:30,160
+different
+
+510
+00:16:27,759 --> 00:16:31,759
+spherical harmonic terms within them so
+
+511
+00:16:30,160 --> 00:16:33,839
+for example this first what this first
+
+512
+00:16:31,759 --> 00:16:34,480
+column is showing is that to increase g1
+
+513
+00:16:33,839 --> 00:16:37,600
+0
+
+514
+00:16:34,480 --> 00:16:40,480
+you also tend to increase g30 the axial
+
+515
+00:16:37,600 --> 00:16:41,759
+octopole goes with the axial dipole now
+
+516
+00:16:40,480 --> 00:16:43,199
+the reason this was interesting is
+
+517
+00:16:41,759 --> 00:16:44,000
+because our statistical field models at
+
+518
+00:16:43,199 --> 00:16:45,600
+the moment
+
+519
+00:16:44,000 --> 00:16:47,440
+from something called a giant gaussian
+
+520
+00:16:45,600 --> 00:16:49,120
+process where all these terms
+
+521
+00:16:47,440 --> 00:16:50,800
+act completely independently of each
+
+522
+00:16:49,120 --> 00:16:51,199
+other and the dynamo models were saying
+
+523
+00:16:50,800 --> 00:16:52,800
+well
+
+524
+00:16:51,199 --> 00:16:54,880
+you know that's actually not what's
+
+525
+00:16:52,800 --> 00:16:57,199
+happening in at least you know
+
+526
+00:16:54,880 --> 00:16:59,519
+in these simulations uh so what richard
+
+527
+00:16:57,199 --> 00:17:03,279
+did then was try to incorporate this
+
+528
+00:16:59,519 --> 00:17:05,919
+this covariance into a giant gaussian
+
+529
+00:17:03,279 --> 00:17:07,360
+process model and what he found was that
+
+530
+00:17:05,919 --> 00:17:10,959
+the resulting uh
+
+531
+00:17:07,360 --> 00:17:13,120
+um fit to data improved
+
+532
+00:17:10,959 --> 00:17:14,400
+quite markedly so what are our
+
+533
+00:17:13,120 --> 00:17:16,959
+measurements telling us
+
+534
+00:17:14,400 --> 00:17:18,160
+well perhaps that the um the earth also
+
+535
+00:17:16,959 --> 00:17:19,360
+has this covariance between these
+
+536
+00:17:18,160 --> 00:17:20,880
+different terms and that's telling us
+
+537
+00:17:19,360 --> 00:17:23,199
+something about the structures
+
+538
+00:17:20,880 --> 00:17:25,039
+um of the that are generating the
+
+539
+00:17:23,199 --> 00:17:27,199
+magnetic field
+
+540
+00:17:25,039 --> 00:17:28,400
+so another aspect that was really useful
+
+541
+00:17:27,199 --> 00:17:30,480
+it's up there andy you're
+
+542
+00:17:28,400 --> 00:17:31,520
+you're a good you're a few couple of
+
+543
+00:17:30,480 --> 00:17:33,120
+minutes left there
+
+544
+00:17:31,520 --> 00:17:34,720
+couple of minutes left okay i'll i'll
+
+545
+00:17:33,120 --> 00:17:36,160
+wrap up so this is just pointing another
+
+546
+00:17:34,720 --> 00:17:39,440
+paper that's very recently
+
+547
+00:17:36,160 --> 00:17:42,240
+um accepted um which was
+
+548
+00:17:39,440 --> 00:17:43,679
+yeah linking um the shape of the field
+
+549
+00:17:42,240 --> 00:17:46,799
+to its variability
+
+550
+00:17:43,679 --> 00:17:47,840
+um so what we found was that as you you
+
+551
+00:17:46,799 --> 00:17:50,640
+vary the field
+
+552
+00:17:47,840 --> 00:17:51,679
+um as sorry as the field becomes more
+
+553
+00:17:50,640 --> 00:17:54,320
+variable
+
+554
+00:17:51,679 --> 00:17:56,480
+then you see that it's it becomes less
+
+555
+00:17:54,320 --> 00:17:56,960
+uh dominated by an axial dipole it looks
+
+556
+00:17:56,480 --> 00:18:00,640
+less
+
+557
+00:17:56,960 --> 00:18:01,840
+like a bar magnet and this was really
+
+558
+00:18:00,640 --> 00:18:04,880
+interesting because
+
+559
+00:18:01,840 --> 00:18:08,000
+we don't have any measurements of axial
+
+560
+00:18:04,880 --> 00:18:09,520
+dipole dominance from before um a few
+
+561
+00:18:08,000 --> 00:18:11,760
+million years ago whereas we have
+
+562
+00:18:09,520 --> 00:18:14,400
+measurements of paleosecular variation
+
+563
+00:18:11,760 --> 00:18:15,120
+back to billions of years ago and got a
+
+564
+00:18:14,400 --> 00:18:17,440
+nice
+
+565
+00:18:15,120 --> 00:18:19,360
+power law predictive power law that came
+
+566
+00:18:17,440 --> 00:18:21,840
+out from all our simulations and from
+
+567
+00:18:19,360 --> 00:18:23,280
+field models as well uh so we're able to
+
+568
+00:18:21,840 --> 00:18:26,720
+say something about the
+
+569
+00:18:23,280 --> 00:18:27,360
+um about how dipole uh axial dipole
+
+570
+00:18:26,720 --> 00:18:29,600
+dominance
+
+571
+00:18:27,360 --> 00:18:30,880
+has uh has changed through geological
+
+572
+00:18:29,600 --> 00:18:34,400
+history and
+
+573
+00:18:30,880 --> 00:18:35,840
+uh the big um uh the key point to emerge
+
+574
+00:18:34,400 --> 00:18:38,720
+from that is not very much
+
+575
+00:18:35,840 --> 00:18:40,000
+so the field didn't often look like this
+
+576
+00:18:38,720 --> 00:18:42,000
+or like this
+
+577
+00:18:40,000 --> 00:18:43,600
+in actual fact it spent most of its time
+
+578
+00:18:42,000 --> 00:18:46,480
+looking like this which is igrf all
+
+579
+00:18:43,600 --> 00:18:48,960
+right which is today's field
+
+580
+00:18:46,480 --> 00:18:50,880
+okay so something else that's told us so
+
+581
+00:18:48,960 --> 00:18:53,679
+just a quick future application
+
+582
+00:18:50,880 --> 00:18:55,360
+um so just to point out that we've been
+
+583
+00:18:53,679 --> 00:18:56,480
+also been doing a huge amount of work at
+
+584
+00:18:55,360 --> 00:18:58,400
+liverpool on
+
+585
+00:18:56,480 --> 00:18:59,760
+measuring um the properties of the
+
+586
+00:18:58,400 --> 00:19:00,799
+paleomagnetic field back through
+
+587
+00:18:59,760 --> 00:19:03,280
+geological time
+
+588
+00:19:00,799 --> 00:19:04,160
+and uh these yellow points show our
+
+589
+00:19:03,280 --> 00:19:07,520
+efforts at
+
+590
+00:19:04,160 --> 00:19:09,360
+um increasing the number of estimates of
+
+591
+00:19:07,520 --> 00:19:10,799
+dipole moment through geological time in
+
+592
+00:19:09,360 --> 00:19:13,840
+the last five years
+
+593
+00:19:10,799 --> 00:19:15,360
+and uh what we've outlined are um yeah
+
+594
+00:19:13,840 --> 00:19:16,080
+it's two periods in particular where the
+
+595
+00:19:15,360 --> 00:19:17,280
+field was
+
+596
+00:19:16,080 --> 00:19:19,360
+appears to be radically different in
+
+597
+00:19:17,280 --> 00:19:22,720
+that is much weaker um
+
+598
+00:19:19,360 --> 00:19:24,080
+than today um so you know a big question
+
+599
+00:19:22,720 --> 00:19:26,240
+of how we go forward
+
+600
+00:19:24,080 --> 00:19:28,160
+uh with with dynamo models is can we
+
+601
+00:19:26,240 --> 00:19:30,000
+capture this behavior like we have done
+
+602
+00:19:28,160 --> 00:19:32,880
+for the last 10 million years as well
+
+603
+00:19:30,000 --> 00:19:34,640
+okay and if we can then knowing how we
+
+604
+00:19:32,880 --> 00:19:37,919
+have to perturb our present day model
+
+605
+00:19:34,640 --> 00:19:39,280
+to um to simulate a field looking like
+
+606
+00:19:37,919 --> 00:19:40,880
+these we might be able to say something
+
+607
+00:19:39,280 --> 00:19:43,200
+about how the physical properties
+
+608
+00:19:40,880 --> 00:19:44,400
+of the deep earth have um have changed
+
+609
+00:19:43,200 --> 00:19:46,400
+over time
+
+610
+00:19:44,400 --> 00:19:49,919
+okay so i'm out of time so i'll just
+
+611
+00:19:46,400 --> 00:19:49,919
+leave my summary slide up there thank
+
+612
+00:19:50,840 --> 00:19:54,880
+you
+
+613
+00:19:52,559 --> 00:19:54,880
+oh
+

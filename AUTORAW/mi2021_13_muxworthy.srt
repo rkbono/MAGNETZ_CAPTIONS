@@ -1,0 +1,2444 @@
+1
+00:00:00,480 --> 00:00:05,440
+uh let's talk first paleomagnetic data
+
+2
+00:00:03,760 --> 00:00:08,799
+from the
+
+3
+00:00:05,440 --> 00:00:08,799
+bleismeier darlor
+
+4
+00:00:09,040 --> 00:00:13,679
+exactly just what i said so when you're
+
+5
+00:00:11,440 --> 00:00:15,759
+ready there adrian take it away
+
+6
+00:00:13,679 --> 00:00:17,680
+uh thank you conor hopefully you can all
+
+7
+00:00:15,759 --> 00:00:20,880
+see my my screen there
+
+8
+00:00:17,680 --> 00:00:22,320
+so this is work that was done with uh
+
+9
+00:00:20,880 --> 00:00:24,000
+morton resources and now at the
+
+10
+00:00:22,320 --> 00:00:25,680
+ferrari's geological survey and connell
+
+11
+00:00:24,000 --> 00:00:28,960
+who's just been speaking
+
+12
+00:00:25,680 --> 00:00:29,679
+um there was a number of uh summer
+
+13
+00:00:28,960 --> 00:00:31,599
+students
+
+14
+00:00:29,679 --> 00:00:33,760
+imperial so stefan mathia and hassan
+
+15
+00:00:31,599 --> 00:00:35,440
+who's now doing his phd at uh
+
+16
+00:00:33,760 --> 00:00:37,360
+cambridge who helped all the
+
+17
+00:00:35,440 --> 00:00:40,480
+measurements plus uh
+
+18
+00:00:37,360 --> 00:00:42,800
+an m i think it's ms or msi
+
+19
+00:00:40,480 --> 00:00:44,640
+student at in oxford called carrie who
+
+20
+00:00:42,800 --> 00:00:47,760
+also help with the measurements
+
+21
+00:00:44,640 --> 00:00:49,120
+um so why did we go to
+
+22
+00:00:47,760 --> 00:00:52,239
+northern iceland and collect some
+
+23
+00:00:49,120 --> 00:00:54,160
+samples and what was the point so
+
+24
+00:00:52,239 --> 00:00:55,760
+let's just go back and have a look at
+
+25
+00:00:54,160 --> 00:00:57,520
+paleomountains and 101
+
+26
+00:00:55,760 --> 00:00:59,359
+um one of the things you first learn
+
+27
+00:00:57,520 --> 00:01:02,079
+when you do paleomagnetism is the idea
+
+28
+00:00:59,359 --> 00:01:04,080
+that the magnetic inclination we measure
+
+29
+00:01:02,079 --> 00:01:05,680
+uh tells you about the paleo latitude so
+
+30
+00:01:04,080 --> 00:01:06,720
+tan i equals two time land and we all
+
+31
+00:01:05,680 --> 00:01:08,960
+know that
+
+32
+00:01:06,720 --> 00:01:10,560
+and this is based on the assumption if
+
+33
+00:01:08,960 --> 00:01:12,240
+we average the geomagnetic field over a
+
+34
+00:01:10,560 --> 00:01:14,000
+long enough period of time
+
+35
+00:01:12,240 --> 00:01:15,920
+um we end up with something called the
+
+36
+00:01:14,000 --> 00:01:17,680
+geocentric axle dipole so we essentially
+
+37
+00:01:15,920 --> 00:01:19,360
+have a dipole field
+
+38
+00:01:17,680 --> 00:01:20,960
+which is aligned with the rotation axis
+
+39
+00:01:19,360 --> 00:01:23,600
+and hopefully everyone who's in the
+
+40
+00:01:20,960 --> 00:01:25,360
+audience should be familiar with this
+
+41
+00:01:23,600 --> 00:01:27,280
+now the question is how long do you have
+
+42
+00:01:25,360 --> 00:01:30,560
+to average the field so
+
+43
+00:01:27,280 --> 00:01:31,600
+here's uh some some different uh periods
+
+44
+00:01:30,560 --> 00:01:34,320
+of being
+
+45
+00:01:31,600 --> 00:01:35,600
+of averaging so in figure a we have up
+
+46
+00:01:34,320 --> 00:01:37,520
+here we have
+
+47
+00:01:35,600 --> 00:01:38,960
+historical data and you can see we don't
+
+48
+00:01:37,520 --> 00:01:40,960
+quite have the guard
+
+49
+00:01:38,960 --> 00:01:42,560
+is what we expect to be the proper guard
+
+50
+00:01:40,960 --> 00:01:44,000
+field and we don't
+
+51
+00:01:42,560 --> 00:01:45,920
+quite have the guard here if we go from
+
+52
+00:01:44,000 --> 00:01:49,040
+zero to seven thousand years
+
+53
+00:01:45,920 --> 00:01:51,280
+again it doesn't quite match match this
+
+54
+00:01:49,040 --> 00:01:53,280
+and if we go over a longer period of
+
+55
+00:01:51,280 --> 00:01:54,720
+time so and work by katherine johnson
+
+56
+00:01:53,280 --> 00:01:56,880
+and catholic constable
+
+57
+00:01:54,720 --> 00:01:58,799
+they looked at a period of five million
+
+58
+00:01:56,880 --> 00:02:00,479
+years then again you can see it doesn't
+
+59
+00:01:58,799 --> 00:02:03,439
+quite match up with the
+
+60
+00:02:00,479 --> 00:02:04,240
+with the gadfield and if we have a look
+
+61
+00:02:03,439 --> 00:02:08,000
+at this
+
+62
+00:02:04,240 --> 00:02:10,720
+in a little bit more detail um
+
+63
+00:02:08,000 --> 00:02:12,879
+so this is now looking at the deviation
+
+64
+00:02:10,720 --> 00:02:15,440
+from the gad field as a function
+
+65
+00:02:12,879 --> 00:02:16,160
+of latitude this is for directional data
+
+66
+00:02:15,440 --> 00:02:18,080
+so
+
+67
+00:02:16,160 --> 00:02:19,840
+it's just deviation so that a perfect
+
+68
+00:02:18,080 --> 00:02:21,280
+guide field would be plotting the data
+
+69
+00:02:19,840 --> 00:02:22,239
+should be plotting along this line in
+
+70
+00:02:21,280 --> 00:02:24,000
+the middle
+
+71
+00:02:22,239 --> 00:02:25,760
+and you can see that it seems to deviate
+
+72
+00:02:24,000 --> 00:02:28,879
+as a function of latitude
+
+73
+00:02:25,760 --> 00:02:30,560
+um and we have to fit components
+
+74
+00:02:28,879 --> 00:02:34,560
+permanent components of
+
+75
+00:02:30,560 --> 00:02:36,160
+um of uh quadrupole and optical
+
+76
+00:02:34,560 --> 00:02:37,840
+components down here six or
+
+77
+00:02:36,160 --> 00:02:39,920
+three percent to get the directional
+
+78
+00:02:37,840 --> 00:02:44,000
+data to align
+
+79
+00:02:39,920 --> 00:02:46,319
+uh to accommodate this data um
+
+80
+00:02:44,000 --> 00:02:48,959
+i presented some of this data at a
+
+81
+00:02:46,319 --> 00:02:51,280
+meeting in cape town 2017 it was one of
+
+82
+00:02:48,959 --> 00:02:52,480
+these sessions that was combined
+
+83
+00:02:51,280 --> 00:02:56,319
+modelers
+
+84
+00:02:52,480 --> 00:02:58,560
+and um and data people
+
+85
+00:02:56,319 --> 00:02:59,519
+and i presented the data and data didn't
+
+86
+00:02:58,560 --> 00:03:01,760
+agree with their
+
+87
+00:02:59,519 --> 00:03:03,680
+theory and i was told the data was wrong
+
+88
+00:03:01,760 --> 00:03:05,200
+which i think was
+
+89
+00:03:03,680 --> 00:03:06,400
+i didn't really agree with the time
+
+90
+00:03:05,200 --> 00:03:08,000
+because you know the model should follow
+
+91
+00:03:06,400 --> 00:03:10,159
+the data not the other way
+
+92
+00:03:08,000 --> 00:03:12,879
+right so that's the directional data but
+
+93
+00:03:10,159 --> 00:03:15,040
+if we look at the paleo intensity data
+
+94
+00:03:12,879 --> 00:03:16,560
+that the deviation is even bigger so
+
+95
+00:03:15,040 --> 00:03:18,560
+here we have in this
+
+96
+00:03:16,560 --> 00:03:20,640
+figure here we have the again we have
+
+97
+00:03:18,560 --> 00:03:22,640
+the bin data it's been folded around so
+
+98
+00:03:20,640 --> 00:03:25,519
+suddenly the northern hemisphere data
+
+99
+00:03:22,640 --> 00:03:26,560
+is combined together and we have the
+
+100
+00:03:25,519 --> 00:03:29,440
+green points here
+
+101
+00:03:26,560 --> 00:03:30,560
+are the uh of the data and to try and
+
+102
+00:03:29,440 --> 00:03:31,920
+get anything to sort of
+
+103
+00:03:30,560 --> 00:03:33,440
+so here we have gray line we have the
+
+104
+00:03:31,920 --> 00:03:34,799
+dipole models this is what we would
+
+105
+00:03:33,440 --> 00:03:36,400
+expect we'd expect it to
+
+106
+00:03:34,799 --> 00:03:38,319
+the intensity to increase from the
+
+107
+00:03:36,400 --> 00:03:42,640
+equator up to
+
+108
+00:03:38,319 --> 00:03:44,239
+um up to the uh northern latitudes
+
+109
+00:03:42,640 --> 00:03:46,640
+and if you look at the data which is
+
+110
+00:03:44,239 --> 00:03:48,879
+which is for the last five million years
+
+111
+00:03:46,640 --> 00:03:50,319
+uh collected from the pint uh database
+
+112
+00:03:48,879 --> 00:03:50,879
+which andy biggin and the guys in
+
+113
+00:03:50,319 --> 00:03:54,080
+liverpool
+
+114
+00:03:50,879 --> 00:03:57,200
+um very kindly administered for the
+
+115
+00:03:54,080 --> 00:03:58,239
+for the entire community um you can see
+
+116
+00:03:57,200 --> 00:03:59,840
+that the
+
+117
+00:03:58,239 --> 00:04:01,680
+we don't get that trend we kind of get
+
+118
+00:03:59,840 --> 00:04:03,040
+something that comes kind of
+
+119
+00:04:01,680 --> 00:04:05,439
+sort of increases and then a very high
+
+120
+00:04:03,040 --> 00:04:08,879
+latitude it seems to go down
+
+121
+00:04:05,439 --> 00:04:10,640
+um now one of the one of the complaints
+
+122
+00:04:08,879 --> 00:04:12,000
+up against the period intensity data is
+
+123
+00:04:10,640 --> 00:04:13,680
+there isn't that much of it especially
+
+124
+00:04:12,000 --> 00:04:14,000
+at high latitudes there's a lot of data
+
+125
+00:04:13,680 --> 00:04:16,720
+here
+
+126
+00:04:14,000 --> 00:04:17,359
+so this great this green band here shows
+
+127
+00:04:16,720 --> 00:04:19,359
+you
+
+128
+00:04:17,359 --> 00:04:20,959
+the sort of error on these estimates and
+
+129
+00:04:19,359 --> 00:04:22,400
+you can see that there's a lot of
+
+130
+00:04:20,959 --> 00:04:24,000
+very narrow bands here and the reason
+
+131
+00:04:22,400 --> 00:04:24,560
+for this is because this is where hawaii
+
+132
+00:04:24,000 --> 00:04:26,400
+is and
+
+133
+00:04:24,560 --> 00:04:28,320
+people like to go to hawaii and sample
+
+134
+00:04:26,400 --> 00:04:29,600
+the rocks there but
+
+135
+00:04:28,320 --> 00:04:31,520
+to go to other latitudes you can see
+
+136
+00:04:29,600 --> 00:04:33,440
+there's quite large errors and
+
+137
+00:04:31,520 --> 00:04:34,560
+one of the complaints of them the
+
+138
+00:04:33,440 --> 00:04:36,160
+modelers have said well you're the
+
+139
+00:04:34,560 --> 00:04:37,600
+reasons your data doesn't fit the model
+
+140
+00:04:36,160 --> 00:04:38,560
+is because you haven't got enough data
+
+141
+00:04:37,600 --> 00:04:40,080
+points
+
+142
+00:04:38,560 --> 00:04:42,400
+and so this is particularly interesting
+
+143
+00:04:40,080 --> 00:04:44,720
+at high latitudes um
+
+144
+00:04:42,400 --> 00:04:46,479
+and paleo intensity data is particularly
+
+145
+00:04:44,720 --> 00:04:48,720
+sensitive at high latitude so here's a
+
+146
+00:04:46,479 --> 00:04:51,759
+figure from catherine constable
+
+147
+00:04:48,720 --> 00:04:53,440
+where she when in this figure if we have
+
+148
+00:04:51,759 --> 00:04:55,840
+these different sampling points we have
+
+149
+00:04:53,440 --> 00:04:57,440
+a look we have an equator a mid-latitude
+
+150
+00:04:55,840 --> 00:04:59,280
+and a high latitude depending on what
+
+151
+00:04:57,440 --> 00:05:04,000
+parameter we're looking at declination
+
+152
+00:04:59,280 --> 00:05:06,960
+inclination or the intensity um
+
+153
+00:05:04,000 --> 00:05:08,160
+depending on that when we project the
+
+154
+00:05:06,960 --> 00:05:09,919
+sampling
+
+155
+00:05:08,160 --> 00:05:10,800
+area of the at the core mental boundary
+
+156
+00:05:09,919 --> 00:05:12,639
+of the field that we're actually
+
+157
+00:05:10,800 --> 00:05:13,840
+sampling project down onto the commental
+
+158
+00:05:12,639 --> 00:05:14,960
+boundary from what we're measuring on
+
+159
+00:05:13,840 --> 00:05:17,440
+the surface
+
+160
+00:05:14,960 --> 00:05:19,360
+you can see that the intensity data when
+
+161
+00:05:17,440 --> 00:05:20,880
+we measure high latitude is really
+
+162
+00:05:19,360 --> 00:05:22,479
+sampling a very
+
+163
+00:05:20,880 --> 00:05:24,479
+high latitude data whereas if you look
+
+164
+00:05:22,479 --> 00:05:26,479
+at the um
+
+165
+00:05:24,479 --> 00:05:28,160
+it's affected by this region here so
+
+166
+00:05:26,479 --> 00:05:29,199
+we're actually if we measure the
+
+167
+00:05:28,160 --> 00:05:32,800
+insulation that
+
+168
+00:05:29,199 --> 00:05:34,720
+in iceland say then we're actually
+
+169
+00:05:32,800 --> 00:05:37,440
+being affected by this large area here
+
+170
+00:05:34,720 --> 00:05:39,840
+of the field where it's generated
+
+171
+00:05:37,440 --> 00:05:40,800
+and the declination is even even worse
+
+172
+00:05:39,840 --> 00:05:43,440
+so you really lose
+
+173
+00:05:40,800 --> 00:05:43,919
+the intensity data is the most sensitive
+
+174
+00:05:43,440 --> 00:05:47,680
+to
+
+175
+00:05:43,919 --> 00:05:49,840
+to high latitudes variations of the
+
+176
+00:05:47,680 --> 00:05:53,840
+field
+
+177
+00:05:49,840 --> 00:05:56,960
+so we wanted to locality
+
+178
+00:05:53,840 --> 00:05:58,720
+with high latitudes uh lots of
+
+179
+00:05:56,960 --> 00:06:01,039
+continuous lava sequence and something
+
+180
+00:05:58,720 --> 00:06:02,160
+that's relatively new modern so if we
+
+181
+00:06:01,039 --> 00:06:03,840
+we want something where we can
+
+182
+00:06:02,160 --> 00:06:05,520
+essentially ignore plate tectonics so
+
+183
+00:06:03,840 --> 00:06:07,120
+iceland is the perfect locality and it's
+
+184
+00:06:05,520 --> 00:06:08,560
+a very simple geology you have a sort of
+
+185
+00:06:07,120 --> 00:06:10,000
+spreading ridge down the middle
+
+186
+00:06:08,560 --> 00:06:12,240
+the further you get away from that the
+
+187
+00:06:10,000 --> 00:06:15,840
+older the rocks get so this is nice
+
+188
+00:06:12,240 --> 00:06:16,400
+simple geology um so we decided to go
+
+189
+00:06:15,840 --> 00:06:19,680
+there and
+
+190
+00:06:16,400 --> 00:06:21,199
+sample some rocks now you can't mention
+
+191
+00:06:19,680 --> 00:06:23,280
+field work in iceland without mentioning
+
+192
+00:06:21,199 --> 00:06:24,240
+leo christensen who unfortunately died
+
+193
+00:06:23,280 --> 00:06:27,600
+earlier last year
+
+194
+00:06:24,240 --> 00:06:29,280
+from from cancer um he just retired
+
+195
+00:06:27,600 --> 00:06:30,639
+that's really quite tragic well not just
+
+196
+00:06:29,280 --> 00:06:31,280
+retired but he'd retired a few years
+
+197
+00:06:30,639 --> 00:06:33,039
+before but
+
+198
+00:06:31,280 --> 00:06:34,639
+he was still quite young as that was
+
+199
+00:06:33,039 --> 00:06:37,600
+quite tragic um
+
+200
+00:06:34,639 --> 00:06:39,600
+now leo has done amazing field work in
+
+201
+00:06:37,600 --> 00:06:40,720
+iceland he spent the last 40 years going
+
+202
+00:06:39,600 --> 00:06:42,800
+everywhere and we've been to some of the
+
+203
+00:06:40,720 --> 00:06:44,479
+localities that he's been to and
+
+204
+00:06:42,800 --> 00:06:48,080
+they really are quite hard to get to so
+
+205
+00:06:44,479 --> 00:06:51,199
+he's really a great field geologist but
+
+206
+00:06:48,080 --> 00:06:51,599
+leo never really liked paleo intensity
+
+207
+00:06:51,199 --> 00:06:52,800
+work
+
+208
+00:06:51,599 --> 00:06:54,080
+he didn't really believe in pearly
+
+209
+00:06:52,800 --> 00:06:54,800
+intensities i thought he didn't work
+
+210
+00:06:54,080 --> 00:06:56,800
+very well so
+
+211
+00:06:54,800 --> 00:06:58,720
+all the work samples that he's collected
+
+212
+00:06:56,800 --> 00:07:00,720
+and done the literally thousands of
+
+213
+00:06:58,720 --> 00:07:02,639
+sites that he's sampled he's always
+
+214
+00:07:00,720 --> 00:07:03,440
+focused on directional data whereas we
+
+215
+00:07:02,639 --> 00:07:06,400
+think
+
+216
+00:07:03,440 --> 00:07:08,080
+the intensity data is actually more
+
+217
+00:07:06,400 --> 00:07:10,240
+helpful in this case so
+
+218
+00:07:08,080 --> 00:07:12,240
+while there's a wealth of data for
+
+219
+00:07:10,240 --> 00:07:14,840
+iceland there isn't actually that much
+
+220
+00:07:12,240 --> 00:07:17,680
+paleo intensity data
+
+221
+00:07:14,840 --> 00:07:20,400
+so several years ago
+
+222
+00:07:17,680 --> 00:07:21,680
+with colleagues martin connell and also
+
+223
+00:07:20,400 --> 00:07:25,280
+audi dussing from
+
+224
+00:07:21,680 --> 00:07:27,759
+dtu in denmark we started sampling
+
+225
+00:07:25,280 --> 00:07:29,199
+various locations in iceland so we
+
+226
+00:07:27,759 --> 00:07:30,960
+started off here
+
+227
+00:07:29,199 --> 00:07:32,319
+in east iceland and we published a
+
+228
+00:07:30,960 --> 00:07:35,520
+couple of papers down here
+
+229
+00:07:32,319 --> 00:07:35,759
+on the work there we did a phd project
+
+230
+00:07:35,520 --> 00:07:39,120
+in
+
+231
+00:07:35,759 --> 00:07:40,880
+in central iceland here with a student a
+
+232
+00:07:39,120 --> 00:07:42,800
+come still yet to publish that
+
+233
+00:07:40,880 --> 00:07:44,319
+data unfortunately we took a long time
+
+234
+00:07:42,800 --> 00:07:45,840
+to get the organ dates so that's why
+
+235
+00:07:44,319 --> 00:07:49,120
+he's been a bit of a delay in
+
+236
+00:07:45,840 --> 00:07:50,720
+getting getting that published um
+
+237
+00:07:49,120 --> 00:07:52,319
+but what we wanted to do as part of this
+
+238
+00:07:50,720 --> 00:07:54,960
+study was to try and tie up
+
+239
+00:07:52,319 --> 00:07:56,560
+the the a to get some continuous
+
+240
+00:07:54,960 --> 00:07:57,599
+sequence so we wanted to tie up the
+
+241
+00:07:56,560 --> 00:07:59,520
+sequence with the
+
+242
+00:07:57,599 --> 00:08:01,280
+the sequence over here so we wanted to
+
+243
+00:07:59,520 --> 00:08:02,800
+collect some samples that were
+
+244
+00:08:01,280 --> 00:08:06,560
+slightly younger than the ones who have
+
+245
+00:08:02,800 --> 00:08:09,919
+been sampling as part of a's phd thesis
+
+246
+00:08:06,560 --> 00:08:11,360
+so here we have is blake's blake's me
+
+247
+00:08:09,919 --> 00:08:12,720
+red de la and i'm sure conor's going to
+
+248
+00:08:11,360 --> 00:08:15,199
+correct me for that
+
+249
+00:08:12,720 --> 00:08:16,879
+and this is the valley that uh eight did
+
+250
+00:08:15,199 --> 00:08:17,840
+his phd it was even harder to pronounce
+
+251
+00:08:16,879 --> 00:08:20,160
+the ear fjord
+
+252
+00:08:17,840 --> 00:08:20,879
+the law is where we did this work and
+
+253
+00:08:20,160 --> 00:08:22,720
+connell's done
+
+254
+00:08:20,879 --> 00:08:24,319
+field work in there and also brendan as
+
+255
+00:08:22,720 --> 00:08:27,280
+part of uh one of
+
+256
+00:08:24,319 --> 00:08:28,879
+his uh msi project when he was in oxford
+
+257
+00:08:27,280 --> 00:08:31,039
+also helped to sample some of these
+
+258
+00:08:28,879 --> 00:08:32,800
+localities here so these are the ones we
+
+259
+00:08:31,039 --> 00:08:34,479
+studied before
+
+260
+00:08:32,800 --> 00:08:35,839
+and we wanted to sort of tie something
+
+261
+00:08:34,479 --> 00:08:37,519
+in it was quite close but slightly
+
+262
+00:08:35,839 --> 00:08:38,159
+younger so we're injured in this valley
+
+263
+00:08:37,519 --> 00:08:40,560
+here
+
+264
+00:08:38,159 --> 00:08:42,080
+now this valley is very very easy to get
+
+265
+00:08:40,560 --> 00:08:43,519
+to there's a dirt track road that dries
+
+266
+00:08:42,080 --> 00:08:45,760
+up you just take a four by four you
+
+267
+00:08:43,519 --> 00:08:48,240
+drive along it's quite simple to get to
+
+268
+00:08:45,760 --> 00:08:49,839
+blake's mirador which is this one here
+
+269
+00:08:48,240 --> 00:08:51,040
+is pretty much uninhabited there's no
+
+270
+00:08:49,839 --> 00:08:52,720
+roads there's no nothing
+
+271
+00:08:51,040 --> 00:08:54,800
+so even though it's not very far to get
+
+272
+00:08:52,720 --> 00:08:56,080
+to from here to here it's actually quite
+
+273
+00:08:54,800 --> 00:08:58,640
+hard work so
+
+274
+00:08:56,080 --> 00:09:00,240
+we ended up having to drive quite a long
+
+275
+00:08:58,640 --> 00:09:01,920
+way across this kind of surface here
+
+276
+00:09:00,240 --> 00:09:02,399
+which took us an awful long time so it's
+
+277
+00:09:01,920 --> 00:09:04,000
+not
+
+278
+00:09:02,399 --> 00:09:05,920
+that it's a long way it's just that it's
+
+279
+00:09:04,000 --> 00:09:08,560
+kind of hard to get to and remember
+
+280
+00:09:05,920 --> 00:09:10,000
+driving off roads can be dangerous so
+
+281
+00:09:08,560 --> 00:09:11,680
+you can see down there that
+
+282
+00:09:10,000 --> 00:09:13,680
+someone else a little bit less care
+
+283
+00:09:11,680 --> 00:09:15,440
+careful than we were we're getting there
+
+284
+00:09:13,680 --> 00:09:16,640
+so i just want to stress that getting to
+
+285
+00:09:15,440 --> 00:09:17,120
+this valley is actually quite a lot of
+
+286
+00:09:16,640 --> 00:09:20,399
+work
+
+287
+00:09:17,120 --> 00:09:21,360
+um we spent just over a week there
+
+288
+00:09:20,399 --> 00:09:24,959
+sampling
+
+289
+00:09:21,360 --> 00:09:26,560
+uh spent our time crossing uh rivers
+
+290
+00:09:24,959 --> 00:09:28,560
+which are just above freezing and
+
+291
+00:09:26,560 --> 00:09:30,560
+getting this is connor here and this is
+
+292
+00:09:28,560 --> 00:09:32,640
+me on on the right get eaten alive by
+
+293
+00:09:30,560 --> 00:09:36,160
+flies so it's a wonderful
+
+294
+00:09:32,640 --> 00:09:36,959
+sampling place but um there's some great
+
+295
+00:09:36,160 --> 00:09:38,560
+sections so
+
+296
+00:09:36,959 --> 00:09:40,880
+you know those we've found three great
+
+297
+00:09:38,560 --> 00:09:42,720
+sections so i mean morton had actually
+
+298
+00:09:40,880 --> 00:09:44,320
+been at the the year before to the same
+
+299
+00:09:42,720 --> 00:09:46,080
+valley and mapped it all so we we knew
+
+300
+00:09:44,320 --> 00:09:48,800
+what we're going for when we're actually
+
+301
+00:09:46,080 --> 00:09:49,600
+sampling this is one of our sections so
+
+302
+00:09:48,800 --> 00:09:50,880
+we typically
+
+303
+00:09:49,600 --> 00:09:52,640
+collecting the lavas we start at the
+
+304
+00:09:50,880 --> 00:09:55,360
+bottom just work our way up
+
+305
+00:09:52,640 --> 00:09:56,240
+connor likes to drill and the rest of us
+
+306
+00:09:55,360 --> 00:09:59,519
+kind of follow him
+
+307
+00:09:56,240 --> 00:10:01,920
+up the hill um
+
+308
+00:09:59,519 --> 00:10:04,160
+so we did standard the paleomagnetic
+
+309
+00:10:01,920 --> 00:10:06,720
+analysis the the data is very
+
+310
+00:10:04,160 --> 00:10:08,079
+very nice all the data from iceland
+
+311
+00:10:06,720 --> 00:10:09,760
+tends to be very nice you have a little
+
+312
+00:10:08,079 --> 00:10:11,360
+viscous component and then
+
+313
+00:10:09,760 --> 00:10:12,720
+bang straight to the origin whether it
+
+314
+00:10:11,360 --> 00:10:16,399
+doesn't matter whether it's thermal or
+
+315
+00:10:12,720 --> 00:10:19,519
+af it tends to be very well behaved
+
+316
+00:10:16,399 --> 00:10:22,560
+unfortunately for this particular
+
+317
+00:10:19,519 --> 00:10:25,360
+week we were there we got very little uh
+
+318
+00:10:22,560 --> 00:10:26,000
+sun so we had very few sun orientations
+
+319
+00:10:25,360 --> 00:10:27,760
+and
+
+320
+00:10:26,000 --> 00:10:29,360
+for those who are used to working who
+
+321
+00:10:27,760 --> 00:10:32,399
+know about working with
+
+322
+00:10:29,360 --> 00:10:34,560
+large sequences of uh you tend to get
+
+323
+00:10:32,399 --> 00:10:37,200
+quite large magnetic anomalies
+
+324
+00:10:34,560 --> 00:10:37,680
+um associated around that and work we've
+
+325
+00:10:37,200 --> 00:10:39,519
+done in
+
+326
+00:10:37,680 --> 00:10:41,519
+elsewhere in iceland you can routinely
+
+327
+00:10:39,519 --> 00:10:44,839
+get values deviations of
+
+328
+00:10:41,519 --> 00:10:47,120
+20 to 30 degrees so unfortunately this
+
+329
+00:10:44,839 --> 00:10:47,839
+particular the directional data that we
+
+330
+00:10:47,120 --> 00:10:50,480
+got wasn't
+
+331
+00:10:47,839 --> 00:10:51,920
+really good enough to do isn't really
+
+332
+00:10:50,480 --> 00:10:54,240
+good enough to do directional
+
+333
+00:10:51,920 --> 00:10:55,680
+analysis of the guard field but it is
+
+334
+00:10:54,240 --> 00:10:57,440
+good enough to do we need to strike a
+
+335
+00:10:55,680 --> 00:10:58,959
+few so we need to build an age model so
+
+336
+00:10:57,440 --> 00:11:00,880
+we've managed to
+
+337
+00:10:58,959 --> 00:11:02,640
+use combining the studiography in the
+
+338
+00:11:00,880 --> 00:11:04,240
+field with the minitos trigger field we
+
+339
+00:11:02,640 --> 00:11:07,839
+started to build an age model
+
+340
+00:11:04,240 --> 00:11:09,920
+um again we are waiting so the age model
+
+341
+00:11:07,839 --> 00:11:12,800
+isn't complete but we we know the
+
+342
+00:11:09,920 --> 00:11:14,560
+the ages are between something like 3.2
+
+343
+00:11:12,800 --> 00:11:16,160
+to 2.5 million years
+
+344
+00:11:14,560 --> 00:11:18,000
+i'm not going to finalize this because
+
+345
+00:11:16,160 --> 00:11:20,240
+we're currently
+
+346
+00:11:18,000 --> 00:11:21,040
+uh getting some samples stated in these
+
+347
+00:11:20,240 --> 00:11:24,640
+called bride
+
+348
+00:11:21,040 --> 00:11:26,000
+um argan samples are organ dating and
+
+349
+00:11:24,640 --> 00:11:28,079
+they've been with them two years now
+
+350
+00:11:26,000 --> 00:11:29,279
+they said it happened by december 2020
+
+351
+00:11:28,079 --> 00:11:31,600
+and we haven't got them but i can
+
+352
+00:11:29,279 --> 00:11:34,160
+happily wait another month or two for
+
+353
+00:11:31,600 --> 00:11:35,760
+for that and so that the age model isn't
+
+354
+00:11:34,160 --> 00:11:38,800
+quite complete but hopefully that will
+
+355
+00:11:35,760 --> 00:11:41,360
+be soon but the main focus of our
+
+356
+00:11:38,800 --> 00:11:43,760
+uh what was really um the paleo
+
+357
+00:11:41,360 --> 00:11:45,920
+intensity work so
+
+358
+00:11:43,760 --> 00:11:47,440
+unlike liverpool it's like doing a multi
+
+359
+00:11:45,920 --> 00:11:49,120
+uh protocol
+
+360
+00:11:47,440 --> 00:11:50,639
+technique and i actually do like that
+
+361
+00:11:49,120 --> 00:11:51,839
+approach doing lots of protocol the
+
+362
+00:11:50,639 --> 00:11:52,560
+problems and you've got lots of samples
+
+363
+00:11:51,839 --> 00:11:54,800
+do
+
+364
+00:11:52,560 --> 00:11:56,720
+you do how'd you do it so we've we've
+
+365
+00:11:54,800 --> 00:11:58,320
+just attended to try and process a lot
+
+366
+00:11:56,720 --> 00:11:59,600
+of samples just to stick to techniques
+
+367
+00:11:58,320 --> 00:12:02,160
+that are tried and test
+
+368
+00:11:59,600 --> 00:12:02,720
+tested and don't give any problems with
+
+369
+00:12:02,160 --> 00:12:04,079
+the
+
+370
+00:12:02,720 --> 00:12:05,760
+with the reviewers so we've done the
+
+371
+00:12:04,079 --> 00:12:06,639
+izzy technique which is a type of tele-a
+
+372
+00:12:05,760 --> 00:12:10,800
+method
+
+373
+00:12:06,639 --> 00:12:12,560
+and we made attempts at getting a paleo
+
+374
+00:12:10,800 --> 00:12:14,000
+intensity but we only end up with 52
+
+375
+00:12:12,560 --> 00:12:15,519
+estimates which was a little bit lower
+
+376
+00:12:14,000 --> 00:12:16,320
+than what we'd hoped for because in
+
+377
+00:12:15,519 --> 00:12:18,720
+previous
+
+378
+00:12:16,320 --> 00:12:20,000
+work in iceland we had a success rate of
+
+379
+00:12:18,720 --> 00:12:21,600
+up to about 60
+
+380
+00:12:20,000 --> 00:12:23,760
+for the for the rocks but but these
+
+381
+00:12:21,600 --> 00:12:27,120
+particular ones we had a success rate
+
+382
+00:12:23,760 --> 00:12:28,720
+of less than uh 30 percent anyway i'm
+
+383
+00:12:27,120 --> 00:12:30,480
+just showing you typical arrive lots
+
+384
+00:12:28,720 --> 00:12:32,800
+some curves i'm not
+
+385
+00:12:30,480 --> 00:12:32,800
+um
+
+386
+00:12:33,839 --> 00:12:39,600
+okay so then to jump to the results
+
+387
+00:12:37,600 --> 00:12:41,360
+where we had all these samples we ended
+
+388
+00:12:39,600 --> 00:12:43,920
+up all these
+
+389
+00:12:41,360 --> 00:12:46,079
+individual sites we ended up with nine
+
+390
+00:12:43,920 --> 00:12:48,160
+estimates for the uh
+
+391
+00:12:46,079 --> 00:12:49,839
+paleo intensity from from only nine
+
+392
+00:12:48,160 --> 00:12:50,560
+sites something we had to chuck away at
+
+393
+00:12:49,839 --> 00:12:52,880
+the
+
+394
+00:12:50,560 --> 00:12:53,680
+site level as well as at the individual
+
+395
+00:12:52,880 --> 00:12:55,839
+level
+
+396
+00:12:53,680 --> 00:12:57,839
+so if we look at the pint database here
+
+397
+00:12:55,839 --> 00:12:59,519
+we can see this is the
+
+398
+00:12:57,839 --> 00:13:02,480
+for the for the same bin that we're
+
+399
+00:12:59,519 --> 00:13:05,279
+looking at we can see the mean pi
+
+400
+00:13:02,480 --> 00:13:07,200
+is here and this is the data that we've
+
+401
+00:13:05,279 --> 00:13:08,639
+collected so in the whole it's slightly
+
+402
+00:13:07,200 --> 00:13:13,120
+lower than what was
+
+403
+00:13:08,639 --> 00:13:13,120
+there before but not that much lower
+
+404
+00:13:13,920 --> 00:13:20,959
+okay oops so how does this relate to
+
+405
+00:13:19,360 --> 00:13:22,480
+the data the figure i showed you so
+
+406
+00:13:20,959 --> 00:13:23,839
+here's the figure i showed you earlier
+
+407
+00:13:22,480 --> 00:13:25,040
+with the data we're interested in this
+
+408
+00:13:23,839 --> 00:13:26,800
+particular
+
+409
+00:13:25,040 --> 00:13:29,440
+what we're doing is just sampling this
+
+410
+00:13:26,800 --> 00:13:32,160
+point here so before there was
+
+411
+00:13:29,440 --> 00:13:33,200
+i think a total of about only 48 per
+
+412
+00:13:32,160 --> 00:13:35,360
+intensity
+
+413
+00:13:33,200 --> 00:13:37,120
+estimates that's from 48 sites make up
+
+414
+00:13:35,360 --> 00:13:39,600
+this particular point in the pipe
+
+415
+00:13:37,120 --> 00:13:42,000
+pipe database after you've put in some
+
+416
+00:13:39,600 --> 00:13:43,600
+criteria to select points so you know
+
+417
+00:13:42,000 --> 00:13:46,160
+minimum number of
+
+418
+00:13:43,600 --> 00:13:47,199
+uh estimates to make a site reading that
+
+419
+00:13:46,160 --> 00:13:48,720
+sort of stuff
+
+420
+00:13:47,199 --> 00:13:50,720
+so the argument from the modelers was
+
+421
+00:13:48,720 --> 00:13:52,720
+that our this data point
+
+422
+00:13:50,720 --> 00:13:55,120
+should be further up should be closer to
+
+423
+00:13:52,720 --> 00:13:55,519
+this dipole curve and the reason it
+
+424
+00:13:55,120 --> 00:13:57,360
+wasn't
+
+425
+00:13:55,519 --> 00:13:59,680
+higher is going to have enough data so
+
+426
+00:13:57,360 --> 00:14:02,560
+the idea would be if we added more data
+
+427
+00:13:59,680 --> 00:14:03,519
+added more data we should be going
+
+428
+00:14:02,560 --> 00:14:05,920
+moving this point
+
+429
+00:14:03,519 --> 00:14:07,279
+up now of course i've just shown you on
+
+430
+00:14:05,920 --> 00:14:10,399
+the previous figure that
+
+431
+00:14:07,279 --> 00:14:11,440
+our data actually lies beneath that so
+
+432
+00:14:10,399 --> 00:14:14,000
+it's down here so it's
+
+433
+00:14:11,440 --> 00:14:16,560
+lower than the average so of course when
+
+434
+00:14:14,000 --> 00:14:18,720
+you add in
+
+435
+00:14:16,560 --> 00:14:20,320
+uh sorry when you add in the extra point
+
+436
+00:14:18,720 --> 00:14:22,079
+rather than moving this
+
+437
+00:14:20,320 --> 00:14:23,680
+so so this blue point is now the
+
+438
+00:14:22,079 --> 00:14:27,600
+combined mean of what was in the
+
+439
+00:14:23,680 --> 00:14:30,800
+pint database plus uh our new
+
+440
+00:14:27,600 --> 00:14:32,399
+blix mirror you can see that we've
+
+441
+00:14:30,800 --> 00:14:34,079
+actually moved
+
+442
+00:14:32,399 --> 00:14:35,519
+the screen point has moved downwards to
+
+443
+00:14:34,079 --> 00:14:36,399
+where the blue point is so if anything
+
+444
+00:14:35,519 --> 00:14:39,199
+we've moved
+
+445
+00:14:36,399 --> 00:14:39,839
+away from the gad model so it would
+
+446
+00:14:39,199 --> 00:14:41,360
+appear
+
+447
+00:14:39,839 --> 00:14:42,959
+that this small contribution to the
+
+448
+00:14:41,360 --> 00:14:47,279
+total data set is
+
+449
+00:14:42,959 --> 00:14:49,519
+suggesting that the data is not actually
+
+450
+00:14:47,279 --> 00:14:51,519
+uh it doesn't really fit this dipole
+
+451
+00:14:49,519 --> 00:14:52,959
+model
+
+452
+00:14:51,519 --> 00:14:54,240
+so just i said it's going to be a short
+
+453
+00:14:52,959 --> 00:14:55,120
+talk so just to wrap up the conclusion
+
+454
+00:14:54,240 --> 00:14:56,560
+there's obviously still
+
+455
+00:14:55,120 --> 00:14:58,480
+more work to be done here i haven't
+
+456
+00:14:56,560 --> 00:14:59,120
+shown you any any rock magnetic data
+
+457
+00:14:58,480 --> 00:15:01,839
+which i
+
+458
+00:14:59,120 --> 00:15:02,639
+have measured but not really analyzed
+
+459
+00:15:01,839 --> 00:15:05,680
+yet
+
+460
+00:15:02,639 --> 00:15:06,480
+um and we obviously need the organ dates
+
+461
+00:15:05,680 --> 00:15:08,480
+as well
+
+462
+00:15:06,480 --> 00:15:10,639
+um so the new data does not support the
+
+463
+00:15:08,480 --> 00:15:12,720
+guide hypothesis at high latitudes
+
+464
+00:15:10,639 --> 00:15:14,800
+and you can tell i just added this uh
+
+465
+00:15:12,720 --> 00:15:16,399
+the second point
+
+466
+00:15:14,800 --> 00:15:18,880
+following on from andy biggins talk
+
+467
+00:15:16,399 --> 00:15:20,240
+yesterday so the models i've shown you
+
+468
+00:15:18,880 --> 00:15:22,320
+these calculations for the
+
+469
+00:15:20,240 --> 00:15:23,360
+for the contributions from the octopus
+
+470
+00:15:22,320 --> 00:15:25,279
+and uh
+
+471
+00:15:23,360 --> 00:15:27,040
+quadruple field these are these are
+
+472
+00:15:25,279 --> 00:15:28,399
+calculated using the giant gaussian
+
+473
+00:15:27,040 --> 00:15:30,959
+process models
+
+474
+00:15:28,399 --> 00:15:32,399
+and a lot of people have used those uh
+
+475
+00:15:30,959 --> 00:15:34,800
+lease attacks and
+
+476
+00:15:32,399 --> 00:15:35,759
+kathy constable and i've in the paper
+
+477
+00:15:34,800 --> 00:15:38,880
+that i published i
+
+478
+00:15:35,759 --> 00:15:42,320
+i used one of the one of these models to
+
+479
+00:15:38,880 --> 00:15:44,639
+to do that um and perhaps
+
+480
+00:15:42,320 --> 00:15:46,320
+we should be not using these types of
+
+481
+00:15:44,639 --> 00:15:48,320
+models and moving away to some of the
+
+482
+00:15:46,320 --> 00:15:51,920
+ideas that andy said about
+
+483
+00:15:48,320 --> 00:15:53,680
+trying to um yeah trying to use maybe a
+
+484
+00:15:51,920 --> 00:15:54,800
+dynamic model to try and predict
+
+485
+00:15:53,680 --> 00:15:59,600
+the behavior especially at high
+
+486
+00:15:54,800 --> 00:15:59,600
+latitudes okay thank you for listening
+
+487
+00:16:01,120 --> 00:16:04,240
+bang on 15 minutes thank you for that
+
+488
+00:16:03,440 --> 00:16:06,480
+adrian it's a
+
+489
+00:16:04,240 --> 00:16:09,839
+very interesting talk so we time for a
+
+490
+00:16:06,480 --> 00:16:09,839
+quick question or two
+
+491
+00:16:11,279 --> 00:16:15,680
+i'll i'll ask a quick question if i may
+
+492
+00:16:13,680 --> 00:16:18,079
+um just about the um
+
+493
+00:16:15,680 --> 00:16:19,199
+uh your selection for the for the for
+
+494
+00:16:18,079 --> 00:16:22,720
+the gad model
+
+495
+00:16:19,199 --> 00:16:24,399
+um from pine what um were you specifying
+
+496
+00:16:22,720 --> 00:16:27,120
+certain age range were you
+
+497
+00:16:24,399 --> 00:16:28,880
+um strict on the data selection
+
+498
+00:16:27,120 --> 00:16:30,320
+technique so on
+
+499
+00:16:28,880 --> 00:16:32,480
+i wonder what you're comparing against
+
+500
+00:16:30,320 --> 00:16:33,920
+um
+
+501
+00:16:32,480 --> 00:16:36,639
+this is from memory because it's from
+
+502
+00:16:33,920 --> 00:16:39,199
+the 2017 paper but it's
+
+503
+00:16:36,639 --> 00:16:40,639
+it's we tell a data only so that's
+
+504
+00:16:39,199 --> 00:16:41,360
+obviously chucks out quite a lot of
+
+505
+00:16:40,639 --> 00:16:43,120
+stuff
+
+506
+00:16:41,360 --> 00:16:44,959
+zero to five actually it wasn't i think
+
+507
+00:16:43,120 --> 00:16:46,160
+we we removed the first thirty thousand
+
+508
+00:16:44,959 --> 00:16:47,839
+years so
+
+509
+00:16:46,160 --> 00:16:49,279
+thirty thousand years up to five million
+
+510
+00:16:47,839 --> 00:16:50,800
+years because obviously you buy
+
+511
+00:16:49,279 --> 00:16:52,880
+there's so much data from the first 30
+
+512
+00:16:50,800 --> 00:16:54,240
+000 years um
+
+513
+00:16:52,880 --> 00:16:56,399
+and then i think we have to have at
+
+514
+00:16:54,240 --> 00:16:58,800
+least three estimates
+
+515
+00:16:56,399 --> 00:16:59,519
+from a site to give it and then
+
+516
+00:16:58,800 --> 00:17:01,600
+obviously the
+
+517
+00:16:59,519 --> 00:17:02,560
+deviation less than 25 i'm not sure what
+
+518
+00:17:01,600 --> 00:17:04,160
+the value
+
+519
+00:17:02,560 --> 00:17:05,679
+is of how many having three points and a
+
+520
+00:17:04,160 --> 00:17:07,120
+deviation of less standard deviation
+
+521
+00:17:05,679 --> 00:17:07,919
+less than 25 percent that's getting a
+
+522
+00:17:07,120 --> 00:17:09,520
+bit
+
+523
+00:17:07,919 --> 00:17:11,439
+dodgy on the stats but that's thing that
+
+524
+00:17:09,520 --> 00:17:13,439
+was the criteria i'd have to check
+
+525
+00:17:11,439 --> 00:17:14,720
+what the other ones were yeah i think
+
+526
+00:17:13,439 --> 00:17:17,520
+those are the main ones
+
+527
+00:17:14,720 --> 00:17:18,240
+okay fair enough yeah um yeah now i'm
+
+528
+00:17:17,520 --> 00:17:20,720
+looking at
+
+529
+00:17:18,240 --> 00:17:22,079
+the databases should give you a fair
+
+530
+00:17:20,720 --> 00:17:24,640
+fair sampling from
+
+531
+00:17:22,079 --> 00:17:25,280
+russia and um and greenland and stuff
+
+532
+00:17:24,640 --> 00:17:27,679
+yeah i mean
+
+533
+00:17:25,280 --> 00:17:29,360
+just really very surprising results that
+
+534
+00:17:27,679 --> 00:17:31,200
+you show in that region like very
+
+535
+00:17:29,360 --> 00:17:33,280
+very low paleo intensities for such high
+
+536
+00:17:31,200 --> 00:17:36,400
+um high latitudes
+
+537
+00:17:33,280 --> 00:17:38,799
+so yeah i know
+
+538
+00:17:36,400 --> 00:17:39,600
+and well we know the thing is the new
+
+539
+00:17:38,799 --> 00:17:41,840
+data we've got
+
+540
+00:17:39,600 --> 00:17:43,200
+is low as well but it it doesn't really
+
+541
+00:17:41,840 --> 00:17:44,880
+disagree that much with the previous
+
+542
+00:17:43,200 --> 00:17:46,080
+data which is also low so you know i
+
+543
+00:17:44,880 --> 00:17:47,440
+don't think there's anything shocking
+
+544
+00:17:46,080 --> 00:17:49,520
+it's more
+
+545
+00:17:47,440 --> 00:17:51,600
+it's just a question of what's really
+
+546
+00:17:49,520 --> 00:17:54,080
+happening to the field at high
+
+547
+00:17:51,600 --> 00:17:55,120
+uh high latitudes and you know if you
+
+548
+00:17:54,080 --> 00:17:56,880
+look at the
+
+549
+00:17:55,120 --> 00:17:59,600
+if we just assume a gadfield at high
+
+550
+00:17:56,880 --> 00:18:01,679
+latitudes if you do a paleo
+
+551
+00:17:59,600 --> 00:18:04,559
+reconstruction i mean rna estimated that
+
+552
+00:18:01,679 --> 00:18:06,480
+you get a up to 500 kilometer
+
+553
+00:18:04,559 --> 00:18:08,000
+you know mismatch in where you're
+
+554
+00:18:06,480 --> 00:18:09,520
+predicting it should be
+
+555
+00:18:08,000 --> 00:18:11,600
+whereas if you've got a field that's not
+
+556
+00:18:09,520 --> 00:18:13,919
+quite a you know with a five percent
+
+557
+00:18:11,600 --> 00:18:14,640
+octopus quadruple component so you know
+
+558
+00:18:13,919 --> 00:18:17,919
+it could be
+
+559
+00:18:14,640 --> 00:18:19,679
+an issue for people who are using gad
+
+560
+00:18:17,919 --> 00:18:21,840
+we all a lot of people use gad right as
+
+561
+00:18:19,679 --> 00:18:23,919
+part of the as part of their paleo
+
+562
+00:18:21,840 --> 00:18:25,280
+geographic reconstructions and maybe
+
+563
+00:18:23,919 --> 00:18:27,440
+need to be a little bit more careful
+
+564
+00:18:25,280 --> 00:18:28,799
+with that in terms of
+
+565
+00:18:27,440 --> 00:18:29,840
+you know what's the error on you know
+
+566
+00:18:28,799 --> 00:18:32,240
+maybe it gives you a chance to move
+
+567
+00:18:29,840 --> 00:18:35,520
+things around a little bit more in your
+
+568
+00:18:32,240 --> 00:18:36,799
+reconstructions i i mean you know
+
+569
+00:18:35,520 --> 00:18:38,480
+potentially it could be because you're
+
+570
+00:18:36,799 --> 00:18:40,640
+between the flux patches right so your
+
+571
+00:18:38,480 --> 00:18:43,280
+high latitude flux patches which are
+
+572
+00:18:40,640 --> 00:18:44,640
+dominating dad you know or dominating
+
+573
+00:18:43,280 --> 00:18:46,480
+the the dipole
+
+574
+00:18:44,640 --> 00:18:48,240
+i suspect it is the flux patches and i
+
+575
+00:18:46,480 --> 00:18:49,600
+suspect you know using a dynamo model as
+
+576
+00:18:48,240 --> 00:18:51,120
+you were talking yesterday might be a
+
+577
+00:18:49,600 --> 00:18:53,520
+better way to try and make predictions
+
+578
+00:18:51,120 --> 00:18:54,799
+of what's expected at high latitudes
+
+579
+00:18:53,520 --> 00:18:56,720
+because i'm not sure these these
+
+580
+00:18:54,799 --> 00:18:58,480
+gaussian models are
+
+581
+00:18:56,720 --> 00:18:59,760
+i mean they're quite simple right so you
+
+582
+00:18:58,480 --> 00:19:01,919
+know not really capturing all the
+
+583
+00:18:59,760 --> 00:19:04,160
+features
+
+584
+00:19:01,919 --> 00:19:05,840
+yeah but it would be dynamo models would
+
+585
+00:19:04,160 --> 00:19:08,720
+need to have some
+
+586
+00:19:05,840 --> 00:19:09,520
+uh heterogeneity on the core mantle
+
+587
+00:19:08,720 --> 00:19:12,400
+boundary
+
+588
+00:19:09,520 --> 00:19:12,640
+to uh to to to get the flux patches to
+
+589
+00:19:12,400 --> 00:19:14,880
+be
+
+590
+00:19:12,640 --> 00:19:16,559
+stable i was going to say the flux
+
+591
+00:19:14,880 --> 00:19:20,720
+patches would have to be stable and
+
+592
+00:19:16,559 --> 00:19:24,000
+long-lived but that does that's quite
+
+593
+00:19:20,720 --> 00:19:24,799
+quite possible at least on these sorts
+
+594
+00:19:24,000 --> 00:19:27,919
+of times girls
+
+595
+00:19:24,799 --> 00:19:27,919
+tens of millions of years
+
+596
+00:19:29,120 --> 00:19:31,919
+you can just make time for just one more
+
+597
+00:19:30,640 --> 00:19:34,799
+quick question and we'll move on to the
+
+598
+00:19:31,919 --> 00:19:34,799
+flash posters
+
+599
+00:19:34,960 --> 00:19:38,000
+uh i have less of a quick question and
+
+600
+00:19:37,120 --> 00:19:40,320
+more of just a
+
+601
+00:19:38,000 --> 00:19:41,679
+blatant self-promotion but the new ggp
+
+602
+00:19:40,320 --> 00:19:44,880
+model that
+
+603
+00:19:41,679 --> 00:19:47,919
+we put out does have a sort of
+
+604
+00:19:44,880 --> 00:19:48,799
+some zonal non-zero components that do
+
+605
+00:19:47,919 --> 00:19:52,000
+try to match
+
+606
+00:19:48,799 --> 00:19:54,880
+at least um the the cromwell
+
+607
+00:19:52,000 --> 00:19:56,559
+uh inclination anomaly record so like i
+
+608
+00:19:54,880 --> 00:19:58,640
+said blatant self-promotion but there
+
+609
+00:19:56,559 --> 00:19:59,440
+are some ggp options out there that do
+
+610
+00:19:58,640 --> 00:20:04,000
+kind of
+
+611
+00:19:59,440 --> 00:20:04,000
+capture some of this that was about it
+

@@ -1,0 +1,5488 @@
+1
+00:00:02,399 --> 00:00:06,080
+okay
+
+2
+00:00:03,360 --> 00:00:07,040
+so uh thank you everyone for coming to
+
+3
+00:00:06,080 --> 00:00:10,639
+uh what will be
+
+4
+00:00:07,040 --> 00:00:14,639
+uh the last um uh magnet seminar
+
+5
+00:00:10,639 --> 00:00:16,720
+of of 2020 uh we've had a successful run
+
+6
+00:00:14,639 --> 00:00:20,160
+and a great turnout for everybody so
+
+7
+00:00:16,720 --> 00:00:21,680
+uh thank you all uh very much for uh for
+
+8
+00:00:20,160 --> 00:00:25,119
+your support
+
+9
+00:00:21,680 --> 00:00:27,199
+um for those who who are new to uh
+
+10
+00:00:25,119 --> 00:00:29,679
+these seminars uh we'll have
+
+11
+00:00:27,199 --> 00:00:32,880
+presentations that are about 20 to
+
+12
+00:00:29,679 --> 00:00:34,880
+25 to 30 minutes in length um i kindly
+
+13
+00:00:32,880 --> 00:00:37,120
+ask that you keep your microphones
+
+14
+00:00:34,880 --> 00:00:38,399
+uh muted um during the presentation so
+
+15
+00:00:37,120 --> 00:00:41,520
+that we don't interrupt
+
+16
+00:00:38,399 --> 00:00:44,800
+uh the speaker uh following the
+
+17
+00:00:41,520 --> 00:00:45,440
+uh the seminar will have us a 10 to 15
+
+18
+00:00:44,800 --> 00:00:49,120
+minute
+
+19
+00:00:45,440 --> 00:00:52,000
+uh discussion if you do not want to
+
+20
+00:00:49,120 --> 00:00:53,199
+uh unmute yourself to ask a micro a task
+
+21
+00:00:52,000 --> 00:00:54,960
+a question
+
+22
+00:00:53,199 --> 00:00:57,280
+we will answer we can take questions
+
+23
+00:00:54,960 --> 00:01:00,160
+through the uh the text chat
+
+24
+00:00:57,280 --> 00:01:00,719
+so just simply add no mic um to your
+
+25
+00:01:00,160 --> 00:01:03,520
+question
+
+26
+00:01:00,719 --> 00:01:04,400
+and either myself or anita uh we'll read
+
+27
+00:01:03,520 --> 00:01:07,439
+them out
+
+28
+00:01:04,400 --> 00:01:09,119
+um as always we have life and all sorts
+
+29
+00:01:07,439 --> 00:01:10,799
+of things going on around us so if you
+
+30
+00:01:09,119 --> 00:01:13,200
+do have to leave halfway through
+
+31
+00:01:10,799 --> 00:01:14,240
+it's absolutely not a problem uh just
+
+32
+00:01:13,200 --> 00:01:16,240
+you just need to go
+
+33
+00:01:14,240 --> 00:01:18,720
+uh and just a reminder for the record
+
+34
+00:01:16,240 --> 00:01:20,400
+that uh the seminars are recorded
+
+35
+00:01:18,720 --> 00:01:22,000
+um and at the end of the seminar we will
+
+36
+00:01:20,400 --> 00:01:24,080
+have time um
+
+37
+00:01:22,000 --> 00:01:25,840
+to chat and catch up uh with everybody
+
+38
+00:01:24,080 --> 00:01:28,400
+if you're interested in that
+
+39
+00:01:25,840 --> 00:01:29,280
+and this part of of the magnet series
+
+40
+00:01:28,400 --> 00:01:31,040
+isn't recorded
+
+41
+00:01:29,280 --> 00:01:32,320
+and so won't be made publicly available
+
+42
+00:01:31,040 --> 00:01:34,960
+we turn the recording off
+
+43
+00:01:32,320 --> 00:01:37,280
+and we can all just uh chit chat and uh
+
+44
+00:01:34,960 --> 00:01:40,320
+relax
+
+45
+00:01:37,280 --> 00:01:42,240
+um and so i'm very pleased to introduce
+
+46
+00:01:40,320 --> 00:01:45,520
+our speaker our last speaker for
+
+47
+00:01:42,240 --> 00:01:46,399
+uh 2020 erdo kia tima from the
+
+48
+00:01:45,520 --> 00:01:48,880
+university
+
+49
+00:01:46,399 --> 00:01:49,600
+of uh turin and she will be talking
+
+50
+00:01:48,880 --> 00:01:52,799
+about
+
+51
+00:01:49,600 --> 00:01:54,240
+archaeomagnetic research in italy so i
+
+52
+00:01:52,799 --> 00:01:58,960
+will head over to
+
+53
+00:01:54,240 --> 00:01:58,960
+iftakia okay thank you so much
+
+54
+00:02:03,360 --> 00:02:11,920
+can you see my screen
+
+55
+00:02:08,399 --> 00:02:11,920
+yes yeah we can
+
+56
+00:02:12,879 --> 00:02:17,920
+yes sir i can see your screen and i knew
+
+57
+00:02:15,440 --> 00:02:17,920
+it again
+
+58
+00:02:18,319 --> 00:02:22,000
+okay thank you so much first of all i
+
+59
+00:02:21,200 --> 00:02:24,640
+would like to thank
+
+60
+00:02:22,000 --> 00:02:25,599
+a lot greg and anita for giving me this
+
+61
+00:02:24,640 --> 00:02:27,680
+opportunity
+
+62
+00:02:25,599 --> 00:02:30,400
+to talk here today a little bit about
+
+63
+00:02:27,680 --> 00:02:33,280
+automagnetic research in italy
+
+64
+00:02:30,400 --> 00:02:34,239
+and my talk today will be a very brief
+
+65
+00:02:33,280 --> 00:02:36,080
+overview
+
+66
+00:02:34,239 --> 00:02:38,160
+of the available up to now
+
+67
+00:02:36,080 --> 00:02:40,160
+electromagnetic data from italy
+
+68
+00:02:38,160 --> 00:02:43,360
+presenting some recent advances
+
+69
+00:02:40,160 --> 00:02:45,040
+ecobritis with some future perspectives
+
+70
+00:02:43,360 --> 00:02:47,200
+i would like to say that what i'm going
+
+71
+00:02:45,040 --> 00:02:49,599
+to present is not just the result of my
+
+72
+00:02:47,200 --> 00:02:51,440
+personal work but is the work of a lot
+
+73
+00:02:49,599 --> 00:02:53,680
+of researchers that during the last
+
+74
+00:02:51,440 --> 00:02:55,040
+decades they have dedicated a part of
+
+75
+00:02:53,680 --> 00:02:58,000
+their research
+
+76
+00:02:55,040 --> 00:03:00,000
+on establishing promoting and advancing
+
+77
+00:02:58,000 --> 00:03:01,920
+electromagnetic research in italy
+
+78
+00:03:00,000 --> 00:03:03,519
+and also collaboration with a lot of
+
+79
+00:03:01,920 --> 00:03:04,239
+archaeologists that i would like to
+
+80
+00:03:03,519 --> 00:03:07,599
+personally
+
+81
+00:03:04,239 --> 00:03:11,120
+acknowledge a lot okay
+
+82
+00:03:07,599 --> 00:03:13,440
+as we all know already very well uh
+
+83
+00:03:11,120 --> 00:03:15,599
+reconstructing and understanding how the
+
+84
+00:03:13,440 --> 00:03:16,239
+earth's magnetic field was changing in
+
+85
+00:03:15,599 --> 00:03:17,920
+the past
+
+86
+00:03:16,239 --> 00:03:20,959
+is particularly interesting and
+
+87
+00:03:17,920 --> 00:03:21,920
+important from one part you can give us
+
+88
+00:03:20,959 --> 00:03:25,360
+information
+
+89
+00:03:21,920 --> 00:03:27,120
+indirect information about the processes
+
+90
+00:03:25,360 --> 00:03:27,920
+that take place in the corporate
+
+91
+00:03:27,120 --> 00:03:31,120
+boundary
+
+92
+00:03:27,920 --> 00:03:33,360
+and offer some insights about the origin
+
+93
+00:03:31,120 --> 00:03:36,400
+and nature of the geomagnetic field
+
+94
+00:03:33,360 --> 00:03:38,560
+while from the other part one we once
+
+95
+00:03:36,400 --> 00:03:39,599
+we are able to know how theirs magnetic
+
+96
+00:03:38,560 --> 00:03:41,920
+field was changing
+
+97
+00:03:39,599 --> 00:03:42,720
+in the past we can then use this
+
+98
+00:03:41,920 --> 00:03:46,000
+information
+
+99
+00:03:42,720 --> 00:03:49,360
+as a dating tool useful for different
+
+100
+00:03:46,000 --> 00:03:51,760
+fields of earth sciences of course in
+
+101
+00:03:49,360 --> 00:03:54,000
+order to retrieve information about how
+
+102
+00:03:51,760 --> 00:03:55,760
+the earth's magnetic field was changing
+
+103
+00:03:54,000 --> 00:03:57,519
+in the past and mostly in the time
+
+104
+00:03:55,760 --> 00:03:59,519
+periods where no direct
+
+105
+00:03:57,519 --> 00:04:01,760
+measurements are available it is
+
+106
+00:03:59,519 --> 00:04:04,959
+necessary to study
+
+107
+00:04:01,760 --> 00:04:06,879
+several kinds of well-dated material
+
+108
+00:04:04,959 --> 00:04:09,599
+such as for example archaeological
+
+109
+00:04:06,879 --> 00:04:12,799
+material volcanic rocks
+
+110
+00:04:09,599 --> 00:04:15,280
+lacrosse stream or marine sediments or
+
+111
+00:04:12,799 --> 00:04:16,160
+other kind of natural archives such as
+
+112
+00:04:15,280 --> 00:04:20,160
+failovers
+
+113
+00:04:16,160 --> 00:04:22,800
+for example i think that we can say that
+
+114
+00:04:20,160 --> 00:04:23,840
+among all these geomagnetic field
+
+115
+00:04:22,800 --> 00:04:26,960
+recorders
+
+116
+00:04:23,840 --> 00:04:28,320
+we can consider acid base lace volcanic
+
+117
+00:04:26,960 --> 00:04:31,199
+rocks as
+
+118
+00:04:28,320 --> 00:04:32,400
+quite freezing sources of information as
+
+119
+00:04:31,199 --> 00:04:35,680
+they mainly
+
+120
+00:04:32,400 --> 00:04:38,720
+present three important advantages
+
+121
+00:04:35,680 --> 00:04:41,600
+first of all they carry a quite strong
+
+122
+00:04:38,720 --> 00:04:42,320
+and stable film aroma and magnetization
+
+123
+00:04:41,600 --> 00:04:44,639
+acquired
+
+124
+00:04:42,320 --> 00:04:46,080
+during the heating at high temperatures
+
+125
+00:04:44,639 --> 00:04:48,560
+and subsequent cooling
+
+126
+00:04:46,080 --> 00:04:50,400
+in the presence of the ambient icing
+
+127
+00:04:48,560 --> 00:04:52,160
+field
+
+128
+00:04:50,400 --> 00:04:53,759
+they and that's of course the case of
+
+129
+00:04:52,160 --> 00:04:56,240
+volcanic rocks or
+
+130
+00:04:53,759 --> 00:04:57,520
+of archaeological materials such as big
+
+131
+00:04:56,240 --> 00:05:00,560
+clays
+
+132
+00:04:57,520 --> 00:05:03,600
+they can give us also very well dated
+
+133
+00:05:00,560 --> 00:05:04,880
+reliable sport records and as for
+
+134
+00:05:03,600 --> 00:05:08,160
+example the famous
+
+135
+00:05:04,880 --> 00:05:10,560
+vesuvius eruption that destroyed
+
+136
+00:05:08,160 --> 00:05:12,240
+at the same time preserved forever the
+
+137
+00:05:10,560 --> 00:05:15,680
+ancient city of pompeii
+
+138
+00:05:12,240 --> 00:05:18,479
+and we know very well that of 79.80
+
+139
+00:05:15,680 --> 00:05:21,199
+so this way we can have a quite reliable
+
+140
+00:05:18,479 --> 00:05:23,360
+very well dated sport report
+
+141
+00:05:21,199 --> 00:05:24,400
+and such kind of materials can also be
+
+142
+00:05:23,360 --> 00:05:27,360
+very useful
+
+143
+00:05:24,400 --> 00:05:29,680
+as they can give us information about
+
+144
+00:05:27,360 --> 00:05:32,960
+the full geomagnetic field vector
+
+145
+00:05:29,680 --> 00:05:34,400
+including both directional and absolute
+
+146
+00:05:32,960 --> 00:05:36,000
+intensity data
+
+147
+00:05:34,400 --> 00:05:38,880
+and that's of course the case when we're
+
+148
+00:05:36,000 --> 00:05:43,199
+talking about materials still found
+
+149
+00:05:38,880 --> 00:05:43,840
+in situ we can say that from this point
+
+150
+00:05:43,199 --> 00:05:47,120
+of view
+
+151
+00:05:43,840 --> 00:05:48,400
+italy is a quite lucky country is a
+
+152
+00:05:47,120 --> 00:05:51,520
+country with a very
+
+153
+00:05:48,400 --> 00:05:52,000
+rich and long cultural heritage with a
+
+154
+00:05:51,520 --> 00:05:54,240
+lot
+
+155
+00:05:52,000 --> 00:05:56,080
+and the important archaeological sites
+
+156
+00:05:54,240 --> 00:05:59,280
+that can be potential offer
+
+157
+00:05:56,080 --> 00:05:59,919
+a great large number of art magnetic
+
+158
+00:05:59,280 --> 00:06:01,759
+data
+
+159
+00:05:59,919 --> 00:06:03,840
+but at the same time italy is
+
+160
+00:06:01,759 --> 00:06:06,639
+characterized also by a long
+
+161
+00:06:03,840 --> 00:06:07,520
+and important volcanic activity made due
+
+162
+00:06:06,639 --> 00:06:09,600
+to the two
+
+163
+00:06:07,520 --> 00:06:11,039
+important and of course still active
+
+164
+00:06:09,600 --> 00:06:14,160
+italian volcanoes that
+
+165
+00:06:11,039 --> 00:06:17,759
+is aetna and vesuvius
+
+166
+00:06:14,160 --> 00:06:20,160
+so from this point of view and
+
+167
+00:06:17,759 --> 00:06:20,800
+since many decades a lot of researchers
+
+168
+00:06:20,160 --> 00:06:23,840
+have done
+
+169
+00:06:20,800 --> 00:06:25,759
+great work and we have a lot of uh
+
+170
+00:06:23,840 --> 00:06:27,360
+magnetic investigations coming from
+
+171
+00:06:25,759 --> 00:06:29,520
+volcanic rocks
+
+172
+00:06:27,360 --> 00:06:30,560
+well we can say that most recently a
+
+173
+00:06:29,520 --> 00:06:33,120
+great interest
+
+174
+00:06:30,560 --> 00:06:36,400
+has also been focused on the study of
+
+175
+00:06:33,120 --> 00:06:39,520
+archaeological artifacts
+
+176
+00:06:36,400 --> 00:06:41,440
+nevertheless even though these are among
+
+177
+00:06:39,520 --> 00:06:42,400
+the most reliable to magnetic field
+
+178
+00:06:41,440 --> 00:06:45,199
+recorders
+
+179
+00:06:42,400 --> 00:06:45,840
+still we can say that often errors or
+
+180
+00:06:45,199 --> 00:06:48,479
+problems
+
+181
+00:06:45,840 --> 00:06:50,240
+are related with the paramagnetic
+
+182
+00:06:48,479 --> 00:06:53,599
+records coming from
+
+183
+00:06:50,240 --> 00:06:56,160
+these records problems that may be
+
+184
+00:06:53,599 --> 00:06:56,960
+related either to their sampling or to
+
+185
+00:06:56,160 --> 00:06:59,120
+the
+
+186
+00:06:56,960 --> 00:07:00,160
+reliability of their rotating or
+
+187
+00:06:59,120 --> 00:07:03,360
+different to some
+
+188
+00:07:00,160 --> 00:07:06,319
+disturbances caused by local
+
+189
+00:07:03,360 --> 00:07:07,520
+and local problems as for example the
+
+190
+00:07:06,319 --> 00:07:10,639
+strongly magnetized
+
+191
+00:07:07,520 --> 00:07:12,720
+volcanic areas so for this reason
+
+192
+00:07:10,639 --> 00:07:14,639
+and in order to be able to collect the
+
+193
+00:07:12,720 --> 00:07:17,120
+most reliable data
+
+194
+00:07:14,639 --> 00:07:18,160
+very recently in italy we have tried to
+
+195
+00:07:17,120 --> 00:07:21,440
+combine
+
+196
+00:07:18,160 --> 00:07:23,919
+an updated data set uh including only
+
+197
+00:07:21,440 --> 00:07:25,520
+available up to now data come from both
+
+198
+00:07:23,919 --> 00:07:28,800
+archaeological material
+
+199
+00:07:25,520 --> 00:07:29,680
+and organic rocks actually what we have
+
+200
+00:07:28,800 --> 00:07:31,840
+done is a quite
+
+201
+00:07:29,680 --> 00:07:34,240
+crazy thing because we have not just
+
+202
+00:07:31,840 --> 00:07:36,080
+used the global data sets but we try to
+
+203
+00:07:34,240 --> 00:07:38,800
+retrieve one by one
+
+204
+00:07:36,080 --> 00:07:39,599
+all the original publications read them
+
+205
+00:07:38,800 --> 00:07:42,160
+carefully
+
+206
+00:07:39,599 --> 00:07:44,400
+in order to obtain all those metadata
+
+207
+00:07:42,160 --> 00:07:47,199
+information that would help us
+
+208
+00:07:44,400 --> 00:07:49,520
+to evaluate one by one the reliability
+
+209
+00:07:47,199 --> 00:07:51,680
+of the available data
+
+210
+00:07:49,520 --> 00:07:53,440
+and when i refer to the reliability and
+
+211
+00:07:51,680 --> 00:07:56,000
+quality of the reference data
+
+212
+00:07:53,440 --> 00:07:58,639
+i just i don't just refer to the quality
+
+213
+00:07:56,000 --> 00:08:01,280
+of the experimental techniques applied
+
+214
+00:07:58,639 --> 00:08:02,400
+but also the reliability the quality of
+
+215
+00:08:01,280 --> 00:08:06,160
+the dating
+
+216
+00:08:02,400 --> 00:08:07,599
+of such of such records we have paint a
+
+217
+00:08:06,160 --> 00:08:11,360
+particular attention
+
+218
+00:08:07,599 --> 00:08:14,319
+on their density protocols used
+
+219
+00:08:11,360 --> 00:08:15,520
+looking trying to understand and and and
+
+220
+00:08:14,319 --> 00:08:19,680
+find out if
+
+221
+00:08:15,520 --> 00:08:19,680
+necessary corrections have been applied
+
+222
+00:08:20,080 --> 00:08:24,639
+so from this compilation and this uh
+
+223
+00:08:22,560 --> 00:08:26,319
+careful investigation some interesting
+
+224
+00:08:24,639 --> 00:08:28,319
+results came out
+
+225
+00:08:26,319 --> 00:08:30,960
+as far as the data from volcanic rocks
+
+226
+00:08:28,319 --> 00:08:32,959
+are concerned as it was expected
+
+227
+00:08:30,960 --> 00:08:34,560
+we can see that most of the data come
+
+228
+00:08:32,959 --> 00:08:36,880
+from the two
+
+229
+00:08:34,560 --> 00:08:38,000
+active italian volcanoes from ethnic
+
+230
+00:08:36,880 --> 00:08:40,000
+venus
+
+231
+00:08:38,000 --> 00:08:42,000
+we have some records from strawberry
+
+232
+00:08:40,000 --> 00:08:44,800
+which means aeolian islands
+
+233
+00:08:42,000 --> 00:08:46,320
+and we have also a few data from the ski
+
+234
+00:08:44,800 --> 00:08:48,160
+eruption
+
+235
+00:08:46,320 --> 00:08:50,000
+however maybe the most interesting
+
+236
+00:08:48,160 --> 00:08:53,360
+result is that
+
+237
+00:08:50,000 --> 00:08:56,080
+we found out that only 57
+
+238
+00:08:53,360 --> 00:08:58,320
+of the italian volcanic magnetic records
+
+239
+00:08:56,080 --> 00:09:00,160
+come from well-dated eruptions
+
+240
+00:08:58,320 --> 00:09:01,519
+which means that almost half of the
+
+241
+00:09:00,160 --> 00:09:03,440
+available volcanic
+
+242
+00:09:01,519 --> 00:09:06,240
+data from volcanic rocks come from
+
+243
+00:09:03,440 --> 00:09:07,680
+eruptions that their traditional age has
+
+244
+00:09:06,240 --> 00:09:10,880
+been questioned or even
+
+245
+00:09:07,680 --> 00:09:13,680
+changed based on geological evidence or
+
+246
+00:09:10,880 --> 00:09:16,800
+automagnetic dating
+
+247
+00:09:13,680 --> 00:09:18,800
+as far as na are concerned the data from
+
+248
+00:09:16,800 --> 00:09:22,399
+archaeological artifacts
+
+249
+00:09:18,800 --> 00:09:23,519
+we can see the data directional data
+
+250
+00:09:22,399 --> 00:09:26,880
+mostly come
+
+251
+00:09:23,519 --> 00:09:30,399
+from in sea to bake clay structures
+
+252
+00:09:26,880 --> 00:09:32,720
+such as skins health ovens while we have
+
+253
+00:09:30,399 --> 00:09:34,399
+also some data coming from in sea to
+
+254
+00:09:32,720 --> 00:09:37,839
+burn to sentiments
+
+255
+00:09:34,399 --> 00:09:40,800
+some burnt walls or some um
+
+256
+00:09:37,839 --> 00:09:42,160
+validated moral paintings what is
+
+257
+00:09:40,800 --> 00:09:44,399
+however interesting
+
+258
+00:09:42,160 --> 00:09:46,320
+is that as far as the density data are
+
+259
+00:09:44,399 --> 00:09:48,560
+concerned that we know that for
+
+260
+00:09:46,320 --> 00:09:50,000
+obtaining acure density results it's not
+
+261
+00:09:48,560 --> 00:09:53,519
+necessary to collect in
+
+262
+00:09:50,000 --> 00:09:55,440
+situ oriented material still most of the
+
+263
+00:09:53,519 --> 00:09:58,240
+italian density data come
+
+264
+00:09:55,440 --> 00:09:59,360
+from in-situ structures such as skins or
+
+265
+00:09:58,240 --> 00:10:01,839
+ovals
+
+266
+00:09:59,360 --> 00:10:02,399
+we have some data from historical from
+
+267
+00:10:01,839 --> 00:10:05,279
+brics
+
+268
+00:10:02,399 --> 00:10:05,920
+from historical data while only 15
+
+269
+00:10:05,279 --> 00:10:08,720
+percent
+
+270
+00:10:05,920 --> 00:10:09,200
+of the available italian intensity data
+
+271
+00:10:08,720 --> 00:10:12,800
+come
+
+272
+00:10:09,200 --> 00:10:12,800
+from pottery shells
+
+273
+00:10:13,200 --> 00:10:16,800
+okay if we plot now the available data
+
+274
+00:10:16,000 --> 00:10:18,720
+from
+
+275
+00:10:16,800 --> 00:10:20,560
+italian archaeological sites that you
+
+276
+00:10:18,720 --> 00:10:21,279
+can see here illustrated with the blue
+
+277
+00:10:20,560 --> 00:10:22,959
+color
+
+278
+00:10:21,279 --> 00:10:25,040
+and together with the data with the
+
+279
+00:10:22,959 --> 00:10:27,680
+volcanic from the volcanic rocks
+
+280
+00:10:25,040 --> 00:10:28,160
+illustrated here with a red color we can
+
+281
+00:10:27,680 --> 00:10:30,880
+see that
+
+282
+00:10:28,160 --> 00:10:32,160
+we will have a quite good agreement
+
+283
+00:10:30,880 --> 00:10:34,240
+however we can also
+
+284
+00:10:32,160 --> 00:10:35,440
+very easily notice that most of the
+
+285
+00:10:34,240 --> 00:10:38,240
+available data
+
+286
+00:10:35,440 --> 00:10:39,920
+are concentrated the last 3000 years
+
+287
+00:10:38,240 --> 00:10:43,200
+while if we go back in time
+
+288
+00:10:39,920 --> 00:10:45,600
+the available data are extremely scarce
+
+289
+00:10:43,200 --> 00:10:47,600
+actually as far as the density data are
+
+290
+00:10:45,600 --> 00:10:50,320
+concerned they are extremely
+
+291
+00:10:47,600 --> 00:10:52,480
+few and for some millennia who have no
+
+292
+00:10:50,320 --> 00:10:54,320
+data at all
+
+293
+00:10:52,480 --> 00:10:56,399
+if you have a more careful look at the
+
+294
+00:10:54,320 --> 00:10:58,959
+data i would say these are
+
+295
+00:10:56,399 --> 00:11:00,240
+almost the only data available for the
+
+296
+00:10:58,959 --> 00:11:02,640
+last uh
+
+297
+00:11:00,240 --> 00:11:05,600
+time period before uh the first million
+
+298
+00:11:02,640 --> 00:11:08,160
+in bc there are some data coming from
+
+299
+00:11:05,600 --> 00:11:10,320
+a burnt sentiments published by copper
+
+300
+00:11:08,160 --> 00:11:11,600
+italia in 2014
+
+301
+00:11:10,320 --> 00:11:13,360
+well i would like to point your
+
+302
+00:11:11,600 --> 00:11:16,320
+attention to the oldest
+
+303
+00:11:13,360 --> 00:11:17,920
+full vector geomagnetic field data that
+
+304
+00:11:16,320 --> 00:11:19,519
+we have from italy and come
+
+305
+00:11:17,920 --> 00:11:21,360
+from this interesting archaeological
+
+306
+00:11:19,519 --> 00:11:23,839
+site of portunovo
+
+307
+00:11:21,360 --> 00:11:25,120
+i would like to spend some few words on
+
+308
+00:11:23,839 --> 00:11:26,640
+this
+
+309
+00:11:25,120 --> 00:11:28,320
+here is the archaeological site of
+
+310
+00:11:26,640 --> 00:11:31,600
+portonovo as you can see
+
+311
+00:11:28,320 --> 00:11:34,640
+it is situated in the adriatic coast of
+
+312
+00:11:31,600 --> 00:11:36,560
+italy and it's quite interesting site as
+
+313
+00:11:34,640 --> 00:11:39,760
+archaeological excavation
+
+314
+00:11:36,560 --> 00:11:40,640
+proteolyte a very large number of small
+
+315
+00:11:39,760 --> 00:11:44,000
+ovens
+
+316
+00:11:40,640 --> 00:11:45,760
+these are the small circular ovens made
+
+317
+00:11:44,000 --> 00:11:47,920
+by bay clay that you can see
+
+318
+00:11:45,760 --> 00:11:50,240
+here if i'm not wrong they were
+
+319
+00:11:47,920 --> 00:11:53,200
+excavated more than 20
+
+320
+00:11:50,240 --> 00:11:55,120
+such structures but according to
+
+321
+00:11:53,200 --> 00:11:57,360
+archaeologists and archaeological
+
+322
+00:11:55,120 --> 00:11:58,160
+evidence they were probably used for the
+
+323
+00:11:57,360 --> 00:12:01,440
+production
+
+324
+00:11:58,160 --> 00:12:04,480
+of food cooking or production
+
+325
+00:12:01,440 --> 00:12:05,600
+of the cooking of bread so actually one
+
+326
+00:12:04,480 --> 00:12:08,800
+of the reputation
+
+327
+00:12:05,600 --> 00:12:11,600
+could be that we have a very big
+
+328
+00:12:08,800 --> 00:12:14,399
+bakery of the neolithic period more than
+
+329
+00:12:11,600 --> 00:12:16,160
+7000 years ago
+
+330
+00:12:14,399 --> 00:12:18,480
+what is particularly interesting from
+
+331
+00:12:16,160 --> 00:12:20,800
+this site apart from the fact that this
+
+332
+00:12:18,480 --> 00:12:22,639
+is a very rare example of very well
+
+333
+00:12:20,800 --> 00:12:24,560
+preserved underground ovens from
+
+334
+00:12:22,639 --> 00:12:26,720
+neolithic period
+
+335
+00:12:24,560 --> 00:12:28,560
+the good thing is that archaeologists
+
+336
+00:12:26,720 --> 00:12:31,920
+have found a great number of
+
+337
+00:12:28,560 --> 00:12:34,639
+seeds and cereals there so
+
+338
+00:12:31,920 --> 00:12:36,480
+it can be this site has been very
+
+339
+00:12:34,639 --> 00:12:38,880
+precisely dated
+
+340
+00:12:36,480 --> 00:12:39,920
+and it belongs to the early neolithic
+
+341
+00:12:38,880 --> 00:12:44,399
+period between
+
+342
+00:12:39,920 --> 00:12:46,720
+5 600 to 5 300 bc
+
+343
+00:12:44,399 --> 00:12:48,560
+for ecomagnetic investigation we have
+
+344
+00:12:46,720 --> 00:12:51,120
+collected saints from three
+
+345
+00:12:48,560 --> 00:12:52,000
+of these ovens that you can see here
+
+346
+00:12:51,120 --> 00:12:54,160
+just to show you
+
+347
+00:12:52,000 --> 00:12:56,399
+some very briefly some magnetic
+
+348
+00:12:54,160 --> 00:12:59,279
+mineralogy results will have
+
+349
+00:12:56,399 --> 00:13:01,040
+a great low positivity mineral we have
+
+350
+00:12:59,279 --> 00:13:04,079
+the dominant sources of soft
+
+351
+00:13:01,040 --> 00:13:06,240
+components and we have obtained also
+
+352
+00:13:04,079 --> 00:13:10,959
+very nice a different diagrams
+
+353
+00:13:06,240 --> 00:13:13,519
+uh quite straight lines that
+
+354
+00:13:10,959 --> 00:13:15,200
+goes through the origin of our diagrams
+
+355
+00:13:13,519 --> 00:13:18,240
+that gave us also nice
+
+356
+00:13:15,200 --> 00:13:20,480
+mean direction as you can see here
+
+357
+00:13:18,240 --> 00:13:23,120
+from this side and we were lucky that it
+
+358
+00:13:20,480 --> 00:13:24,959
+was possible also to uh have a accurate
+
+359
+00:13:23,120 --> 00:13:26,160
+density determination thanks to the
+
+360
+00:13:24,959 --> 00:13:27,760
+collaboration of
+
+361
+00:13:26,160 --> 00:13:29,279
+my colleague pierre camps from the
+
+362
+00:13:27,760 --> 00:13:31,760
+montpelier university
+
+363
+00:13:29,279 --> 00:13:32,320
+that used the multi-specimen method to
+
+364
+00:13:31,760 --> 00:13:34,880
+obtain
+
+365
+00:13:32,320 --> 00:13:35,519
+argue density results so actually is the
+
+366
+00:13:34,880 --> 00:13:38,079
+oldest
+
+367
+00:13:35,519 --> 00:13:40,560
+full vector data that we'll have from
+
+368
+00:13:38,079 --> 00:13:43,440
+italy so far
+
+369
+00:13:40,560 --> 00:13:44,320
+okay going back to our data set as you
+
+370
+00:13:43,440 --> 00:13:46,560
+can imagine
+
+371
+00:13:44,320 --> 00:13:49,199
+we have concentrated our interest in the
+
+372
+00:13:46,560 --> 00:13:49,839
+last three thousand years as for order
+
+373
+00:13:49,199 --> 00:13:52,560
+periods
+
+374
+00:13:49,839 --> 00:13:53,680
+the data are extremely scarce to make
+
+375
+00:13:52,560 --> 00:13:56,480
+any further
+
+376
+00:13:53,680 --> 00:13:58,720
+considerations and we've tried to apply
+
+377
+00:13:56,480 --> 00:13:59,360
+some selection criteria in order to
+
+378
+00:13:58,720 --> 00:14:02,800
+collect
+
+379
+00:13:59,360 --> 00:14:05,120
+the most reliable data
+
+380
+00:14:02,800 --> 00:14:07,920
+of course there is a great discussion
+
+381
+00:14:05,120 --> 00:14:11,199
+which are the best selection criteria to
+
+382
+00:14:07,920 --> 00:14:13,440
+to apply definitely if we apply very
+
+383
+00:14:11,199 --> 00:14:15,279
+strict selection criteria that means
+
+384
+00:14:13,440 --> 00:14:18,480
+that we will keep the best
+
+385
+00:14:15,279 --> 00:14:19,279
+absolutely the best data but at the same
+
+386
+00:14:18,480 --> 00:14:21,920
+time
+
+387
+00:14:19,279 --> 00:14:22,480
+it's most probably that we will erase or
+
+388
+00:14:21,920 --> 00:14:25,839
+reject
+
+389
+00:14:22,480 --> 00:14:26,320
+most of our data so in this case we try
+
+390
+00:14:25,839 --> 00:14:28,639
+to
+
+391
+00:14:26,320 --> 00:14:30,720
+to find a compromise and we have applied
+
+392
+00:14:28,639 --> 00:14:33,360
+a selection criteria we have
+
+393
+00:14:30,720 --> 00:14:34,639
+selected those data that come from a
+
+394
+00:14:33,360 --> 00:14:37,680
+number of specimens
+
+395
+00:14:34,639 --> 00:14:40,240
+equal or higher than five and
+
+396
+00:14:37,680 --> 00:14:41,360
+um i have to say that going back to the
+
+397
+00:14:40,240 --> 00:14:43,680
+original
+
+398
+00:14:41,360 --> 00:14:44,800
+publications very often it's not so
+
+399
+00:14:43,680 --> 00:14:46,720
+clear
+
+400
+00:14:44,800 --> 00:14:49,680
+the number of specimens and the number
+
+401
+00:14:46,720 --> 00:14:53,440
+of independently oriented samples
+
+402
+00:14:49,680 --> 00:14:56,399
+so in this case we have chosen five
+
+403
+00:14:53,440 --> 00:14:57,600
+a quite large number of spacemen hoping
+
+404
+00:14:56,399 --> 00:14:59,839
+that this way
+
+405
+00:14:57,600 --> 00:15:00,720
+most of our results will not come from
+
+406
+00:14:59,839 --> 00:15:04,000
+just one
+
+407
+00:15:00,720 --> 00:15:06,160
+single sample okay some selection
+
+408
+00:15:04,000 --> 00:15:08,720
+criteria based on the alpha 95
+
+409
+00:15:06,160 --> 00:15:09,839
+angle of confidence and the standard
+
+410
+00:15:08,720 --> 00:15:12,560
+deviation
+
+411
+00:15:09,839 --> 00:15:13,839
+the age error was equal or higher than
+
+412
+00:15:12,560 --> 00:15:16,160
+200 years
+
+413
+00:15:13,839 --> 00:15:18,000
+and we also paid particular attention on
+
+414
+00:15:16,160 --> 00:15:21,199
+the acute density protocol
+
+415
+00:15:18,000 --> 00:15:24,000
+applied i have to say that we have
+
+416
+00:15:21,199 --> 00:15:25,839
+rejected all volcanic rocks that come
+
+417
+00:15:24,000 --> 00:15:27,920
+from
+
+418
+00:15:25,839 --> 00:15:30,320
+eruptions that their age has been
+
+419
+00:15:27,920 --> 00:15:33,680
+questioned or it's not so reliable
+
+420
+00:15:30,320 --> 00:15:36,160
+and all those data that were missing
+
+421
+00:15:33,680 --> 00:15:38,839
+metadata information in order to be able
+
+422
+00:15:36,160 --> 00:15:40,880
+to evaluate the
+
+423
+00:15:38,839 --> 00:15:42,800
+reliability asking
+
+424
+00:15:40,880 --> 00:15:45,519
+you can imagine after this election
+
+425
+00:15:42,800 --> 00:15:47,839
+criteria a tragedy happened
+
+426
+00:15:45,519 --> 00:15:49,279
+all great majority of our data were
+
+427
+00:15:47,839 --> 00:15:52,480
+rejected
+
+428
+00:15:49,279 --> 00:15:55,759
+so for this reason we have decided
+
+429
+00:15:52,480 --> 00:15:58,720
+to try to enhance italian data set
+
+430
+00:15:55,759 --> 00:16:01,120
+with data from nearby countries and
+
+431
+00:15:58,720 --> 00:16:03,199
+mostly cover the time periods that were
+
+432
+00:16:01,120 --> 00:16:06,320
+fully investigated in italy with
+
+433
+00:16:03,199 --> 00:16:08,720
+data coming from sites that are included
+
+434
+00:16:06,320 --> 00:16:12,079
+in 1 000 kilometers radius
+
+435
+00:16:08,720 --> 00:16:13,600
+around the terrible mutable is situated
+
+436
+00:16:12,079 --> 00:16:15,519
+here illustrated with the red
+
+437
+00:16:13,600 --> 00:16:17,440
+star it's situated more or less in the
+
+438
+00:16:15,519 --> 00:16:21,279
+center of italy
+
+439
+00:16:17,440 --> 00:16:23,440
+and using this data from the nearby
+
+440
+00:16:21,279 --> 00:16:25,440
+countries applying the same selection
+
+441
+00:16:23,440 --> 00:16:29,360
+criteria with those from the italian
+
+442
+00:16:25,440 --> 00:16:30,480
+data set who have a total of 594
+
+443
+00:16:29,360 --> 00:16:33,600
+directional
+
+444
+00:16:30,480 --> 00:16:36,079
+a data and 94 intensity high quality
+
+445
+00:16:33,600 --> 00:16:38,480
+reference data
+
+446
+00:16:36,079 --> 00:16:39,600
+if you have a look on this data you can
+
+447
+00:16:38,480 --> 00:16:41,440
+see here
+
+448
+00:16:39,600 --> 00:16:43,040
+these are the with the light blue are
+
+449
+00:16:41,440 --> 00:16:46,480
+the data coming from
+
+450
+00:16:43,040 --> 00:16:49,360
+italian archaeomagnetic sites both
+
+451
+00:16:46,480 --> 00:16:49,839
+archaeological sites and volcanic rocks
+
+452
+00:16:49,360 --> 00:16:52,959
+while
+
+453
+00:16:49,839 --> 00:16:54,639
+with the open dark blue dots are the
+
+454
+00:16:52,959 --> 00:16:57,120
+data from the nearby
+
+455
+00:16:54,639 --> 00:16:58,880
+countries and you can see that we have a
+
+456
+00:16:57,120 --> 00:17:00,639
+quite nice agreement
+
+457
+00:16:58,880 --> 00:17:03,279
+which means that most more or less our
+
+458
+00:17:00,639 --> 00:17:05,919
+selection container seems to have bored
+
+459
+00:17:03,279 --> 00:17:06,640
+and we can nicely see some clear
+
+460
+00:17:05,919 --> 00:17:10,240
+features
+
+461
+00:17:06,640 --> 00:17:12,160
+of the geomagnetic field vector
+
+462
+00:17:10,240 --> 00:17:13,520
+as far as the directional data are
+
+463
+00:17:12,160 --> 00:17:15,839
+concerned
+
+464
+00:17:13,520 --> 00:17:18,400
+if we have a more careful look on the
+
+465
+00:17:15,839 --> 00:17:19,839
+density data we can still see that there
+
+466
+00:17:18,400 --> 00:17:23,679
+are some time periods
+
+467
+00:17:19,839 --> 00:17:27,360
+where very few data are available mostly
+
+468
+00:17:23,679 --> 00:17:28,319
+periods before 400 bc but also have an
+
+469
+00:17:27,360 --> 00:17:32,480
+important gap
+
+470
+00:17:28,319 --> 00:17:36,400
+around 880.
+
+471
+00:17:32,480 --> 00:17:38,720
+using this data as reference data
+
+472
+00:17:36,400 --> 00:17:39,919
+and thanks to the precious help of
+
+473
+00:17:38,720 --> 00:17:43,360
+felipe lanos
+
+474
+00:17:39,919 --> 00:17:46,000
+i will have constructed a continuous
+
+475
+00:17:43,360 --> 00:17:47,360
+smooth circular variation cover curve
+
+476
+00:17:46,000 --> 00:17:50,160
+covering the last three
+
+477
+00:17:47,360 --> 00:17:51,600
+three thousand years by using the basin
+
+478
+00:17:50,160 --> 00:17:54,320
+statistics
+
+479
+00:17:51,600 --> 00:17:55,280
+as you can see and of course it is
+
+480
+00:17:54,320 --> 00:17:57,120
+expected
+
+481
+00:17:55,280 --> 00:17:59,280
+for the time periods where we have a lot
+
+482
+00:17:57,120 --> 00:18:01,520
+of data the reference
+
+483
+00:17:59,280 --> 00:18:03,039
+reference curves are well constrained
+
+484
+00:18:01,520 --> 00:18:06,240
+and accompanied by
+
+485
+00:18:03,039 --> 00:18:08,240
+um by small uh error envelopes
+
+486
+00:18:06,240 --> 00:18:09,280
+one it will have a low at the time
+
+487
+00:18:08,240 --> 00:18:12,400
+periods that you have
+
+488
+00:18:09,280 --> 00:18:13,200
+a very few data the curves are not well
+
+489
+00:18:12,400 --> 00:18:16,880
+constrained
+
+490
+00:18:13,200 --> 00:18:21,039
+and are accompanied by quite large
+
+491
+00:18:16,880 --> 00:18:23,840
+error envelopes if we compare now these
+
+492
+00:18:21,039 --> 00:18:26,000
+curves with some of the regional and
+
+493
+00:18:23,840 --> 00:18:29,520
+global to magnetic field models
+
+494
+00:18:26,000 --> 00:18:33,039
+we can see we can see a general good
+
+495
+00:18:29,520 --> 00:18:35,200
+agreement for most of uh of the period
+
+496
+00:18:33,039 --> 00:18:37,120
+however there are also some important
+
+497
+00:18:35,200 --> 00:18:40,320
+differences as for example
+
+498
+00:18:37,120 --> 00:18:42,320
+this um this decrease
+
+499
+00:18:40,320 --> 00:18:44,400
+in declination that is quite well
+
+500
+00:18:42,320 --> 00:18:47,120
+constrained by the italian curve
+
+501
+00:18:44,400 --> 00:18:47,919
+but we cannot clearly see in the models
+
+502
+00:18:47,120 --> 00:18:50,640
+or some
+
+503
+00:18:47,919 --> 00:18:51,440
+discrepancies also in the actual density
+
+504
+00:18:50,640 --> 00:18:53,840
+curves
+
+505
+00:18:51,440 --> 00:18:56,240
+that of course mainly due to the small
+
+506
+00:18:53,840 --> 00:19:00,480
+number of the italian reference data
+
+507
+00:18:56,240 --> 00:19:03,520
+available so for some periods
+
+508
+00:19:00,480 --> 00:19:05,280
+so i would just
+
+509
+00:19:03,520 --> 00:19:07,360
+i would like also to have a small
+
+510
+00:19:05,280 --> 00:19:09,760
+reference or to magnetic dating
+
+511
+00:19:07,360 --> 00:19:11,520
+as one of the most well-known
+
+512
+00:19:09,760 --> 00:19:14,559
+applications of arctic magnetism
+
+513
+00:19:11,520 --> 00:19:16,880
+is arco magnetic dating and i would like
+
+514
+00:19:14,559 --> 00:19:19,280
+to show you this uh recent the results
+
+515
+00:19:16,880 --> 00:19:21,679
+of this recent study of this
+
+516
+00:19:19,280 --> 00:19:23,679
+king that has been excavated at canoza
+
+517
+00:19:21,679 --> 00:19:26,720
+de gulia in the southern part
+
+518
+00:19:23,679 --> 00:19:29,280
+of italy actually this is a sandwich
+
+519
+00:19:26,720 --> 00:19:30,320
+that was carried out almost a year ago
+
+520
+00:19:29,280 --> 00:19:34,400
+on october
+
+521
+00:19:30,320 --> 00:19:36,960
+and 2019 and it's actually my last
+
+522
+00:19:34,400 --> 00:19:38,000
+sampling campaign before being closed at
+
+523
+00:19:36,960 --> 00:19:41,039
+home for several
+
+524
+00:19:38,000 --> 00:19:43,440
+months due to this unfortunate covet
+
+525
+00:19:41,039 --> 00:19:44,320
+maintaining situations so i'm happy to
+
+526
+00:19:43,440 --> 00:19:46,799
+show you
+
+527
+00:19:44,320 --> 00:19:48,080
+these results it's a sampling cam
+
+528
+00:19:46,799 --> 00:19:50,640
+performed in a
+
+529
+00:19:48,080 --> 00:19:52,400
+collaboration with dr italum tony from
+
+530
+00:19:50,640 --> 00:19:54,240
+surprise details of pojo and the
+
+531
+00:19:52,400 --> 00:19:56,400
+archaeologist from
+
+532
+00:19:54,240 --> 00:19:58,320
+cooperativa archaeology that i would
+
+533
+00:19:56,400 --> 00:19:58,880
+like to to thank a lot for giving me
+
+534
+00:19:58,320 --> 00:20:00,880
+this
+
+535
+00:19:58,880 --> 00:20:02,640
+opportunity to collect material from
+
+536
+00:20:00,880 --> 00:20:05,760
+this um
+
+537
+00:20:02,640 --> 00:20:07,280
+from this structure this is a site that
+
+538
+00:20:05,760 --> 00:20:08,799
+has been excavated and has been
+
+539
+00:20:07,280 --> 00:20:11,600
+discovered as often
+
+540
+00:20:08,799 --> 00:20:12,000
+happens during the last day decades due
+
+541
+00:20:11,600 --> 00:20:14,480
+to
+
+542
+00:20:12,000 --> 00:20:15,679
+the it's a rescue excavation and found
+
+543
+00:20:14,480 --> 00:20:18,320
+due to them
+
+544
+00:20:15,679 --> 00:20:18,960
+walks for a construction of a road
+
+545
+00:20:18,320 --> 00:20:23,120
+between
+
+546
+00:20:18,960 --> 00:20:26,480
+android and canosa and as often happens
+
+547
+00:20:23,120 --> 00:20:28,559
+very often before the the start of
+
+548
+00:20:26,480 --> 00:20:29,679
+these works there was a preliminary
+
+549
+00:20:28,559 --> 00:20:32,559
+archaeological
+
+550
+00:20:29,679 --> 00:20:34,559
+investigation and they were found three
+
+551
+00:20:32,559 --> 00:20:35,840
+kings i will show just the results from
+
+552
+00:20:34,559 --> 00:20:37,679
+the first kill
+
+553
+00:20:35,840 --> 00:20:39,200
+that as you can see is quite well
+
+554
+00:20:37,679 --> 00:20:41,200
+preserved keen
+
+555
+00:20:39,200 --> 00:20:42,880
+here we have the performium here is the
+
+556
+00:20:41,200 --> 00:20:45,919
+main combustion chamber and
+
+557
+00:20:42,880 --> 00:20:47,919
+this nice arch that we still preserved
+
+558
+00:20:45,919 --> 00:20:50,720
+and this king was most probably used for
+
+559
+00:20:47,919 --> 00:20:53,520
+the production of brakes
+
+560
+00:20:50,720 --> 00:20:54,320
+for archaeomagnetic investigation we
+
+561
+00:20:53,520 --> 00:20:58,000
+have taken
+
+562
+00:20:54,320 --> 00:20:58,640
+15 bricks from the main combustion
+
+563
+00:20:58,000 --> 00:21:01,039
+chamber
+
+564
+00:20:58,640 --> 00:21:02,799
+all of them oriented in situ with
+
+565
+00:21:01,039 --> 00:21:04,400
+magnetic and solar compass and
+
+566
+00:21:02,799 --> 00:21:06,400
+infiniometer
+
+567
+00:21:04,400 --> 00:21:08,320
+here you can see some of the results
+
+568
+00:21:06,400 --> 00:21:10,799
+obtained or have a nice
+
+569
+00:21:08,320 --> 00:21:12,320
+and strong magnetization nice linear
+
+570
+00:21:10,799 --> 00:21:14,400
+zener diagrams
+
+571
+00:21:12,320 --> 00:21:16,559
+and we have obtained a mean direction
+
+572
+00:21:14,400 --> 00:21:20,000
+well constrained mean
+
+573
+00:21:16,559 --> 00:21:22,640
+direction that then we have used to date
+
+574
+00:21:20,000 --> 00:21:23,039
+the the last heating of course the last
+
+575
+00:21:22,640 --> 00:21:25,440
+use
+
+576
+00:21:23,039 --> 00:21:27,919
+of the skin by comparison with the new
+
+577
+00:21:25,440 --> 00:21:30,000
+italian circular variation curves
+
+578
+00:21:27,919 --> 00:21:30,960
+and here you can see the comparison of
+
+579
+00:21:30,000 --> 00:21:33,760
+the declination
+
+580
+00:21:30,960 --> 00:21:36,000
+inclination and then here the
+
+581
+00:21:33,760 --> 00:21:38,320
+combination to probability density
+
+582
+00:21:36,000 --> 00:21:39,760
+and for the dating we have used the
+
+583
+00:21:38,320 --> 00:21:42,480
+archaeogetic matlab
+
+584
+00:21:39,760 --> 00:21:43,520
+tool and we can see that we have three
+
+585
+00:21:42,480 --> 00:21:45,840
+possible
+
+586
+00:21:43,520 --> 00:21:47,360
+dated intervals that based on the
+
+587
+00:21:45,840 --> 00:21:49,919
+archaeological context
+
+588
+00:21:47,360 --> 00:21:50,640
+of this structure we can say that most
+
+589
+00:21:49,919 --> 00:21:54,640
+probably
+
+590
+00:21:50,640 --> 00:21:59,200
+it was last used sometime between 480
+
+591
+00:21:54,640 --> 00:22:01,440
+and 530 the good thing with this
+
+592
+00:21:59,200 --> 00:22:03,120
+with this structure is that the
+
+593
+00:22:01,440 --> 00:22:04,240
+archaeologists going on with their
+
+594
+00:22:03,120 --> 00:22:06,960
+excavation
+
+595
+00:22:04,240 --> 00:22:07,679
+they have found in the brief volume of
+
+596
+00:22:06,960 --> 00:22:10,880
+this
+
+597
+00:22:07,679 --> 00:22:11,600
+kiln this characteristic rectangular
+
+598
+00:22:10,880 --> 00:22:14,720
+brick
+
+599
+00:22:11,600 --> 00:22:18,919
+with this nice sign of p that is
+
+600
+00:22:14,720 --> 00:22:21,200
+a quite a characteristic it's an
+
+601
+00:22:18,919 --> 00:22:21,919
+identification sign of the production
+
+602
+00:22:21,200 --> 00:22:24,960
+workshop
+
+603
+00:22:21,919 --> 00:22:26,080
+and it can further uh confirms that this
+
+604
+00:22:24,960 --> 00:22:29,039
+king belongs
+
+605
+00:22:26,080 --> 00:22:29,679
+more or less to the 5th to 6th century
+
+606
+00:22:29,039 --> 00:22:31,520
+80
+
+607
+00:22:29,679 --> 00:22:33,919
+which means that we are more or less in
+
+608
+00:22:31,520 --> 00:22:36,000
+the correct way
+
+609
+00:22:33,919 --> 00:22:37,520
+concluding if i would like to say a few
+
+610
+00:22:36,000 --> 00:22:40,480
+words about the future
+
+611
+00:22:37,520 --> 00:22:41,440
+i think the best thing i can say is that
+
+612
+00:22:40,480 --> 00:22:43,919
+there is still
+
+613
+00:22:41,440 --> 00:22:44,960
+a lot of work that we have to do
+
+614
+00:22:43,919 --> 00:22:47,679
+definitely
+
+615
+00:22:44,960 --> 00:22:48,559
+future research in italy should be
+
+616
+00:22:47,679 --> 00:22:52,080
+focused
+
+617
+00:22:48,559 --> 00:22:54,640
+on obtaining new high quality data
+
+618
+00:22:52,080 --> 00:22:55,919
+if possible reference data from time
+
+619
+00:22:54,640 --> 00:22:59,120
+periods before
+
+620
+00:22:55,919 --> 00:23:02,240
+the first millennium bc where the data
+
+621
+00:22:59,120 --> 00:23:04,320
+will have up to now are very scarce it
+
+622
+00:23:02,240 --> 00:23:06,559
+would be particularly important to
+
+623
+00:23:04,320 --> 00:23:08,480
+to try to obtain more high quality
+
+624
+00:23:06,559 --> 00:23:10,880
+archery density data
+
+625
+00:23:08,480 --> 00:23:11,840
+and it will be interesting to have more
+
+626
+00:23:10,880 --> 00:23:14,320
+data about
+
+627
+00:23:11,840 --> 00:23:16,799
+the beginning of the first millennium bc
+
+628
+00:23:14,320 --> 00:23:17,200
+in order to try to investigate and to
+
+629
+00:23:16,799 --> 00:23:20,400
+see
+
+630
+00:23:17,200 --> 00:23:21,039
+if the iron age levantine anomaly is
+
+631
+00:23:20,400 --> 00:23:24,080
+also
+
+632
+00:23:21,039 --> 00:23:25,679
+seen in the italian peninsula and i
+
+633
+00:23:24,080 --> 00:23:26,799
+would say that would be also very
+
+634
+00:23:25,679 --> 00:23:30,080
+important to have
+
+635
+00:23:26,799 --> 00:23:30,559
+full vector uh geomagnetic field data
+
+636
+00:23:30,080 --> 00:23:33,760
+from
+
+637
+00:23:30,559 --> 00:23:36,080
+the same well-dated material
+
+638
+00:23:33,760 --> 00:23:36,960
+definitely a particular rotation should
+
+639
+00:23:36,080 --> 00:23:39,679
+be always
+
+640
+00:23:36,960 --> 00:23:40,159
+paid on the dating of the reference data
+
+641
+00:23:39,679 --> 00:23:43,520
+that
+
+642
+00:23:40,159 --> 00:23:46,320
+is very important and magnetic data sets
+
+643
+00:23:43,520 --> 00:23:47,679
+databases and live organisms that should
+
+644
+00:23:46,320 --> 00:23:51,200
+be continuously
+
+645
+00:23:47,679 --> 00:23:54,159
+updated and fitted
+
+646
+00:23:51,200 --> 00:23:55,679
+here are some references and i would
+
+647
+00:23:54,159 --> 00:23:56,640
+like to thank you very much for your
+
+648
+00:23:55,679 --> 00:23:58,799
+attention
+
+649
+00:23:56,640 --> 00:24:00,799
+here you can see a photo from torino of
+
+650
+00:23:58,799 --> 00:24:01,840
+course it has nothing to do with dark
+
+651
+00:24:00,799 --> 00:24:03,440
+magnetism but
+
+652
+00:24:01,840 --> 00:24:05,840
+during these difficult times that we
+
+653
+00:24:03,440 --> 00:24:08,640
+cannot travel i thought that
+
+654
+00:24:05,840 --> 00:24:09,279
+magnet seminars could also contribute on
+
+655
+00:24:08,640 --> 00:24:11,440
+make us
+
+656
+00:24:09,279 --> 00:24:18,559
+traveling a little bit around the world
+
+657
+00:24:11,440 --> 00:24:21,679
+thank you so much for your attention
+
+658
+00:24:18,559 --> 00:24:24,080
+thank you so much here we um
+
+659
+00:24:21,679 --> 00:24:24,880
+thank you a big round of applause for
+
+660
+00:24:24,080 --> 00:24:28,000
+every kia
+
+661
+00:24:24,880 --> 00:24:30,720
+thanks for your presentation um
+
+662
+00:24:28,000 --> 00:24:31,600
+so if anybody has a question can drop on
+
+663
+00:24:30,720 --> 00:24:35,039
+the
+
+664
+00:24:31,600 --> 00:24:38,159
+chat box or raise their hands
+
+665
+00:24:35,039 --> 00:24:41,440
+and i'm sure fdk would be happy to
+
+666
+00:24:38,159 --> 00:24:41,440
+answer your questions
+
+667
+00:24:43,279 --> 00:24:46,880
+so i will jump in with a quick question
+
+668
+00:24:45,200 --> 00:24:48,000
+because i i as a host i can't actually
+
+669
+00:24:46,880 --> 00:24:51,600
+raise my hand
+
+670
+00:24:48,000 --> 00:24:55,600
+but um i i kind of noticed that there is
+
+671
+00:24:51,600 --> 00:24:58,240
+um a bit of a split uh obviously in
+
+672
+00:24:55,600 --> 00:25:00,000
+in the distribution of the data north
+
+673
+00:24:58,240 --> 00:25:03,360
+south because
+
+674
+00:25:00,000 --> 00:25:06,559
+vesuvius and aetna are are
+
+675
+00:25:03,360 --> 00:25:09,919
+located in southern italy and
+
+676
+00:25:06,559 --> 00:25:12,960
+the volcanic data tend to
+
+677
+00:25:09,919 --> 00:25:14,159
+to come from the younger ages and given
+
+678
+00:25:12,960 --> 00:25:16,080
+that that essentially your
+
+679
+00:25:14,159 --> 00:25:17,360
+your data sampling is across a diameter
+
+680
+00:25:16,080 --> 00:25:19,600
+of about 2 000
+
+681
+00:25:17,360 --> 00:25:20,880
+kilometers i'm wondering is there is
+
+682
+00:25:19,600 --> 00:25:23,520
+there any difference
+
+683
+00:25:20,880 --> 00:25:24,559
+uh between the northern regions and the
+
+684
+00:25:23,520 --> 00:25:27,520
+southern regions
+
+685
+00:25:24,559 --> 00:25:28,880
+and can you pick out more fine scale
+
+686
+00:25:27,520 --> 00:25:31,440
+detail
+
+687
+00:25:28,880 --> 00:25:32,960
+in in the data sets or is there not
+
+688
+00:25:31,440 --> 00:25:36,320
+enough data to really look at
+
+689
+00:25:32,960 --> 00:25:38,799
+that north-south divide
+
+690
+00:25:36,320 --> 00:25:40,400
+now actually i have not noticed any any
+
+691
+00:25:38,799 --> 00:25:42,320
+systematic or regular
+
+692
+00:25:40,400 --> 00:25:43,600
+differences between the the north and
+
+693
+00:25:42,320 --> 00:25:46,720
+the site
+
+694
+00:25:43,600 --> 00:25:48,960
+and the the southern part and
+
+695
+00:25:46,720 --> 00:25:50,080
+i have to say that there is not even
+
+696
+00:25:48,960 --> 00:25:53,200
+very
+
+697
+00:25:50,080 --> 00:25:53,919
+big differences between uh automagnetic
+
+698
+00:25:53,200 --> 00:25:56,000
+data from
+
+699
+00:25:53,919 --> 00:25:56,960
+archaeological material and volcanic
+
+700
+00:25:56,000 --> 00:26:00,640
+rocks
+
+701
+00:25:56,960 --> 00:26:01,600
+what then i i would have tried also to
+
+702
+00:26:00,640 --> 00:26:05,039
+use a smaller
+
+703
+00:26:01,600 --> 00:26:07,600
+radius to to be more concentrated to the
+
+704
+00:26:05,039 --> 00:26:10,880
+italian territory but unfortunately
+
+705
+00:26:07,600 --> 00:26:11,840
+it didn't enrich a lot our data set you
+
+706
+00:26:10,880 --> 00:26:15,279
+can see who have
+
+707
+00:26:11,840 --> 00:26:17,120
+huge huge missing of data but
+
+708
+00:26:15,279 --> 00:26:18,400
+it is interesting however to know this
+
+709
+00:26:17,120 --> 00:26:20,640
+is the great as
+
+710
+00:26:18,400 --> 00:26:23,120
+greg said most of the volcanic rocks
+
+711
+00:26:20,640 --> 00:26:26,159
+come from recent um
+
+712
+00:26:23,120 --> 00:26:27,840
+more recent time periods and uh if you
+
+713
+00:26:26,159 --> 00:26:29,840
+have a look here
+
+714
+00:26:27,840 --> 00:26:31,360
+we can see that even the data coming
+
+715
+00:26:29,840 --> 00:26:34,720
+from the very recent
+
+716
+00:26:31,360 --> 00:26:37,279
+periods almost the last few hundred
+
+717
+00:26:34,720 --> 00:26:38,720
+years still will have a great discretion
+
+718
+00:26:37,279 --> 00:26:40,880
+of the data
+
+719
+00:26:38,720 --> 00:26:42,159
+as far as the density results are
+
+720
+00:26:40,880 --> 00:26:43,760
+concerned
+
+721
+00:26:42,159 --> 00:26:45,360
+a lot of these data that you can see
+
+722
+00:26:43,760 --> 00:26:47,440
+here however come from
+
+723
+00:26:45,360 --> 00:26:48,559
+qualitative eruptions and the many
+
+724
+00:26:47,440 --> 00:26:52,559
+researchers have used
+
+725
+00:26:48,559 --> 00:26:55,919
+these eruptions to to test their density
+
+726
+00:26:52,559 --> 00:26:58,240
+results or intensity techniques
+
+727
+00:26:55,919 --> 00:26:59,520
+however yes you have a lot of dispersion
+
+728
+00:26:58,240 --> 00:27:02,080
+and i also have to
+
+729
+00:26:59,520 --> 00:27:04,000
+to say that the tragedy that happened
+
+730
+00:27:02,080 --> 00:27:07,760
+during the rejection of the data
+
+731
+00:27:04,000 --> 00:27:10,080
+due to quality criteria really um
+
+732
+00:27:07,760 --> 00:27:12,000
+it was very important as far as the
+
+733
+00:27:10,080 --> 00:27:13,760
+density data are concerned
+
+734
+00:27:12,000 --> 00:27:21,840
+and mainly the density data from
+
+735
+00:27:13,760 --> 00:27:21,840
+volcanic rocks
+
+736
+00:27:22,320 --> 00:27:27,360
+so do we have uh any uh further
+
+737
+00:27:24,880 --> 00:27:27,360
+questions
+
+738
+00:27:29,200 --> 00:27:32,480
+there is one in the chat that i can read
+
+739
+00:27:32,080 --> 00:27:36,159
+yeah
+
+740
+00:27:32,480 --> 00:27:38,880
+oh you go so it's uh by elizabeth
+
+741
+00:27:36,159 --> 00:27:40,799
+uh sandra elizabeth i'm sorry the usual
+
+742
+00:27:38,880 --> 00:27:42,840
+difference in thermal stability
+
+743
+00:27:40,799 --> 00:27:44,240
+and therefore also in the stability
+
+744
+00:27:42,840 --> 00:27:46,880
+reliability
+
+745
+00:27:44,240 --> 00:27:47,360
+in the data obtained from kills for
+
+746
+00:27:46,880 --> 00:27:49,360
+breath
+
+747
+00:27:47,360 --> 00:27:51,679
+for bread baking brick production and
+
+748
+00:27:49,360 --> 00:27:54,720
+shells
+
+749
+00:27:51,679 --> 00:27:56,880
+yes the the stability of thermal
+
+750
+00:27:54,720 --> 00:28:00,000
+remnants magnetization of kings
+
+751
+00:27:56,880 --> 00:28:02,080
+really is really excellent in
+
+752
+00:28:00,000 --> 00:28:04,240
+almost all material that i have studied
+
+753
+00:28:02,080 --> 00:28:06,960
+but also the material from
+
+754
+00:28:04,240 --> 00:28:08,720
+literature and data from literature they
+
+755
+00:28:06,960 --> 00:28:10,559
+are very very stable
+
+756
+00:28:08,720 --> 00:28:11,840
+and i have to say that i have noticed
+
+757
+00:28:10,559 --> 00:28:15,039
+also the quality of their
+
+758
+00:28:11,840 --> 00:28:18,320
+intensity data coming from from
+
+759
+00:28:15,039 --> 00:28:23,279
+bricks and from
+
+760
+00:28:18,320 --> 00:28:23,279
+kings is really good it's really good
+
+761
+00:28:25,840 --> 00:28:30,000
+they're not they're very stable probably
+
+762
+00:28:28,240 --> 00:28:32,000
+heating and reheating and
+
+763
+00:28:30,000 --> 00:28:34,480
+high temperatures make them particularly
+
+764
+00:28:32,000 --> 00:28:34,480
+stable
+
+765
+00:28:36,240 --> 00:28:39,840
+okay thank you i can see richard holm
+
+766
+00:28:38,799 --> 00:28:41,600
+waving his hands
+
+767
+00:28:39,840 --> 00:28:43,039
+uh his physical hand not the electronic
+
+768
+00:28:41,600 --> 00:28:46,399
+hand yeah
+
+769
+00:28:43,039 --> 00:28:49,120
+um hive doc here um
+
+770
+00:28:46,399 --> 00:28:50,799
+i um have a slightly different view
+
+771
+00:28:49,120 --> 00:28:51,520
+generally on selection criteria than
+
+772
+00:28:50,799 --> 00:28:54,960
+many
+
+773
+00:28:51,520 --> 00:28:56,640
+um when you do your model what happens
+
+774
+00:28:54,960 --> 00:28:59,360
+if you test all the data you've rejected
+
+775
+00:28:56,640 --> 00:29:02,960
+against your model
+
+776
+00:28:59,360 --> 00:29:03,840
+well the truth is that by rejecting our
+
+777
+00:29:02,960 --> 00:29:06,960
+data
+
+778
+00:29:03,840 --> 00:29:10,000
+what happened is that we mostly rejected
+
+779
+00:29:06,960 --> 00:29:13,520
+data that were clear outliers
+
+780
+00:29:10,000 --> 00:29:16,480
+and data that even with them
+
+781
+00:29:13,520 --> 00:29:17,679
+with easy observation would be rejected
+
+782
+00:29:16,480 --> 00:29:21,360
+because they were really
+
+783
+00:29:17,679 --> 00:29:24,559
+outside if we take them out
+
+784
+00:29:21,360 --> 00:29:27,279
+the difference is not such so important
+
+785
+00:29:24,559 --> 00:29:29,360
+it's not so important what the we
+
+786
+00:29:27,279 --> 00:29:32,240
+noticed however is that the selection
+
+787
+00:29:29,360 --> 00:29:36,159
+criteria on the density data
+
+788
+00:29:32,240 --> 00:29:41,840
+it is much improved then
+
+789
+00:29:36,159 --> 00:29:41,840
+the agreement among the available data
+
+790
+00:29:42,480 --> 00:29:50,720
+thank you you're welcome
+
+791
+00:29:46,480 --> 00:29:50,720
+so we have a question by shelby
+
+792
+00:29:51,360 --> 00:29:56,799
+so in the chat and she asked when you
+
+793
+00:29:54,320 --> 00:29:58,880
+were doing their archival work
+
+794
+00:29:56,799 --> 00:30:02,480
+were you reanalyzing their vector
+
+795
+00:29:58,880 --> 00:30:04,720
+average or accepting them as it is
+
+796
+00:30:02,480 --> 00:30:06,320
+i didn't get when i i revised the
+
+797
+00:30:04,720 --> 00:30:08,960
+previous data if i
+
+798
+00:30:06,320 --> 00:30:09,679
+revised also the vectors no no no no i
+
+799
+00:30:08,960 --> 00:30:12,960
+have not
+
+800
+00:30:09,679 --> 00:30:16,000
+taken the the original
+
+801
+00:30:12,960 --> 00:30:17,679
+uh measurements i i had no access we had
+
+802
+00:30:16,000 --> 00:30:18,480
+no access of the original measurements
+
+803
+00:30:17,679 --> 00:30:20,799
+we just
+
+804
+00:30:18,480 --> 00:30:21,520
+evaluated the information given in the
+
+805
+00:30:20,799 --> 00:30:25,360
+original
+
+806
+00:30:21,520 --> 00:30:26,960
+and papers saying about the reliability
+
+807
+00:30:25,360 --> 00:30:28,240
+how many specimens
+
+808
+00:30:26,960 --> 00:30:30,080
+if there were doubts on the
+
+809
+00:30:28,240 --> 00:30:33,600
+archaeological age
+
+810
+00:30:30,080 --> 00:30:35,440
+if other works later on changed the
+
+811
+00:30:33,600 --> 00:30:37,919
+previous psychological age as
+
+812
+00:30:35,440 --> 00:30:38,720
+sometimes happens also because as far
+
+813
+00:30:37,919 --> 00:30:40,320
+it's the
+
+814
+00:30:38,720 --> 00:30:42,159
+reliability of dating it does not
+
+815
+00:30:40,320 --> 00:30:42,720
+concern only the volcanic rocks very
+
+816
+00:30:42,159 --> 00:30:44,960
+often
+
+817
+00:30:42,720 --> 00:30:46,080
+archaeological excavations that go on
+
+818
+00:30:44,960 --> 00:30:49,360
+more data come
+
+819
+00:30:46,080 --> 00:30:50,320
+up and so the initial evaluation of the
+
+820
+00:30:49,360 --> 00:30:53,039
+dating may be
+
+821
+00:30:50,320 --> 00:30:54,240
+changed or reevaluated as far as more
+
+822
+00:30:53,039 --> 00:30:58,399
+dating results come
+
+823
+00:30:54,240 --> 00:31:00,480
+up more excavation findings come up
+
+824
+00:30:58,399 --> 00:31:02,960
+that's why i say that the database are a
+
+825
+00:31:00,480 --> 00:31:06,799
+live organism should be continuously
+
+826
+00:31:02,960 --> 00:31:06,799
+feed it and update it
+
+827
+00:31:07,760 --> 00:31:10,799
+so um so i just have a follow-up
+
+828
+00:31:10,320 --> 00:31:14,960
+question
+
+829
+00:31:10,799 --> 00:31:17,360
+so the the do you reject the site
+
+830
+00:31:14,960 --> 00:31:18,159
+or the studies that have re-evaluated
+
+831
+00:31:17,360 --> 00:31:21,200
+the dates
+
+832
+00:31:18,159 --> 00:31:23,519
+or you just use the re-evaluated dates i
+
+833
+00:31:21,200 --> 00:31:26,720
+use the re-evaluated dates
+
+834
+00:31:23,519 --> 00:31:29,519
+yeah and follow up to about that i was
+
+835
+00:31:26,720 --> 00:31:30,480
+sorry for excuse me for a volcanic rocks
+
+836
+00:31:29,519 --> 00:31:33,440
+when the dates
+
+837
+00:31:30,480 --> 00:31:35,279
+were evaluated re-evaluated based on
+
+838
+00:31:33,440 --> 00:31:38,240
+automagnetic data
+
+839
+00:31:35,279 --> 00:31:41,840
+they were not included because otherwise
+
+840
+00:31:38,240 --> 00:31:41,840
+would be a circular reasoning
+
+841
+00:31:43,760 --> 00:31:47,519
+and obviously now there is a the new
+
+842
+00:31:46,000 --> 00:31:50,000
+radiocarbon curve
+
+843
+00:31:47,519 --> 00:31:50,640
+from rhymer 2020 so we kind of have to
+
+844
+00:31:50,000 --> 00:31:52,880
+re
+
+845
+00:31:50,640 --> 00:31:55,120
+recalibrate everything that we've done
+
+846
+00:31:52,880 --> 00:31:55,120
+so
+
+847
+00:31:55,360 --> 00:32:00,799
+i agree with you it's a living organism
+
+848
+00:31:58,159 --> 00:32:03,840
+in the database and like max
+
+849
+00:32:00,799 --> 00:32:07,360
+brown can colleagues can
+
+850
+00:32:03,840 --> 00:32:10,240
+prove that and also obviously andy begin
+
+851
+00:32:07,360 --> 00:32:11,919
+so uh sandra elizabethton raised her
+
+852
+00:32:10,240 --> 00:32:16,000
+hand
+
+853
+00:32:11,919 --> 00:32:16,799
+uh yeah yeah um no i have a question to
+
+854
+00:32:16,000 --> 00:32:19,840
+the
+
+855
+00:32:16,799 --> 00:32:22,960
+you showed your data for the intensity
+
+856
+00:32:19,840 --> 00:32:26,799
+and i there's for the 400
+
+857
+00:32:22,960 --> 00:32:27,600
+years you have a gap of 10 microtesla in
+
+858
+00:32:26,799 --> 00:32:30,880
+your data
+
+859
+00:32:27,600 --> 00:32:32,159
+so from where you compare like the
+
+860
+00:32:30,880 --> 00:32:35,519
+literature data
+
+861
+00:32:32,159 --> 00:32:38,799
+and then your data points and
+
+862
+00:32:35,519 --> 00:32:41,039
+for one i think for 500 years you have
+
+863
+00:32:38,799 --> 00:32:43,200
+with two data points and a difference of
+
+864
+00:32:41,039 --> 00:32:45,519
+around 10 micro tesla
+
+865
+00:32:43,200 --> 00:32:46,480
+how do you explain that or what do you
+
+866
+00:32:45,519 --> 00:32:49,519
+think is an
+
+867
+00:32:46,480 --> 00:32:50,720
+explanation for that you are referring
+
+868
+00:32:49,519 --> 00:32:54,240
+in this data here
+
+869
+00:32:50,720 --> 00:32:54,960
+yes yes that's very interesting because
+
+870
+00:32:54,240 --> 00:32:57,039
+um
+
+871
+00:32:54,960 --> 00:32:58,480
+particularly for this time period that
+
+872
+00:32:57,039 --> 00:33:00,320
+has been
+
+873
+00:32:58,480 --> 00:33:02,200
+i was very curious and it's very sad at
+
+874
+00:33:00,320 --> 00:33:05,360
+the same time because for this
+
+875
+00:33:02,200 --> 00:33:07,519
+880 it has been already observed
+
+876
+00:33:05,360 --> 00:33:09,519
+like in the barrier peninsula a quite
+
+877
+00:33:07,519 --> 00:33:12,799
+high density
+
+878
+00:33:09,519 --> 00:33:13,519
+value around 880 and i was particularly
+
+879
+00:33:12,799 --> 00:33:16,559
+interesting
+
+880
+00:33:13,519 --> 00:33:18,399
+in this period but unfortunately
+
+881
+00:33:16,559 --> 00:33:19,600
+we don't have enough data to to make
+
+882
+00:33:18,399 --> 00:33:23,440
+conclusions
+
+883
+00:33:19,600 --> 00:33:27,120
+this data one comes from a study in
+
+884
+00:33:23,440 --> 00:33:28,480
+in france if i'm not wrong and one in
+
+885
+00:33:27,120 --> 00:33:30,880
+switzerland
+
+886
+00:33:28,480 --> 00:33:32,159
+and they are they have a different
+
+887
+00:33:30,880 --> 00:33:35,519
+synthetic i think
+
+888
+00:33:32,159 --> 00:33:36,640
+less than than 50 years or something
+
+889
+00:33:35,519 --> 00:33:39,120
+like that
+
+890
+00:33:36,640 --> 00:33:40,640
+both of these data seems to be of high
+
+891
+00:33:39,120 --> 00:33:43,440
+quality data
+
+892
+00:33:40,640 --> 00:33:43,919
+this one gave very high values and this
+
+893
+00:33:43,440 --> 00:33:47,519
+one
+
+894
+00:33:43,919 --> 00:33:50,799
+quite low values but i had no re
+
+895
+00:33:47,519 --> 00:33:53,279
+reason to to reject them okay so yes
+
+896
+00:33:50,799 --> 00:33:55,039
+thanks about actually referring to the
+
+897
+00:33:53,279 --> 00:33:57,760
+500 years
+
+898
+00:33:55,039 --> 00:33:58,960
+of magnetic data now it was a nice
+
+899
+00:33:57,760 --> 00:34:00,960
+explanation thanks
+
+900
+00:33:58,960 --> 00:34:02,159
+but uh i was actually not curious about
+
+901
+00:34:00,960 --> 00:34:04,320
+the 500 years
+
+902
+00:34:02,159 --> 00:34:06,880
+this difference is quite particular
+
+903
+00:34:04,320 --> 00:34:06,880
+that's why
+
+904
+00:34:08,159 --> 00:34:15,119
+you're talking about 580 yeah
+
+905
+00:34:11,839 --> 00:34:17,599
+this data okay yeah okay this thing has
+
+906
+00:34:15,119 --> 00:34:19,760
+two data from italy it do from my i'm
+
+907
+00:34:17,599 --> 00:34:23,359
+not sure if it's france or not
+
+908
+00:34:19,760 --> 00:34:26,720
+but once again when we went to to to see
+
+909
+00:34:23,359 --> 00:34:27,040
+what's what's wrong there was no nothing
+
+910
+00:34:26,720 --> 00:34:30,079
+wrong
+
+911
+00:34:27,040 --> 00:34:33,280
+that was easy to to
+
+912
+00:34:30,079 --> 00:34:36,480
+to detect let's say i
+
+913
+00:34:33,280 --> 00:34:39,440
+i am afraid that very often and
+
+914
+00:34:36,480 --> 00:34:40,000
+let's say disturbances on the data apart
+
+915
+00:34:39,440 --> 00:34:42,320
+from
+
+916
+00:34:40,000 --> 00:34:44,560
+laboratory techniques or laboratory
+
+917
+00:34:42,320 --> 00:34:47,520
+problems that cannot be detected
+
+918
+00:34:44,560 --> 00:34:49,200
+it's very often um a problem of the
+
+919
+00:34:47,520 --> 00:34:52,720
+dating that we cannot
+
+920
+00:34:49,200 --> 00:34:54,800
+really see it passes it passes very
+
+921
+00:34:52,720 --> 00:34:58,800
+easily the selection criteria but
+
+922
+00:34:54,800 --> 00:34:58,800
+maybe it's not so precise
+
+923
+00:35:00,160 --> 00:35:06,560
+so it's more probably a dating problem
+
+924
+00:35:03,680 --> 00:35:07,680
+which okay i don't know but it could be
+
+925
+00:35:06,560 --> 00:35:12,480
+it could be
+
+926
+00:35:07,680 --> 00:35:16,079
+yes thanks very much you are welcome
+
+927
+00:35:12,480 --> 00:35:18,400
+thank you uh so we have a follow-up
+
+928
+00:35:16,079 --> 00:35:19,520
+you want to say something yes i was just
+
+929
+00:35:18,400 --> 00:35:21,839
+talking about the basic
+
+930
+00:35:19,520 --> 00:35:23,280
+data i wanted to say that also it's
+
+931
+00:35:21,839 --> 00:35:25,839
+quite sad that for the
+
+932
+00:35:23,280 --> 00:35:28,160
+so interesting period of the beginning
+
+933
+00:35:25,839 --> 00:35:31,520
+of the last millennium we just have one
+
+934
+00:35:28,160 --> 00:35:35,760
+single data so
+
+935
+00:35:31,520 --> 00:35:39,040
+anyway more will come more confident
+
+936
+00:35:35,760 --> 00:35:42,240
+um so we have shelby
+
+937
+00:35:39,040 --> 00:35:45,280
+asking a follow-up question and
+
+938
+00:35:42,240 --> 00:35:49,119
+she asks uh did you use the past
+
+939
+00:35:45,280 --> 00:35:51,359
+magnetic statistical method as a filter
+
+940
+00:35:49,119 --> 00:35:52,480
+what is the past statistical method
+
+941
+00:35:51,359 --> 00:35:55,200
+sorry
+
+942
+00:35:52,480 --> 00:35:57,040
+past magnetic statistical method as a
+
+943
+00:35:55,200 --> 00:35:59,599
+filter
+
+944
+00:35:57,040 --> 00:36:01,280
+i i don't know what is the past magnetic
+
+945
+00:35:59,599 --> 00:36:06,160
+statistical
+
+946
+00:36:01,280 --> 00:36:06,160
+i'm not quite sure uh
+
+947
+00:36:06,960 --> 00:36:15,040
+oh here here like the magstep or pcs
+
+948
+00:36:11,520 --> 00:36:17,760
+pcis yes see
+
+949
+00:36:15,040 --> 00:36:19,359
+for my for my own data i have used the
+
+950
+00:36:17,760 --> 00:36:22,880
+principal component
+
+951
+00:36:19,359 --> 00:36:26,000
+analysis while for the literature
+
+952
+00:36:22,880 --> 00:36:28,800
+data i just have taken the the mean mean
+
+953
+00:36:26,000 --> 00:36:30,320
+values calculated by the authors the the
+
+954
+00:36:28,800 --> 00:36:33,280
+main point of our
+
+955
+00:36:30,320 --> 00:36:35,119
+update compilation was to understand if
+
+956
+00:36:33,280 --> 00:36:38,400
+the reliability of these data
+
+957
+00:36:35,119 --> 00:36:40,720
+uh those data were reliable but
+
+958
+00:36:38,400 --> 00:36:41,920
+we have not recalculated the
+
+959
+00:36:40,720 --> 00:36:46,320
+intellectual
+
+960
+00:36:41,920 --> 00:36:49,839
+data this is certainly be
+
+961
+00:36:46,320 --> 00:36:50,800
+an an ad value but it's a very time
+
+962
+00:36:49,839 --> 00:36:53,440
+consuming
+
+963
+00:36:50,800 --> 00:36:54,079
+and it requires the original data to be
+
+964
+00:36:53,440 --> 00:36:56,320
+available
+
+965
+00:36:54,079 --> 00:36:58,480
+which are only available in magic and
+
+966
+00:36:56,320 --> 00:37:00,800
+not uh
+
+967
+00:36:58,480 --> 00:37:03,200
+and i don't know what's exact numbers
+
+968
+00:37:00,800 --> 00:37:06,800
+but i i bet not so many
+
+969
+00:37:03,200 --> 00:37:08,000
+so shelby says there is a lot of great
+
+970
+00:37:06,800 --> 00:37:11,599
+work thank you for compiling
+
+971
+00:37:08,000 --> 00:37:14,960
+this data nice overview from kathy
+
+972
+00:37:11,599 --> 00:37:18,000
+great work congratulations a success oh
+
+973
+00:37:14,960 --> 00:37:21,040
+here uh from
+
+974
+00:37:18,000 --> 00:37:24,720
+despina condo pulo sorry if i
+
+975
+00:37:21,040 --> 00:37:27,760
+pronounce it wrong a question on 600
+
+976
+00:37:24,720 --> 00:37:30,960
+800 lack of data
+
+977
+00:37:27,760 --> 00:37:34,079
+uh yes i'm just surprised to see that
+
+978
+00:37:30,960 --> 00:37:36,400
+the intensity data have this big
+
+979
+00:37:34,079 --> 00:37:37,599
+empty space here uh what about the
+
+980
+00:37:36,400 --> 00:37:41,599
+geneva entire
+
+981
+00:37:37,599 --> 00:37:44,640
+data of medieval
+
+982
+00:37:41,599 --> 00:37:47,280
+yes they're here these
+
+983
+00:37:44,640 --> 00:37:48,560
+are the the very recently published data
+
+984
+00:37:47,280 --> 00:37:52,160
+by zenith
+
+985
+00:37:48,560 --> 00:37:54,400
+collaborators in 2002 20. no no no sorry
+
+986
+00:37:52,160 --> 00:37:54,400
+sorry
+
+987
+00:37:55,760 --> 00:38:01,119
+no i don't mean the italian data i mean
+
+988
+00:37:59,040 --> 00:38:04,079
+the french pottery data
+
+989
+00:38:01,119 --> 00:38:05,599
+which if i remember well are situated
+
+990
+00:38:04,079 --> 00:38:08,800
+somewhere
+
+991
+00:38:05,599 --> 00:38:11,760
+around eight hundred and one on
+
+992
+00:38:08,800 --> 00:38:12,400
+and because most of the french data are
+
+993
+00:38:11,760 --> 00:38:16,240
+included
+
+994
+00:38:12,400 --> 00:38:19,920
+in your confidence circle so
+
+995
+00:38:16,240 --> 00:38:23,280
+if i recall well uh there should be data
+
+996
+00:38:19,920 --> 00:38:23,920
+around between 800 and 1000 from french
+
+997
+00:38:23,280 --> 00:38:26,960
+pottery
+
+998
+00:38:23,920 --> 00:38:29,760
+and i can go back to the original
+
+999
+00:38:26,960 --> 00:38:30,640
+publication anyway uh just an
+
+1000
+00:38:29,760 --> 00:38:33,599
+observation
+
+1001
+00:38:30,640 --> 00:38:34,480
+we have the same difficulty in obtaining
+
+1002
+00:38:33,599 --> 00:38:37,760
+intensity
+
+1003
+00:38:34,480 --> 00:38:41,119
+data from greece within
+
+1004
+00:38:37,760 --> 00:38:44,160
+the period 600 800
+
+1005
+00:38:41,119 --> 00:38:47,599
+because of several reasons there
+
+1006
+00:38:44,160 --> 00:38:50,720
+is a lack of material and in this way
+
+1007
+00:38:47,599 --> 00:38:54,320
+we cannot catch the supposed
+
+1008
+00:38:50,720 --> 00:38:56,720
+high value around 700 to 800
+
+1009
+00:38:54,320 --> 00:38:58,560
+but i will really i'm very surprised
+
+1010
+00:38:56,720 --> 00:39:00,720
+that we look to the literature
+
+1011
+00:38:58,560 --> 00:39:02,720
+sorry for this gap anyway thank you for
+
+1012
+00:39:00,720 --> 00:39:04,400
+your nice presentation of nokia
+
+1013
+00:39:02,720 --> 00:39:07,119
+we have the opportunity to talk about
+
+1014
+00:39:04,400 --> 00:39:09,440
+that later or in another one
+
+1015
+00:39:07,119 --> 00:39:10,400
+thank you so much thank you so much it's
+
+1016
+00:39:09,440 --> 00:39:12,079
+interesting yes
+
+1017
+00:39:10,400 --> 00:39:14,000
+it's interesting it's sad that there are
+
+1018
+00:39:12,079 --> 00:39:16,560
+not a lot of data for that
+
+1019
+00:39:14,000 --> 00:39:18,560
+period i have to say that the selection
+
+1020
+00:39:16,560 --> 00:39:21,599
+criteria applied about the five
+
+1021
+00:39:18,560 --> 00:39:24,960
+specimens cut off a lot of data as well
+
+1022
+00:39:21,599 --> 00:39:28,640
+then the selection criteria
+
+1023
+00:39:24,960 --> 00:39:30,640
+rejected a lot of data most of them
+
+1024
+00:39:28,640 --> 00:39:32,000
+because of the smaller number of
+
+1025
+00:39:30,640 --> 00:39:35,680
+specimens
+
+1026
+00:39:32,000 --> 00:39:36,000
+and then and
+
+1027
+00:39:35,680 --> 00:39:38,800
+then
+
+1028
+00:39:36,000 --> 00:39:42,160
+[Music]
+
+1029
+00:39:38,800 --> 00:39:46,160
+the standard deviation value but mostly
+
+1030
+00:39:42,160 --> 00:39:46,160
+because of the small number of specimens
+
+1031
+00:39:46,720 --> 00:39:50,960
+thank you we have a question of max
+
+1032
+00:39:49,520 --> 00:39:54,320
+brown that i almost missed
+
+1033
+00:39:50,960 --> 00:39:55,040
+sorry so he asked can you comment on
+
+1034
+00:39:54,320 --> 00:39:58,320
+whether the
+
+1035
+00:39:55,040 --> 00:40:02,960
+bayesian model fit over fits the data
+
+1036
+00:39:58,320 --> 00:40:02,960
+could a simpler model have a good fit
+
+1037
+00:40:03,599 --> 00:40:06,880
+we haven't tried it tried another model
+
+1038
+00:40:06,160 --> 00:40:09,119
+who have tried
+
+1039
+00:40:06,880 --> 00:40:11,119
+the space and reconstruction and i think
+
+1040
+00:40:09,119 --> 00:40:13,920
+it fits quite a while the data but
+
+1041
+00:40:11,119 --> 00:40:15,280
+of course it fits well the data when we
+
+1042
+00:40:13,920 --> 00:40:18,400
+have a lot of data
+
+1043
+00:40:15,280 --> 00:40:19,440
+when we don't have a lot of data it
+
+1044
+00:40:18,400 --> 00:40:21,520
+doesn't
+
+1045
+00:40:19,440 --> 00:40:22,800
+fit also here with the two results you
+
+1046
+00:40:21,520 --> 00:40:27,359
+can see we have a very
+
+1047
+00:40:22,800 --> 00:40:29,680
+um large error envelope and
+
+1048
+00:40:27,359 --> 00:40:31,359
+also in other time periods it cannot
+
+1049
+00:40:29,680 --> 00:40:32,240
+perfectly fit the data but when you have
+
+1050
+00:40:31,359 --> 00:40:36,079
+a lot of data
+
+1051
+00:40:32,240 --> 00:40:36,079
+i think it fits well
+
+1052
+00:40:36,800 --> 00:40:40,480
+thank you so uh we have a a question
+
+1053
+00:40:39,200 --> 00:40:45,520
+from javier and then
+
+1054
+00:40:40,480 --> 00:40:45,520
+andrei costa of ray say his hand so
+
+1055
+00:40:47,410 --> 00:40:50,690
+[Music]
+
+1056
+00:40:53,119 --> 00:40:59,680
+trm data with the historical data set
+
+1057
+00:40:56,400 --> 00:41:00,160
+within your spherical region like junker
+
+1058
+00:40:59,680 --> 00:41:03,760
+at
+
+1059
+00:41:00,160 --> 00:41:06,880
+2003 or eastmac database
+
+1060
+00:41:03,760 --> 00:41:07,599
+if if i have used historical data that's
+
+1061
+00:41:06,880 --> 00:41:10,000
+the question
+
+1062
+00:41:07,599 --> 00:41:11,520
+because uh the question sorry for the
+
+1063
+00:41:10,000 --> 00:41:12,560
+last three four centuries have you
+
+1064
+00:41:11,520 --> 00:41:15,280
+compared the
+
+1065
+00:41:12,560 --> 00:41:16,960
+trm data with historical data set within
+
+1066
+00:41:15,280 --> 00:41:20,079
+your spherical region
+
+1067
+00:41:16,960 --> 00:41:22,800
+no we no we have not used either in the
+
+1068
+00:41:20,079 --> 00:41:25,280
+either in the calculation or in the
+
+1069
+00:41:22,800 --> 00:41:29,200
+comparison the historical data actually
+
+1070
+00:41:25,280 --> 00:41:31,119
+uh for these very recent periods uh
+
+1071
+00:41:29,200 --> 00:41:32,319
+we have just used in all our caps are
+
+1072
+00:41:31,119 --> 00:41:34,160
+based only on
+
+1073
+00:41:32,319 --> 00:41:35,920
+archaeomagnetic data either from
+
+1074
+00:41:34,160 --> 00:41:36,400
+archaeological material or for volcanic
+
+1075
+00:41:35,920 --> 00:41:40,400
+roots
+
+1076
+00:41:36,400 --> 00:41:40,400
+and historical data are not included
+
+1077
+00:41:40,800 --> 00:41:53,119
+okay thank you andrei
+
+1078
+00:41:49,839 --> 00:41:56,800
+thank you for this nice nice talk
+
+1079
+00:41:53,119 --> 00:41:59,599
+i wonder uh did you try to
+
+1080
+00:41:56,800 --> 00:42:00,000
+plot your intensity data as a function
+
+1081
+00:41:59,599 --> 00:42:04,240
+of
+
+1082
+00:42:00,000 --> 00:42:07,920
+the material you use for
+
+1083
+00:42:04,240 --> 00:42:12,480
+for intensity i mean separately for
+
+1084
+00:42:07,920 --> 00:42:16,480
+kilns uh barter resent etc
+
+1085
+00:42:12,480 --> 00:42:18,400
+that's a good idea no we don't wanna
+
+1086
+00:42:16,480 --> 00:42:19,599
+it would be really interesting to see
+
+1087
+00:42:18,400 --> 00:42:23,280
+because
+
+1088
+00:42:19,599 --> 00:42:27,040
+and your data set is a nice thing
+
+1089
+00:42:23,280 --> 00:42:27,359
+to uh to do that because it's very rare
+
+1090
+00:42:27,040 --> 00:42:30,480
+that
+
+1091
+00:42:27,359 --> 00:42:33,599
+you have so at let's several types of
+
+1092
+00:42:30,480 --> 00:42:36,400
+material in the same location
+
+1093
+00:42:33,599 --> 00:42:38,640
+maybe you do it in the future yeah that
+
+1094
+00:42:36,400 --> 00:42:40,400
+would be also interesting to see
+
+1095
+00:42:38,640 --> 00:42:42,480
+how reliable are for example the
+
+1096
+00:42:40,400 --> 00:42:44,720
+determination from potter or from kings
+
+1097
+00:42:42,480 --> 00:42:46,319
+yeah that's that that was my point
+
+1098
+00:42:44,720 --> 00:42:49,359
+actually yeah
+
+1099
+00:42:46,319 --> 00:42:53,040
+that's a nice idea yeah great thank you
+
+1100
+00:42:49,359 --> 00:42:53,040
+thank you good talk yeah
+
+1101
+00:42:56,640 --> 00:43:02,319
+okay thank you uh is anybody else have
+
+1102
+00:42:59,680 --> 00:43:04,560
+questions
+
+1103
+00:43:02,319 --> 00:43:06,480
+if so i guess i have one quick sort of
+
+1104
+00:43:04,560 --> 00:43:07,119
+follow on just from from andre's comment
+
+1105
+00:43:06,480 --> 00:43:10,400
+i mean
+
+1106
+00:43:07,119 --> 00:43:13,040
+um what consideration have you given to
+
+1107
+00:43:10,400 --> 00:43:13,599
+the corrections or lack of corrections
+
+1108
+00:43:13,040 --> 00:43:16,560
+for
+
+1109
+00:43:13,599 --> 00:43:17,440
+you know cooling rates and isotropy and
+
+1110
+00:43:16,560 --> 00:43:19,200
+these kind of things
+
+1111
+00:43:17,440 --> 00:43:21,359
+especially cooling rate because it's a
+
+1112
+00:43:19,200 --> 00:43:23,119
+really tricky one to
+
+1113
+00:43:21,359 --> 00:43:24,480
+you know pin down how much of a
+
+1114
+00:43:23,119 --> 00:43:26,400
+correction should be
+
+1115
+00:43:24,480 --> 00:43:27,599
+uh should be applied and i guess that's
+
+1116
+00:43:26,400 --> 00:43:29,040
+kind of probably what
+
+1117
+00:43:27,599 --> 00:43:30,720
+one andre is kind of getting out by
+
+1118
+00:43:29,040 --> 00:43:32,480
+looking at the different materials as
+
+1119
+00:43:30,720 --> 00:43:36,240
+well
+
+1120
+00:43:32,480 --> 00:43:38,160
+yeah that would be important to have
+
+1121
+00:43:36,240 --> 00:43:39,520
+both an isotropic correction and cool
+
+1122
+00:43:38,160 --> 00:43:41,920
+grade correction
+
+1123
+00:43:39,520 --> 00:43:43,760
+i have to say that the most of the
+
+1124
+00:43:41,920 --> 00:43:46,880
+recent data both corrections
+
+1125
+00:43:43,760 --> 00:43:47,839
+are are included so that's a quite good
+
+1126
+00:43:46,880 --> 00:43:50,160
+thing
+
+1127
+00:43:47,839 --> 00:43:52,000
+also in some older data these
+
+1128
+00:43:50,160 --> 00:43:55,520
+corrections have been
+
+1129
+00:43:52,000 --> 00:43:58,160
+somehow it or take any consideration
+
+1130
+00:43:55,520 --> 00:44:00,240
+then the biggest problem is with the
+
+1131
+00:43:58,160 --> 00:44:03,520
+oldest data that in most cases
+
+1132
+00:44:00,240 --> 00:44:07,040
+miss both anisotropy and cool grade
+
+1133
+00:44:03,520 --> 00:44:09,839
+and mainly when we refer to data from
+
+1134
+00:44:07,040 --> 00:44:10,800
+pottery or even well-shaped bricks or
+
+1135
+00:44:09,839 --> 00:44:13,200
+tiles
+
+1136
+00:44:10,800 --> 00:44:14,640
+then then isotropic correction could be
+
+1137
+00:44:13,200 --> 00:44:17,760
+also very important
+
+1138
+00:44:14,640 --> 00:44:18,400
+very important so definitely there is a
+
+1139
+00:44:17,760 --> 00:44:20,960
+lot of
+
+1140
+00:44:18,400 --> 00:44:21,760
+work to do as far as density studies in
+
+1141
+00:44:20,960 --> 00:44:24,960
+italy is
+
+1142
+00:44:21,760 --> 00:44:28,319
+are concerned we have very few data
+
+1143
+00:44:24,960 --> 00:44:30,640
+and um sometimes not
+
+1144
+00:44:28,319 --> 00:44:31,920
+the best one so they will have to get
+
+1145
+00:44:30,640 --> 00:44:36,880
+concentrated
+
+1146
+00:44:31,920 --> 00:44:40,000
+and do much more job on that
+
+1147
+00:44:36,880 --> 00:44:40,000
+it's time consuming
+
+1148
+00:44:40,160 --> 00:44:45,680
+the low success rate rate that can
+
+1149
+00:44:43,520 --> 00:44:48,079
+be some disadvantages but we'll have to
+
+1150
+00:44:45,680 --> 00:44:48,079
+do it
+
+1151
+00:44:49,280 --> 00:44:54,160
+thank you we feel you the one we're
+
+1152
+00:44:52,319 --> 00:44:57,280
+working with the
+
+1153
+00:44:54,160 --> 00:45:01,440
+intensity intensity
+
+1154
+00:44:57,280 --> 00:45:06,160
+yeah we know what you've been through
+
+1155
+00:45:01,440 --> 00:45:06,160
+okay so anybody else has questions
+
+1156
+00:45:08,400 --> 00:45:16,000
+for now we don't um
+
+1157
+00:45:12,800 --> 00:45:20,079
+i i may have questions but we can
+
+1158
+00:45:16,000 --> 00:45:20,079
+i want to leave a room for others
+
+1159
+00:45:22,400 --> 00:45:28,480
+okay then um so the
+
+1160
+00:45:25,760 --> 00:45:30,160
+uh it's interesting how we all struggle
+
+1161
+00:45:28,480 --> 00:45:33,359
+with selection criteria
+
+1162
+00:45:30,160 --> 00:45:37,760
+and they still remain really
+
+1163
+00:45:33,359 --> 00:45:40,079
+subjective um of course as you said
+
+1164
+00:45:37,760 --> 00:45:41,119
+the most strict criteria we use the last
+
+1165
+00:45:40,079 --> 00:45:44,800
+day that we have
+
+1166
+00:45:41,119 --> 00:45:48,000
+that's kind of a given it's expected
+
+1167
+00:45:44,800 --> 00:45:51,440
+um but the in while selecting
+
+1168
+00:45:48,000 --> 00:45:53,839
+um the this previous studies
+
+1169
+00:45:51,440 --> 00:45:56,240
+i was wondering if you can use kind of
+
+1170
+00:45:53,839 --> 00:46:00,720
+several sets of criteria and they weight
+
+1171
+00:45:56,240 --> 00:46:04,000
+them in a way that you consider all the
+
+1172
+00:46:00,720 --> 00:46:04,960
+data you have rather than just get rid
+
+1173
+00:46:04,000 --> 00:46:07,920
+of them
+
+1174
+00:46:04,960 --> 00:46:09,040
+in a way cut them off kind of give them
+
+1175
+00:46:07,920 --> 00:46:13,200
+a weight
+
+1176
+00:46:09,040 --> 00:46:15,680
+rather than just have you have you
+
+1177
+00:46:13,200 --> 00:46:18,079
+thought of it have you done something
+
+1178
+00:46:15,680 --> 00:46:21,119
+that's something that very often uh
+
+1179
+00:46:18,079 --> 00:46:22,480
+we observe in the publications and many
+
+1180
+00:46:21,119 --> 00:46:25,280
+people apply this
+
+1181
+00:46:22,480 --> 00:46:26,400
+way thing on the data and that's a good
+
+1182
+00:46:25,280 --> 00:46:29,040
+idea we have
+
+1183
+00:46:26,400 --> 00:46:31,359
+not done it there also because um we
+
+1184
+00:46:29,040 --> 00:46:33,599
+what it just to be sure that we have
+
+1185
+00:46:31,359 --> 00:46:34,800
+the best data as far as as it is
+
+1186
+00:46:33,599 --> 00:46:36,880
+possible
+
+1187
+00:46:34,800 --> 00:46:37,839
+of course keeping more data even if they
+
+1188
+00:46:36,880 --> 00:46:42,000
+are waiting
+
+1189
+00:46:37,839 --> 00:46:45,680
+less could be good to have a much richer
+
+1190
+00:46:42,000 --> 00:46:48,400
+uh more data available but um
+
+1191
+00:46:45,680 --> 00:46:49,280
+we decided here that we should work on
+
+1192
+00:46:48,400 --> 00:46:51,119
+the best
+
+1193
+00:46:49,280 --> 00:46:52,800
+data possible according to this
+
+1194
+00:46:51,119 --> 00:46:53,839
+selection retail of course if we were
+
+1195
+00:46:52,800 --> 00:46:57,839
+more strict
+
+1196
+00:46:53,839 --> 00:47:00,240
+it will be even the best data but
+
+1197
+00:46:57,839 --> 00:47:02,319
+the number would be very few very very
+
+1198
+00:47:00,240 --> 00:47:04,720
+small what is interesting however with
+
+1199
+00:47:02,319 --> 00:47:08,319
+selection criteria is the
+
+1200
+00:47:04,720 --> 00:47:10,800
+the the errors on in dating that usually
+
+1201
+00:47:08,319 --> 00:47:13,760
+we use a cut off
+
+1202
+00:47:10,800 --> 00:47:15,040
+a cut-off criterium based on the
+
+1203
+00:47:13,760 --> 00:47:18,400
+interval of dating
+
+1204
+00:47:15,040 --> 00:47:19,440
+like one two hundred to er one hundred
+
+1205
+00:47:18,400 --> 00:47:23,040
+two hundred years
+
+1206
+00:47:19,440 --> 00:47:25,359
+but then it's difficult to to understand
+
+1207
+00:47:23,040 --> 00:47:28,800
+how reliable is this dating
+
+1208
+00:47:25,359 --> 00:47:31,760
+so many data that are not so
+
+1209
+00:47:28,800 --> 00:47:32,720
+well dated past this standard selection
+
+1210
+00:47:31,760 --> 00:47:35,280
+criteria
+
+1211
+00:47:32,720 --> 00:47:36,400
+and we use them for modeling of global
+
+1212
+00:47:35,280 --> 00:47:39,520
+data sets that's
+
+1213
+00:47:36,400 --> 00:47:42,079
+i think it's important problem as far as
+
+1214
+00:47:39,520 --> 00:47:43,200
+magnetic data are concerned and it's a
+
+1215
+00:47:42,079 --> 00:47:46,559
+problem that cannot be
+
+1216
+00:47:43,200 --> 00:47:50,480
+easily solved because we don't have
+
+1217
+00:47:46,559 --> 00:47:55,599
+direct control on the dating or in the
+
+1218
+00:47:50,480 --> 00:47:55,599
+on the updating of dating as time passes
+
+1219
+00:47:56,960 --> 00:48:00,079
+okay thank you and i was wondering also
+
+1220
+00:47:59,520 --> 00:48:03,119
+about
+
+1221
+00:48:00,079 --> 00:48:06,079
+how you dealt with the problem of the
+
+1222
+00:48:03,119 --> 00:48:10,640
+different methods that have been used
+
+1223
+00:48:06,079 --> 00:48:12,800
+uh beyond the teletalia
+
+1224
+00:48:10,640 --> 00:48:15,119
+methods i don't know how you treat them
+
+1225
+00:48:12,800 --> 00:48:16,240
+and weight them or did you consider them
+
+1226
+00:48:15,119 --> 00:48:19,599
+all as
+
+1227
+00:48:16,240 --> 00:48:20,880
+no actually uh we were from this point
+
+1228
+00:48:19,599 --> 00:48:23,200
+of view were quite
+
+1229
+00:48:20,880 --> 00:48:24,800
+lucky let's say that most of the of the
+
+1230
+00:48:23,200 --> 00:48:27,520
+data from uh
+
+1231
+00:48:24,800 --> 00:48:30,480
+italy nearby the countries come from the
+
+1232
+00:48:27,520 --> 00:48:33,520
+old reacts method or multi-specimen
+
+1233
+00:48:30,480 --> 00:48:34,160
+what we we did and we try to pay
+
+1234
+00:48:33,520 --> 00:48:36,720
+attention
+
+1235
+00:48:34,160 --> 00:48:38,000
+of if we are dealing with the method to
+
+1236
+00:48:36,720 --> 00:48:39,680
+be sure that
+
+1237
+00:48:38,000 --> 00:48:41,040
+an isotropic correction or some other
+
+1238
+00:48:39,680 --> 00:48:42,480
+corrections have been taken into
+
+1239
+00:48:41,040 --> 00:48:45,839
+consideration
+
+1240
+00:48:42,480 --> 00:48:48,480
+and more or less we try to individually
+
+1241
+00:48:45,839 --> 00:48:49,040
+evaluate the reliability of data we
+
+1242
+00:48:48,480 --> 00:48:52,720
+haven't
+
+1243
+00:48:49,040 --> 00:48:55,440
+used such a cut off
+
+1244
+00:48:52,720 --> 00:48:55,440
+criteria
+
+1245
+00:48:55,839 --> 00:48:59,839
+okay thank you so anybody else has
+
+1246
+00:48:58,640 --> 00:49:03,599
+questions
+
+1247
+00:48:59,839 --> 00:49:06,880
+otherwise we can switch to
+
+1248
+00:49:03,599 --> 00:49:09,920
+uh the informal part of the talks
+
+1249
+00:49:06,880 --> 00:49:12,160
+oh yoga's as questions yes yeah
+
+1250
+00:49:09,920 --> 00:49:14,000
+sorry i have a question uh with respect
+
+1251
+00:49:12,160 --> 00:49:17,200
+to the quality of the
+
+1252
+00:49:14,000 --> 00:49:20,000
+data from this neolithic kiln which
+
+1253
+00:49:17,200 --> 00:49:21,440
+was used for baking bread and with the
+
+1254
+00:49:20,000 --> 00:49:24,640
+quality of the
+
+1255
+00:49:21,440 --> 00:49:27,200
+other kiln which is used to to make
+
+1256
+00:49:24,640 --> 00:49:29,119
+bricks so with respect to the
+
+1257
+00:49:27,200 --> 00:49:31,520
+temperatures because
+
+1258
+00:49:29,119 --> 00:49:32,880
+to bake bread you you don't need such a
+
+1259
+00:49:31,520 --> 00:49:34,559
+high temperature
+
+1260
+00:49:32,880 --> 00:49:36,240
+is there any difference in the in the
+
+1261
+00:49:34,559 --> 00:49:39,359
+quality
+
+1262
+00:49:36,240 --> 00:49:40,880
+well there has been a study about the
+
+1263
+00:49:39,359 --> 00:49:43,680
+heating temperatures of this
+
+1264
+00:49:40,880 --> 00:49:45,440
+of these structures in fact uh we are
+
+1265
+00:49:43,680 --> 00:49:46,160
+not talking about very high temperatures
+
+1266
+00:49:45,440 --> 00:49:49,880
+it was
+
+1267
+00:49:46,160 --> 00:49:52,640
+if i remember well around 5 400
+
+1268
+00:49:49,880 --> 00:49:56,160
+450 degrees but
+
+1269
+00:49:52,640 --> 00:49:57,040
+we still it was heated enough to give us
+
+1270
+00:49:56,160 --> 00:50:00,079
+a i think
+
+1271
+00:49:57,040 --> 00:50:02,800
+nice directional results but
+
+1272
+00:50:00,079 --> 00:50:03,920
+definitely the data from the the kin and
+
+1273
+00:50:02,800 --> 00:50:07,280
+the temperatures
+
+1274
+00:50:03,920 --> 00:50:10,079
+arrived in the gill where um
+
+1275
+00:50:07,280 --> 00:50:12,319
+much higher uh we're talking about
+
+1276
+00:50:10,079 --> 00:50:15,200
+temperatures higher than 600
+
+1277
+00:50:12,319 --> 00:50:16,480
+degrees and the magnetization was much
+
+1278
+00:50:15,200 --> 00:50:19,599
+stronger
+
+1279
+00:50:16,480 --> 00:50:23,920
+much stronger in this case
+
+1280
+00:50:19,599 --> 00:50:26,960
+but once again we have nice nice
+
+1281
+00:50:23,920 --> 00:50:30,400
+nice directional results nice
+
+1282
+00:50:26,960 --> 00:50:30,400
+mean value well constrained
+
+1283
+00:50:34,960 --> 00:50:42,400
+okay thank you so maybe greg
+
+1284
+00:50:38,160 --> 00:50:42,400
+you can rub up now
+
+1285
+00:50:44,720 --> 00:50:48,880
+yeah there we go um so now thank you
+
+1286
+00:50:47,280 --> 00:50:52,319
+everyone for for coming in thank you
+
+1287
+00:50:48,880 --> 00:50:55,280
+uh for a fantastic talk uh today i
+
+1288
+00:50:52,319 --> 00:50:56,319
+want to take this chance to thank um all
+
+1289
+00:50:55,280 --> 00:50:59,599
+of our speakers
+
+1290
+00:50:56,319 --> 00:51:01,520
+um for for 2020 uh i've actually i've
+
+1291
+00:50:59,599 --> 00:51:05,040
+lost count how many we've had i think
+
+1292
+00:51:01,520 --> 00:51:08,400
+this is the ninth or tenth um but if
+
+1293
+00:51:05,040 --> 00:51:11,440
+if you want to uh catch up on any of the
+
+1294
+00:51:08,400 --> 00:51:13,760
+uh speakers that we've had this year um
+
+1295
+00:51:11,440 --> 00:51:14,720
+most of the videos now are available on
+
+1296
+00:51:13,760 --> 00:51:17,359
+on youtube
+
+1297
+00:51:14,720 --> 00:51:19,520
+and we have more information on our uh
+
+1298
+00:51:17,359 --> 00:51:22,720
+magnets website which is hosted with
+
+1299
+00:51:19,520 --> 00:51:23,760
+earthref um so please um have a look and
+
+1300
+00:51:22,720 --> 00:51:25,119
+catch up with some of the
+
+1301
+00:51:23,760 --> 00:51:28,000
+presentations that you might have missed
+
+1302
+00:51:25,119 --> 00:51:29,119
+there um this today's presentation will
+
+1303
+00:51:28,000 --> 00:51:31,440
+be uploaded
+
+1304
+00:51:29,119 --> 00:51:32,640
+uh to the website shortly and it will
+
+1305
+00:51:31,440 --> 00:51:34,400
+have um
+
+1306
+00:51:32,640 --> 00:51:35,680
+a doi so if you find anything
+
+1307
+00:51:34,400 --> 00:51:37,599
+interesting or useful
+
+1308
+00:51:35,680 --> 00:51:40,160
+in this presentation or any of the other
+
+1309
+00:51:37,599 --> 00:51:42,080
+presentations uh it is a citable object
+
+1310
+00:51:40,160 --> 00:51:43,359
+uh and and you can give
+
+1311
+00:51:42,080 --> 00:51:45,599
+[Music]
+
+1312
+00:51:43,359 --> 00:51:48,839
+the kia and all of our presenters credit
+
+1313
+00:51:45,599 --> 00:51:51,760
+for their uh excellent and hard work
+
+1314
+00:51:48,839 --> 00:51:54,800
+um just a bit of a heads up for
+
+1315
+00:51:51,760 --> 00:51:56,160
+the schedule uh uh into next year so in
+
+1316
+00:51:54,800 --> 00:51:59,119
+december we're going to have
+
+1317
+00:51:56,160 --> 00:52:01,040
+a break um because agu will be taking up
+
+1318
+00:51:59,119 --> 00:52:04,240
+most of december with
+
+1319
+00:52:01,040 --> 00:52:08,000
+their fall meeting um we will come back
+
+1320
+00:52:04,240 --> 00:52:11,520
+in in 2021 now here in the uk
+
+1321
+00:52:08,000 --> 00:52:13,040
+at the very beginning um of uh january
+
+1322
+00:52:11,520 --> 00:52:15,760
+we will typically host
+
+1323
+00:52:13,040 --> 00:52:17,520
+uh our uk magnetic interactions our
+
+1324
+00:52:15,760 --> 00:52:20,160
+local domestic meeting
+
+1325
+00:52:17,520 --> 00:52:20,559
+um this year because of of lockdown we
+
+1326
+00:52:20,160 --> 00:52:22,720
+can't
+
+1327
+00:52:20,559 --> 00:52:24,480
+hold that meeting in person so we will
+
+1328
+00:52:22,720 --> 00:52:26,800
+be holding a virtual
+
+1329
+00:52:24,480 --> 00:52:28,640
+uh version of this and we're going to be
+
+1330
+00:52:26,800 --> 00:52:32,240
+hosting parts of it through
+
+1331
+00:52:28,640 --> 00:52:33,440
+uh the magnets uh seminar platform um so
+
+1332
+00:52:32,240 --> 00:52:36,480
+please keep your eyes open
+
+1333
+00:52:33,440 --> 00:52:39,599
+for uh any announcements for that um
+
+1334
+00:52:36,480 --> 00:52:41,760
+we will be opening up um attendance
+
+1335
+00:52:39,599 --> 00:52:43,280
+uh to the international community and
+
+1336
+00:52:41,760 --> 00:52:45,680
+for people who are interested
+
+1337
+00:52:43,280 --> 00:52:46,960
+in finding out what kind of science the
+
+1338
+00:52:45,680 --> 00:52:50,079
+magnetic community is
+
+1339
+00:52:46,960 --> 00:52:51,680
+is doing in the uk um but there should
+
+1340
+00:52:50,079 --> 00:52:52,240
+be more information coming out about
+
+1341
+00:52:51,680 --> 00:52:55,040
+that
+
+1342
+00:52:52,240 --> 00:52:56,079
+in the next uh couple of weeks so please
+
+1343
+00:52:55,040 --> 00:52:59,440
+keep your eyes open
+
+1344
+00:52:56,079 --> 00:53:02,720
+uh sorry anita yes there is also the
+
+1345
+00:52:59,440 --> 00:53:07,280
+magic meeting that you may have seen in
+
+1346
+00:53:02,720 --> 00:53:09,119
+the gpm it's the 19 to the 21 it's on
+
+1347
+00:53:07,280 --> 00:53:11,520
+zoom as well available for everybody
+
+1348
+00:53:09,119 --> 00:53:13,760
+it's free and it's going to be a good uh
+
+1349
+00:53:11,520 --> 00:53:15,040
+three days of talks and and things you
+
+1350
+00:53:13,760 --> 00:53:18,400
+can email me or
+
+1351
+00:53:15,040 --> 00:53:21,200
+need or anybody for more information
+
+1352
+00:53:18,400 --> 00:53:22,400
+thanks greg sorry no thank you i forgot
+
+1353
+00:53:21,200 --> 00:53:23,760
+to put that one on i was a little bit
+
+1354
+00:53:22,400 --> 00:53:24,720
+late at making these slides this
+
+1355
+00:53:23,760 --> 00:53:27,599
+afternoon
+
+1356
+00:53:24,720 --> 00:53:28,400
+um but um we'll be kicking off the the
+
+1357
+00:53:27,599 --> 00:53:30,480
+main
+
+1358
+00:53:28,400 --> 00:53:32,880
+series of of the magnet seminars at some
+
+1359
+00:53:30,480 --> 00:53:36,559
+point either in february or into march
+
+1360
+00:53:32,880 --> 00:53:40,079
+uh next year and so we're looking for
+
+1361
+00:53:36,559 --> 00:53:42,079
+um speakers for the 2021
+
+1362
+00:53:40,079 --> 00:53:44,720
+uh magnet seminar so if anybody is
+
+1363
+00:53:42,079 --> 00:53:46,960
+interested in giving a presentation
+
+1364
+00:53:44,720 --> 00:53:50,000
+please uh reach out to either myself or
+
+1365
+00:53:46,960 --> 00:53:54,160
+anita uh we can start uh arranging the
+
+1366
+00:53:50,000 --> 00:53:56,800
+uh schedule for 2021. um and as always
+
+1367
+00:53:54,160 --> 00:53:58,960
+um we are always welcome to uh feedback
+
+1368
+00:53:56,800 --> 00:54:00,880
+any ideas or criticisms um
+
+1369
+00:53:58,960 --> 00:54:02,079
+and suggestions that folks have for
+
+1370
+00:54:00,880 --> 00:54:04,160
+magnets um
+
+1371
+00:54:02,079 --> 00:54:09,280
+and once again just thank you everyone
+
+1372
+00:54:04,160 --> 00:54:09,280
+for for joining
+

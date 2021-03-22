@@ -1,0 +1,2236 @@
+1
+00:00:00,080 --> 00:00:06,720
+next one who is which is from
+
+2
+00:00:03,360 --> 00:00:10,160
+craig martin on paleocene latitude
+
+3
+00:00:06,720 --> 00:00:13,360
+of the koshan lad arc arc
+
+4
+00:00:10,160 --> 00:00:15,519
+an initiate indicates multi-stage indian
+
+5
+00:00:13,360 --> 00:00:17,119
+eurasian collision
+
+6
+00:00:15,519 --> 00:00:18,640
+whether i pronounce that all right i
+
+7
+00:00:17,119 --> 00:00:21,439
+have no idea but i'm
+
+8
+00:00:18,640 --> 00:00:23,359
+sure i'll find out all right let me just
+
+9
+00:00:21,439 --> 00:00:26,160
+share my screen
+
+10
+00:00:23,359 --> 00:00:27,119
+can you all hear me and see see my title
+
+11
+00:00:26,160 --> 00:00:30,800
+slide
+
+12
+00:00:27,119 --> 00:00:33,600
+yeah we can alright well i can
+
+13
+00:00:30,800 --> 00:00:35,360
+great that's that's enough for me no i
+
+14
+00:00:33,600 --> 00:00:38,000
+hope you can all see it um
+
+15
+00:00:35,360 --> 00:00:39,440
+so yeah i'm very excited to be here or
+
+16
+00:00:38,000 --> 00:00:41,920
+here in 2d today
+
+17
+00:00:39,440 --> 00:00:43,920
+to present to you um some of our
+
+18
+00:00:41,920 --> 00:00:45,200
+paleomagnetic results from the western
+
+19
+00:00:43,920 --> 00:00:47,280
+himalaya
+
+20
+00:00:45,200 --> 00:00:48,640
+which we believe indicate that the india
+
+21
+00:00:47,280 --> 00:00:49,920
+eurasia collision was actually a
+
+22
+00:00:48,640 --> 00:00:52,320
+multi-stage process
+
+23
+00:00:49,920 --> 00:00:54,559
+rather than a single stage continent
+
+24
+00:00:52,320 --> 00:00:55,760
+continent collision event
+
+25
+00:00:54,559 --> 00:00:58,079
+so before i start i'd like to
+
+26
+00:00:55,760 --> 00:00:59,920
+acknowledge that this is the work of of
+
+27
+00:00:58,079 --> 00:01:02,160
+myself and a number of co-authors i'm a
+
+28
+00:00:59,920 --> 00:01:03,440
+student um of professor oliver yagoots
+
+29
+00:01:02,160 --> 00:01:06,560
+at mit
+
+30
+00:01:03,440 --> 00:01:10,320
+and the work was supported by the nsf
+
+31
+00:01:06,560 --> 00:01:14,080
+and also some internal mit funding
+
+32
+00:01:10,320 --> 00:01:16,320
+um so the closure of oceans and
+
+33
+00:01:14,080 --> 00:01:18,479
+subsequent continental collisions are of
+
+34
+00:01:16,320 --> 00:01:21,680
+course a fundamental component of the
+
+35
+00:01:18,479 --> 00:01:24,799
+wilson cycle and and are
+
+36
+00:01:21,680 --> 00:01:27,439
+important in plate tectonics and
+
+37
+00:01:24,799 --> 00:01:29,520
+our most spectacular example to study
+
+38
+00:01:27,439 --> 00:01:30,320
+the processes involved with continental
+
+39
+00:01:29,520 --> 00:01:32,159
+collision
+
+40
+00:01:30,320 --> 00:01:33,759
+is of course the himalayan karakoram
+
+41
+00:01:32,159 --> 00:01:36,720
+tibet origin in in
+
+42
+00:01:33,759 --> 00:01:37,920
+south south asia and so i'm showing you
+
+43
+00:01:36,720 --> 00:01:40,400
+a map here of
+
+44
+00:01:37,920 --> 00:01:41,920
+um the sort of western half of the
+
+45
+00:01:40,400 --> 00:01:45,360
+himalaya it's it's a
+
+46
+00:01:41,920 --> 00:01:48,320
+kind of tectonic map um
+
+47
+00:01:45,360 --> 00:01:49,600
+and the closure of the near tethys ocean
+
+48
+00:01:48,320 --> 00:01:51,920
+which once separated
+
+49
+00:01:49,600 --> 00:01:54,240
+india and eurasia is now preserved along
+
+50
+00:01:51,920 --> 00:01:55,840
+the the narrow suture zones which
+
+51
+00:01:54,240 --> 00:01:58,479
+transect the himalayan belt they're
+
+52
+00:01:55,840 --> 00:02:00,320
+shown in thick black lines on this map
+
+53
+00:01:58,479 --> 00:02:03,200
+and so in the central and eastern
+
+54
+00:02:00,320 --> 00:02:06,560
+himalaya india and eurasia are separated
+
+55
+00:02:03,200 --> 00:02:09,200
+from each other um along just one suture
+
+56
+00:02:06,560 --> 00:02:10,800
+zone the sangpo sutures
+
+57
+00:02:09,200 --> 00:02:12,640
+and but in the western himalaya the
+
+58
+00:02:10,800 --> 00:02:13,280
+tectonic sort of arrangement is
+
+59
+00:02:12,640 --> 00:02:16,480
+different
+
+60
+00:02:13,280 --> 00:02:17,840
+so there india and eurasia are separated
+
+61
+00:02:16,480 --> 00:02:20,319
+from one another
+
+62
+00:02:17,840 --> 00:02:21,520
+and by the remnant of a jurassic to
+
+63
+00:02:20,319 --> 00:02:25,440
+cretaceous age
+
+64
+00:02:21,520 --> 00:02:27,680
+intraoceanic subduction system
+
+65
+00:02:25,440 --> 00:02:29,840
+which is now sandwiched between the
+
+66
+00:02:27,680 --> 00:02:33,200
+indian and eurasian continents
+
+67
+00:02:29,840 --> 00:02:35,920
+and so in the western himalaya
+
+68
+00:02:33,200 --> 00:02:38,160
+the intraocyanic terrain is separated
+
+69
+00:02:35,920 --> 00:02:40,319
+from india by the indus such a zone
+
+70
+00:02:38,160 --> 00:02:41,599
+and from eurasia by the shaykh such a
+
+71
+00:02:40,319 --> 00:02:44,319
+zone
+
+72
+00:02:41,599 --> 00:02:45,120
+so the timing of collision is well
+
+73
+00:02:44,319 --> 00:02:47,680
+constrained
+
+74
+00:02:45,120 --> 00:02:48,720
+on the northern indian margin to the
+
+75
+00:02:47,680 --> 00:02:53,280
+paleocene
+
+76
+00:02:48,720 --> 00:02:57,280
+between 55 and 60 ma
+
+77
+00:02:53,280 --> 00:02:59,120
+by the arrival of volcanic archdetritus
+
+78
+00:02:57,280 --> 00:03:02,319
+into indian margin sediments
+
+79
+00:02:59,120 --> 00:03:05,760
+and some other proxies but
+
+80
+00:03:02,319 --> 00:03:08,319
+the metamorphic response to collision in
+
+81
+00:03:05,760 --> 00:03:09,040
+in tibet is not really observed until
+
+82
+00:03:08,319 --> 00:03:12,560
+the the
+
+83
+00:03:09,040 --> 00:03:15,920
+the mid-ear scene so around 40 to 45
+
+84
+00:03:12,560 --> 00:03:19,040
+ma um and so
+
+85
+00:03:15,920 --> 00:03:22,800
+the age of the shaykh such a zone which
+
+86
+00:03:19,040 --> 00:03:24,959
+separates the cursed arc from eurasia
+
+87
+00:03:22,800 --> 00:03:26,720
+is still disputed so that has been
+
+88
+00:03:24,959 --> 00:03:27,519
+argued to be as young as 40 million
+
+89
+00:03:26,720 --> 00:03:30,000
+years old
+
+90
+00:03:27,519 --> 00:03:31,599
+to as many as old as over 80 million
+
+91
+00:03:30,000 --> 00:03:34,799
+years old
+
+92
+00:03:31,599 --> 00:03:36,080
+and so the differences in how we
+
+93
+00:03:34,799 --> 00:03:38,640
+interpret the ages
+
+94
+00:03:36,080 --> 00:03:40,000
+of of collision events and the ages of
+
+95
+00:03:38,640 --> 00:03:42,080
+these structures
+
+96
+00:03:40,000 --> 00:03:44,319
+has allowed two conflicting collision
+
+97
+00:03:42,080 --> 00:03:46,959
+models for the india eurasia collision
+
+98
+00:03:44,319 --> 00:03:49,440
+to persist
+
+99
+00:03:46,959 --> 00:03:51,599
+so in the in the standard model the
+
+100
+00:03:49,440 --> 00:03:53,760
+india eurasia collision is considered to
+
+101
+00:03:51,599 --> 00:03:55,840
+be a single stage continent continent
+
+102
+00:03:53,760 --> 00:03:58,239
+collision in which india moved rapidly
+
+103
+00:03:55,840 --> 00:04:00,319
+northwards across the near texas ocean
+
+104
+00:03:58,239 --> 00:04:02,319
+and impacted the southern margin of
+
+105
+00:04:00,319 --> 00:04:05,200
+eurasia in the paleocene
+
+106
+00:04:02,319 --> 00:04:05,920
+however plate reconstructions show that
+
+107
+00:04:05,200 --> 00:04:08,000
+there's
+
+108
+00:04:05,920 --> 00:04:09,439
+thousands of kilometers of separation
+
+109
+00:04:08,000 --> 00:04:12,159
+between india
+
+110
+00:04:09,439 --> 00:04:14,159
+and the eurasian continent at this time
+
+111
+00:04:12,159 --> 00:04:16,720
+and so accordingly it's been interpreted
+
+112
+00:04:14,159 --> 00:04:17,519
+that there has to have been a a large
+
+113
+00:04:16,720 --> 00:04:20,720
+extent of
+
+114
+00:04:17,519 --> 00:04:23,280
+india that's now that's now lost and
+
+115
+00:04:20,720 --> 00:04:24,960
+up to two up to an and above two
+
+116
+00:04:23,280 --> 00:04:27,680
+thousand kilometers of of
+
+117
+00:04:24,960 --> 00:04:28,320
+north south extra indian continent which
+
+118
+00:04:27,680 --> 00:04:31,520
+is
+
+119
+00:04:28,320 --> 00:04:34,240
+referred to as greater india
+
+120
+00:04:31,520 --> 00:04:34,960
+and so the alternative model that's been
+
+121
+00:04:34,240 --> 00:04:37,759
+suggested
+
+122
+00:04:34,960 --> 00:04:38,960
+is that in the near tethys ocean south
+
+123
+00:04:37,759 --> 00:04:41,680
+of eurasia
+
+124
+00:04:38,960 --> 00:04:42,080
+a and in the intraoceanic subduction
+
+125
+00:04:41,680 --> 00:04:44,720
+system
+
+126
+00:04:42,080 --> 00:04:46,160
+which is preserved in primarily in the
+
+127
+00:04:44,720 --> 00:04:49,040
+western himalaya
+
+128
+00:04:46,160 --> 00:04:49,440
+was active at a near equatorial latitude
+
+129
+00:04:49,040 --> 00:04:51,360
+um
+
+130
+00:04:49,440 --> 00:04:52,639
+until it collided with the northern
+
+131
+00:04:51,360 --> 00:04:55,520
+margin of india
+
+132
+00:04:52,639 --> 00:04:57,600
+in the paleo scene and then final
+
+133
+00:04:55,520 --> 00:05:00,560
+continental collision in this model
+
+134
+00:04:57,600 --> 00:05:01,680
+did not occur until 40 to 45 may after
+
+135
+00:05:00,560 --> 00:05:04,800
+the closure
+
+136
+00:05:01,680 --> 00:05:07,600
+of um of an ocean basin which which has
+
+137
+00:05:04,800 --> 00:05:09,600
+been called the shiroda ocean basin
+
+138
+00:05:07,600 --> 00:05:10,800
+so this this multi-stage collision model
+
+139
+00:05:09,600 --> 00:05:13,600
+is attractive
+
+140
+00:05:10,800 --> 00:05:15,039
+because it reconciles the separation
+
+141
+00:05:13,600 --> 00:05:16,560
+between the indian and eurasian
+
+142
+00:05:15,039 --> 00:05:18,800
+continents at the time
+
+143
+00:05:16,560 --> 00:05:20,479
+of collision with the amount of crustal
+
+144
+00:05:18,800 --> 00:05:23,759
+shortening that's been observed
+
+145
+00:05:20,479 --> 00:05:26,320
+in in the himalayan belt
+
+146
+00:05:23,759 --> 00:05:27,919
+and also the the activity of a second
+
+147
+00:05:26,320 --> 00:05:30,400
+subduction system which we're calling
+
+148
+00:05:27,919 --> 00:05:32,960
+the transtethian subduction zone
+
+149
+00:05:30,400 --> 00:05:34,800
+south of the eurasian margin throughout
+
+150
+00:05:32,960 --> 00:05:37,600
+the closure of the near tethys has been
+
+151
+00:05:34,800 --> 00:05:39,600
+argued as a as a potential explanation
+
+152
+00:05:37,600 --> 00:05:41,919
+for the rapid motion the anomalously
+
+153
+00:05:39,600 --> 00:05:45,199
+rapid motion of india
+
+154
+00:05:41,919 --> 00:05:45,199
+during the late cretaceous
+
+155
+00:05:45,280 --> 00:05:50,160
+so crucially each of these models makes
+
+156
+00:05:48,080 --> 00:05:52,560
+a distinctly different prediction
+
+157
+00:05:50,160 --> 00:05:54,720
+about the location of remnants of this
+
+158
+00:05:52,560 --> 00:05:57,360
+trans-tethine subduction zone
+
+159
+00:05:54,720 --> 00:05:58,800
+um in the late cretaceous and early
+
+160
+00:05:57,360 --> 00:06:01,360
+paleocene time
+
+161
+00:05:58,800 --> 00:06:03,280
+so the single-stage collision model
+
+162
+00:06:01,360 --> 00:06:05,360
+requires that this intraoceanic
+
+163
+00:06:03,280 --> 00:06:08,319
+subduction system had accreted onto the
+
+164
+00:06:05,360 --> 00:06:10,960
+southern margin of eurasia long before
+
+165
+00:06:08,319 --> 00:06:12,080
+the arrival of india whereas and so it
+
+166
+00:06:10,960 --> 00:06:14,639
+should be situated
+
+167
+00:06:12,080 --> 00:06:16,479
+at a paleo latitude of greater than 20
+
+168
+00:06:14,639 --> 00:06:18,319
+degrees north throughout late cretaceous
+
+169
+00:06:16,479 --> 00:06:20,800
+and paleocene time
+
+170
+00:06:18,319 --> 00:06:21,919
+whereas in the multi-stage collision
+
+171
+00:06:20,800 --> 00:06:24,319
+scenario
+
+172
+00:06:21,919 --> 00:06:25,919
+the intro oceanic subduction system
+
+173
+00:06:24,319 --> 00:06:27,600
+would be expected to be at a more
+
+174
+00:06:25,919 --> 00:06:30,479
+southerly paleolatitude
+
+175
+00:06:27,600 --> 00:06:31,199
+near the equator until it collided with
+
+176
+00:06:30,479 --> 00:06:34,639
+india
+
+177
+00:06:31,199 --> 00:06:38,080
+in in the paleocene
+
+178
+00:06:34,639 --> 00:06:39,199
+so we set out to to resolve between
+
+179
+00:06:38,080 --> 00:06:41,360
+these two
+
+180
+00:06:39,199 --> 00:06:43,199
+conflicting models by doing a
+
+181
+00:06:41,360 --> 00:06:46,319
+paleomagnetic study
+
+182
+00:06:43,199 --> 00:06:49,759
+of the cardin volcanics in in ladakh
+
+183
+00:06:46,319 --> 00:06:50,479
+in west india so the canon volcanics are
+
+184
+00:06:49,759 --> 00:06:52,639
+a suite
+
+185
+00:06:50,479 --> 00:06:54,160
+of rhyolitic volcanic rocks that are the
+
+186
+00:06:52,639 --> 00:06:56,960
+extrusive equivalent
+
+187
+00:06:54,160 --> 00:06:58,880
+of the coast and ladakh arc batholith
+
+188
+00:06:56,960 --> 00:07:02,880
+which is this intraoceanic
+
+189
+00:06:58,880 --> 00:07:05,919
+terrain in the western himalaya um
+
+190
+00:07:02,880 --> 00:07:08,000
+and so and we
+
+191
+00:07:05,919 --> 00:07:09,759
+studied the upper section of these of
+
+192
+00:07:08,000 --> 00:07:12,800
+these volcanics because
+
+193
+00:07:09,759 --> 00:07:13,440
+um the presence of ash horizons and and
+
+194
+00:07:12,800 --> 00:07:15,680
+sediments
+
+195
+00:07:13,440 --> 00:07:17,840
+interbedded with the the rhyolite
+
+196
+00:07:15,680 --> 00:07:20,160
+volcanics allowed us to
+
+197
+00:07:17,840 --> 00:07:21,919
+get a a good estimation of the paleo
+
+198
+00:07:20,160 --> 00:07:25,680
+horizontal so these rocks
+
+199
+00:07:21,919 --> 00:07:27,840
+are tilted towards the north and so
+
+200
+00:07:25,680 --> 00:07:28,800
+in the south the carbon volcanics are
+
+201
+00:07:27,840 --> 00:07:30,560
+bounded by
+
+202
+00:07:28,800 --> 00:07:32,560
+the plutonic rocks of the of the
+
+203
+00:07:30,560 --> 00:07:34,400
+batholith and then in the north they're
+
+204
+00:07:32,560 --> 00:07:35,199
+bounded by the structures of the shark
+
+205
+00:07:34,400 --> 00:07:36,960
+suture zone
+
+206
+00:07:35,199 --> 00:07:38,560
+so that's the the sort of structure that
+
+207
+00:07:36,960 --> 00:07:40,960
+separates the arc from the eurasian
+
+208
+00:07:38,560 --> 00:07:40,960
+margin
+
+209
+00:07:41,680 --> 00:07:46,479
+so we did some ex some precise uranium
+
+210
+00:07:44,479 --> 00:07:49,759
+lead zircon geochronology
+
+211
+00:07:46,479 --> 00:07:52,240
+um from throughout our sampled
+
+212
+00:07:49,759 --> 00:07:53,440
+section and we were able to constrain
+
+213
+00:07:52,240 --> 00:07:57,039
+the age of our
+
+214
+00:07:53,440 --> 00:08:00,639
+volcanic rocks to between 61.6
+
+215
+00:07:57,039 --> 00:08:01,520
+and 66.1 million years so this puts it
+
+216
+00:08:00,639 --> 00:08:04,720
+just before
+
+217
+00:08:01,520 --> 00:08:06,560
+the collision uh that just before
+
+218
+00:08:04,720 --> 00:08:09,680
+collision began to affect the
+
+219
+00:08:06,560 --> 00:08:11,599
+northern indian margin and actually the
+
+220
+00:08:09,680 --> 00:08:12,240
+age range overlaps with some of the
+
+221
+00:08:11,599 --> 00:08:14,800
+first
+
+222
+00:08:12,240 --> 00:08:15,759
+uh ophelite abductions onto the onto
+
+223
+00:08:14,800 --> 00:08:19,120
+india in
+
+224
+00:08:15,759 --> 00:08:23,199
+in pakistan so
+
+225
+00:08:19,120 --> 00:08:25,840
+the 44.5 ma age range is long enough
+
+226
+00:08:23,199 --> 00:08:28,319
+in theory to average the the secular
+
+227
+00:08:25,840 --> 00:08:32,320
+variation of the geodynamo
+
+228
+00:08:28,319 --> 00:08:34,719
+um and the the age of these rocks
+
+229
+00:08:32,320 --> 00:08:36,399
+is should help us resolve between the
+
+230
+00:08:34,719 --> 00:08:38,560
+two models because it constrains the
+
+231
+00:08:36,399 --> 00:08:39,360
+location or will help us constrain the
+
+232
+00:08:38,560 --> 00:08:41,360
+location
+
+233
+00:08:39,360 --> 00:08:42,640
+of the intraoceanic subduction system
+
+234
+00:08:41,360 --> 00:08:45,600
+shortly prior to
+
+235
+00:08:42,640 --> 00:08:48,080
+the india the collision initiation on
+
+236
+00:08:45,600 --> 00:08:50,480
+the indian margin
+
+237
+00:08:48,080 --> 00:08:52,399
+so for our paleomagnetic sampling you
+
+238
+00:08:50,480 --> 00:08:54,720
+i'm assuming most of you will be
+
+239
+00:08:52,399 --> 00:08:56,800
+quite familiar with this we sample 5 to
+
+240
+00:08:54,720 --> 00:08:58,880
+13 oriented calls drilled from
+
+241
+00:08:56,800 --> 00:08:59,920
+individual volcanic flows at each of our
+
+242
+00:08:58,880 --> 00:09:02,240
+sites
+
+243
+00:08:59,920 --> 00:09:03,680
+we demagnetize those samples using
+
+244
+00:09:02,240 --> 00:09:05,839
+alternating field and thermal
+
+245
+00:09:03,680 --> 00:09:09,040
+demagnetization techniques at the
+
+246
+00:09:05,839 --> 00:09:10,720
+mit paleomagnetism laboratory
+
+247
+00:09:09,040 --> 00:09:13,600
+and then we use principal component
+
+248
+00:09:10,720 --> 00:09:16,880
+analysis to isolate individual magnetic
+
+249
+00:09:13,600 --> 00:09:18,959
+components from our from our samples
+
+250
+00:09:16,880 --> 00:09:21,360
+and a combination of the unblocking
+
+251
+00:09:18,959 --> 00:09:22,959
+temperature and hysteresis experiments
+
+252
+00:09:21,360 --> 00:09:25,279
+shows that the the primary carrier of
+
+253
+00:09:22,959 --> 00:09:27,040
+magnetization in our samples is
+
+254
+00:09:25,279 --> 00:09:28,480
+single domain or pseudo single domain
+
+255
+00:09:27,040 --> 00:09:32,720
+magnetite which are good
+
+256
+00:09:28,480 --> 00:09:34,959
+paleomagnetic recorders and so
+
+257
+00:09:32,720 --> 00:09:37,600
+our results as you can see here define
+
+258
+00:09:34,959 --> 00:09:39,839
+two antipodal populations this is the
+
+259
+00:09:37,600 --> 00:09:40,880
+results in geographic and tilt corrected
+
+260
+00:09:39,839 --> 00:09:45,360
+coordinates we have
+
+261
+00:09:40,880 --> 00:09:49,200
+18 site mean orientations
+
+262
+00:09:45,360 --> 00:09:51,360
+and these antipodal populations when
+
+263
+00:09:49,200 --> 00:09:55,600
+plotted against stratigraphy
+
+264
+00:09:51,360 --> 00:09:58,080
+and resolve all but one of the expected
+
+265
+00:09:55,600 --> 00:09:59,519
+magnetocrons for the for the age range
+
+266
+00:09:58,080 --> 00:10:01,680
+of our study
+
+267
+00:09:59,519 --> 00:10:03,279
+and so the presence of these expected
+
+268
+00:10:01,680 --> 00:10:04,399
+magnetic reversals is a strong
+
+269
+00:10:03,279 --> 00:10:07,519
+indication
+
+270
+00:10:04,399 --> 00:10:07,920
+that the uh magnetization of our samples
+
+271
+00:10:07,519 --> 00:10:10,959
+is a
+
+272
+00:10:07,920 --> 00:10:12,640
+is not a post-depositional overprint
+
+273
+00:10:10,959 --> 00:10:14,079
+and because such an overprint would of
+
+274
+00:10:12,640 --> 00:10:15,839
+course be expected to
+
+275
+00:10:14,079 --> 00:10:19,120
+over to completely obliterate the
+
+276
+00:10:15,839 --> 00:10:22,800
+reserve the reversal record
+
+277
+00:10:19,120 --> 00:10:25,760
+and to further confirm that our results
+
+278
+00:10:22,800 --> 00:10:27,360
+are primary we conducted conglomerate
+
+279
+00:10:25,760 --> 00:10:29,519
+tests at the top and base
+
+280
+00:10:27,360 --> 00:10:30,959
+of our sample section so this is an
+
+281
+00:10:29,519 --> 00:10:33,600
+example from the
+
+282
+00:10:30,959 --> 00:10:34,720
+test at the top of the section uh on the
+
+283
+00:10:33,600 --> 00:10:36,800
+left here
+
+284
+00:10:34,720 --> 00:10:37,839
+and as you can see from the distribution
+
+285
+00:10:36,800 --> 00:10:40,240
+so in a
+
+286
+00:10:37,839 --> 00:10:42,480
+in a conglomerate test the you would
+
+287
+00:10:40,240 --> 00:10:45,360
+expect class magnetization directions
+
+288
+00:10:42,480 --> 00:10:46,480
+to be randomly distributed and because
+
+289
+00:10:45,360 --> 00:10:49,279
+that's how they should be
+
+290
+00:10:46,480 --> 00:10:51,440
+from from being transported and then
+
+291
+00:10:49,279 --> 00:10:54,240
+redeposited
+
+292
+00:10:51,440 --> 00:10:56,320
+and as you can see on the left our class
+
+293
+00:10:54,240 --> 00:10:59,360
+magnetization directions are indeed
+
+294
+00:10:56,320 --> 00:11:01,360
+randomly distributed and we confirm this
+
+295
+00:10:59,360 --> 00:11:04,800
+using a watson test for randomness which
+
+296
+00:11:01,360 --> 00:11:06,880
+which passes in all cases
+
+297
+00:11:04,800 --> 00:11:07,920
+so because we're confident that the
+
+298
+00:11:06,880 --> 00:11:10,079
+magnetic
+
+299
+00:11:07,920 --> 00:11:12,320
+the magnetization directions of our of
+
+300
+00:11:10,079 --> 00:11:14,399
+our samples are the primary
+
+301
+00:11:12,320 --> 00:11:16,079
+record from when the volcanic rocks
+
+302
+00:11:14,399 --> 00:11:18,000
+formed
+
+303
+00:11:16,079 --> 00:11:19,839
+we can use them to determine a
+
+304
+00:11:18,000 --> 00:11:20,560
+paleomagnetic pole for the cardinal
+
+305
+00:11:19,839 --> 00:11:22,560
+volcanics
+
+306
+00:11:20,560 --> 00:11:25,040
+and therefore the transtation subduction
+
+307
+00:11:22,560 --> 00:11:26,560
+zone shortly prior to the india eurasia
+
+308
+00:11:25,040 --> 00:11:30,720
+collision
+
+309
+00:11:26,560 --> 00:11:34,640
+and the uh uncertainty angle of uh um
+
+310
+00:11:30,720 --> 00:11:37,040
+of our paleomagnetic pole is within the
+
+311
+00:11:34,640 --> 00:11:39,920
+acceptable uh constraints of dean in a
+
+312
+00:11:37,040 --> 00:11:42,800
+tile 2011.
+
+313
+00:11:39,920 --> 00:11:44,640
+and so this pole allows us to constrain
+
+314
+00:11:42,800 --> 00:11:46,399
+the coast and ladakh arc
+
+315
+00:11:44,640 --> 00:11:47,760
+and and therefore the transtethian
+
+316
+00:11:46,399 --> 00:11:50,800
+subduction system
+
+317
+00:11:47,760 --> 00:11:53,200
+to a paleolatitude of 8.1 plus or minus
+
+318
+00:11:50,800 --> 00:11:56,800
+5.6 degrees north
+
+319
+00:11:53,200 --> 00:12:00,079
+in in the time range between 61.6
+
+320
+00:11:56,800 --> 00:12:02,480
+and 66.1 million years ago
+
+321
+00:12:00,079 --> 00:12:04,240
+this paleo attitude is is in our view
+
+322
+00:12:02,480 --> 00:12:05,440
+significant because it allows us to
+
+323
+00:12:04,240 --> 00:12:08,240
+construct to
+
+324
+00:12:05,440 --> 00:12:10,240
+choose between the two uh conflicting
+
+325
+00:12:08,240 --> 00:12:13,519
+collision models
+
+326
+00:12:10,240 --> 00:12:15,360
+our results are uniquely compatible
+
+327
+00:12:13,519 --> 00:12:16,720
+with a multi-stage collision model
+
+328
+00:12:15,360 --> 00:12:19,279
+because they place the inter
+
+329
+00:12:16,720 --> 00:12:20,800
+oceanic subduction system significantly
+
+330
+00:12:19,279 --> 00:12:24,880
+south of eurasia
+
+331
+00:12:20,800 --> 00:12:27,279
+at uh the in the at the cretaceous
+
+332
+00:12:24,880 --> 00:12:29,279
+palestine boundary
+
+333
+00:12:27,279 --> 00:12:31,760
+so that's our plate reconstruction
+
+334
+00:12:29,279 --> 00:12:35,040
+showing the coast and ladakh arc
+
+335
+00:12:31,760 --> 00:12:38,480
+um and it's positioned between uh
+
+336
+00:12:35,040 --> 00:12:39,240
+600 and 2300 kilometers south of the
+
+337
+00:12:38,480 --> 00:12:42,320
+contain
+
+338
+00:12:39,240 --> 00:12:44,959
+contemporaneous eurasian margin
+
+339
+00:12:42,320 --> 00:12:46,000
+and so the presence of this oceanic
+
+340
+00:12:44,959 --> 00:12:49,920
+plate
+
+341
+00:12:46,000 --> 00:12:50,880
+between india and eurasia after 50 to 55
+
+342
+00:12:49,920 --> 00:12:54,399
+ma
+
+343
+00:12:50,880 --> 00:12:56,639
+explains the explains the
+
+344
+00:12:54,399 --> 00:12:58,880
+difference between the amount of
+
+345
+00:12:56,639 --> 00:13:01,760
+convergence expected
+
+346
+00:12:58,880 --> 00:13:03,600
+in the in the india eurasia collision
+
+347
+00:13:01,760 --> 00:13:04,880
+and the amount of observed crustal
+
+348
+00:13:03,600 --> 00:13:08,560
+deformation
+
+349
+00:13:04,880 --> 00:13:12,000
+in the eurasian and indian margins
+
+350
+00:13:08,560 --> 00:13:12,720
+and our results also put a firm upper
+
+351
+00:13:12,000 --> 00:13:15,519
+boundary
+
+352
+00:13:12,720 --> 00:13:16,320
+on the maximum size of greater india to
+
+353
+00:13:15,519 --> 00:13:21,760
+less than
+
+354
+00:13:16,320 --> 00:13:24,160
+900 kilometers
+
+355
+00:13:21,760 --> 00:13:24,959
+so here are our results again presented
+
+356
+00:13:24,160 --> 00:13:26,800
+against the
+
+357
+00:13:24,959 --> 00:13:28,240
+um plate reconstructions from van
+
+358
+00:13:26,800 --> 00:13:32,560
+hensberg hotel
+
+359
+00:13:28,240 --> 00:13:35,200
+uh 2019 um and this black line
+
+360
+00:13:32,560 --> 00:13:37,680
+is the predicted paleo latitude of the
+
+361
+00:13:35,200 --> 00:13:39,600
+intraoceanic subduction system
+
+362
+00:13:37,680 --> 00:13:42,399
+using the double subduction model of
+
+363
+00:13:39,600 --> 00:13:45,199
+yaguza tile 2015 so this is modeling the
+
+364
+00:13:42,399 --> 00:13:46,800
+double a double subduction system
+
+365
+00:13:45,199 --> 00:13:48,399
+and as you can see our results are in
+
+366
+00:13:46,800 --> 00:13:49,440
+good agreement with that with that
+
+367
+00:13:48,399 --> 00:13:52,720
+prediction
+
+368
+00:13:49,440 --> 00:13:54,880
+and also a multi-stage collision model
+
+369
+00:13:52,720 --> 00:13:57,199
+is in good agreement with the available
+
+370
+00:13:54,880 --> 00:13:59,440
+plate reconstructions
+
+371
+00:13:57,199 --> 00:14:00,959
+so we believe that our debate our data
+
+372
+00:13:59,440 --> 00:14:03,279
+supports a multi-stage
+
+373
+00:14:00,959 --> 00:14:04,240
+india eurasia collision model in which
+
+374
+00:14:03,279 --> 00:14:07,680
+first
+
+375
+00:14:04,240 --> 00:14:09,760
+india sorry india collided with an intro
+
+376
+00:14:07,680 --> 00:14:12,800
+the inter-oceanic subduction system
+
+377
+00:14:09,760 --> 00:14:14,880
+at 50 to 60 ma and then continued to
+
+378
+00:14:12,800 --> 00:14:17,279
+move northward while the shiroda ocean
+
+379
+00:14:14,880 --> 00:14:20,079
+basin subducted beneath eurasia
+
+380
+00:14:17,279 --> 00:14:22,639
+before finally colliding with eurasia in
+
+381
+00:14:20,079 --> 00:14:23,600
+the continent continent collision at 40
+
+382
+00:14:22,639 --> 00:14:26,399
+to 45
+
+383
+00:14:23,600 --> 00:14:29,360
+ma that's 15 million years later than is
+
+384
+00:14:26,399 --> 00:14:32,480
+generally assumed
+
+385
+00:14:29,360 --> 00:14:34,000
+so this collision chronology
+
+386
+00:14:32,480 --> 00:14:36,399
+is well preserved in the western
+
+387
+00:14:34,000 --> 00:14:38,480
+himalaya where the indus suture zone
+
+388
+00:14:36,399 --> 00:14:40,079
+records the first stage of collision
+
+389
+00:14:38,480 --> 00:14:42,240
+between the intro oceanic
+
+390
+00:14:40,079 --> 00:14:43,600
+coast and ladakh arc and the northern
+
+391
+00:14:42,240 --> 00:14:46,320
+margin of india this
+
+392
+00:14:43,600 --> 00:14:49,199
+sushi zone is well constrained to 50 to
+
+393
+00:14:46,320 --> 00:14:52,399
+55 million years
+
+394
+00:14:49,199 --> 00:14:54,160
+so final india eurasia collision then
+
+395
+00:14:52,399 --> 00:14:55,839
+therefore occurred along the shaykh
+
+396
+00:14:54,160 --> 00:14:58,240
+sangpo sutra zone
+
+397
+00:14:55,839 --> 00:14:59,519
+not the indus sancpo such suture zone
+
+398
+00:14:58,240 --> 00:15:02,720
+and it's constrained
+
+399
+00:14:59,519 --> 00:15:07,120
+in the western himalayas to between 40
+
+400
+00:15:02,720 --> 00:15:09,279
+and 45 ma by the chemical changes in in
+
+401
+00:15:07,120 --> 00:15:12,160
+the ladakh batholith
+
+402
+00:15:09,279 --> 00:15:13,360
+so with that i will uh i'd like to thank
+
+403
+00:15:12,160 --> 00:15:17,199
+again my co-authors
+
+404
+00:15:13,360 --> 00:15:18,240
+and and and sponsors um i'd specifically
+
+405
+00:15:17,199 --> 00:15:20,160
+like to thank
+
+406
+00:15:18,240 --> 00:15:21,839
+my undergraduate field assistant jade
+
+407
+00:15:20,160 --> 00:15:25,040
+fisher who was incredibly
+
+408
+00:15:21,839 --> 00:15:27,440
+helpful in the field and and also my
+
+409
+00:15:25,040 --> 00:15:27,760
+hosts serwang dorje and stanzan kando
+
+410
+00:15:27,440 --> 00:15:30,320
+who
+
+411
+00:15:27,760 --> 00:15:32,639
+who graciously accommodated us in in
+
+412
+00:15:30,320 --> 00:15:34,480
+ladakh during our field season
+
+413
+00:15:32,639 --> 00:15:36,560
+so with that thank you i i'm happy to
+
+414
+00:15:34,480 --> 00:15:38,320
+take questions um and if you're more
+
+415
+00:15:36,560 --> 00:15:39,920
+interested in this work and don't get to
+
+416
+00:15:38,320 --> 00:15:41,759
+ask a question and though
+
+417
+00:15:39,920 --> 00:15:44,079
+it is published in the proceedings of
+
+418
+00:15:41,759 --> 00:15:46,079
+the national academy of sciences now so
+
+419
+00:15:44,079 --> 00:15:48,240
+you can find it there and i'm also happy
+
+420
+00:15:46,079 --> 00:15:51,120
+to answer any questions by email
+
+421
+00:15:48,240 --> 00:15:51,120
+so thanks very much
+
+422
+00:15:53,360 --> 00:16:00,240
+thank you very much craig so
+
+423
+00:15:57,120 --> 00:16:03,040
+has anyone got any questions that they'd
+
+424
+00:16:00,240 --> 00:16:03,040
+like to ask
+
+425
+00:16:04,560 --> 00:16:12,399
+yes i have some questions
+
+426
+00:16:08,639 --> 00:16:12,399
+uh did you consider uh
+
+427
+00:16:12,880 --> 00:16:16,880
+from anaya so if you look at repellent
+
+428
+00:16:16,000 --> 00:16:19,510
+network from
+
+429
+00:16:16,880 --> 00:16:20,800
+third schema it suggests
+
+430
+00:16:19,510 --> 00:16:24,320
+[Music]
+
+431
+00:16:20,800 --> 00:16:25,680
+it's already a part of the tetramena at
+
+432
+00:16:24,320 --> 00:16:29,519
+60 ma
+
+433
+00:16:25,680 --> 00:16:32,399
+so remaster clad before 6
+
+434
+00:16:29,519 --> 00:16:34,079
+mma so sorry which which which
+
+435
+00:16:32,399 --> 00:16:37,600
+measurement are you talking to you cut
+
+436
+00:16:34,079 --> 00:16:40,000
+out a little bit i i i i miss you
+
+437
+00:16:37,600 --> 00:16:40,800
+there are a lot of a lot of magnetic
+
+438
+00:16:40,000 --> 00:16:44,000
+data from
+
+439
+00:16:40,800 --> 00:16:47,120
+test human iron so they're highlighted
+
+440
+00:16:44,000 --> 00:16:47,680
+at 60 ml is either same are the data
+
+441
+00:16:47,120 --> 00:16:49,360
+from an
+
+442
+00:16:47,680 --> 00:16:51,839
+attack so that means they are already
+
+443
+00:16:49,360 --> 00:16:51,839
+together
+
+444
+00:16:52,639 --> 00:16:56,880
+you mean the the work from pakistan
+
+445
+00:16:58,720 --> 00:17:02,320
+no not from pakistan
+
+446
+00:17:02,720 --> 00:17:08,400
+from the tether similar sorry i'm i'm
+
+447
+00:17:05,839 --> 00:17:09,199
+sorry if i'm i'm misunderstanding okay
+
+448
+00:17:08,400 --> 00:17:11,919
+so
+
+449
+00:17:09,199 --> 00:17:12,880
+the the the data from the tethys
+
+450
+00:17:11,919 --> 00:17:15,919
+himalaya
+
+451
+00:17:12,880 --> 00:17:17,439
+is um well that's that's
+
+452
+00:17:15,919 --> 00:17:19,600
+sort of been interpreted to show that
+
+453
+00:17:17,439 --> 00:17:22,160
+india that greater india extended
+
+454
+00:17:19,600 --> 00:17:23,600
+hugely you know the the greater india
+
+455
+00:17:22,160 --> 00:17:25,760
+extension was large but
+
+456
+00:17:23,600 --> 00:17:26,799
+i'm not sure of any tethers himalaya
+
+457
+00:17:25,760 --> 00:17:29,200
+data that would
+
+458
+00:17:26,799 --> 00:17:30,640
+constrain the location of the of the
+
+459
+00:17:29,200 --> 00:17:33,120
+ladakh system
+
+460
+00:17:30,640 --> 00:17:33,840
+i would argue that our data is from you
+
+461
+00:17:33,120 --> 00:17:37,840
+know
+
+462
+00:17:33,840 --> 00:17:39,840
+from igneous rocks and for you know
+
+463
+00:17:37,840 --> 00:17:41,440
+i i see i you're right there is a there
+
+464
+00:17:39,840 --> 00:17:43,840
+is a problem in the in this
+
+465
+00:17:41,440 --> 00:17:45,200
+sort of field because we have some data
+
+466
+00:17:43,840 --> 00:17:46,000
+from the tethers himalaya which is
+
+467
+00:17:45,200 --> 00:17:49,360
+primarily
+
+468
+00:17:46,000 --> 00:17:50,480
+sedimentary originated paleomagnetic
+
+469
+00:17:49,360 --> 00:17:53,520
+data which puts
+
+470
+00:17:50,480 --> 00:17:56,480
+a large extent on greater india
+
+471
+00:17:53,520 --> 00:17:58,160
+whereas and our data conflicts with that
+
+472
+00:17:56,480 --> 00:18:02,480
+but i would argue that
+
+473
+00:17:58,160 --> 00:18:04,480
+um the a smaller extent of greater india
+
+474
+00:18:02,480 --> 00:18:06,640
+not only agrees better with the
+
+475
+00:18:04,480 --> 00:18:08,960
+paleomagnetic data particularly
+
+476
+00:18:06,640 --> 00:18:09,840
+particularly from from our study but it
+
+477
+00:18:08,960 --> 00:18:12,240
+also
+
+478
+00:18:09,840 --> 00:18:13,120
+matches the amount of under thrusting
+
+479
+00:18:12,240 --> 00:18:16,559
+beneath the
+
+480
+00:18:13,120 --> 00:18:19,039
+eurasias so the the seismic
+
+481
+00:18:16,559 --> 00:18:21,039
+imagery beneath tibet shows that the
+
+482
+00:18:19,039 --> 00:18:21,840
+indian continent is only subducted by
+
+483
+00:18:21,039 --> 00:18:24,000
+600
+
+484
+00:18:21,840 --> 00:18:25,280
+kilometers so i i think it's quite hard
+
+485
+00:18:24,000 --> 00:18:28,960
+to imagine
+
+486
+00:18:25,280 --> 00:18:29,360
+why um it's quite hard to see how you
+
+487
+00:18:28,960 --> 00:18:30,880
+lose
+
+488
+00:18:29,360 --> 00:18:32,480
+over a thousand kilometers of
+
+489
+00:18:30,880 --> 00:18:34,960
+continental crust
+
+490
+00:18:32,480 --> 00:18:36,480
+um in the in under thrusting so i think
+
+491
+00:18:34,960 --> 00:18:38,720
+it's it's important to now
+
+492
+00:18:36,480 --> 00:18:40,160
+look at that paleomagnetic data and ask
+
+493
+00:18:38,720 --> 00:18:41,919
+well why is it giving us
+
+494
+00:18:40,160 --> 00:18:43,679
+latitudes that are so far north it's
+
+495
+00:18:41,919 --> 00:18:45,039
+possible that those sediments formed
+
+496
+00:18:43,679 --> 00:18:47,360
+you know in association with this
+
+497
+00:18:45,039 --> 00:18:50,559
+intraoceanic system
+
+498
+00:18:47,360 --> 00:18:50,559
+at least that's what i would argue
+
+499
+00:18:52,080 --> 00:18:56,559
+and also i think the paleolithic you
+
+500
+00:18:54,320 --> 00:19:00,320
+used for nasa has some problem
+
+501
+00:18:56,559 --> 00:19:03,200
+because a lot of magnetic
+
+502
+00:19:00,320 --> 00:19:04,880
+data suggests resolving your asia your
+
+503
+00:19:03,200 --> 00:19:05,280
+lasso block is located at something
+
+504
+00:19:04,880 --> 00:19:08,400
+about
+
+505
+00:19:05,280 --> 00:19:11,120
+15 degrees not 30 degrees so
+
+506
+00:19:08,400 --> 00:19:12,080
+i mean so we compared it to the that
+
+507
+00:19:11,120 --> 00:19:15,200
+means
+
+508
+00:19:12,080 --> 00:19:15,200
+the starting ratio is my
+
+509
+00:19:15,679 --> 00:19:19,440
+you're right so you're right if if you
+
+510
+00:19:17,280 --> 00:19:21,840
+raise your sorry you've got a set
+
+511
+00:19:19,440 --> 00:19:23,600
+then then it it makes it harder to
+
+512
+00:19:21,840 --> 00:19:24,640
+distinguish the cursed in ladakh arc
+
+513
+00:19:23,600 --> 00:19:26,400
+from eurasia so
+
+514
+00:19:24,640 --> 00:19:28,559
+we're comparing our results to the play
+
+515
+00:19:26,400 --> 00:19:30,960
+reconstruction of van hinsberg and hotel
+
+516
+00:19:28,559 --> 00:19:32,320
+which incorporates much of the most
+
+517
+00:19:30,960 --> 00:19:34,000
+reliable
+
+518
+00:19:32,320 --> 00:19:35,360
+as far as unaware all of the reliable
+
+519
+00:19:34,000 --> 00:19:38,320
+paleomagnetic data
+
+520
+00:19:35,360 --> 00:19:39,840
+from from tibet so that that from lasso
+
+521
+00:19:38,320 --> 00:19:42,720
+particularly so so that's the
+
+522
+00:19:39,840 --> 00:19:46,080
+that's the uh that's the latitude that
+
+523
+00:19:42,720 --> 00:19:46,080
+we're comparing our data to
+
+524
+00:19:48,799 --> 00:19:52,080
+okay thank you very much for the
+
+525
+00:19:50,240 --> 00:19:54,720
+question there's another one from
+
+526
+00:19:52,080 --> 00:19:55,360
+connell in the chat who said how do you
+
+527
+00:19:54,720 --> 00:19:58,080
+decide
+
+528
+00:19:55,360 --> 00:19:59,840
+the hemisphere it also it's also
+
+529
+00:19:58,080 --> 00:20:03,600
+consistent with greater india
+
+530
+00:19:59,840 --> 00:20:05,919
+with large rotations dot dot dot
+
+531
+00:20:03,600 --> 00:20:07,520
+yeah that's that's referring to the the
+
+532
+00:20:05,919 --> 00:20:11,039
+um
+
+533
+00:20:07,520 --> 00:20:12,960
+the the are you referring to the the
+
+534
+00:20:11,039 --> 00:20:15,600
+data from the tethers himalayan or the
+
+535
+00:20:12,960 --> 00:20:19,360
+or the data i just presented
+
+536
+00:20:15,600 --> 00:20:21,840
+i have no idea so we know that so we
+
+537
+00:20:19,360 --> 00:20:21,840
+we
+
+538
+00:20:22,640 --> 00:20:27,520
+are another hemisphere because um of the
+
+539
+00:20:25,679 --> 00:20:30,000
+inclination direction right and
+
+540
+00:20:27,520 --> 00:20:30,720
+these rocks have not been rotated 180
+
+541
+00:20:30,000 --> 00:20:35,840
+degrees from
+
+542
+00:20:30,720 --> 00:20:35,840
+from their original orientation
+
+543
+00:20:38,799 --> 00:20:42,640
+i i guess my question how do you know
+
+544
+00:20:40,400 --> 00:20:42,640
+that
+
+545
+00:20:43,280 --> 00:20:48,240
+how do we so well i i mean the
+
+546
+00:20:46,720 --> 00:20:49,919
+because they form aren't you know that
+
+547
+00:20:48,240 --> 00:20:50,480
+they're still the right way up right and
+
+548
+00:20:49,919 --> 00:20:52,799
+if you
+
+549
+00:20:50,480 --> 00:20:54,320
+have twisted them around completely like
+
+550
+00:20:52,799 --> 00:20:56,480
+there just isn't structural
+
+551
+00:20:54,320 --> 00:20:58,960
+support for that in in the in the field
+
+552
+00:20:56,480 --> 00:21:01,440
+you know you can follow this unit across
+
+553
+00:20:58,960 --> 00:21:03,039
+tens of kilometers of the region we work
+
+554
+00:21:01,440 --> 00:21:05,120
+in in northwest india
+
+555
+00:21:03,039 --> 00:21:07,120
+and it you know to to rotate the whole
+
+556
+00:21:05,120 --> 00:21:08,880
+carbon volcanics by that much would
+
+557
+00:21:07,120 --> 00:21:11,120
+would be
+
+558
+00:21:08,880 --> 00:21:17,280
+you know it doesn't make sense in in the
+
+559
+00:21:11,120 --> 00:21:17,280
+field i would argue
+

@@ -1,0 +1,4112 @@
+1
+00:00:00,080 --> 00:00:05,279
+okay excellent so um hi
+
+2
+00:00:03,040 --> 00:00:07,919
+i'm brendan i'm a phd student at the
+
+3
+00:00:05,279 --> 00:00:10,559
+university of california san diego
+
+4
+00:00:07,919 --> 00:00:12,080
+um and i'm going to give a talk on
+
+5
+00:00:10,559 --> 00:00:15,440
+something a bit different today
+
+6
+00:00:12,080 --> 00:00:17,920
+which is kind of looking at the
+
+7
+00:00:15,440 --> 00:00:20,640
+statistics of pillow intensity
+
+8
+00:00:17,920 --> 00:00:21,840
+and how to sort of perhaps we can we can
+
+9
+00:00:20,640 --> 00:00:25,039
+move forward with
+
+10
+00:00:21,840 --> 00:00:26,640
+um how we're analyzing paleo intensity
+
+11
+00:00:25,039 --> 00:00:27,599
+experiments i think a few of you may
+
+12
+00:00:26,640 --> 00:00:30,560
+have seen
+
+13
+00:00:27,599 --> 00:00:31,519
+a version of this presentation um sort
+
+14
+00:00:30,560 --> 00:00:34,640
+of an earlier
+
+15
+00:00:31,519 --> 00:00:37,280
+version of this method agu a year ago or
+
+16
+00:00:34,640 --> 00:00:40,079
+a couple years ago
+
+17
+00:00:37,280 --> 00:00:40,640
+and it's changed a fair bit since then
+
+18
+00:00:40,079 --> 00:00:42,239
+and
+
+19
+00:00:40,640 --> 00:00:44,079
+some of the sort of contribution from
+
+20
+00:00:42,239 --> 00:00:45,360
+that has come from my second author
+
+21
+00:00:44,079 --> 00:00:49,039
+matty mooresfeld
+
+22
+00:00:45,360 --> 00:00:51,440
+who is sort of a statistician um
+
+23
+00:00:49,039 --> 00:00:53,760
+predominantly and so um he's been
+
+24
+00:00:51,440 --> 00:00:57,199
+helping me out a lot with this method
+
+25
+00:00:53,760 --> 00:00:58,480
+um so um
+
+26
+00:00:57,199 --> 00:01:01,120
+so what we're looking at is we're
+
+27
+00:00:58,480 --> 00:01:03,039
+looking at atelier experiments
+
+28
+00:01:01,120 --> 00:01:05,280
+and i've just given two examples of sort
+
+29
+00:01:03,039 --> 00:01:06,320
+of ra plots from talia experiments so
+
+30
+00:01:05,280 --> 00:01:09,360
+the idea is
+
+31
+00:01:06,320 --> 00:01:11,119
+that um we are demagnetizing the
+
+32
+00:01:09,360 --> 00:01:13,280
+specimen by heating it to temperature
+
+33
+00:01:11,119 --> 00:01:15,920
+and cooling it in zero fields
+
+34
+00:01:13,280 --> 00:01:16,640
+and giving it a magnetization by heating
+
+35
+00:01:15,920 --> 00:01:18,560
+it and
+
+36
+00:01:16,640 --> 00:01:21,439
+cooling it in a known lab field and the
+
+37
+00:01:18,560 --> 00:01:25,119
+ratio of those two magnetizations
+
+38
+00:01:21,439 --> 00:01:26,640
+um should give us uh the ratio of the
+
+39
+00:01:25,119 --> 00:01:28,240
+two fields
+
+40
+00:01:26,640 --> 00:01:29,759
+um and you can see that it should obey
+
+41
+00:01:28,240 --> 00:01:31,520
+this linear relationship
+
+42
+00:01:29,759 --> 00:01:33,040
+um so i've given two examples here one
+
+43
+00:01:31,520 --> 00:01:34,640
+over sort of an experiment that's done
+
+44
+00:01:33,040 --> 00:01:37,040
+reasonably well
+
+45
+00:01:34,640 --> 00:01:38,560
+and one of an experiment that's uh not
+
+46
+00:01:37,040 --> 00:01:40,640
+done well at all
+
+47
+00:01:38,560 --> 00:01:42,640
+um and this is because probably in this
+
+48
+00:01:40,640 --> 00:01:44,079
+case um there's been an alteration of
+
+49
+00:01:42,640 --> 00:01:48,079
+the material
+
+50
+00:01:44,079 --> 00:01:49,840
+um but um
+
+51
+00:01:48,079 --> 00:01:51,200
+and so if you try to estimate using this
+
+52
+00:01:49,840 --> 00:01:53,040
+you'll get a very biased estimate of
+
+53
+00:01:51,200 --> 00:01:54,399
+paleo intensity another case where this
+
+54
+00:01:53,040 --> 00:01:57,840
+can happen
+
+55
+00:01:54,399 --> 00:01:59,520
+um is where you have um
+
+56
+00:01:57,840 --> 00:02:01,200
+what's known as sort of a curved or a
+
+57
+00:01:59,520 --> 00:02:02,640
+too slow-powered plot
+
+58
+00:02:01,200 --> 00:02:04,399
+um i think there's a lot of literature
+
+59
+00:02:02,640 --> 00:02:06,320
+now that looks at these and says that
+
+60
+00:02:04,399 --> 00:02:08,399
+sort of doing this kind of an estimate
+
+61
+00:02:06,320 --> 00:02:10,000
+where you're taking the sort of low
+
+62
+00:02:08,399 --> 00:02:11,280
+temperature slope of a plot that looks
+
+63
+00:02:10,000 --> 00:02:14,400
+like this
+
+64
+00:02:11,280 --> 00:02:18,319
+can cause you a biased estimate and
+
+65
+00:02:14,400 --> 00:02:21,280
+this this is a problem um because
+
+66
+00:02:18,319 --> 00:02:23,200
+you have uh sort of the whole point of
+
+67
+00:02:21,280 --> 00:02:24,319
+this plot is to be able to choose linear
+
+68
+00:02:23,200 --> 00:02:26,480
+segments
+
+69
+00:02:24,319 --> 00:02:27,520
+and so if you can't do that you're
+
+70
+00:02:26,480 --> 00:02:29,360
+you're in trouble
+
+71
+00:02:27,520 --> 00:02:32,000
+and so what we do is we use selection
+
+72
+00:02:29,360 --> 00:02:34,720
+criteria um which is sort of
+
+73
+00:02:32,000 --> 00:02:36,640
+statistics about these ri plot data and
+
+74
+00:02:34,720 --> 00:02:38,239
+other data to do with the experiment
+
+75
+00:02:36,640 --> 00:02:40,080
+to sort of exclude results that we
+
+76
+00:02:38,239 --> 00:02:40,959
+believe to be biased this could be a
+
+77
+00:02:40,080 --> 00:02:44,160
+result that gets
+
+78
+00:02:40,959 --> 00:02:46,160
+excluded um
+
+79
+00:02:44,160 --> 00:02:47,680
+but this is problematic because it's
+
+80
+00:02:46,160 --> 00:02:48,720
+sort of subjective so i'm going to show
+
+81
+00:02:47,680 --> 00:02:51,599
+you sort of the
+
+82
+00:02:48,720 --> 00:02:53,040
+three examples of plots like these and
+
+83
+00:02:51,599 --> 00:02:54,080
+these are all plots where this sort of
+
+84
+00:02:53,040 --> 00:02:56,640
+curvature
+
+85
+00:02:54,080 --> 00:02:57,760
+uh could be an issue and could lead to
+
+86
+00:02:56,640 --> 00:03:01,200
+sort of a
+
+87
+00:02:57,760 --> 00:03:03,519
+biased paleo intensity results um
+
+88
+00:03:01,200 --> 00:03:05,440
+and whether it's appropriate to sort of
+
+89
+00:03:03,519 --> 00:03:07,040
+select these parts of the ri plots to do
+
+90
+00:03:05,440 --> 00:03:08,959
+analysis is not always
+
+91
+00:03:07,040 --> 00:03:10,959
+clear and i think different labs using
+
+92
+00:03:08,959 --> 00:03:14,319
+different sets of criteria
+
+93
+00:03:10,959 --> 00:03:17,440
+might exclude or might accept these
+
+94
+00:03:14,319 --> 00:03:18,159
+specimens depending on sort of who you
+
+95
+00:03:17,440 --> 00:03:19,680
+ask
+
+96
+00:03:18,159 --> 00:03:21,680
+so where do we put the cut off is this
+
+97
+00:03:19,680 --> 00:03:24,879
+sort of very subjective uh
+
+98
+00:03:21,680 --> 00:03:25,360
+problem um and so this is something that
+
+99
+00:03:24,879 --> 00:03:27,840
+sort of
+
+100
+00:03:25,360 --> 00:03:29,440
+i was very frustrated by when i i've
+
+101
+00:03:27,840 --> 00:03:31,120
+been doing these experiments so
+
+102
+00:03:29,440 --> 00:03:33,120
+i wanted to i wanted to perhaps find
+
+103
+00:03:31,120 --> 00:03:34,640
+something that um
+
+104
+00:03:33,120 --> 00:03:36,319
+that did this in a slightly different
+
+105
+00:03:34,640 --> 00:03:38,400
+way so
+
+106
+00:03:36,319 --> 00:03:39,760
+sort of the main idea behind this is
+
+107
+00:03:38,400 --> 00:03:42,159
+that for any
+
+108
+00:03:39,760 --> 00:03:43,920
+specimen level uh estimate so that's
+
+109
+00:03:42,159 --> 00:03:46,959
+this b specimen
+
+110
+00:03:43,920 --> 00:03:47,360
+um you will have something that looks
+
+111
+00:03:46,959 --> 00:03:50,560
+like
+
+112
+00:03:47,360 --> 00:03:51,120
+the ancient fields plus some amount of
+
+113
+00:03:50,560 --> 00:03:54,000
+bias
+
+114
+00:03:51,120 --> 00:03:55,840
+and some amount of noise right and so if
+
+115
+00:03:54,000 --> 00:03:57,840
+we knew what this was then we could
+
+116
+00:03:55,840 --> 00:03:59,040
+always calculate the paleo intensity
+
+117
+00:03:57,840 --> 00:04:00,959
+right just by measuring
+
+118
+00:03:59,040 --> 00:04:03,200
+several specimens because then you know
+
+119
+00:04:00,959 --> 00:04:05,519
+this this would get averaged out
+
+120
+00:04:03,200 --> 00:04:07,280
+um but what we do is we use selection
+
+121
+00:04:05,519 --> 00:04:09,360
+criteria to kind of exclude things
+
+122
+00:04:07,280 --> 00:04:11,760
+except where this is close to zero
+
+123
+00:04:09,360 --> 00:04:16,239
+right and so then we don't really have
+
+124
+00:04:11,760 --> 00:04:19,120
+to worry about this term um
+
+125
+00:04:16,239 --> 00:04:20,959
+but by doing that we're kind of saying
+
+126
+00:04:19,120 --> 00:04:21,359
+that the selection criteria are sort of
+
+127
+00:04:20,959 --> 00:04:23,600
+a
+
+128
+00:04:21,359 --> 00:04:24,960
+predictor of what the bias will be right
+
+129
+00:04:23,600 --> 00:04:25,919
+so if you were doing this in a sort of
+
+130
+00:04:24,960 --> 00:04:27,840
+machine learning
+
+131
+00:04:25,919 --> 00:04:29,360
+type way you just take a load of
+
+132
+00:04:27,840 --> 00:04:31,919
+selection criteria
+
+133
+00:04:29,360 --> 00:04:34,000
+you'd model the bias as a function of
+
+134
+00:04:31,919 --> 00:04:37,600
+those selection criteria
+
+135
+00:04:34,000 --> 00:04:39,440
+and then you would um
+
+136
+00:04:37,600 --> 00:04:41,280
+use that to try and sort of find this
+
+137
+00:04:39,440 --> 00:04:42,080
+function and then you know correct back
+
+138
+00:04:41,280 --> 00:04:45,360
+to
+
+139
+00:04:42,080 --> 00:04:46,240
+the sort of good values of the selection
+
+140
+00:04:45,360 --> 00:04:48,000
+criteria
+
+141
+00:04:46,240 --> 00:04:49,360
+if that makes sense um but the issue
+
+142
+00:04:48,000 --> 00:04:50,960
+with that is that
+
+143
+00:04:49,360 --> 00:04:52,960
+we generally don't have very many
+
+144
+00:04:50,960 --> 00:04:54,960
+specimens at a site level
+
+145
+00:04:52,960 --> 00:04:56,000
+and we have a lot of selection criteria
+
+146
+00:04:54,960 --> 00:04:58,560
+that people use
+
+147
+00:04:56,000 --> 00:05:00,720
+and they're sort of mostly um
+
+148
+00:04:58,560 --> 00:05:02,800
+empirically based or
+
+149
+00:05:00,720 --> 00:05:04,240
+there's not sort of a really good
+
+150
+00:05:02,800 --> 00:05:04,960
+understanding of what that relationship
+
+151
+00:05:04,240 --> 00:05:08,479
+would be
+
+152
+00:05:04,960 --> 00:05:09,759
+so it's difficult to um come up with
+
+153
+00:05:08,479 --> 00:05:10,080
+something that wouldn't have sort of
+
+154
+00:05:09,759 --> 00:05:11,919
+very
+
+155
+00:05:10,080 --> 00:05:13,280
+big uncertainties associated with it
+
+156
+00:05:11,919 --> 00:05:15,360
+it's a bit too complicated for the
+
+157
+00:05:13,280 --> 00:05:17,520
+number of specimens that we have
+
+158
+00:05:15,360 --> 00:05:19,440
+but one predictor that i wanted to look
+
+159
+00:05:17,520 --> 00:05:22,400
+at was this sort of curvature
+
+160
+00:05:19,440 --> 00:05:23,360
+um and so the idea with this is that
+
+161
+00:05:22,400 --> 00:05:26,240
+these are data
+
+162
+00:05:23,360 --> 00:05:27,440
+where someone gave magnetite powders of
+
+163
+00:05:26,240 --> 00:05:29,440
+known grain sizes
+
+164
+00:05:27,440 --> 00:05:31,039
+that sort of increase in coarseness as
+
+165
+00:05:29,440 --> 00:05:32,960
+you go to the right
+
+166
+00:05:31,039 --> 00:05:34,639
+um and gave them a magnetization and
+
+167
+00:05:32,960 --> 00:05:36,240
+then did this experiment on them and you
+
+168
+00:05:34,639 --> 00:05:38,960
+can see that this sort of curvature
+
+169
+00:05:36,240 --> 00:05:40,400
+increases and also if you take sort of
+
+170
+00:05:38,960 --> 00:05:41,280
+what's what's to been done here is to
+
+171
+00:05:40,400 --> 00:05:43,759
+take the
+
+172
+00:05:41,280 --> 00:05:44,320
+sort of uh estimate just using all of
+
+173
+00:05:43,759 --> 00:05:46,880
+these
+
+174
+00:05:44,320 --> 00:05:48,720
+um points so it's not it's fitting a
+
+175
+00:05:46,880 --> 00:05:49,520
+line to everything but also the total
+
+176
+00:05:48,720 --> 00:05:51,280
+trm
+
+177
+00:05:49,520 --> 00:05:53,199
+does this as well you'll notice if you
+
+178
+00:05:51,280 --> 00:05:55,919
+look at the numbers here
+
+179
+00:05:53,199 --> 00:05:56,720
+that um your estimate effectively
+
+180
+00:05:55,919 --> 00:05:59,199
+becomes
+
+181
+00:05:56,720 --> 00:06:00,639
+um more biased as your curvature
+
+182
+00:05:59,199 --> 00:06:02,880
+increases right
+
+183
+00:06:00,639 --> 00:06:04,880
+um and the curvature criterion is sort
+
+184
+00:06:02,880 --> 00:06:05,840
+of a useful one because uh greg
+
+185
+00:06:04,880 --> 00:06:09,280
+patterson
+
+186
+00:06:05,840 --> 00:06:10,720
+in his 2011 paper um when he came up
+
+187
+00:06:09,280 --> 00:06:12,400
+with this kind of said that it has sort
+
+188
+00:06:10,720 --> 00:06:14,479
+of a reasonable correlation with the
+
+189
+00:06:12,400 --> 00:06:17,280
+grain size in these powders
+
+190
+00:06:14,479 --> 00:06:18,560
+so this is kind of an interesting thing
+
+191
+00:06:17,280 --> 00:06:21,759
+that we can maybe
+
+192
+00:06:18,560 --> 00:06:24,319
+use to predict things
+
+193
+00:06:21,759 --> 00:06:26,960
+so the way that i'm doing this is i'm
+
+194
+00:06:24,319 --> 00:06:28,639
+actually putting an uncertainty on it
+
+195
+00:06:26,960 --> 00:06:30,400
+so i use bayesian statistics to
+
+196
+00:06:28,639 --> 00:06:31,680
+calculate the curvature with uncertainty
+
+197
+00:06:30,400 --> 00:06:34,639
+i'm not going to go
+
+198
+00:06:31,680 --> 00:06:35,039
+really deep into the statistics today um
+
+199
+00:06:34,639 --> 00:06:36,560
+but
+
+200
+00:06:35,039 --> 00:06:38,080
+you can talk to me about that if you
+
+201
+00:06:36,560 --> 00:06:41,120
+want to um
+
+202
+00:06:38,080 --> 00:06:43,280
+basically the idea is that um we're
+
+203
+00:06:41,120 --> 00:06:44,080
+calculating so this is a circle fit to
+
+204
+00:06:43,280 --> 00:06:46,560
+the data
+
+205
+00:06:44,080 --> 00:06:48,479
+um and this is the curvature criterion
+
+206
+00:06:46,560 --> 00:06:49,120
+which is one over the radius with
+
+207
+00:06:48,479 --> 00:06:52,720
+direction
+
+208
+00:06:49,120 --> 00:06:54,160
+so if it's um curved this way if it's a
+
+209
+00:06:52,720 --> 00:06:56,000
+perfectly straight line at zero if it's
+
+210
+00:06:54,160 --> 00:06:57,280
+sort of curved this way it becomes a
+
+211
+00:06:56,000 --> 00:06:59,840
+higher curvature
+
+212
+00:06:57,280 --> 00:07:01,039
+so the k becomes more positive and if
+
+213
+00:06:59,840 --> 00:07:03,680
+it's curved this way
+
+214
+00:07:01,039 --> 00:07:06,639
+k becomes more negative and then to
+
+215
+00:07:03,680 --> 00:07:09,440
+calculate sort of a slope for a circle
+
+216
+00:07:06,639 --> 00:07:09,840
+the idea is that i actually sort of get
+
+217
+00:07:09,440 --> 00:07:11,840
+like
+
+218
+00:07:09,840 --> 00:07:13,840
+something that's in between the highest
+
+219
+00:07:11,840 --> 00:07:16,400
+slope and the lowest slope
+
+220
+00:07:13,840 --> 00:07:17,039
+um which is i use a tangent to the
+
+221
+00:07:16,400 --> 00:07:19,599
+circle
+
+222
+00:07:17,039 --> 00:07:21,680
+at the point that the line connecting
+
+223
+00:07:19,599 --> 00:07:23,759
+the origin and circle center intersects
+
+224
+00:07:21,680 --> 00:07:26,319
+and that seems like a really weird
+
+225
+00:07:23,759 --> 00:07:27,280
+um thing to use but it's actually quite
+
+226
+00:07:26,319 --> 00:07:29,120
+useful
+
+227
+00:07:27,280 --> 00:07:30,880
+uh as i'll demonstrate and it gives you
+
+228
+00:07:29,120 --> 00:07:32,720
+a slope in between the upper and lower
+
+229
+00:07:30,880 --> 00:07:34,880
+slopes and the idea there was
+
+230
+00:07:32,720 --> 00:07:36,639
+i was looking to see if that gave you
+
+231
+00:07:34,880 --> 00:07:37,840
+sort of a better or an unbiased estimate
+
+232
+00:07:36,639 --> 00:07:39,520
+and it doesn't
+
+233
+00:07:37,840 --> 00:07:41,039
+but um it's something that sort of
+
+234
+00:07:39,520 --> 00:07:43,680
+averages out so it's not
+
+235
+00:07:41,039 --> 00:07:45,360
+it's not using that sort of is it this
+
+236
+00:07:43,680 --> 00:07:47,599
+part or is it this part
+
+237
+00:07:45,360 --> 00:07:48,879
+so here's an example of not such a good
+
+238
+00:07:47,599 --> 00:07:50,560
+thing where potentially there's some
+
+239
+00:07:48,879 --> 00:07:51,840
+more stuff going wrong than curvature
+
+240
+00:07:50,560 --> 00:07:52,720
+but you can see that this sort of
+
+241
+00:07:51,840 --> 00:07:55,680
+average slope
+
+242
+00:07:52,720 --> 00:07:56,879
+is uh is well an example of that the
+
+243
+00:07:55,680 --> 00:08:00,080
+median value of that
+
+244
+00:07:56,879 --> 00:08:02,800
+looks like this and
+
+245
+00:08:00,080 --> 00:08:03,599
+the circle fit looks like this i should
+
+246
+00:08:02,800 --> 00:08:06,319
+mention that the
+
+247
+00:08:03,599 --> 00:08:06,800
+the circle fits are done by scaling the
+
+248
+00:08:06,319 --> 00:08:11,039
+data
+
+249
+00:08:06,800 --> 00:08:13,440
+first to avoid the issue
+
+250
+00:08:11,039 --> 00:08:15,199
+of if you have you know like a different
+
+251
+00:08:13,440 --> 00:08:17,759
+uh lab field used
+
+252
+00:08:15,199 --> 00:08:18,720
+um you would get a different curvature
+
+253
+00:08:17,759 --> 00:08:21,120
+so
+
+254
+00:08:18,720 --> 00:08:21,759
+uh they're scaled so that the it's
+
+255
+00:08:21,120 --> 00:08:23,759
+always
+
+256
+00:08:21,759 --> 00:08:25,440
+on the sort of zero one zero one scale
+
+257
+00:08:23,759 --> 00:08:27,039
+and then i unscale the slope of this
+
+258
+00:08:25,440 --> 00:08:28,879
+line so sort of some weird stuff going
+
+259
+00:08:27,039 --> 00:08:30,000
+there but you can see that in this case
+
+260
+00:08:28,879 --> 00:08:31,759
+you know you've got something that's
+
+261
+00:08:30,000 --> 00:08:33,839
+definitely not linear and there's no
+
+262
+00:08:31,759 --> 00:08:35,919
+overlap with linear here
+
+263
+00:08:33,839 --> 00:08:37,279
+in this probability distribution of the
+
+264
+00:08:35,919 --> 00:08:40,159
+curvature
+
+265
+00:08:37,279 --> 00:08:42,080
+um and then this is another example so
+
+266
+00:08:40,159 --> 00:08:42,560
+the thing about this one is that you can
+
+267
+00:08:42,080 --> 00:08:44,000
+also
+
+268
+00:08:42,560 --> 00:08:45,839
+you know take an interpretation where
+
+269
+00:08:44,000 --> 00:08:48,399
+you don't take the whole line
+
+270
+00:08:45,839 --> 00:08:50,399
+and the useful thing that's um that's
+
+271
+00:08:48,399 --> 00:08:51,600
+going on here is that because i've said
+
+272
+00:08:50,399 --> 00:08:54,480
+okay this thing has
+
+273
+00:08:51,600 --> 00:08:55,200
+thermo chemical alteration because this
+
+274
+00:08:54,480 --> 00:08:57,680
+uh
+
+275
+00:08:55,200 --> 00:08:58,240
+ptrm check which is a repeat of this
+
+276
+00:08:57,680 --> 00:09:02,080
+measurement
+
+277
+00:08:58,240 --> 00:09:03,680
+fails um what's going on here as i say
+
+278
+00:09:02,080 --> 00:09:05,279
+okay so you can only take this part of
+
+279
+00:09:03,680 --> 00:09:07,120
+the line and this part definitely isn't
+
+280
+00:09:05,279 --> 00:09:08,880
+giving us any useful information
+
+281
+00:09:07,120 --> 00:09:10,320
+and so what that does is it causes sort
+
+282
+00:09:08,880 --> 00:09:12,320
+of an uncertainty about
+
+283
+00:09:10,320 --> 00:09:13,519
+what the curvature of the rest of this
+
+284
+00:09:12,320 --> 00:09:15,040
+plot looks like
+
+285
+00:09:13,519 --> 00:09:17,040
+and so it sort of gives you a much
+
+286
+00:09:15,040 --> 00:09:18,160
+larger uncertainty in the curvature so
+
+287
+00:09:17,040 --> 00:09:20,800
+it sort of
+
+288
+00:09:18,160 --> 00:09:22,560
+helps with that idea we normally use you
+
+289
+00:09:20,800 --> 00:09:24,160
+know criteria that say well this line
+
+290
+00:09:22,560 --> 00:09:25,839
+has to be a certain length
+
+291
+00:09:24,160 --> 00:09:27,920
+but this sort of incorporates the
+
+292
+00:09:25,839 --> 00:09:29,839
+uncertainty by only picking a small part
+
+293
+00:09:27,920 --> 00:09:31,920
+of this line automatically
+
+294
+00:09:29,839 --> 00:09:33,680
+um just by just by doing this so this
+
+295
+00:09:31,920 --> 00:09:34,880
+kind of statist these kind of statistics
+
+296
+00:09:33,680 --> 00:09:37,600
+are quite useful in
+
+297
+00:09:34,880 --> 00:09:38,080
+their ability to calculate uncertainties
+
+298
+00:09:37,600 --> 00:09:40,080
+so then
+
+299
+00:09:38,080 --> 00:09:41,680
+you know at a site level how do we how
+
+300
+00:09:40,080 --> 00:09:43,279
+do we tie this all together so i'm just
+
+301
+00:09:41,680 --> 00:09:45,200
+going to show you a plot of what happens
+
+302
+00:09:43,279 --> 00:09:47,279
+if you calculate these curvatures versus
+
+303
+00:09:45,200 --> 00:09:51,200
+these uncertainties at a site level
+
+304
+00:09:47,279 --> 00:09:53,440
+you can see that um in this case the
+
+305
+00:09:51,200 --> 00:09:55,360
+the red line is the expected value of
+
+306
+00:09:53,440 --> 00:09:59,279
+the field at this site so these are all
+
+307
+00:09:55,360 --> 00:10:02,720
+specimens um from uh hawaiian lava flow
+
+308
+00:09:59,279 --> 00:10:04,000
+from i think it's the hawaii 1935 flow
+
+309
+00:10:02,720 --> 00:10:06,320
+and you can see that the things that
+
+310
+00:10:04,000 --> 00:10:08,640
+have low curvature um
+
+311
+00:10:06,320 --> 00:10:10,720
+as you'd expect have you know a sort of
+
+312
+00:10:08,640 --> 00:10:12,160
+an unbiased estimate of this
+
+313
+00:10:10,720 --> 00:10:14,240
+and then the things that have curvature
+
+314
+00:10:12,160 --> 00:10:15,200
+you know the that sort of average slope
+
+315
+00:10:14,240 --> 00:10:18,720
+that we calculate
+
+316
+00:10:15,200 --> 00:10:21,360
+is uh off um and you can see that
+
+317
+00:10:18,720 --> 00:10:23,200
+um probably the most appropriate model
+
+318
+00:10:21,360 --> 00:10:24,560
+to fit in this case to sort of these
+
+319
+00:10:23,200 --> 00:10:26,000
+data is you could you can sort of
+
+320
+00:10:24,560 --> 00:10:27,600
+imagine fitting a line through this
+
+321
+00:10:26,000 --> 00:10:28,640
+there's obviously this sort of outlier
+
+322
+00:10:27,600 --> 00:10:30,560
+here
+
+323
+00:10:28,640 --> 00:10:31,680
+um but you can sort of imagine doing
+
+324
+00:10:30,560 --> 00:10:33,279
+that right and
+
+325
+00:10:31,680 --> 00:10:35,120
+for the most part it would fit
+
+326
+00:10:33,279 --> 00:10:37,120
+reasonably well the majority of these
+
+327
+00:10:35,120 --> 00:10:37,839
+data so then instead of having that bias
+
+328
+00:10:37,120 --> 00:10:39,600
+term
+
+329
+00:10:37,839 --> 00:10:41,360
+you can say that you know this is sort
+
+330
+00:10:39,600 --> 00:10:42,399
+of a linear function of the curvature so
+
+331
+00:10:41,360 --> 00:10:44,399
+it's some constant
+
+332
+00:10:42,399 --> 00:10:46,320
+times the curvature plus noise the
+
+333
+00:10:44,399 --> 00:10:49,760
+specimen intensities
+
+334
+00:10:46,320 --> 00:10:51,760
+um and so i hope everyone
+
+335
+00:10:49,760 --> 00:10:53,519
+hope everyone kind of has kind of
+
+336
+00:10:51,760 --> 00:10:54,399
+understands this so basically applausing
+
+337
+00:10:53,519 --> 00:10:56,399
+curvature here
+
+338
+00:10:54,399 --> 00:10:57,600
+on this axis versus intensity on this
+
+339
+00:10:56,399 --> 00:10:59,040
+axis and so
+
+340
+00:10:57,600 --> 00:11:00,959
+things that have you know higher
+
+341
+00:10:59,040 --> 00:11:01,680
+curvature sort of becoming more biased
+
+342
+00:11:00,959 --> 00:11:03,920
+and we're fitting
+
+343
+00:11:01,680 --> 00:11:05,200
+fitting a linear fit to that and in that
+
+344
+00:11:03,920 --> 00:11:06,959
+case the
+
+345
+00:11:05,200 --> 00:11:08,880
+intercept basically the sort of
+
+346
+00:11:06,959 --> 00:11:11,760
+uncertainty on this intercepts
+
+347
+00:11:08,880 --> 00:11:13,600
+here um becomes the uncertainty on our
+
+348
+00:11:11,760 --> 00:11:16,640
+paleo intensity at the site
+
+349
+00:11:13,600 --> 00:11:17,360
+now there's no reason why this should be
+
+350
+00:11:16,640 --> 00:11:19,680
+linear
+
+351
+00:11:17,360 --> 00:11:21,760
+um it's completely empirical but for
+
+352
+00:11:19,680 --> 00:11:23,680
+whatever reason it does seem to hold
+
+353
+00:11:21,760 --> 00:11:25,920
+fairly well for a lot of sites that you
+
+354
+00:11:23,680 --> 00:11:28,480
+see this kind of linear trend
+
+355
+00:11:25,920 --> 00:11:28,959
+um in sort of intensity versus curvature
+
+356
+00:11:28,480 --> 00:11:30,480
+when you
+
+357
+00:11:28,959 --> 00:11:32,640
+when you measure it sort of the way that
+
+358
+00:11:30,480 --> 00:11:34,240
+i'm doing so i think this is this is
+
+359
+00:11:32,640 --> 00:11:35,680
+something very interesting why
+
+360
+00:11:34,240 --> 00:11:37,279
+why do you have this and you may say
+
+361
+00:11:35,680 --> 00:11:38,720
+okay well there's there's this here but
+
+362
+00:11:37,279 --> 00:11:41,680
+i'll kind of show you why
+
+363
+00:11:38,720 --> 00:11:42,000
+why this is not a problem in a second so
+
+364
+00:11:41,680 --> 00:11:43,600
+and
+
+365
+00:11:42,000 --> 00:11:46,160
+that's the reason why we're calculating
+
+366
+00:11:43,600 --> 00:11:50,240
+uncertainties on these things by the way
+
+367
+00:11:46,160 --> 00:11:52,160
+so um this is a complicated figure so
+
+368
+00:11:50,240 --> 00:11:53,839
+effectively what happens is when we fit
+
+369
+00:11:52,160 --> 00:11:56,720
+a line to these things
+
+370
+00:11:53,839 --> 00:11:59,279
+uh i fit both the sort of circle fits
+
+371
+00:11:56,720 --> 00:12:00,880
+and the line fits at the same time
+
+372
+00:11:59,279 --> 00:12:02,560
+and so what happens is that these
+
+373
+00:12:00,880 --> 00:12:04,959
+probability distributions
+
+374
+00:12:02,560 --> 00:12:06,000
+get modified so there's a sort of a
+
+375
+00:12:04,959 --> 00:12:08,079
+trade-off between
+
+376
+00:12:06,000 --> 00:12:09,120
+fitting the circle and fitting the line
+
+377
+00:12:08,079 --> 00:12:12,079
+here
+
+378
+00:12:09,120 --> 00:12:13,200
+um and so you can see that particularly
+
+379
+00:12:12,079 --> 00:12:15,040
+for
+
+380
+00:12:13,200 --> 00:12:16,480
+this specimen and e where we're fitting
+
+381
+00:12:15,040 --> 00:12:19,519
+a circle here
+
+382
+00:12:16,480 --> 00:12:20,399
+um the curvature gets modified to be
+
+383
+00:12:19,519 --> 00:12:22,000
+slightly less
+
+384
+00:12:20,399 --> 00:12:23,920
+and to be honest with you this specimen
+
+385
+00:12:22,000 --> 00:12:26,079
+is probably just altering so it's not
+
+386
+00:12:23,920 --> 00:12:27,040
+it's not really a curvature issue in
+
+387
+00:12:26,079 --> 00:12:28,880
+this case
+
+388
+00:12:27,040 --> 00:12:30,240
+but this really shouldn't be deciding
+
+389
+00:12:28,880 --> 00:12:32,800
+what our what our sort of
+
+390
+00:12:30,240 --> 00:12:34,240
+intensity looks like and so it's getting
+
+391
+00:12:32,800 --> 00:12:36,800
+modified because
+
+392
+00:12:34,240 --> 00:12:37,760
+these things have sort of more more
+
+393
+00:12:36,800 --> 00:12:40,320
+power here
+
+394
+00:12:37,760 --> 00:12:40,959
+so instead of you know selecting this
+
+395
+00:12:40,320 --> 00:12:43,680
+thing out
+
+396
+00:12:40,959 --> 00:12:44,560
+it's just not really uh informing
+
+397
+00:12:43,680 --> 00:12:46,560
+anything
+
+398
+00:12:44,560 --> 00:12:48,480
+when compared to sort of these data
+
+399
+00:12:46,560 --> 00:12:50,560
+which are really close to the intercepts
+
+400
+00:12:48,480 --> 00:12:52,240
+and also have smaller uncertainties
+
+401
+00:12:50,560 --> 00:12:54,240
+and you can see that sort of reflected
+
+402
+00:12:52,240 --> 00:12:58,320
+here that this thing with a linear
+
+403
+00:12:54,240 --> 00:12:59,920
+fit is pretty much unchanged um and so
+
+404
+00:12:58,320 --> 00:13:02,480
+basically there's there's this sort of
+
+405
+00:12:59,920 --> 00:13:04,160
+idea that um
+
+406
+00:13:02,480 --> 00:13:06,079
+that things that sort of fit this model
+
+407
+00:13:04,160 --> 00:13:08,480
+better will will be affecting
+
+408
+00:13:06,079 --> 00:13:09,120
+you know what what the answer looks like
+
+409
+00:13:08,480 --> 00:13:11,440
+better
+
+410
+00:13:09,120 --> 00:13:13,040
+when you have enough specimens so i'm
+
+411
+00:13:11,440 --> 00:13:15,760
+just going to give you some examples
+
+412
+00:13:13,040 --> 00:13:17,839
+of um plots where we've done this at a
+
+413
+00:13:15,760 --> 00:13:20,959
+site level and you can see that it's not
+
+414
+00:13:17,839 --> 00:13:23,839
+really linear for a lot of things but um
+
+415
+00:13:20,959 --> 00:13:25,920
+you know it is and and the red line in
+
+416
+00:13:23,839 --> 00:13:27,760
+all cases is the expected field value
+
+417
+00:13:25,920 --> 00:13:29,519
+for these historical flows
+
+418
+00:13:27,760 --> 00:13:31,120
+and you can see that um actually
+
+419
+00:13:29,519 --> 00:13:32,959
+probably one of the more interesting
+
+420
+00:13:31,120 --> 00:13:34,800
+ones here is this site where
+
+421
+00:13:32,959 --> 00:13:36,160
+we've got a pretty big uncertainty on
+
+422
+00:13:34,800 --> 00:13:39,360
+the slope here
+
+423
+00:13:36,160 --> 00:13:41,760
+um but you can see that um
+
+424
+00:13:39,360 --> 00:13:44,240
+these specimens here some of which are
+
+425
+00:13:41,760 --> 00:13:47,760
+sort of accepted
+
+426
+00:13:44,240 --> 00:13:50,959
+are biased low
+
+427
+00:13:47,760 --> 00:13:52,639
+um our method is less affected by this
+
+428
+00:13:50,959 --> 00:13:54,079
+than just putting a cut off sort of
+
+429
+00:13:52,639 --> 00:13:55,600
+somewhere here right depending on where
+
+430
+00:13:54,079 --> 00:13:57,760
+you put that cut off
+
+431
+00:13:55,600 --> 00:13:58,639
+um you're going to get sort of an answer
+
+432
+00:13:57,760 --> 00:14:01,199
+that might be
+
+433
+00:13:58,639 --> 00:14:02,639
+slightly biased low even even just by
+
+434
+00:14:01,199 --> 00:14:04,959
+these things so
+
+435
+00:14:02,639 --> 00:14:06,959
+um it's kind of interesting that this
+
+436
+00:14:04,959 --> 00:14:10,079
+this sort of works in cases where
+
+437
+00:14:06,959 --> 00:14:12,160
+even where you've got um you know
+
+438
+00:14:10,079 --> 00:14:13,279
+not not as many things that are really
+
+439
+00:14:12,160 --> 00:14:15,199
+close
+
+440
+00:14:13,279 --> 00:14:16,800
+um but these are the sort of um
+
+441
+00:14:15,199 --> 00:14:18,320
+probability distributions and i should
+
+442
+00:14:16,800 --> 00:14:19,920
+say these lines are also this is all
+
+443
+00:14:18,320 --> 00:14:20,959
+done through a sort of monte carlo
+
+444
+00:14:19,920 --> 00:14:22,560
+method so
+
+445
+00:14:20,959 --> 00:14:24,160
+these are all sampled from the
+
+446
+00:14:22,560 --> 00:14:25,760
+probability distribution and so
+
+447
+00:14:24,160 --> 00:14:27,120
+if you take enough samples you sort of
+
+448
+00:14:25,760 --> 00:14:28,079
+approximate this probability
+
+449
+00:14:27,120 --> 00:14:30,480
+distribution and that's what these
+
+450
+00:14:28,079 --> 00:14:33,120
+histograms are showing here um
+
+451
+00:14:30,480 --> 00:14:33,760
+and these black bars are 95 credible
+
+452
+00:14:33,120 --> 00:14:36,639
+intervals
+
+453
+00:14:33,760 --> 00:14:38,639
+um on this so they're sort of the 2.5
+
+454
+00:14:36,639 --> 00:14:41,920
+and 97.5
+
+455
+00:14:38,639 --> 00:14:44,800
+percentile of these uh samples
+
+456
+00:14:41,920 --> 00:14:46,000
+um so that's nice we can use this and
+
+457
+00:14:44,800 --> 00:14:48,480
+basically without
+
+458
+00:14:46,000 --> 00:14:51,120
+excluding these data we can we can get
+
+459
+00:14:48,480 --> 00:14:54,480
+these uh probability distributions
+
+460
+00:14:51,120 --> 00:14:57,600
+um that are sort of unbiased um
+
+461
+00:14:54,480 --> 00:14:59,760
+so to test this i applied this to a set
+
+462
+00:14:57,600 --> 00:15:01,279
+of specimens from sort of 30 sites where
+
+463
+00:14:59,760 --> 00:15:03,440
+the field was known
+
+464
+00:15:01,279 --> 00:15:04,800
+and as an analysis as sort of a very
+
+465
+00:15:03,440 --> 00:15:06,480
+broad thing i just used all the
+
+466
+00:15:04,800 --> 00:15:08,399
+temperature steps from every specimen so
+
+467
+00:15:06,480 --> 00:15:09,199
+i didn't i didn't choose things based on
+
+468
+00:15:08,399 --> 00:15:11,360
+that being
+
+469
+00:15:09,199 --> 00:15:12,959
+um you know alteration or something like
+
+470
+00:15:11,360 --> 00:15:16,240
+that i just did a very sort of
+
+471
+00:15:12,959 --> 00:15:18,639
+um naive kind of look at this
+
+472
+00:15:16,240 --> 00:15:19,279
+and i compared the results to secret
+
+473
+00:15:18,639 --> 00:15:22,720
+which is
+
+474
+00:15:19,279 --> 00:15:23,360
+defined in the paper that uh cromwell
+
+475
+00:15:22,720 --> 00:15:26,480
+paper
+
+476
+00:15:23,360 --> 00:15:28,880
+that i've been showing the data from and
+
+477
+00:15:26,480 --> 00:15:30,320
+uh greg patterson's modified version of
+
+478
+00:15:28,880 --> 00:15:32,240
+the picrit 03
+
+479
+00:15:30,320 --> 00:15:34,720
+selection criteria that don't include
+
+480
+00:15:32,240 --> 00:15:37,199
+this curvature parameter
+
+481
+00:15:34,720 --> 00:15:38,880
+um and so sites the the idea here is
+
+482
+00:15:37,199 --> 00:15:40,480
+that basically the number of specimens
+
+483
+00:15:38,880 --> 00:15:43,680
+in the site is increasing
+
+484
+00:15:40,480 --> 00:15:46,000
+from left to right so oh and i should
+
+485
+00:15:43,680 --> 00:15:47,680
+say that i did select out some specimens
+
+486
+00:15:46,000 --> 00:15:48,880
+where the demagnetization wasn't
+
+487
+00:15:47,680 --> 00:15:50,399
+completed there is sort of a
+
+488
+00:15:48,880 --> 00:15:51,680
+methodological reason for that but the
+
+489
+00:15:50,399 --> 00:15:55,600
+main reason i did that
+
+490
+00:15:51,680 --> 00:15:59,279
+um uh that i
+
+491
+00:15:55,600 --> 00:16:00,639
+had some uh stuff where the demand size
+
+492
+00:15:59,279 --> 00:16:02,000
+the experiments hadn't been completed
+
+493
+00:16:00,639 --> 00:16:02,959
+yet and i didn't want to include those
+
+494
+00:16:02,000 --> 00:16:07,040
+ones
+
+495
+00:16:02,959 --> 00:16:08,959
+so um i
+
+496
+00:16:07,040 --> 00:16:10,560
+didn't have those but that is very few
+
+497
+00:16:08,959 --> 00:16:12,320
+specimens that end up actually getting
+
+498
+00:16:10,560 --> 00:16:14,079
+selected out because mostly people
+
+499
+00:16:12,320 --> 00:16:17,920
+complete their experiments
+
+500
+00:16:14,079 --> 00:16:19,839
+um in these papers um so
+
+501
+00:16:17,920 --> 00:16:21,440
+sites with um sort of small number of
+
+502
+00:16:19,839 --> 00:16:23,440
+specimens in any case have
+
+503
+00:16:21,440 --> 00:16:25,040
+large uncertainties and that's because
+
+504
+00:16:23,440 --> 00:16:26,560
+there's sort of a lot of moving parts in
+
+505
+00:16:25,040 --> 00:16:28,959
+this model and so you need
+
+506
+00:16:26,560 --> 00:16:31,360
+about i would say five or six specimens
+
+507
+00:16:28,959 --> 00:16:33,600
+to start getting sort of a reasonable
+
+508
+00:16:31,360 --> 00:16:35,040
+um uncertainty in your results you can
+
+509
+00:16:33,600 --> 00:16:35,279
+see that this one has three and it has
+
+510
+00:16:35,040 --> 00:16:37,360
+an
+
+511
+00:16:35,279 --> 00:16:39,120
+okay uncertainty but it's probably you
+
+512
+00:16:37,360 --> 00:16:41,040
+know more than people would like
+
+513
+00:16:39,120 --> 00:16:43,040
+this is the normalized intensity i
+
+514
+00:16:41,040 --> 00:16:44,399
+should say so this is the expected value
+
+515
+00:16:43,040 --> 00:16:45,120
+is the red line and then this is sort of
+
+516
+00:16:44,399 --> 00:16:48,000
+the
+
+517
+00:16:45,120 --> 00:16:49,600
+ratio of the value to the expected value
+
+518
+00:16:48,000 --> 00:16:52,560
+and these are 95
+
+519
+00:16:49,600 --> 00:16:54,800
+confidence intervals so so for the
+
+520
+00:16:52,560 --> 00:16:55,680
+selection criteria it's just a two sigma
+
+521
+00:16:54,800 --> 00:16:58,880
+interval
+
+522
+00:16:55,680 --> 00:17:00,240
+and then for our method it's that 95
+
+523
+00:16:58,880 --> 00:17:02,320
+confidence interval what i was showing
+
+524
+00:17:00,240 --> 00:17:06,079
+you before um
+
+525
+00:17:02,320 --> 00:17:07,199
+and the shaded area is uh plus or minus
+
+526
+00:17:06,079 --> 00:17:08,799
+three microtesla
+
+527
+00:17:07,199 --> 00:17:10,799
+in all cases so you get an idea sort of
+
+528
+00:17:08,799 --> 00:17:12,079
+the absolute deviation as well
+
+529
+00:17:10,799 --> 00:17:14,079
+and you can see that sort of in most
+
+530
+00:17:12,079 --> 00:17:15,120
+cases we get a very similar result to
+
+531
+00:17:14,079 --> 00:17:18,480
+the secret
+
+532
+00:17:15,120 --> 00:17:22,240
+uh criteria and
+
+533
+00:17:18,480 --> 00:17:24,160
+you can see that um as you sort of
+
+534
+00:17:22,240 --> 00:17:26,400
+increase your number of specimens
+
+535
+00:17:24,160 --> 00:17:29,919
+actually um
+
+536
+00:17:26,400 --> 00:17:32,799
+my method starts to become more precise
+
+537
+00:17:29,919 --> 00:17:33,200
+than the secret method i think that
+
+538
+00:17:32,799 --> 00:17:34,640
+that's
+
+539
+00:17:33,200 --> 00:17:36,400
+um that's something to know and
+
+540
+00:17:34,640 --> 00:17:37,600
+basically the reason for that is that
+
+541
+00:17:36,400 --> 00:17:40,400
+it's like looking at a
+
+542
+00:17:37,600 --> 00:17:42,720
+uh standard error of the mean and these
+
+543
+00:17:40,400 --> 00:17:45,440
+are just sample standard deviations
+
+544
+00:17:42,720 --> 00:17:46,000
+um and you can see that for the pickered
+
+545
+00:17:45,440 --> 00:17:47,520
+stuff they
+
+546
+00:17:46,000 --> 00:17:49,600
+don't generally perform as well they're
+
+547
+00:17:47,520 --> 00:17:52,240
+generally you know more affected by
+
+548
+00:17:49,600 --> 00:17:55,840
+these biased results
+
+549
+00:17:52,240 --> 00:17:57,360
+so um i have another set from the other
+
+550
+00:17:55,840 --> 00:17:59,280
+15.
+
+551
+00:17:57,360 --> 00:18:00,799
+so in this case you can see that when we
+
+552
+00:17:59,280 --> 00:18:02,559
+get to sort of the high numbers of
+
+553
+00:18:00,799 --> 00:18:03,679
+specimens you'll notice that this high
+
+554
+00:18:02,559 --> 00:18:07,039
+precision thing
+
+555
+00:18:03,679 --> 00:18:09,200
+starts to get sort of more precise um in
+
+556
+00:18:07,039 --> 00:18:11,280
+some cases than we would expect so
+
+557
+00:18:09,200 --> 00:18:12,400
+the picture is not you know great
+
+558
+00:18:11,280 --> 00:18:15,600
+everywhere
+
+559
+00:18:12,400 --> 00:18:18,000
+um and the reason i think for this
+
+560
+00:18:15,600 --> 00:18:19,360
+is as i said before this is like a
+
+561
+00:18:18,000 --> 00:18:20,240
+standard error in the mean and so that
+
+562
+00:18:19,360 --> 00:18:23,760
+would also be
+
+563
+00:18:20,240 --> 00:18:27,760
+um inaccurate for these sites
+
+564
+00:18:23,760 --> 00:18:30,559
+um these three um in particular
+
+565
+00:18:27,760 --> 00:18:32,799
+these are yuji yamamoto papers where he
+
+566
+00:18:30,559 --> 00:18:34,799
+suggests that it's perhaps a tcrm
+
+567
+00:18:32,799 --> 00:18:36,400
+acquisition which causes a slight bias
+
+568
+00:18:34,799 --> 00:18:38,400
+in italian experiments and he says
+
+569
+00:18:36,400 --> 00:18:39,679
+that's why you should use his ltd sure
+
+570
+00:18:38,400 --> 00:18:41,200
+method
+
+571
+00:18:39,679 --> 00:18:42,720
+the other thing that he mentions in in
+
+572
+00:18:41,200 --> 00:18:44,320
+this paper in particular is actually
+
+573
+00:18:42,720 --> 00:18:45,600
+that there's there's an uncertainty in
+
+574
+00:18:44,320 --> 00:18:47,520
+the igrf field
+
+575
+00:18:45,600 --> 00:18:49,280
+um for some of these sites right which
+
+576
+00:18:47,520 --> 00:18:51,440
+is about to microtesla
+
+577
+00:18:49,280 --> 00:18:52,559
+and actually if you include that that
+
+578
+00:18:51,440 --> 00:18:54,080
+they do
+
+579
+00:18:52,559 --> 00:18:56,720
+you know sort of within confidence
+
+580
+00:18:54,080 --> 00:18:58,480
+overlap with our data so
+
+581
+00:18:56,720 --> 00:18:59,679
+sort of either of those could be invoked
+
+582
+00:18:58,480 --> 00:19:00,880
+here and you can see that there are sort
+
+583
+00:18:59,679 --> 00:19:04,080
+of some sites like this
+
+584
+00:19:00,880 --> 00:19:06,080
+msh site where um
+
+585
+00:19:04,080 --> 00:19:08,000
+we have sort of a lot of poor quality
+
+586
+00:19:06,080 --> 00:19:09,760
+data and it does sort of make
+
+587
+00:19:08,000 --> 00:19:11,360
+an inaccurate result in the end because
+
+588
+00:19:09,760 --> 00:19:12,400
+there's basically nothing good in there
+
+589
+00:19:11,360 --> 00:19:14,960
+and what's going on
+
+590
+00:19:12,400 --> 00:19:16,400
+wrong with this site is probably not
+
+591
+00:19:14,960 --> 00:19:19,440
+curvature
+
+592
+00:19:16,400 --> 00:19:21,440
+um but there's sort of a these are
+
+593
+00:19:19,440 --> 00:19:22,720
+imprecise with high numbers of specimens
+
+594
+00:19:21,440 --> 00:19:23,919
+so there's actually a way of sort of
+
+595
+00:19:22,720 --> 00:19:25,039
+telling that there's something wrong
+
+596
+00:19:23,919 --> 00:19:27,600
+with these sites
+
+597
+00:19:25,039 --> 00:19:29,120
+which i'm going to go into now so
+
+598
+00:19:27,600 --> 00:19:30,640
+basically the way that this looks this
+
+599
+00:19:29,120 --> 00:19:32,559
+is a plot of the sort of number of
+
+600
+00:19:30,640 --> 00:19:34,480
+specimens per site and then this is the
+
+601
+00:19:32,559 --> 00:19:37,520
+sort of width of that 95
+
+602
+00:19:34,480 --> 00:19:39,520
+credible interval as an estimate
+
+603
+00:19:37,520 --> 00:19:40,960
+uh of the paleo intensity and you can
+
+604
+00:19:39,520 --> 00:19:42,880
+see that um
+
+605
+00:19:40,960 --> 00:19:44,240
+basically this is this is a log scale so
+
+606
+00:19:42,880 --> 00:19:46,000
+these are like this is like 100
+
+607
+00:19:44,240 --> 00:19:48,480
+microtesla and this dashed line is 20
+
+608
+00:19:46,000 --> 00:19:50,960
+microtesla this is five specimens right
+
+609
+00:19:48,480 --> 00:19:52,559
+and so you can kind of see that as
+
+610
+00:19:50,960 --> 00:19:53,679
+things increase in their number of
+
+611
+00:19:52,559 --> 00:19:55,760
+specimens
+
+612
+00:19:53,679 --> 00:19:57,600
+they generally sort of get down to sort
+
+613
+00:19:55,760 --> 00:20:00,640
+of that full 95
+
+614
+00:19:57,600 --> 00:20:03,120
+confidence interval being uh less than
+
+615
+00:20:00,640 --> 00:20:03,840
+uh 10 microtesla which is you know if
+
+616
+00:20:03,120 --> 00:20:05,840
+you
+
+617
+00:20:03,840 --> 00:20:08,320
+if this was a normal distribution that
+
+618
+00:20:05,840 --> 00:20:10,240
+would be a standard deviation of 2.5
+
+619
+00:20:08,320 --> 00:20:13,360
+microtesla right for the sort of forward
+
+620
+00:20:10,240 --> 00:20:15,840
+the 95 confidence interval and these
+
+621
+00:20:13,360 --> 00:20:16,480
+the the coloration here i should say is
+
+622
+00:20:15,840 --> 00:20:19,760
+um
+
+623
+00:20:16,480 --> 00:20:21,360
+basically the the deviation from the
+
+624
+00:20:19,760 --> 00:20:24,080
+expected value
+
+625
+00:20:21,360 --> 00:20:26,240
+and so you can see that sort of these
+
+626
+00:20:24,080 --> 00:20:27,039
+things that despite having high numbers
+
+627
+00:20:26,240 --> 00:20:29,360
+of specimens
+
+628
+00:20:27,039 --> 00:20:30,799
+have a high deviation from the expected
+
+629
+00:20:29,360 --> 00:20:33,360
+value
+
+630
+00:20:30,799 --> 00:20:34,559
+also have high uncertainties with these
+
+631
+00:20:33,360 --> 00:20:36,400
+high numbers of specimens
+
+632
+00:20:34,559 --> 00:20:38,240
+sort of greater than 20 with more than
+
+633
+00:20:36,400 --> 00:20:39,760
+five which is sort of something that
+
+634
+00:20:38,240 --> 00:20:41,679
+i'm looking at some it's somewhere
+
+635
+00:20:39,760 --> 00:20:43,120
+around here right
+
+636
+00:20:41,679 --> 00:20:44,400
+and so this is kind of telling you that
+
+637
+00:20:43,120 --> 00:20:46,480
+there's something going wrong which is
+
+638
+00:20:44,400 --> 00:20:48,400
+that you keep measuring more things
+
+639
+00:20:46,480 --> 00:20:50,159
+but you're not really converging on a
+
+640
+00:20:48,400 --> 00:20:52,320
+very precise estimate
+
+641
+00:20:50,159 --> 00:20:53,760
+um so sort of the idea with the workflow
+
+642
+00:20:52,320 --> 00:20:55,360
+with this would be that you know you'd
+
+643
+00:20:53,760 --> 00:20:56,640
+start off here as you're measuring
+
+644
+00:20:55,360 --> 00:20:58,480
+specimens
+
+645
+00:20:56,640 --> 00:21:00,480
+and as you continue to measure more
+
+646
+00:20:58,480 --> 00:21:02,559
+things you get more precise until you
+
+647
+00:21:00,480 --> 00:21:04,000
+you know reach a sort of desired level
+
+648
+00:21:02,559 --> 00:21:07,120
+of precision
+
+649
+00:21:04,000 --> 00:21:08,559
+um and if you don't reach that desired
+
+650
+00:21:07,120 --> 00:21:10,240
+level of precision after a certain
+
+651
+00:21:08,559 --> 00:21:11,840
+number of specimens then you say well
+
+652
+00:21:10,240 --> 00:21:14,240
+there's something wrong with this site
+
+653
+00:21:11,840 --> 00:21:16,320
+um this this methodology isn't isn't
+
+654
+00:21:14,240 --> 00:21:20,080
+sort of what we need to do for this
+
+655
+00:21:16,320 --> 00:21:21,600
+um so sort of i guess the the advantages
+
+656
+00:21:20,080 --> 00:21:22,320
+of this is obviously you have this
+
+657
+00:21:21,600 --> 00:21:23,679
+workflow
+
+658
+00:21:22,320 --> 00:21:25,440
+uh where you could you don't need to
+
+659
+00:21:23,679 --> 00:21:27,520
+worry about sort of the numbers and
+
+660
+00:21:25,440 --> 00:21:30,240
+that the other thing is that it sort of
+
+661
+00:21:27,520 --> 00:21:34,000
+it propagates these uncertainties
+
+662
+00:21:30,240 --> 00:21:35,600
+um from the sort of um interpretations
+
+663
+00:21:34,000 --> 00:21:39,440
+that you make that are subjective
+
+664
+00:21:35,600 --> 00:21:40,080
+into um into your sort of site level
+
+665
+00:21:39,440 --> 00:21:41,760
+estimate
+
+666
+00:21:40,080 --> 00:21:43,280
+and so this means that it basically
+
+667
+00:21:41,760 --> 00:21:46,000
+accounts for sort of all those
+
+668
+00:21:43,280 --> 00:21:46,880
+selection criteria that are things that
+
+669
+00:21:46,000 --> 00:21:48,799
+are like
+
+670
+00:21:46,880 --> 00:21:50,400
+curvature obviously the curvature one
+
+671
+00:21:48,799 --> 00:21:51,840
+but also sort of length of line and sort
+
+672
+00:21:50,400 --> 00:21:53,760
+of scatter things
+
+673
+00:21:51,840 --> 00:21:55,679
+um it sort of incorporates that into the
+
+674
+00:21:53,760 --> 00:21:58,240
+the uncertainty of what the curvature
+
+675
+00:21:55,679 --> 00:22:00,080
+and therefore what the bias is
+
+676
+00:21:58,240 --> 00:22:02,080
+this method can't tell you which set of
+
+677
+00:22:00,080 --> 00:22:04,960
+temperature steps to use so sort of my
+
+678
+00:22:02,080 --> 00:22:06,080
+my suggestion there is that um you
+
+679
+00:22:04,960 --> 00:22:08,000
+shouldn't
+
+680
+00:22:06,080 --> 00:22:10,320
+pick your set of temperature steps based
+
+681
+00:22:08,000 --> 00:22:13,360
+on the sort of ra plot
+
+682
+00:22:10,320 --> 00:22:15,440
+in field zero field steps you can do it
+
+683
+00:22:13,360 --> 00:22:17,440
+based on things like ptrm checks which
+
+684
+00:22:15,440 --> 00:22:20,640
+are indicators of alteration
+
+685
+00:22:17,440 --> 00:22:23,840
+and you can probably do it based on um
+
+686
+00:22:20,640 --> 00:22:25,679
+direction um for this method because you
+
+687
+00:22:23,840 --> 00:22:26,720
+know if you have multiple components
+
+688
+00:22:25,679 --> 00:22:30,400
+then you should be able to
+
+689
+00:22:26,720 --> 00:22:33,120
+select things based on direction um
+
+690
+00:22:30,400 --> 00:22:35,120
+but uh you probably shouldn't do it just
+
+691
+00:22:33,120 --> 00:22:35,840
+based on what's curved or not because
+
+692
+00:22:35,120 --> 00:22:37,360
+then you
+
+693
+00:22:35,840 --> 00:22:38,960
+may be getting sort of you know your
+
+694
+00:22:37,360 --> 00:22:40,480
+uncertainty will blow up but you might
+
+695
+00:22:38,960 --> 00:22:42,960
+start to get things that are
+
+696
+00:22:40,480 --> 00:22:44,480
+that are biased in there um so sort of
+
+697
+00:22:42,960 --> 00:22:46,080
+the final part of this project is that
+
+698
+00:22:44,480 --> 00:22:48,960
+i'm sort of working on a
+
+699
+00:22:46,080 --> 00:22:50,240
+web-based dashboard that takes data sort
+
+700
+00:22:48,960 --> 00:22:53,440
+of formatted in
+
+701
+00:22:50,240 --> 00:22:54,000
+the magic format and you can process it
+
+702
+00:22:53,440 --> 00:22:56,000
+using this
+
+703
+00:22:54,000 --> 00:22:58,559
+method and so the aim is to make this uh
+
+704
+00:22:56,000 --> 00:23:01,280
+available sort of as the paper releases
+
+705
+00:22:58,559 --> 00:23:03,039
+um and then you can sort of just analyze
+
+706
+00:23:01,280 --> 00:23:05,360
+your data using this
+
+707
+00:23:03,039 --> 00:23:08,159
+um at this you know and so hopefully
+
+708
+00:23:05,360 --> 00:23:11,360
+this this will be going live you know
+
+709
+00:23:08,159 --> 00:23:12,400
+you i don't know exactly when but i want
+
+710
+00:23:11,360 --> 00:23:14,159
+to be submitting this
+
+711
+00:23:12,400 --> 00:23:16,000
+sort of within the next month sometime
+
+712
+00:23:14,159 --> 00:23:23,120
+so are there any questions
+
+713
+00:23:16,000 --> 00:23:26,240
+um imagine there will be
+
+714
+00:23:23,120 --> 00:23:30,080
+thank you very much yeah go ahead
+
+715
+00:23:26,240 --> 00:23:33,440
+hi brandon uh very nice talk and um the
+
+716
+00:23:30,080 --> 00:23:35,280
+yeah in principle this this sounds great
+
+717
+00:23:33,440 --> 00:23:36,640
+um i've got lots of questions about the
+
+718
+00:23:35,280 --> 00:23:37,200
+details of it but i'll try and restrict
+
+719
+00:23:36,640 --> 00:23:38,880
+it to
+
+720
+00:23:37,200 --> 00:23:40,240
+two so you mentioned overprints right at
+
+721
+00:23:38,880 --> 00:23:42,559
+the end there
+
+722
+00:23:40,240 --> 00:23:45,120
+or multiple components because i guess
+
+723
+00:23:42,559 --> 00:23:47,600
+you've only tested this on on zero age
+
+724
+00:23:45,120 --> 00:23:49,679
+rocks right which right yeah so not zero
+
+725
+00:23:47,600 --> 00:23:50,159
+yeah i tested this on historical things
+
+726
+00:23:49,679 --> 00:23:53,120
+yeah
+
+727
+00:23:50,159 --> 00:23:53,520
+there's there's a question of overprints
+
+728
+00:23:53,120 --> 00:23:57,679
+um
+
+729
+00:23:53,520 --> 00:24:01,039
+i just received um some data
+
+730
+00:23:57,679 --> 00:24:03,679
+that are um
+
+731
+00:24:01,039 --> 00:24:05,600
+that are archaea magnetic data that were
+
+732
+00:24:03,679 --> 00:24:07,200
+recorded in two different fields so i
+
+733
+00:24:05,600 --> 00:24:08,799
+think they're bricks that were fired
+
+734
+00:24:07,200 --> 00:24:10,799
+and then used in a furnace somewhere
+
+735
+00:24:08,799 --> 00:24:12,080
+else and so they they record two
+
+736
+00:24:10,799 --> 00:24:15,120
+different fields and so
+
+737
+00:24:12,080 --> 00:24:17,919
+i'm going to try this on those
+
+738
+00:24:15,120 --> 00:24:19,520
+but in theory because you can sort of
+
+739
+00:24:17,919 --> 00:24:20,159
+make that selection and you can make it
+
+740
+00:24:19,520 --> 00:24:23,760
+based on
+
+741
+00:24:20,159 --> 00:24:25,840
+direction right you you will still find
+
+742
+00:24:23,760 --> 00:24:27,520
+um an answer to that it's just that
+
+743
+00:24:25,840 --> 00:24:30,159
+because you've got a lower part of the
+
+744
+00:24:27,520 --> 00:24:32,720
+line your uncertainty blows up from that
+
+745
+00:24:30,159 --> 00:24:34,559
+so you you sort of with this method the
+
+746
+00:24:32,720 --> 00:24:36,799
+idea is that you want to make the best
+
+747
+00:24:34,559 --> 00:24:39,279
+interpretation of the data that you can
+
+748
+00:24:36,799 --> 00:24:41,120
+given the evidence you have but i would
+
+749
+00:24:39,279 --> 00:24:41,520
+argue that you probably don't want to do
+
+750
+00:24:41,120 --> 00:24:44,960
+that
+
+751
+00:24:41,520 --> 00:24:46,799
+on ri plot data alone unless they're
+
+752
+00:24:44,960 --> 00:24:48,400
+ptrm checks you want some sort of other
+
+753
+00:24:46,799 --> 00:24:49,520
+evidence that there's alteration or
+
+754
+00:24:48,400 --> 00:24:52,559
+there's another
+
+755
+00:24:49,520 --> 00:24:55,679
+another field now people might say that
+
+756
+00:24:52,559 --> 00:24:58,000
+um with vrm um
+
+757
+00:24:55,679 --> 00:25:00,000
+there is an issue because you know vrm
+
+758
+00:24:58,000 --> 00:25:02,320
+could be in a similar direction
+
+759
+00:25:00,000 --> 00:25:03,840
+and i guess i would argue there that you
+
+760
+00:25:02,320 --> 00:25:05,600
+could probably select out the
+
+761
+00:25:03,840 --> 00:25:06,159
+temperature steps according to sort of
+
+762
+00:25:05,600 --> 00:25:07,919
+the nail
+
+763
+00:25:06,159 --> 00:25:09,919
+theory of vrm if you have an idea about
+
+764
+00:25:07,919 --> 00:25:14,080
+how old these things are
+
+765
+00:25:09,919 --> 00:25:14,559
+um but you don't want to select things
+
+766
+00:25:14,080 --> 00:25:17,600
+out
+
+767
+00:25:14,559 --> 00:25:19,200
+um that have sort of a greater number of
+
+768
+00:25:17,600 --> 00:25:21,039
+temperature sets than that because then
+
+769
+00:25:19,200 --> 00:25:22,799
+what is that right if it's not if it's
+
+770
+00:25:21,039 --> 00:25:24,080
+not a nail theory there and then you're
+
+771
+00:25:22,799 --> 00:25:26,320
+getting into the realm of things that
+
+772
+00:25:24,080 --> 00:25:28,000
+you don't really understand and then
+
+773
+00:25:26,320 --> 00:25:30,159
+then there are some issues with that
+
+774
+00:25:28,000 --> 00:25:32,320
+sure okay but in principle you you
+
+775
+00:25:30,159 --> 00:25:33,520
+you'd expect this to be useful for much
+
+776
+00:25:32,320 --> 00:25:36,480
+older rocks as well
+
+777
+00:25:33,520 --> 00:25:36,880
+yes definitely yeah i have tested it on
+
+778
+00:25:36,480 --> 00:25:40,000
+some
+
+779
+00:25:36,880 --> 00:25:41,840
+of my results from hawaii which range
+
+780
+00:25:40,000 --> 00:25:42,159
+between sort of zero and five which are
+
+781
+00:25:41,840 --> 00:25:44,000
+not
+
+782
+00:25:42,159 --> 00:25:46,400
+you know that's old but they definitely
+
+783
+00:25:44,000 --> 00:25:48,480
+have over prints in some cases for the
+
+784
+00:25:46,400 --> 00:25:49,919
+or not overprints but vrms that are in a
+
+785
+00:25:48,480 --> 00:25:53,679
+different direction
+
+786
+00:25:49,919 --> 00:25:57,039
+um and um those
+
+787
+00:25:53,679 --> 00:26:00,640
+actually work um really well so
+
+788
+00:25:57,039 --> 00:26:02,799
+yeah all right so
+
+789
+00:26:00,640 --> 00:26:05,039
+can i follow up things sorry because you
+
+790
+00:26:02,799 --> 00:26:07,360
+mentioned ptrm checks there as well
+
+791
+00:26:05,039 --> 00:26:09,440
+the alteration so you're excluding parts
+
+792
+00:26:07,360 --> 00:26:13,200
+which you're saying are clearly
+
+793
+00:26:09,440 --> 00:26:15,200
+biased due to alteration um not in
+
+794
+00:26:13,200 --> 00:26:16,320
+the data that i've presented i just did
+
+795
+00:26:15,200 --> 00:26:18,080
+a really naive
+
+796
+00:26:16,320 --> 00:26:19,679
+uh fit to just the whole thing and it
+
+797
+00:26:18,080 --> 00:26:22,400
+still works right okay well
+
+798
+00:26:19,679 --> 00:26:22,880
+that's that's very boring for me because
+
+799
+00:26:22,400 --> 00:26:24,559
+um
+
+800
+00:26:22,880 --> 00:26:25,919
+because ptm checks can fail because of
+
+801
+00:26:24,559 --> 00:26:26,480
+md behavior right which is what you're
+
+802
+00:26:25,919 --> 00:26:29,840
+trying to
+
+803
+00:26:26,480 --> 00:26:31,360
+uh right yes something that
+
+804
+00:26:29,840 --> 00:26:33,200
+it's possible to look at and i don't
+
+805
+00:26:31,360 --> 00:26:34,640
+necessarily advocate for peter m checks
+
+806
+00:26:33,200 --> 00:26:35,440
+i mean you could you could look at you
+
+807
+00:26:34,640 --> 00:26:38,559
+know
+
+808
+00:26:35,440 --> 00:26:39,919
+something like uh bulk susceptibility um
+
+809
+00:26:38,559 --> 00:26:42,240
+after each measurement and stuff like
+
+810
+00:26:39,919 --> 00:26:44,400
+that and that might be a more
+
+811
+00:26:42,240 --> 00:26:45,919
+a more useful indicator i'm not i'm kind
+
+812
+00:26:44,400 --> 00:26:48,000
+of open to the idea of using other
+
+813
+00:26:45,919 --> 00:26:49,679
+things as an indicator for alteration
+
+814
+00:26:48,000 --> 00:26:51,440
+but i just think you need that evidence
+
+815
+00:26:49,679 --> 00:26:54,080
+of something being alteration
+
+816
+00:26:51,440 --> 00:26:55,440
+um and pcrm checks are probably more
+
+817
+00:26:54,080 --> 00:26:58,080
+likely to be that than
+
+818
+00:26:55,440 --> 00:26:58,960
+multi-domain effects i've got a couple
+
+819
+00:26:58,080 --> 00:27:02,559
+more questions
+
+820
+00:26:58,960 --> 00:27:05,760
+um who is that
+
+821
+00:27:02,559 --> 00:27:09,520
+sorry and win
+
+822
+00:27:05,760 --> 00:27:10,880
+like that's really nice talk brendan i
+
+823
+00:27:09,520 --> 00:27:12,480
+firstly i wouldn't get too hung up on
+
+824
+00:27:10,880 --> 00:27:14,400
+the mice and helen samples i know greg
+
+825
+00:27:12,480 --> 00:27:16,640
+will tell you that you know he
+
+826
+00:27:14,400 --> 00:27:18,399
+the success rate of those was pretty
+
+827
+00:27:16,640 --> 00:27:20,480
+close to zero so i you know
+
+828
+00:27:18,399 --> 00:27:21,440
+there's a lot of chemical alteration in
+
+829
+00:27:20,480 --> 00:27:23,200
+those samples
+
+830
+00:27:21,440 --> 00:27:25,440
+i was just kind of curious because i
+
+831
+00:27:23,200 --> 00:27:27,120
+know that andy and both greg have worked
+
+832
+00:27:25,440 --> 00:27:28,799
+on you know how many samples as a rule
+
+833
+00:27:27,120 --> 00:27:29,919
+of thumb should you be aiming to sample
+
+834
+00:27:28,799 --> 00:27:31,120
+in the field it's okay
+
+835
+00:27:29,919 --> 00:27:33,279
+you know coming back and saying you need
+
+836
+00:27:31,120 --> 00:27:35,919
+to keep measuring samples until
+
+837
+00:27:33,279 --> 00:27:37,440
+until you get to this optimum number or
+
+838
+00:27:35,919 --> 00:27:38,320
+behavior but when you're in the field
+
+839
+00:27:37,440 --> 00:27:39,279
+you don't know what you're going to get
+
+840
+00:27:38,320 --> 00:27:40,640
+so i mean how many
+
+841
+00:27:39,279 --> 00:27:42,399
+what would your sam what would you
+
+842
+00:27:40,640 --> 00:27:43,600
+suggest your sampling strategy in the
+
+843
+00:27:42,399 --> 00:27:45,360
+field should be for people how many
+
+844
+00:27:43,600 --> 00:27:49,120
+samples should they be collecting
+
+845
+00:27:45,360 --> 00:27:52,240
+per year right so so because um
+
+846
+00:27:49,120 --> 00:27:53,600
+yeah so so i guess for me this is not
+
+847
+00:27:52,240 --> 00:27:56,799
+this is not something that
+
+848
+00:27:53,600 --> 00:27:58,480
+i've been thinking about in that way
+
+849
+00:27:56,799 --> 00:28:00,840
+because it scripts what we do is we take
+
+850
+00:27:58,480 --> 00:28:02,000
+hand samples and then we use these small
+
+851
+00:28:00,840 --> 00:28:04,000
+chips to do
+
+852
+00:28:02,000 --> 00:28:05,919
+um hill intensity measurements so so
+
+853
+00:28:04,000 --> 00:28:08,000
+number of samples is not
+
+854
+00:28:05,919 --> 00:28:09,440
+really a field constraint that we have
+
+855
+00:28:08,000 --> 00:28:12,880
+to think about
+
+856
+00:28:09,440 --> 00:28:14,640
+um i mean i think as a general rule you
+
+857
+00:28:12,880 --> 00:28:17,279
+want to drill as many cores as you can
+
+858
+00:28:14,640 --> 00:28:18,720
+right um if you've got a good uh if
+
+859
+00:28:17,279 --> 00:28:20,799
+you've got a good sort of
+
+860
+00:28:18,720 --> 00:28:23,200
+uh set of measurements right it seems to
+
+861
+00:28:20,799 --> 00:28:26,480
+be that you know within about
+
+862
+00:28:23,200 --> 00:28:28,799
+i don't know less less than 10 right
+
+863
+00:28:26,480 --> 00:28:30,960
+um you seem to be able to get sort of a
+
+864
+00:28:28,799 --> 00:28:33,039
+reasonable uncertainty on this and
+
+865
+00:28:30,960 --> 00:28:34,720
+although this number is 20 right that's
+
+866
+00:28:33,039 --> 00:28:37,279
+the full width of the 95
+
+867
+00:28:34,720 --> 00:28:38,000
+confidence interval so that's that's not
+
+868
+00:28:37,279 --> 00:28:39,919
+actually
+
+869
+00:28:38,000 --> 00:28:41,760
+as large a number as you would think
+
+870
+00:28:39,919 --> 00:28:44,080
+when you compare it to sort of
+
+871
+00:28:41,760 --> 00:28:45,600
+what we normally look about with pale
+
+872
+00:28:44,080 --> 00:28:47,279
+intensity results which is where we we
+
+873
+00:28:45,600 --> 00:28:50,159
+often will say to the standard deviation
+
+874
+00:28:47,279 --> 00:28:53,120
+of five microteslas is what's acceptable
+
+875
+00:28:50,159 --> 00:28:54,080
+so you know maybe maybe drill sort of
+
+876
+00:28:53,120 --> 00:28:58,320
+you know
+
+877
+00:28:54,080 --> 00:28:59,120
+uh 10 10 would be great right if you can
+
+878
+00:28:58,320 --> 00:29:01,919
+get
+
+879
+00:28:59,120 --> 00:29:02,640
+uh six or seven might be more realistic
+
+880
+00:29:01,919 --> 00:29:06,399
+yeah
+
+881
+00:29:02,640 --> 00:29:08,159
+yeah okay so when
+
+882
+00:29:06,399 --> 00:29:09,440
+uh just a quick question i mean
+
+883
+00:29:08,159 --> 00:29:10,799
+obviously this depends upon the
+
+884
+00:29:09,440 --> 00:29:15,120
+linearity between your
+
+885
+00:29:10,799 --> 00:29:18,720
+um curvature um
+
+886
+00:29:15,120 --> 00:29:21,200
+and i just wondered uh you know have you
+
+887
+00:29:18,720 --> 00:29:24,080
+you know you showed up one graph i guess
+
+888
+00:29:21,200 --> 00:29:25,760
+that looked legally linear but
+
+889
+00:29:24,080 --> 00:29:27,440
+to have much confidence in this would be
+
+890
+00:29:25,760 --> 00:29:30,080
+nice to have some
+
+891
+00:29:27,440 --> 00:29:31,440
+sort of understanding of about why that
+
+892
+00:29:30,080 --> 00:29:33,840
+should be or if it
+
+893
+00:29:31,440 --> 00:29:34,799
+varies according to different mineralogy
+
+894
+00:29:33,840 --> 00:29:38,960
+or distribution
+
+895
+00:29:34,799 --> 00:29:40,320
+yeah i i have no idea why um
+
+896
+00:29:38,960 --> 00:29:41,760
+why that's the case so i didn't i didn't
+
+897
+00:29:40,320 --> 00:29:43,200
+show the data here but those crosser
+
+898
+00:29:41,760 --> 00:29:45,279
+data as well they also
+
+899
+00:29:43,200 --> 00:29:47,120
+obey this kind of they're actually
+
+900
+00:29:45,279 --> 00:29:50,320
+really highly linear
+
+901
+00:29:47,120 --> 00:29:52,640
+except for the single domain one but um
+
+902
+00:29:50,320 --> 00:29:53,440
+it doesn't it's not that far off the
+
+903
+00:29:52,640 --> 00:29:54,880
+line so
+
+904
+00:29:53,440 --> 00:29:56,320
+it doesn't it doesn't bias the result
+
+905
+00:29:54,880 --> 00:29:58,159
+that much so i called that site
+
+906
+00:29:56,320 --> 00:29:58,720
+synthetic 60 because it doesn't have a
+
+907
+00:29:58,159 --> 00:30:00,559
+name
+
+908
+00:29:58,720 --> 00:30:02,240
+and you can see that it's it's moved
+
+909
+00:30:00,559 --> 00:30:03,840
+slightly high but um
+
+910
+00:30:02,240 --> 00:30:06,159
+it still gives you sort of a reasonable
+
+911
+00:30:03,840 --> 00:30:09,279
+result um
+
+912
+00:30:06,159 --> 00:30:12,320
+but those that all the all the um
+
+913
+00:30:09,279 --> 00:30:14,640
+sort of non perfect sd things
+
+914
+00:30:12,320 --> 00:30:16,000
+lie on like an almost perfect line when
+
+915
+00:30:14,640 --> 00:30:18,000
+you use this method on them
+
+916
+00:30:16,000 --> 00:30:19,679
+so i do think that there's potentially
+
+917
+00:30:18,000 --> 00:30:21,520
+whatever this effect is there is
+
+918
+00:30:19,679 --> 00:30:22,000
+potentially some sort of relationship
+
+919
+00:30:21,520 --> 00:30:23,760
+there which
+
+920
+00:30:22,000 --> 00:30:25,440
+i you know it's interesting unless
+
+921
+00:30:23,760 --> 00:30:27,840
+unless that's just a fluke
+
+922
+00:30:25,440 --> 00:30:29,919
+um but i it does seem to keep coming up
+
+923
+00:30:27,840 --> 00:30:32,559
+in in sites where you know
+
+924
+00:30:29,919 --> 00:30:33,440
+you wouldn't expect it to where you know
+
+925
+00:30:32,559 --> 00:30:35,760
+you see
+
+926
+00:30:33,440 --> 00:30:37,840
+things that have you know very linear
+
+927
+00:30:35,760 --> 00:30:39,200
+looking um results which is which is
+
+928
+00:30:37,840 --> 00:30:42,240
+always interesting to me
+
+929
+00:30:39,200 --> 00:30:44,080
+i i have no idea why i did i did try um
+
+930
+00:30:42,240 --> 00:30:45,760
+because i was like okay well
+
+931
+00:30:44,080 --> 00:30:47,760
+you know there's no reason that it
+
+932
+00:30:45,760 --> 00:30:49,600
+should be a linear model i did try doing
+
+933
+00:30:47,760 --> 00:30:53,120
+this with um
+
+934
+00:30:49,600 --> 00:30:54,480
+higher order polynomial fits and um just
+
+935
+00:30:53,120 --> 00:30:55,840
+to see you know if something if
+
+936
+00:30:54,480 --> 00:30:57,440
+something like that would work or if
+
+937
+00:30:55,840 --> 00:30:58,880
+there's different models that would be
+
+938
+00:30:57,440 --> 00:31:02,000
+appropriate
+
+939
+00:30:58,880 --> 00:31:04,240
+and they're all worse basically because
+
+940
+00:31:02,000 --> 00:31:06,320
+the number of parameters increases and
+
+941
+00:31:04,240 --> 00:31:10,320
+the um
+
+942
+00:31:06,320 --> 00:31:12,080
+the sort of there's not a multi-demand
+
+943
+00:31:10,320 --> 00:31:15,840
+effect right because you'd see it in the
+
+944
+00:31:12,080 --> 00:31:16,799
+ptrm checks to certain degree
+
+945
+00:31:15,840 --> 00:31:19,120
+what do you mean the curvature
+
+946
+00:31:16,799 --> 00:31:23,679
+curvature's not a multiple yeah
+
+947
+00:31:19,120 --> 00:31:26,080
+well the linearity um
+
+948
+00:31:23,679 --> 00:31:27,039
+well okay so that's the linearity of the
+
+949
+00:31:26,080 --> 00:31:30,720
+curvature
+
+950
+00:31:27,039 --> 00:31:32,640
+with the specimen level intensity
+
+951
+00:31:30,720 --> 00:31:33,919
+i think comes from the fact that i'm
+
+952
+00:31:32,640 --> 00:31:37,279
+using that tangent
+
+953
+00:31:33,919 --> 00:31:37,840
+to fit things um i don't think you would
+
+954
+00:31:37,279 --> 00:31:40,880
+see that
+
+955
+00:31:37,840 --> 00:31:43,840
+as easily if you were just using
+
+956
+00:31:40,880 --> 00:31:45,519
+um like you know a best fitting line to
+
+957
+00:31:43,840 --> 00:31:47,200
+part the data or something like that
+
+958
+00:31:45,519 --> 00:31:49,120
+i think that's why this this hasn't been
+
+959
+00:31:47,200 --> 00:31:51,279
+observed so it's it's something to do
+
+960
+00:31:49,120 --> 00:31:54,399
+with like the aspect ratio of that
+
+961
+00:31:51,279 --> 00:31:55,919
+i i don't i honestly can't couldn't
+
+962
+00:31:54,399 --> 00:31:58,799
+comment on why
+
+963
+00:31:55,919 --> 00:31:59,440
+it's the case um but um i think it's i
+
+964
+00:31:58,799 --> 00:32:01,120
+think it's
+
+965
+00:31:59,440 --> 00:32:03,360
+interesting that it it's something that
+
+966
+00:32:01,120 --> 00:32:04,880
+i've observed um but yeah i did i did
+
+967
+00:32:03,360 --> 00:32:05,519
+try harder all the polynomial fits and
+
+968
+00:32:04,880 --> 00:32:07,200
+the the
+
+969
+00:32:05,519 --> 00:32:08,799
+precision blows up and the accuracy
+
+970
+00:32:07,200 --> 00:32:10,159
+doesn't get any better so
+
+971
+00:32:08,799 --> 00:32:11,840
+i thought that the linear fit is the
+
+972
+00:32:10,159 --> 00:32:15,519
+most appropriate thing to
+
+973
+00:32:11,840 --> 00:32:18,559
+to apply here yeah okay looks good
+
+974
+00:32:15,519 --> 00:32:20,640
+so we've got another question from greg
+
+975
+00:32:18,559 --> 00:32:22,080
+hi hi brendan um that's a really good
+
+976
+00:32:20,640 --> 00:32:24,799
+talk um
+
+977
+00:32:22,080 --> 00:32:25,840
+there's a ton of stuff to to for me to
+
+978
+00:32:24,799 --> 00:32:28,080
+think about and to
+
+979
+00:32:25,840 --> 00:32:29,120
+digest there but actually this the main
+
+980
+00:32:28,080 --> 00:32:31,120
+thing i'll
+
+981
+00:32:29,120 --> 00:32:32,559
+also make a comment on is um kind of
+
+982
+00:32:31,120 --> 00:32:33,440
+follows on from what you're just talking
+
+983
+00:32:32,559 --> 00:32:36,799
+about
+
+984
+00:32:33,440 --> 00:32:37,440
+um you know at first glance you might
+
+985
+00:32:36,799 --> 00:32:40,480
+think that
+
+986
+00:32:37,440 --> 00:32:43,039
+this method might depend a little bit on
+
+987
+00:32:40,480 --> 00:32:43,919
+um your choice of how you define your
+
+988
+00:32:43,039 --> 00:32:47,120
+tangent
+
+989
+00:32:43,919 --> 00:32:50,480
+um when you're um fitting your curves
+
+990
+00:32:47,120 --> 00:32:51,200
+but um i i i suspect that it probably
+
+991
+00:32:50,480 --> 00:32:53,279
+doesn't
+
+992
+00:32:51,200 --> 00:32:54,480
+um and this kind of comes back to some
+
+993
+00:32:53,279 --> 00:32:56,080
+of the data that that
+
+994
+00:32:54,480 --> 00:32:58,080
+we saw when we looked at the synthetic
+
+995
+00:32:56,080 --> 00:33:00,480
+samples in the original curvature paper
+
+996
+00:32:58,080 --> 00:33:02,159
+and i think the reason why you see such
+
+997
+00:33:00,480 --> 00:33:03,200
+a nice linear relationship between
+
+998
+00:33:02,159 --> 00:33:06,399
+curvature and
+
+999
+00:33:03,200 --> 00:33:09,200
+intensity so you know if you pick
+
+1000
+00:33:06,399 --> 00:33:10,399
+you can actually pick a best fit line on
+
+1001
+00:33:09,200 --> 00:33:13,440
+almost any segment
+
+1002
+00:33:10,399 --> 00:33:16,159
+of um of the curved derived plot and
+
+1003
+00:33:13,440 --> 00:33:18,880
+you'll find that there is a general
+
+1004
+00:33:16,159 --> 00:33:20,399
+um linear relationship with that
+
+1005
+00:33:18,880 --> 00:33:23,600
+intensity estimate
+
+1006
+00:33:20,399 --> 00:33:24,880
+and the degree of curvature and and
+
+1007
+00:33:23,600 --> 00:33:29,360
+that's just
+
+1008
+00:33:24,880 --> 00:33:31,600
+it's a a geometric factor with how
+
+1009
+00:33:29,360 --> 00:33:33,679
+a circle is fitted the curvature of a
+
+1010
+00:33:31,600 --> 00:33:36,880
+circle basically is related
+
+1011
+00:33:33,679 --> 00:33:38,960
+to its its slope um but i'd be
+
+1012
+00:33:36,880 --> 00:33:41,039
+interested to see if you were to define
+
+1013
+00:33:38,960 --> 00:33:43,840
+your tangent differently
+
+1014
+00:33:41,039 --> 00:33:46,080
+um that make sure that you do get a
+
+1015
+00:33:43,840 --> 00:33:49,919
+consistent linear behavior
+
+1016
+00:33:46,080 --> 00:33:51,760
+um when you're comparing intensity to um
+
+1017
+00:33:49,919 --> 00:33:53,679
+to the curvature and all it should
+
+1018
+00:33:51,760 --> 00:33:58,480
+really do i suspect is change
+
+1019
+00:33:53,679 --> 00:33:59,679
+the uh slope of that linear relationship
+
+1020
+00:33:58,480 --> 00:34:01,200
+and that that would be a quite useful
+
+1021
+00:33:59,679 --> 00:34:04,399
+thing to check that it's robust that
+
+1022
+00:34:01,200 --> 00:34:06,640
+it's independent of how you define
+
+1023
+00:34:04,399 --> 00:34:08,159
+your tangent fit and then there's a ton
+
+1024
+00:34:06,640 --> 00:34:09,679
+of other questions and ideas and things
+
+1025
+00:34:08,159 --> 00:34:12,079
+but i don't think we'll have time to
+
+1026
+00:34:09,679 --> 00:34:13,679
+to yeah feel free discussing you know if
+
+1027
+00:34:12,079 --> 00:34:19,839
+you want to talk about it sometimes
+
+1028
+00:34:13,679 --> 00:34:19,839
+yeah cool thank you very much
+

@@ -1,0 +1,2260 @@
+1
+00:00:00,719 --> 00:00:06,799
+final talk of the
+
+2
+00:00:03,120 --> 00:00:09,840
+the session and it's by
+
+3
+00:00:06,799 --> 00:00:12,480
+gunter klitechka and the title is
+
+4
+00:00:09,840 --> 00:00:13,599
+magnetic interactions in the human brain
+
+5
+00:00:12,480 --> 00:00:14,920
+so
+
+6
+00:00:13,599 --> 00:00:16,800
+you can take it away and share your
+
+7
+00:00:14,920 --> 00:00:20,080
+screen
+
+8
+00:00:16,800 --> 00:00:24,000
+oh can everyone hear me yep
+
+9
+00:00:20,080 --> 00:00:25,439
+yep good and can everyone see the shirt
+
+10
+00:00:24,000 --> 00:00:28,560
+content
+
+11
+00:00:25,439 --> 00:00:28,560
+yep i can see it now
+
+12
+00:00:28,840 --> 00:00:34,320
+okay oh it's good to see you oh
+
+13
+00:00:32,160 --> 00:00:35,520
+everyone it's good to hear you it's good
+
+14
+00:00:34,320 --> 00:00:40,559
+to be
+
+15
+00:00:35,520 --> 00:00:44,160
+a little less isolated um so
+
+16
+00:00:40,559 --> 00:00:45,200
+here i want to present some applications
+
+17
+00:00:44,160 --> 00:00:47,840
+of magnetism
+
+18
+00:00:45,200 --> 00:00:50,399
+and biological human or medicine
+
+19
+00:00:47,840 --> 00:00:50,399
+research
+
+20
+00:00:50,719 --> 00:00:54,399
+robert basala who is a second author is
+
+21
+00:00:53,120 --> 00:00:57,600
+a medical doctor
+
+22
+00:00:54,399 --> 00:00:59,680
+that is working with me and because of
+
+23
+00:00:57,600 --> 00:01:04,000
+that we had access to
+
+24
+00:00:59,680 --> 00:01:06,960
+unique material and it looked like that
+
+25
+00:01:04,000 --> 00:01:07,360
+well we know the geometric fields are
+
+26
+00:01:06,960 --> 00:01:10,560
+there
+
+27
+00:01:07,360 --> 00:01:13,600
+and they interfere with the human brain
+
+28
+00:01:10,560 --> 00:01:16,240
+and we were just
+
+29
+00:01:13,600 --> 00:01:17,200
+studying uh the samples that we had on
+
+30
+00:01:16,240 --> 00:01:20,320
+hand and
+
+31
+00:01:17,200 --> 00:01:21,680
+found that not only there is magnetic
+
+32
+00:01:20,320 --> 00:01:24,799
+material
+
+33
+00:01:21,680 --> 00:01:27,040
+in the human brain but there is also a
+
+34
+00:01:24,799 --> 00:01:29,360
+way how this magnetic material can
+
+35
+00:01:27,040 --> 00:01:31,200
+interact with the synapses or with the
+
+36
+00:01:29,360 --> 00:01:34,560
+neurons
+
+37
+00:01:31,200 --> 00:01:37,439
+and so
+
+38
+00:01:34,560 --> 00:01:38,560
+here's uh what we find out well before i
+
+39
+00:01:37,439 --> 00:01:41,920
+proceed
+
+40
+00:01:38,560 --> 00:01:42,720
+on the left corner and right corner you
+
+41
+00:01:41,920 --> 00:01:45,119
+see
+
+42
+00:01:42,720 --> 00:01:46,240
+approximate size of our sample so you
+
+43
+00:01:45,119 --> 00:01:49,200
+can see they are all
+
+44
+00:01:46,240 --> 00:01:50,479
+roughly two centimeter by two
+
+45
+00:01:49,200 --> 00:01:54,399
+centimeters
+
+46
+00:01:50,479 --> 00:01:59,360
+cubes so let's also show the resolution
+
+47
+00:01:54,399 --> 00:01:59,360
+of the method that we use
+
+48
+00:02:00,719 --> 00:02:11,360
+okay let's see
+
+49
+00:02:08,399 --> 00:02:13,520
+the brains we got them from this
+
+50
+00:02:11,360 --> 00:02:18,080
+institute of forensic medicine
+
+51
+00:02:13,520 --> 00:02:20,840
+and there was also according to the
+
+52
+00:02:18,080 --> 00:02:23,599
+regulation and guidelines in czech
+
+53
+00:02:20,840 --> 00:02:26,720
+republic
+
+54
+00:02:23,599 --> 00:02:30,720
+so here is just uh an idea
+
+55
+00:02:26,720 --> 00:02:32,959
+how the samples were obtained
+
+56
+00:02:30,720 --> 00:02:35,440
+and how they were cut we used the
+
+57
+00:02:32,959 --> 00:02:37,360
+ceramic knife for cutting and we try to
+
+58
+00:02:35,440 --> 00:02:40,640
+use
+
+59
+00:02:37,360 --> 00:02:43,920
+the best way in order to
+
+60
+00:02:40,640 --> 00:02:47,280
+avoid any contamination
+
+61
+00:02:43,920 --> 00:02:49,440
+even though it when
+
+62
+00:02:47,280 --> 00:02:51,120
+when we obtain the final results and
+
+63
+00:02:49,440 --> 00:02:52,800
+we're comparing with some other
+
+64
+00:02:51,120 --> 00:02:55,360
+published data it
+
+65
+00:02:52,800 --> 00:02:56,080
+looked like the noise level of our data
+
+66
+00:02:55,360 --> 00:02:58,879
+were
+
+67
+00:02:56,080 --> 00:02:58,879
+quite high
+
+68
+00:03:00,080 --> 00:03:04,400
+but we are still confident that our data
+
+69
+00:03:03,840 --> 00:03:09,120
+show
+
+70
+00:03:04,400 --> 00:03:11,480
+gives us reasonable conclusions
+
+71
+00:03:09,120 --> 00:03:13,440
+here is an example of the typical
+
+72
+00:03:11,480 --> 00:03:19,840
+demagnetization of the
+
+73
+00:03:13,440 --> 00:03:19,840
+sample so the rb basically means right
+
+74
+00:03:20,080 --> 00:03:23,760
+like a right hemisphere but that's not
+
+75
+00:03:22,560 --> 00:03:25,360
+important the important thing is that
+
+76
+00:03:23,760 --> 00:03:26,640
+you can see that the noise level is
+
+77
+00:03:25,360 --> 00:03:28,879
+quite high and
+
+78
+00:03:26,640 --> 00:03:29,920
+uh the dimensions some of the different
+
+79
+00:03:28,879 --> 00:03:32,480
+it's quite
+
+80
+00:03:29,920 --> 00:03:33,680
+difficult to demagnetize these samples
+
+81
+00:03:32,480 --> 00:03:37,519
+using alternating
+
+82
+00:03:33,680 --> 00:03:40,799
+field up to 40 milli tesla
+
+83
+00:03:37,519 --> 00:03:43,760
+on the other hand when you when you
+
+84
+00:03:40,799 --> 00:03:44,640
+saturate those samples and demagnetize
+
+85
+00:03:43,760 --> 00:03:47,920
+them
+
+86
+00:03:44,640 --> 00:03:50,159
+you can see that uh
+
+87
+00:03:47,920 --> 00:03:53,120
+the intersect of the two curves is quite
+
+88
+00:03:50,159 --> 00:03:56,000
+low which indicate that there is a
+
+89
+00:03:53,120 --> 00:03:57,280
+there is sort of negative interaction uh
+
+90
+00:03:56,000 --> 00:04:00,879
+in this system
+
+91
+00:03:57,280 --> 00:04:03,439
+and uh but you can also see that they
+
+92
+00:04:00,879 --> 00:04:04,799
+they're they are quite magnetizable that
+
+93
+00:04:03,439 --> 00:04:08,000
+the material
+
+94
+00:04:04,799 --> 00:04:12,840
+can and it's also quite
+
+95
+00:04:08,000 --> 00:04:14,239
+soft in terms of the following
+
+96
+00:04:12,840 --> 00:04:18,239
+demagnetization
+
+97
+00:04:14,239 --> 00:04:21,600
+uh here's the uh kind of a
+
+98
+00:04:18,239 --> 00:04:25,919
+complicated plot uh on the left
+
+99
+00:04:21,600 --> 00:04:27,759
+plot you can see the nrm of samples
+
+100
+00:04:25,919 --> 00:04:30,000
+and on the horizontal axis it's
+
+101
+00:04:27,759 --> 00:04:32,880
+saturation remnants
+
+102
+00:04:30,000 --> 00:04:34,320
+after you gave saturation in two tesla
+
+103
+00:04:32,880 --> 00:04:38,000
+fields
+
+104
+00:04:34,320 --> 00:04:41,360
+uh you can see that there's a like
+
+105
+00:04:38,000 --> 00:04:44,720
+different colors and red and yellow
+
+106
+00:04:41,360 --> 00:04:47,680
+are the are the brains that have
+
+107
+00:04:44,720 --> 00:04:49,199
+had a neurodegenerative disease while
+
+108
+00:04:47,680 --> 00:04:53,120
+the blue and greens
+
+109
+00:04:49,199 --> 00:04:56,080
+are without neurodegenerative disease
+
+110
+00:04:53,120 --> 00:04:56,720
+on this plot you can see that the red
+
+111
+00:04:56,080 --> 00:04:59,919
+and yellow
+
+112
+00:04:56,720 --> 00:05:02,240
+there they both uh indicated that
+
+113
+00:04:59,919 --> 00:05:02,960
+there's a larger or tendency to have a
+
+114
+00:05:02,240 --> 00:05:06,080
+larger
+
+115
+00:05:02,960 --> 00:05:08,960
+saturation remnants
+
+116
+00:05:06,080 --> 00:05:10,479
+while the nrm was about the same for all
+
+117
+00:05:08,960 --> 00:05:14,000
+the samples
+
+118
+00:05:10,479 --> 00:05:14,960
+the lines at the lower part of the
+
+119
+00:05:14,000 --> 00:05:18,080
+diagrams
+
+120
+00:05:14,960 --> 00:05:22,800
+are kind of a histogram of the data
+
+121
+00:05:18,080 --> 00:05:26,080
+so you can see how they were distributed
+
+122
+00:05:22,800 --> 00:05:28,639
+so uh maybe more to these samples the
+
+123
+00:05:26,080 --> 00:05:30,639
+b01 and b02
+
+124
+00:05:28,639 --> 00:05:32,639
+with the neurodegenerative disease and
+
+125
+00:05:30,639 --> 00:05:36,000
+b0 strain b04
+
+126
+00:05:32,639 --> 00:05:39,360
+e03 is an adult brain like a old
+
+127
+00:05:36,000 --> 00:05:41,919
+person and b04 is a child
+
+128
+00:05:39,360 --> 00:05:43,039
+brain meaning that we use it kind of
+
+129
+00:05:41,919 --> 00:05:46,500
+like a
+
+130
+00:05:43,039 --> 00:05:49,579
+control because we know that there was a
+
+131
+00:05:46,500 --> 00:05:49,579
+[Music]
+
+132
+00:05:49,600 --> 00:05:55,600
+it was a young and without any
+
+133
+00:05:52,800 --> 00:05:57,840
+iron accumulations as a result of age
+
+134
+00:05:55,600 --> 00:06:00,319
+because it's known that with age
+
+135
+00:05:57,840 --> 00:06:02,880
+the iron has a tendency to accumulate in
+
+136
+00:06:00,319 --> 00:06:06,400
+the human brain
+
+137
+00:06:02,880 --> 00:06:08,560
+on the right diagram i just
+
+138
+00:06:06,400 --> 00:06:09,600
+wanted to show the comparison of the
+
+139
+00:06:08,560 --> 00:06:11,919
+remnants
+
+140
+00:06:09,600 --> 00:06:13,199
+on the left diagram with the induced
+
+141
+00:06:11,919 --> 00:06:16,240
+magnetization
+
+142
+00:06:13,199 --> 00:06:18,080
+now here uh shown by magnetic
+
+143
+00:06:16,240 --> 00:06:23,120
+susceptibility
+
+144
+00:06:18,080 --> 00:06:25,520
+so the the labels are the
+
+145
+00:06:23,120 --> 00:06:27,840
+are dissimilar then red and yellow it's
+
+146
+00:06:25,520 --> 00:06:28,639
+a neurodegenerative disease and blue and
+
+147
+00:06:27,840 --> 00:06:31,680
+green
+
+148
+00:06:28,639 --> 00:06:34,000
+are the health brains and
+
+149
+00:06:31,680 --> 00:06:36,240
+so in here you can see that there's
+
+150
+00:06:34,000 --> 00:06:38,720
+there's a contrast that
+
+151
+00:06:36,240 --> 00:06:40,880
+in here in the remnants field the
+
+152
+00:06:38,720 --> 00:06:42,800
+disease brain has a large remnants
+
+153
+00:06:40,880 --> 00:06:46,160
+however
+
+154
+00:06:42,800 --> 00:06:47,440
+in for the susceptibility you can see
+
+155
+00:06:46,160 --> 00:06:50,880
+that the the red
+
+156
+00:06:47,440 --> 00:06:51,599
+one that had a large remnants has a very
+
+157
+00:06:50,880 --> 00:06:54,880
+low
+
+158
+00:06:51,599 --> 00:06:58,880
+magnetic susceptibility
+
+159
+00:06:54,880 --> 00:07:02,160
+compared to all the other samples
+
+160
+00:06:58,880 --> 00:07:04,000
+so uh so that was
+
+161
+00:07:02,160 --> 00:07:05,360
+uh so there was a question how to
+
+162
+00:07:04,000 --> 00:07:09,280
+resolve that uh
+
+163
+00:07:05,360 --> 00:07:09,919
+issue and we'll talk about a little bit
+
+164
+00:07:09,280 --> 00:07:11,840
+later
+
+165
+00:07:09,919 --> 00:07:13,520
+and the another interesting thing is
+
+166
+00:07:11,840 --> 00:07:16,960
+that since we
+
+167
+00:07:13,520 --> 00:07:20,960
+were able to get the oriented samples
+
+168
+00:07:16,960 --> 00:07:24,080
+in terms of the one brain we
+
+169
+00:07:20,960 --> 00:07:24,319
+were plotting the magnetic directions
+
+170
+00:07:24,080 --> 00:07:26,880
+and
+
+171
+00:07:24,319 --> 00:07:28,720
+find out that the magnetic directions
+
+172
+00:07:26,880 --> 00:07:31,440
+are from the
+
+173
+00:07:28,720 --> 00:07:31,919
+from the oh from the forehead to the
+
+174
+00:07:31,440 --> 00:07:35,440
+back
+
+175
+00:07:31,919 --> 00:07:39,039
+of your head and so we were
+
+176
+00:07:35,440 --> 00:07:42,319
+kind of curious why is that why a human
+
+177
+00:07:39,039 --> 00:07:45,280
+would have a magnetized brain from
+
+178
+00:07:42,319 --> 00:07:47,440
+forehead towards the back of your head
+
+179
+00:07:45,280 --> 00:07:50,319
+and
+
+180
+00:07:47,440 --> 00:07:51,840
+the the the other brain did not show
+
+181
+00:07:50,319 --> 00:07:55,199
+that the other brain had
+
+182
+00:07:51,840 --> 00:07:58,319
+more like a shotgun distribution of the
+
+183
+00:07:55,199 --> 00:08:01,199
+magnetic directions and so
+
+184
+00:07:58,319 --> 00:08:02,560
+the then we find out that this specific
+
+185
+00:08:01,199 --> 00:08:06,319
+person
+
+186
+00:08:02,560 --> 00:08:08,479
+spent the last three years in a bed
+
+187
+00:08:06,319 --> 00:08:09,680
+because it was an urgery person and
+
+188
+00:08:08,479 --> 00:08:14,560
+could not move so
+
+189
+00:08:09,680 --> 00:08:16,879
+she was just spending the whole
+
+190
+00:08:14,560 --> 00:08:18,720
+three years in a lying horizontal
+
+191
+00:08:16,879 --> 00:08:21,840
+position and in terms of the
+
+192
+00:08:18,720 --> 00:08:24,879
+magnetic field in a region
+
+193
+00:08:21,840 --> 00:08:26,400
+here in central europe in prague
+
+194
+00:08:24,879 --> 00:08:28,160
+the magnetic field is small it's a
+
+195
+00:08:26,400 --> 00:08:31,599
+vertical and so it
+
+196
+00:08:28,160 --> 00:08:35,760
+started to make sense why the
+
+197
+00:08:31,599 --> 00:08:37,680
+brain would get the magnetization
+
+198
+00:08:35,760 --> 00:08:39,599
+from the forehead to the back side of
+
+199
+00:08:37,680 --> 00:08:42,479
+your brain because as the
+
+200
+00:08:39,599 --> 00:08:44,880
+during the during the final progression
+
+201
+00:08:42,479 --> 00:08:47,200
+of the disease the last three years
+
+202
+00:08:44,880 --> 00:08:48,959
+and there was a growth of the or
+
+203
+00:08:47,200 --> 00:08:51,200
+magnetic mineralization
+
+204
+00:08:48,959 --> 00:08:53,120
+these grains would get the chemical
+
+205
+00:08:51,200 --> 00:08:57,200
+remnant magnetization
+
+206
+00:08:53,120 --> 00:09:01,600
+and it will be recorded from the
+
+207
+00:08:57,200 --> 00:09:03,519
+overhead to the back side of your head
+
+208
+00:09:01,600 --> 00:09:05,200
+this side the diagram on your right
+
+209
+00:09:03,519 --> 00:09:08,080
+shows the stability
+
+210
+00:09:05,200 --> 00:09:10,800
+since most of these uh magnetic
+
+211
+00:09:08,080 --> 00:09:15,120
+mineralization and brain are
+
+212
+00:09:10,800 --> 00:09:18,080
+super paramagnetic uh there is a
+
+213
+00:09:15,120 --> 00:09:18,640
+you know there is a the signal has it's
+
+214
+00:09:18,080 --> 00:09:22,000
+not
+
+215
+00:09:18,640 --> 00:09:23,839
+very stable as soon as you measure
+
+216
+00:09:22,000 --> 00:09:26,959
+the saturation remnants you can see
+
+217
+00:09:23,839 --> 00:09:30,240
+there's a decay in terms of the second
+
+218
+00:09:26,959 --> 00:09:33,920
+as as because of the low
+
+219
+00:09:30,240 --> 00:09:37,360
+stability of the magnetic range as a
+
+220
+00:09:33,920 --> 00:09:41,519
+function of time
+
+221
+00:09:37,360 --> 00:09:44,800
+we also obtained data of
+
+222
+00:09:41,519 --> 00:09:48,000
+of zinc and calcium that
+
+223
+00:09:44,800 --> 00:09:51,519
+kind of related to the disease
+
+224
+00:09:48,000 --> 00:09:54,880
+and also the iron concentration
+
+225
+00:09:51,519 --> 00:09:58,240
+of those samples and we'll
+
+226
+00:09:54,880 --> 00:10:00,480
+talk about it a little bit later
+
+227
+00:09:58,240 --> 00:10:01,680
+this diagram is a little bit more
+
+228
+00:10:00,480 --> 00:10:04,720
+complicated
+
+229
+00:10:01,680 --> 00:10:05,680
+but let me just try to quickly uh jump
+
+230
+00:10:04,720 --> 00:10:08,160
+into it i mean
+
+231
+00:10:05,680 --> 00:10:09,839
+there's a brain there's a neural cell
+
+232
+00:10:08,160 --> 00:10:11,519
+and so this diagram
+
+233
+00:10:09,839 --> 00:10:13,839
+right in the middle it's basically the
+
+234
+00:10:11,519 --> 00:10:16,720
+interior of the neuron
+
+235
+00:10:13,839 --> 00:10:17,519
+and of course there is an iron which is
+
+236
+00:10:16,720 --> 00:10:20,160
+kind of a
+
+237
+00:10:17,519 --> 00:10:21,600
+trying to be stable on a on the equal
+
+238
+00:10:20,160 --> 00:10:24,640
+level and so there are
+
+239
+00:10:21,600 --> 00:10:25,839
+there is a there is a one door or one
+
+240
+00:10:24,640 --> 00:10:27,920
+opening
+
+241
+00:10:25,839 --> 00:10:30,160
+there are openings where the iron gets
+
+242
+00:10:27,920 --> 00:10:32,000
+in there are also other openings where
+
+243
+00:10:30,160 --> 00:10:34,800
+the iron gets out and of course there
+
+244
+00:10:32,000 --> 00:10:36,800
+are mechanisms that are trying to keep
+
+245
+00:10:34,800 --> 00:10:39,040
+the iron concentration
+
+246
+00:10:36,800 --> 00:10:40,480
+about at the same level and of course if
+
+247
+00:10:39,040 --> 00:10:44,160
+there is a
+
+248
+00:10:40,480 --> 00:10:45,120
+reason for a higher concentration of
+
+249
+00:10:44,160 --> 00:10:48,160
+iron
+
+250
+00:10:45,120 --> 00:10:50,480
+then uh there is a mechanism that kind
+
+251
+00:10:48,160 --> 00:10:53,120
+of try to precipitate the iron in
+
+252
+00:10:50,480 --> 00:10:54,720
+some kind of a solid matter so it's not
+
+253
+00:10:53,120 --> 00:10:58,399
+in a liquid state
+
+254
+00:10:54,720 --> 00:11:01,839
+and so one observation that was
+
+255
+00:10:58,399 --> 00:11:05,040
+reported is that on these doorways when
+
+256
+00:11:01,839 --> 00:11:05,519
+iron goes in and out very often like a
+
+257
+00:11:05,040 --> 00:11:08,240
+zinc
+
+258
+00:11:05,519 --> 00:11:08,720
+uh plays a role that it can actually
+
+259
+00:11:08,240 --> 00:11:11,839
+block
+
+260
+00:11:08,720 --> 00:11:15,120
+the the entering of the door
+
+261
+00:11:11,839 --> 00:11:16,880
+and this would cost or or
+
+262
+00:11:15,120 --> 00:11:18,399
+exit of the door and this would cause
+
+263
+00:11:16,880 --> 00:11:21,440
+the mineralization and
+
+264
+00:11:18,399 --> 00:11:24,480
+so we showed this uh
+
+265
+00:11:21,440 --> 00:11:26,839
+hypothesis that once you get this
+
+266
+00:11:24,480 --> 00:11:28,560
+uh like a magnetic brains or
+
+267
+00:11:26,839 --> 00:11:32,320
+mineralization that
+
+268
+00:11:28,560 --> 00:11:33,519
+because these particles are super
+
+269
+00:11:32,320 --> 00:11:36,160
+paramagnetic
+
+270
+00:11:33,519 --> 00:11:36,560
+the their magnetic dipole is oscillating
+
+271
+00:11:36,160 --> 00:11:38,640
+like
+
+272
+00:11:36,560 --> 00:11:40,160
+randomly and as a result of this
+
+273
+00:11:38,640 --> 00:11:42,560
+oscillation because around
+
+274
+00:11:40,160 --> 00:11:43,680
+all this material all this liquid is a
+
+275
+00:11:42,560 --> 00:11:45,680
+conductor
+
+276
+00:11:43,680 --> 00:11:47,680
+you would be inducing the electric
+
+277
+00:11:45,680 --> 00:11:48,640
+currents that would have the similar
+
+278
+00:11:47,680 --> 00:11:51,360
+frequency
+
+279
+00:11:48,640 --> 00:11:52,000
+as the frequency of the of the rotation
+
+280
+00:11:51,360 --> 00:11:54,480
+of this
+
+281
+00:11:52,000 --> 00:11:56,480
+dipole because it's a superpower and
+
+282
+00:11:54,480 --> 00:11:59,760
+magnetic grain
+
+283
+00:11:56,480 --> 00:12:02,639
+and so the general model uh
+
+284
+00:11:59,760 --> 00:12:04,160
+suggests that uh you know when you are
+
+285
+00:12:02,639 --> 00:12:06,720
+born i mean you have some
+
+286
+00:12:04,160 --> 00:12:07,600
+like a mineralization in your brain
+
+287
+00:12:06,720 --> 00:12:11,279
+which uh
+
+288
+00:12:07,600 --> 00:12:15,120
+as a which i mean is keeping
+
+289
+00:12:11,279 --> 00:12:17,200
+its its size small or super magnetic
+
+290
+00:12:15,120 --> 00:12:19,200
+however when when this mineralization
+
+291
+00:12:17,200 --> 00:12:22,959
+when those grains get bigger
+
+292
+00:12:19,200 --> 00:12:26,000
+uh you are slowing down this oscillation
+
+293
+00:12:22,959 --> 00:12:29,920
+of the magnetic dipole inside this
+
+294
+00:12:26,000 --> 00:12:30,959
+magnetic particles and as a result of it
+
+295
+00:12:29,920 --> 00:12:34,880
+you have this
+
+296
+00:12:30,959 --> 00:12:37,360
+like a different electric
+
+297
+00:12:34,880 --> 00:12:38,880
+variation or the electric currents that
+
+298
+00:12:37,360 --> 00:12:41,680
+has an alternating
+
+299
+00:12:38,880 --> 00:12:42,320
+current that may interfere with the
+
+300
+00:12:41,680 --> 00:12:44,560
+neural
+
+301
+00:12:42,320 --> 00:12:46,800
+synapses and because we know that the
+
+302
+00:12:44,560 --> 00:12:50,839
+neural synapses are operating
+
+303
+00:12:46,800 --> 00:12:54,399
+approximately as like a tensile hertz
+
+304
+00:12:50,839 --> 00:12:56,240
+frequency as soon as you were to
+
+305
+00:12:54,399 --> 00:12:59,279
+increase the size of these
+
+306
+00:12:56,240 --> 00:13:01,040
+minerals that the size were the
+
+307
+00:12:59,279 --> 00:13:01,680
+frequency of the oscillation would be
+
+308
+00:13:01,040 --> 00:13:04,880
+about
+
+309
+00:13:01,680 --> 00:13:07,440
+20 50 10 hertz
+
+310
+00:13:04,880 --> 00:13:07,920
+you would have a way to interfere with
+
+311
+00:13:07,440 --> 00:13:11,680
+the
+
+312
+00:13:07,920 --> 00:13:14,959
+synapses electro electric uh
+
+313
+00:13:11,680 --> 00:13:17,839
+electric uh pulses
+
+314
+00:13:14,959 --> 00:13:19,040
+so this is the hypothesis that we are
+
+315
+00:13:17,839 --> 00:13:23,920
+following as a
+
+316
+00:13:19,040 --> 00:13:27,440
+result we also try to
+
+317
+00:13:23,920 --> 00:13:30,720
+try to like modify the
+
+318
+00:13:27,440 --> 00:13:31,519
+nil theory or adjust it to you know to
+
+319
+00:13:30,720 --> 00:13:35,040
+get some kind of
+
+320
+00:13:31,519 --> 00:13:38,240
+handle on understanding how this crm
+
+321
+00:13:35,040 --> 00:13:42,160
+because the this theory was
+
+322
+00:13:38,240 --> 00:13:44,959
+written for trm so we have a crm
+
+323
+00:13:42,160 --> 00:13:46,639
+substituted instead of trm in this
+
+324
+00:13:44,959 --> 00:13:48,240
+tangent hyperbolic function
+
+325
+00:13:46,639 --> 00:13:51,600
+and of course we are using blocking
+
+326
+00:13:48,240 --> 00:13:54,079
+volume instead of the
+
+327
+00:13:51,600 --> 00:13:55,120
+blocking temperature and then we follow
+
+328
+00:13:54,079 --> 00:13:57,440
+basically
+
+329
+00:13:55,120 --> 00:13:59,199
+we also use this time scale because we
+
+330
+00:13:57,440 --> 00:13:59,680
+also would like to have a handle on the
+
+331
+00:13:59,199 --> 00:14:03,040
+time
+
+332
+00:13:59,680 --> 00:14:05,120
+how quickly the magnetic vector of a
+
+333
+00:14:03,040 --> 00:14:08,240
+single domain particle oscillate
+
+334
+00:14:05,120 --> 00:14:12,079
+and once we put it together
+
+335
+00:14:08,240 --> 00:14:13,279
+we assume that the crm and saturation
+
+336
+00:14:12,079 --> 00:14:15,199
+remnants
+
+337
+00:14:13,279 --> 00:14:16,959
+in those individual particles are the
+
+338
+00:14:15,199 --> 00:14:19,839
+same so we have one
+
+339
+00:14:16,959 --> 00:14:21,040
+and then when we have a argument of this
+
+340
+00:14:19,839 --> 00:14:24,560
+tangent of
+
+341
+00:14:21,040 --> 00:14:27,199
+hyperbolic angle we know that for
+
+342
+00:14:24,560 --> 00:14:27,920
+for everything greater than 2 this is
+
+343
+00:14:27,199 --> 00:14:31,040
+this is
+
+344
+00:14:27,920 --> 00:14:33,279
+correct equation so we basically
+
+345
+00:14:31,040 --> 00:14:35,519
+say that once the argument is equal to
+
+346
+00:14:33,279 --> 00:14:38,320
+two we have a like a simple
+
+347
+00:14:35,519 --> 00:14:39,839
+uh or simplification that kind of could
+
+348
+00:14:38,320 --> 00:14:43,199
+give us a handle
+
+349
+00:14:39,839 --> 00:14:46,480
+about how much field you would
+
+350
+00:14:43,199 --> 00:14:48,560
+require for in order to
+
+351
+00:14:46,480 --> 00:14:51,279
+to stabilize the particle that has a
+
+352
+00:14:48,560 --> 00:14:54,160
+certain core acidity
+
+353
+00:14:51,279 --> 00:14:55,519
+so this kind of like a preliminary like
+
+354
+00:14:54,160 --> 00:15:00,079
+a
+
+355
+00:14:55,519 --> 00:15:04,560
+idea how it may work and
+
+356
+00:15:00,079 --> 00:15:07,440
+then we also try to get the handle on
+
+357
+00:15:04,560 --> 00:15:10,639
+frequency dependence measurements and we
+
+358
+00:15:07,440 --> 00:15:10,639
+show that there is a
+
+359
+00:15:10,880 --> 00:15:14,959
+lower susceptibility with the higher
+
+360
+00:15:12,639 --> 00:15:17,680
+frequency which is
+
+361
+00:15:14,959 --> 00:15:18,480
+which is confirming that we are dealing
+
+362
+00:15:17,680 --> 00:15:23,120
+mostly with
+
+363
+00:15:18,480 --> 00:15:26,160
+super uh paramagnetic grains
+
+364
+00:15:23,120 --> 00:15:29,120
+and this uh comes to the conclusions
+
+365
+00:15:26,160 --> 00:15:31,360
+uh that we made from this study that uh
+
+366
+00:15:29,120 --> 00:15:35,519
+we think that this non-nominalization
+
+367
+00:15:31,360 --> 00:15:38,399
+uh correlates with the neurodegenerative
+
+368
+00:15:35,519 --> 00:15:39,040
+diseases and you could you could monitor
+
+369
+00:15:38,399 --> 00:15:41,680
+it by
+
+370
+00:15:39,040 --> 00:15:43,199
+motor monitoring the magnetic remnants
+
+371
+00:15:41,680 --> 00:15:44,720
+because as soon as you have a magnetic
+
+372
+00:15:43,199 --> 00:15:46,880
+remanence presence
+
+373
+00:15:44,720 --> 00:15:49,120
+then you know that the magnetic
+
+374
+00:15:46,880 --> 00:15:52,720
+particles grew to the size
+
+375
+00:15:49,120 --> 00:15:53,279
+where they already have a they are so
+
+376
+00:15:52,720 --> 00:15:57,120
+large
+
+377
+00:15:53,279 --> 00:15:59,600
+so they could record the remnants
+
+378
+00:15:57,120 --> 00:16:00,480
+however before they reach that that
+
+379
+00:15:59,600 --> 00:16:03,519
+grain size
+
+380
+00:16:00,480 --> 00:16:07,120
+there is this electric noise which
+
+381
+00:16:03,519 --> 00:16:08,079
+relates to the electric uh frequencies
+
+382
+00:16:07,120 --> 00:16:11,519
+that are operating
+
+383
+00:16:08,079 --> 00:16:14,399
+in a human brain and so we think that
+
+384
+00:16:11,519 --> 00:16:14,399
+this transition
+
+385
+00:16:15,279 --> 00:16:20,399
+between super paramagnetic and like a
+
+386
+00:16:17,920 --> 00:16:23,600
+particle with the remnants is important
+
+387
+00:16:20,399 --> 00:16:25,279
+in terms of the electric noise in your
+
+388
+00:16:23,600 --> 00:16:29,279
+brain
+
+389
+00:16:25,279 --> 00:16:31,600
+we have some reason to think that zinc
+
+390
+00:16:29,279 --> 00:16:33,440
+may interrupting the iron pathways and
+
+391
+00:16:31,600 --> 00:16:37,440
+this may be the way how you could
+
+392
+00:16:33,440 --> 00:16:41,600
+start to induce the mineralization
+
+393
+00:16:37,440 --> 00:16:43,839
+in the human brain and
+
+394
+00:16:41,600 --> 00:16:45,839
+we have observation that both low and
+
+395
+00:16:43,839 --> 00:16:47,480
+high magnetic susceptibility
+
+396
+00:16:45,839 --> 00:16:49,360
+occurs in the brain with
+
+397
+00:16:47,480 --> 00:16:51,440
+neurodegenerative disease
+
+398
+00:16:49,360 --> 00:16:53,600
+and we interpret this that this has to
+
+399
+00:16:51,440 --> 00:16:56,880
+do with
+
+400
+00:16:53,600 --> 00:16:59,440
+once you change magnetic particles
+
+401
+00:16:56,880 --> 00:16:59,920
+from super paramagnetic single domain
+
+402
+00:16:59,440 --> 00:17:03,279
+the
+
+403
+00:16:59,920 --> 00:17:05,360
+magnetic sustainability is sharply
+
+404
+00:17:03,279 --> 00:17:06,799
+like a decreasing for these drains and
+
+405
+00:17:05,360 --> 00:17:11,360
+that may be the reason
+
+406
+00:17:06,799 --> 00:17:14,079
+for this observation and
+
+407
+00:17:11,360 --> 00:17:14,720
+and so we think that we also offer like
+
+408
+00:17:14,079 --> 00:17:16,480
+a
+
+409
+00:17:14,720 --> 00:17:18,959
+different mechanism for electric
+
+410
+00:17:16,480 --> 00:17:22,240
+interference of these
+
+411
+00:17:18,959 --> 00:17:25,120
+magnetic nanoparticles and with this
+
+412
+00:17:22,240 --> 00:17:27,600
+i i'm opening if anyone has any
+
+413
+00:17:25,120 --> 00:17:27,600
+questions
+
+414
+00:17:31,200 --> 00:17:35,280
+so thank you guter for your talk so do
+
+415
+00:17:33,919 --> 00:17:37,360
+we have any questions
+
+416
+00:17:35,280 --> 00:17:39,039
+i go in sir i'll i'll just jump in with
+
+417
+00:17:37,360 --> 00:17:40,320
+a a quick question that's a really
+
+418
+00:17:39,039 --> 00:17:44,240
+interesting talk
+
+419
+00:17:40,320 --> 00:17:46,400
+um so these these uh nano particles
+
+420
+00:17:44,240 --> 00:17:48,480
+um are they fixed within the brain or
+
+421
+00:17:46,400 --> 00:17:51,600
+are they free to move
+
+422
+00:17:48,480 --> 00:17:54,480
+uh within within the space
+
+423
+00:17:51,600 --> 00:17:55,520
+uh hang on let me let i have some
+
+424
+00:17:54,480 --> 00:18:00,000
+trouble
+
+425
+00:17:55,520 --> 00:18:01,919
+finding out where where is my zoom hang
+
+426
+00:18:00,000 --> 00:18:02,620
+on
+
+427
+00:18:01,919 --> 00:18:05,200
+into
+
+428
+00:18:02,620 --> 00:18:09,120
+[Music]
+
+429
+00:18:05,200 --> 00:18:12,480
+oh okay i see you now
+
+430
+00:18:09,120 --> 00:18:13,440
+okay uh say can you repeat the question
+
+431
+00:18:12,480 --> 00:18:16,400
+i was a little bit
+
+432
+00:18:13,440 --> 00:18:18,240
+so are the nanoparticles um fixed within
+
+433
+00:18:16,400 --> 00:18:21,840
+the brain structure or are they
+
+434
+00:18:18,240 --> 00:18:24,480
+um free to move
+
+435
+00:18:21,840 --> 00:18:26,000
+well it's a good question they are in in
+
+436
+00:18:24,480 --> 00:18:28,160
+this neural cells and
+
+437
+00:18:26,000 --> 00:18:30,320
+because there are is on the order of
+
+438
+00:18:28,160 --> 00:18:31,760
+like uh the units the tenths of
+
+439
+00:18:30,320 --> 00:18:34,720
+nanometers
+
+440
+00:18:31,760 --> 00:18:35,120
+uh the question is if they would be if
+
+441
+00:18:34,720 --> 00:18:37,280
+this
+
+442
+00:18:35,120 --> 00:18:38,559
+specific metallation would be occurring
+
+443
+00:18:37,280 --> 00:18:40,799
+on us on a like a
+
+444
+00:18:38,559 --> 00:18:42,240
+membrane because once they would be on a
+
+445
+00:18:40,799 --> 00:18:42,880
+membrane they would be more or less
+
+446
+00:18:42,240 --> 00:18:44,880
+stuck
+
+447
+00:18:42,880 --> 00:18:48,240
+or if they would be like in a medium
+
+448
+00:18:44,880 --> 00:18:51,760
+where you have this flow of the fluid
+
+449
+00:18:48,240 --> 00:18:53,760
+because we had this observation of this
+
+450
+00:18:51,760 --> 00:18:55,760
+remnants in terms of from the forehead
+
+451
+00:18:53,760 --> 00:18:58,320
+to the back side
+
+452
+00:18:55,760 --> 00:18:59,120
+it looked like that these nanoparticles
+
+453
+00:18:58,320 --> 00:19:01,440
+would have to be
+
+454
+00:18:59,120 --> 00:19:02,559
+stuck somewhere along the wall of the
+
+455
+00:19:01,440 --> 00:19:06,799
+neural
+
+456
+00:19:02,559 --> 00:19:08,559
+cell i guess if if they are
+
+457
+00:19:06,799 --> 00:19:11,200
+free-flowing as well then the the
+
+458
+00:19:08,559 --> 00:19:14,880
+effects of brownian motion would also be
+
+459
+00:19:11,200 --> 00:19:14,880
+producing eddy currents
+
+460
+00:19:16,480 --> 00:19:22,720
+well what you are
+
+461
+00:19:20,320 --> 00:19:24,000
+you mentioned brown in motion which is
+
+462
+00:19:22,720 --> 00:19:27,039
+basically something which is
+
+463
+00:19:24,000 --> 00:19:30,400
+causing the destabilization of the
+
+464
+00:19:27,039 --> 00:19:31,600
+magnetic remnants right it's a common
+
+465
+00:19:30,400 --> 00:19:33,520
+vibration
+
+466
+00:19:31,600 --> 00:19:34,640
+yes i'm curious about as to whether or
+
+467
+00:19:33,520 --> 00:19:36,320
+not
+
+468
+00:19:34,640 --> 00:19:38,559
+you know some of your calculations if
+
+469
+00:19:36,320 --> 00:19:39,760
+you've considered that for a free moving
+
+470
+00:19:38,559 --> 00:19:42,240
+particle
+
+471
+00:19:39,760 --> 00:19:43,440
+a brownian motion will induce rotation
+
+472
+00:19:42,240 --> 00:19:46,080
+of the particle
+
+473
+00:19:43,440 --> 00:19:47,280
+um which will actually create its own
+
+474
+00:19:46,080 --> 00:19:49,200
+eddy currents because you have
+
+475
+00:19:47,280 --> 00:19:51,039
+these two two mechanisms of the
+
+476
+00:19:49,200 --> 00:19:52,799
+superpower magnetic flipping
+
+477
+00:19:51,039 --> 00:19:54,400
+but also the the physical rotation of
+
+478
+00:19:52,799 --> 00:19:56,640
+the particle at the same
+
+479
+00:19:54,400 --> 00:19:59,200
+time which might also contribute to the
+
+480
+00:19:56,640 --> 00:20:01,440
+production of eddy currents
+
+481
+00:19:59,200 --> 00:20:03,039
+that's a very good question i i didn't i
+
+482
+00:20:01,440 --> 00:20:04,960
+didn't think of the
+
+483
+00:20:03,039 --> 00:20:06,880
+specific moving of the particle i was
+
+484
+00:20:04,960 --> 00:20:09,039
+assuming almost
+
+485
+00:20:06,880 --> 00:20:10,159
+all the time that there is a just
+
+486
+00:20:09,039 --> 00:20:12,320
+particle which is
+
+487
+00:20:10,159 --> 00:20:13,919
+not moving but the magnetic dipole is
+
+488
+00:20:12,320 --> 00:20:15,840
+moving as a result of the
+
+489
+00:20:13,919 --> 00:20:18,559
+phonon vibration but what you are saying
+
+490
+00:20:15,840 --> 00:20:20,640
+is it's correct it could also have a
+
+491
+00:20:18,559 --> 00:20:22,159
+effect but i didn't think of it thank
+
+492
+00:20:20,640 --> 00:20:28,400
+you really really interesting study
+
+493
+00:20:22,159 --> 00:20:28,400
+cheers do you have any more questions
+
+494
+00:20:29,520 --> 00:20:35,840
+there are some questions in the chat
+
+495
+00:20:31,840 --> 00:20:35,840
+okay yeah
+
+496
+00:20:38,880 --> 00:20:42,159
+that's it i think anita wants to know
+
+497
+00:20:41,280 --> 00:20:44,640
+how to store
+
+498
+00:20:42,159 --> 00:20:44,640
+a brain
+
+499
+00:20:46,840 --> 00:20:50,480
+yeah okay so this
+
+500
+00:20:49,039 --> 00:20:52,320
+is a there's a question in the chat
+
+501
+00:20:50,480 --> 00:20:53,919
+there's a there's a fluid uh
+
+502
+00:20:52,320 --> 00:20:55,360
+it's called formally you know
+
+503
+00:20:53,919 --> 00:20:58,559
+formaldehyde
+
+504
+00:20:55,360 --> 00:21:00,559
+uh which uh these you because
+
+505
+00:20:58,559 --> 00:21:02,880
+normally if you don't if you don't put
+
+506
+00:21:00,559 --> 00:21:05,039
+it into this fluid it's very difficult
+
+507
+00:21:02,880 --> 00:21:05,039
+to
+
+508
+00:21:05,200 --> 00:21:08,240
+handle the brain it's kind of like
+
+509
+00:21:06,960 --> 00:21:10,000
+really like a
+
+510
+00:21:08,240 --> 00:21:13,200
+smooshy but once you put it in
+
+511
+00:21:10,000 --> 00:21:16,799
+formaldehyde it become more like a tofu
+
+512
+00:21:13,200 --> 00:21:19,600
+tofu the japanese tofu right so it's
+
+513
+00:21:16,799 --> 00:21:22,080
+it's then you can work with it quite
+
+514
+00:21:19,600 --> 00:21:22,080
+easily
+
+515
+00:21:22,320 --> 00:21:26,480
+yes sorry if i intervene yes this is
+
+516
+00:21:24,720 --> 00:21:30,559
+what i was asking because
+
+517
+00:21:26,480 --> 00:21:31,600
+uh actually um i was seeing this process
+
+518
+00:21:30,559 --> 00:21:33,919
+happening i was
+
+519
+00:21:31,600 --> 00:21:34,640
+i didn't directly measure those samples
+
+520
+00:21:33,919 --> 00:21:38,000
+but
+
+521
+00:21:34,640 --> 00:21:40,000
+uh so i observed that if you if they are
+
+522
+00:21:38,000 --> 00:21:43,520
+stored in the formal diet they
+
+523
+00:21:40,000 --> 00:21:45,440
+basically provoke an artificial kind of
+
+524
+00:21:43,520 --> 00:21:46,640
+decrease of the magnetization of the
+
+525
+00:21:45,440 --> 00:21:49,280
+sample which is already
+
+526
+00:21:46,640 --> 00:21:49,760
+very very weak as you showed so and also
+
+527
+00:21:49,280 --> 00:21:52,000
+the
+
+528
+00:21:49,760 --> 00:21:54,000
+the contamination of the room where it's
+
+529
+00:21:52,000 --> 00:21:55,039
+kind of prepared the samples that also
+
+530
+00:21:54,000 --> 00:21:57,520
+affect a lot so
+
+531
+00:21:55,039 --> 00:21:58,960
+if you put air filters in the in the
+
+532
+00:21:57,520 --> 00:22:00,880
+room you'll see how big that
+
+533
+00:21:58,960 --> 00:22:02,480
+contamination it is so that's why i was
+
+534
+00:22:00,880 --> 00:22:03,840
+asking about the preparation of those
+
+535
+00:22:02,480 --> 00:22:05,600
+samples because i
+
+536
+00:22:03,840 --> 00:22:07,679
+it's a very good question and there
+
+537
+00:22:05,600 --> 00:22:10,799
+there was a study
+
+538
+00:22:07,679 --> 00:22:13,840
+on her brain uh
+
+539
+00:22:10,799 --> 00:22:16,240
+about three years ago uh where i was
+
+540
+00:22:13,840 --> 00:22:20,000
+observing our data with that data
+
+541
+00:22:16,240 --> 00:22:20,799
+and i could see that their ability to
+
+542
+00:22:20,000 --> 00:22:24,000
+detect
+
+543
+00:22:20,799 --> 00:22:26,559
+and report uh like some of the magnetic
+
+544
+00:22:24,000 --> 00:22:27,760
+remnants signature although samples that
+
+545
+00:22:26,559 --> 00:22:29,919
+were very weak
+
+546
+00:22:27,760 --> 00:22:31,679
+were almost like an order of magnitude
+
+547
+00:22:29,919 --> 00:22:36,480
+lower than ours
+
+548
+00:22:31,679 --> 00:22:36,480
+so because i could see that once i was
+
+549
+00:22:36,799 --> 00:22:42,400
+trying to handle the magnetizations
+
+550
+00:22:39,840 --> 00:22:42,880
+that were reported in that study i could
+
+551
+00:22:42,400 --> 00:22:44,960
+see that
+
+552
+00:22:42,880 --> 00:22:45,919
+it's all noise that i could not really
+
+553
+00:22:44,960 --> 00:22:49,919
+rely
+
+554
+00:22:45,919 --> 00:22:53,120
+rely on on that data so i was not
+
+555
+00:22:49,919 --> 00:22:55,280
+including those data in because i i
+
+556
+00:22:53,120 --> 00:22:57,679
+thought maybe
+
+557
+00:22:55,280 --> 00:22:58,880
+we did not have as pretty pristine
+
+558
+00:22:57,679 --> 00:23:02,559
+procedure
+
+559
+00:22:58,880 --> 00:23:04,880
+we didn't do like uh we didn't
+
+560
+00:23:02,559 --> 00:23:06,640
+have any like a hepa filters when we
+
+561
+00:23:04,880 --> 00:23:09,679
+were i mean we were doing in a
+
+562
+00:23:06,640 --> 00:23:10,480
+in a that hepa filter in it but still i
+
+563
+00:23:09,679 --> 00:23:14,080
+think there is
+
+564
+00:23:10,480 --> 00:23:14,080
+some space for contamination
+
+565
+00:23:14,159 --> 00:23:17,919
+thank you
+

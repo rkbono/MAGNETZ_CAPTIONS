@@ -1,0 +1,2880 @@
+1
+00:00:00,160 --> 00:00:04,880
+yes um yeah so uh i
+
+2
+00:00:03,439 --> 00:00:06,879
+looked at a lot of samples in the
+
+3
+00:00:04,880 --> 00:00:08,519
+devonian and the devonian has always
+
+4
+00:00:06,879 --> 00:00:10,080
+been a very problematic time for
+
+5
+00:00:08,519 --> 00:00:13,200
+paleomagnetism
+
+6
+00:00:10,080 --> 00:00:15,120
+um and so this has affected basically
+
+7
+00:00:13,200 --> 00:00:17,520
+everything in the devonian
+
+8
+00:00:15,120 --> 00:00:19,359
+the time scales so the polarity pattern
+
+9
+00:00:17,520 --> 00:00:21,760
+is not very well known
+
+10
+00:00:19,359 --> 00:00:23,439
+there's bits that are gray and but also
+
+11
+00:00:21,760 --> 00:00:24,000
+paleo poles have been affected and
+
+12
+00:00:23,439 --> 00:00:26,560
+there's
+
+13
+00:00:24,000 --> 00:00:28,000
+um well the amount of paint intensities
+
+14
+00:00:26,560 --> 00:00:31,359
+is increasing
+
+15
+00:00:28,000 --> 00:00:32,000
+um and so we wanted to basically uh have
+
+16
+00:00:31,359 --> 00:00:35,440
+a look
+
+17
+00:00:32,000 --> 00:00:36,079
+at the uh the polarity patterns so we
+
+18
+00:00:35,440 --> 00:00:39,200
+selected
+
+19
+00:00:36,079 --> 00:00:41,600
+three sections in germany canada
+
+20
+00:00:39,200 --> 00:00:43,520
+uh and poland and we tried to do
+
+21
+00:00:41,600 --> 00:00:45,480
+magnetosphere on them
+
+22
+00:00:43,520 --> 00:00:46,640
+they showed little evidence for
+
+23
+00:00:45,480 --> 00:00:49,760
+remineralization
+
+24
+00:00:46,640 --> 00:00:52,399
+or significant heating so the chances of
+
+25
+00:00:49,760 --> 00:00:54,480
+primary directions in these sections
+
+26
+00:00:52,399 --> 00:00:57,440
+were very good
+
+27
+00:00:54,480 --> 00:00:59,840
+but we showed that basically there's
+
+28
+00:00:57,440 --> 00:01:03,520
+still a lot of trouble
+
+29
+00:00:59,840 --> 00:01:05,840
+all the samples are very weak they
+
+30
+00:01:03,520 --> 00:01:06,720
+so that excludes the possibility of a
+
+31
+00:01:05,840 --> 00:01:08,799
+lot of
+
+32
+00:01:06,720 --> 00:01:11,840
+rock magnetic techniques so we were
+
+33
+00:01:08,799 --> 00:01:12,799
+basically limited to copper bridge runs
+
+34
+00:01:11,840 --> 00:01:16,159
+um
+
+35
+00:01:12,799 --> 00:01:18,479
+and even though the samples
+
+36
+00:01:16,159 --> 00:01:21,280
+were likely not overprinted because they
+
+37
+00:01:18,479 --> 00:01:23,680
+had no overprint conditions met
+
+38
+00:01:21,280 --> 00:01:24,720
+we do see big overprints so we see
+
+39
+00:01:23,680 --> 00:01:27,600
+everywhere
+
+40
+00:01:24,720 --> 00:01:29,840
+present-day field overprint and also a
+
+41
+00:01:27,600 --> 00:01:32,079
+caiman direction so that is the burmo
+
+42
+00:01:29,840 --> 00:01:34,799
+carbonyl first reverse supercron
+
+43
+00:01:32,079 --> 00:01:35,840
+and then we basically see three types of
+
+44
+00:01:34,799 --> 00:01:39,439
+behavior
+
+45
+00:01:35,840 --> 00:01:41,600
+um so for the section from germany
+
+46
+00:01:39,439 --> 00:01:44,079
+we see something that might be a
+
+47
+00:01:41,600 --> 00:01:45,439
+devonian primary direction but we only
+
+48
+00:01:44,079 --> 00:01:48,320
+have
+
+49
+00:01:45,439 --> 00:01:49,920
+one polarity and we don't have any field
+
+50
+00:01:48,320 --> 00:01:53,040
+test because the section is
+
+51
+00:01:49,920 --> 00:01:55,200
+flat lying for the section in poland we
+
+52
+00:01:53,040 --> 00:01:56,880
+see both polarities
+
+53
+00:01:55,200 --> 00:01:59,600
+and for the section in canada we
+
+54
+00:01:56,880 --> 00:02:02,880
+basically see random directions
+
+55
+00:01:59,600 --> 00:02:04,840
+and then we looked at all the other
+
+56
+00:02:02,880 --> 00:02:06,000
+devonian data so we looked at the
+
+57
+00:02:04,840 --> 00:02:07,920
+magnetostratigraphy
+
+58
+00:02:06,000 --> 00:02:09,599
+so this is part of the pattern in the
+
+59
+00:02:07,920 --> 00:02:12,879
+frennie and fermenian
+
+60
+00:02:09,599 --> 00:02:14,160
+which is based on random data um we had
+
+61
+00:02:12,879 --> 00:02:16,480
+a look at
+
+62
+00:02:14,160 --> 00:02:19,599
+a lot of paleo pool paper so i looked at
+
+63
+00:02:16,480 --> 00:02:23,040
+more than 80 papers
+
+64
+00:02:19,599 --> 00:02:24,400
+and what we see is basically that the
+
+65
+00:02:23,040 --> 00:02:27,440
+field in the devonian
+
+66
+00:02:24,400 --> 00:02:31,440
+looks very strange uh there is
+
+67
+00:02:27,440 --> 00:02:33,599
+basically no good convincing data
+
+68
+00:02:31,440 --> 00:02:34,959
+um and we also see very weak paleo
+
+69
+00:02:33,599 --> 00:02:37,760
+intensities so
+
+70
+00:02:34,959 --> 00:02:39,680
+we are now thinking that perhaps uh the
+
+71
+00:02:37,760 --> 00:02:40,319
+field was very weak and in a very poor
+
+72
+00:02:39,680 --> 00:02:43,360
+shape
+
+73
+00:02:40,319 --> 00:02:45,360
+and we're asking the question whether uh
+
+74
+00:02:43,360 --> 00:02:47,760
+there is a link to all these biotic
+
+75
+00:02:45,360 --> 00:02:49,920
+crises in the devonian
+
+76
+00:02:47,760 --> 00:02:51,840
+and we're making a call out to everyone
+
+77
+00:02:49,920 --> 00:02:55,519
+to publish the veronium data because i
+
+78
+00:02:51,840 --> 00:02:56,959
+think that there might be a lot more
+
+79
+00:02:55,519 --> 00:02:58,879
+there might be a lot more attempts that
+
+80
+00:02:56,959 --> 00:03:01,040
+people did but they haven't managed to
+
+81
+00:02:58,879 --> 00:03:01,680
+publish it because the data was just so
+
+82
+00:03:01,040 --> 00:03:04,720
+weird
+
+83
+00:03:01,680 --> 00:03:06,800
+or of poor quality
+
+84
+00:03:04,720 --> 00:03:08,400
+so yeah please publish your data because
+
+85
+00:03:06,800 --> 00:03:11,360
+that's the only way that we can
+
+86
+00:03:08,400 --> 00:03:12,480
+understand the field in the devonian and
+
+87
+00:03:11,360 --> 00:03:16,640
+i'll be happy to
+
+88
+00:03:12,480 --> 00:03:16,640
+discuss this at some other points with
+
+89
+00:03:16,840 --> 00:03:21,120
+anyone
+
+90
+00:03:18,000 --> 00:03:25,920
+thank you very much who
+
+91
+00:03:21,120 --> 00:03:25,920
+is is anyone else wanting to present
+
+92
+00:03:32,080 --> 00:03:39,120
+i could hop on if no one wants to go
+
+93
+00:03:35,599 --> 00:03:41,360
+uh i think hannah just oh yeah
+
+94
+00:03:39,120 --> 00:03:43,440
+no hannah you go yeah you know you spoke
+
+95
+00:03:41,360 --> 00:03:46,959
+up
+
+96
+00:03:43,440 --> 00:03:51,120
+you sure okay um let me just get
+
+97
+00:03:46,959 --> 00:03:56,400
+my okay you should be able to see
+
+98
+00:03:51,120 --> 00:03:59,040
+a poster is that right yeah we can
+
+99
+00:03:56,400 --> 00:03:59,439
+i can't see what you're seeing so um
+
+100
+00:03:59,040 --> 00:04:02,480
+yeah
+
+101
+00:03:59,439 --> 00:04:04,640
+hello i'm hannah and my poster is on the
+
+102
+00:04:02,480 --> 00:04:06,560
+application of spherical sloping
+
+103
+00:04:04,640 --> 00:04:09,040
+functions to the inversion of virtual
+
+104
+00:04:06,560 --> 00:04:10,799
+observatory satellite magnetic data
+
+105
+00:04:09,040 --> 00:04:12,720
+into localized regions of flow on the
+
+106
+00:04:10,799 --> 00:04:15,120
+core mantle boundary
+
+107
+00:04:12,720 --> 00:04:17,199
+so our research is motivated by
+
+108
+00:04:15,120 --> 00:04:18,880
+improving the international geomagnetic
+
+109
+00:04:17,199 --> 00:04:21,840
+reference field model
+
+110
+00:04:18,880 --> 00:04:23,759
+the idrf is updated every five years but
+
+111
+00:04:21,840 --> 00:04:24,800
+due to our poor understanding of how the
+
+112
+00:04:23,759 --> 00:04:28,800
+core flow is
+
+113
+00:04:24,800 --> 00:04:31,040
+changing the 2015 to forecast error was
+
+114
+00:04:28,800 --> 00:04:33,440
+much larger than we expected
+
+115
+00:04:31,040 --> 00:04:35,600
+we want to improve forecasts of magnetic
+
+116
+00:04:33,440 --> 00:04:37,680
+field change by better understanding
+
+117
+00:04:35,600 --> 00:04:39,520
+individual regions of flow on the core
+
+118
+00:04:37,680 --> 00:04:41,759
+mantle boundary
+
+119
+00:04:39,520 --> 00:04:43,280
+study of these regions are motivated by
+
+120
+00:04:41,759 --> 00:04:45,280
+four main points
+
+121
+00:04:43,280 --> 00:04:47,520
+the assumptions required when inverting
+
+122
+00:04:45,280 --> 00:04:49,199
+from field to flow which define the flow
+
+123
+00:04:47,520 --> 00:04:52,479
+uniquely over part
+
+124
+00:04:49,199 --> 00:04:54,720
+only part of the corsair core surface
+
+125
+00:04:52,479 --> 00:04:56,479
+such as the tangentially geostrophic
+
+126
+00:04:54,720 --> 00:04:59,520
+flow model
+
+127
+00:04:56,479 --> 00:05:01,600
+flow assumption number two uh
+
+128
+00:04:59,520 --> 00:05:03,600
+we want to investigate different fluid
+
+129
+00:05:01,600 --> 00:05:04,479
+motions in different regions of the core
+
+130
+00:05:03,600 --> 00:05:06,400
+such as
+
+131
+00:05:04,479 --> 00:05:08,400
+the column above and below the inner
+
+132
+00:05:06,400 --> 00:05:10,560
+core
+
+133
+00:05:08,400 --> 00:05:12,000
+three there's sometimes spatially uneven
+
+134
+00:05:10,560 --> 00:05:14,639
+data collection
+
+135
+00:05:12,000 --> 00:05:15,840
+and four investigating how features on
+
+136
+00:05:14,639 --> 00:05:18,639
+the base of the mantle
+
+137
+00:05:15,840 --> 00:05:19,840
+affects flow and the core mantles on the
+
+138
+00:05:18,639 --> 00:05:21,919
+outer core surface
+
+139
+00:05:19,840 --> 00:05:23,360
+so from seismic anomalies and thermal
+
+140
+00:05:21,919 --> 00:05:25,440
+anomalies
+
+141
+00:05:23,360 --> 00:05:26,639
+so i've been working with kathy whaler
+
+142
+00:05:25,440 --> 00:05:28,720
+and kieran beggan
+
+143
+00:05:26,639 --> 00:05:30,240
+to apply a mathematical technique called
+
+144
+00:05:28,720 --> 00:05:31,840
+slapping functions
+
+145
+00:05:30,240 --> 00:05:34,479
+to core flows on the core mantle
+
+146
+00:05:31,840 --> 00:05:36,400
+boundary the slap-in functions have
+
+147
+00:05:34,479 --> 00:05:38,880
+previously been used extensively in
+
+148
+00:05:36,400 --> 00:05:42,120
+geodesy gravity and crustal magnetic
+
+149
+00:05:38,880 --> 00:05:44,160
+field models as the functions allow a
+
+150
+00:05:42,120 --> 00:05:46,000
+spatio-spectral trade-off
+
+151
+00:05:44,160 --> 00:05:48,080
+in order to constrain spherical
+
+152
+00:05:46,000 --> 00:05:51,520
+harmonics within a region of interest
+
+153
+00:05:48,080 --> 00:05:52,800
+on the sphere my poster is focused on
+
+154
+00:05:51,520 --> 00:05:54,720
+the impact of
+
+155
+00:05:52,800 --> 00:05:55,840
+these large low shear velocity
+
+156
+00:05:54,720 --> 00:05:58,000
+preferences
+
+157
+00:05:55,840 --> 00:05:59,520
+um on the base of the mantle which are a
+
+158
+00:05:58,000 --> 00:06:01,919
+seismic anomaly
+
+159
+00:05:59,520 --> 00:06:03,759
+and also kind of trying to demonstrate
+
+160
+00:06:01,919 --> 00:06:07,280
+the current limitations that we have
+
+161
+00:06:03,759 --> 00:06:08,560
+when uh using the spherical slapping
+
+162
+00:06:07,280 --> 00:06:11,840
+functions
+
+163
+00:06:08,560 --> 00:06:12,479
+um we've been incorporating slap in
+
+164
+00:06:11,840 --> 00:06:15,120
+functions
+
+165
+00:06:12,479 --> 00:06:17,440
+into our inversions of virtual
+
+166
+00:06:15,120 --> 00:06:19,680
+observatory magnetic data sets
+
+167
+00:06:17,440 --> 00:06:20,560
+so that we can directly invert into a
+
+168
+00:06:19,680 --> 00:06:22,400
+region
+
+169
+00:06:20,560 --> 00:06:25,440
+as opposed to constraining the flow
+
+170
+00:06:22,400 --> 00:06:27,520
+after an inversion has taken place
+
+171
+00:06:25,440 --> 00:06:29,360
+our flow models when using slapping
+
+172
+00:06:27,520 --> 00:06:31,280
+functions show an improvement
+
+173
+00:06:29,360 --> 00:06:33,280
+in the presentation in the preservation
+
+174
+00:06:31,280 --> 00:06:36,400
+of small features
+
+175
+00:06:33,280 --> 00:06:37,080
+and we've reduced the speeds outside of
+
+176
+00:06:36,400 --> 00:06:40,720
+the
+
+177
+00:06:37,080 --> 00:06:43,440
+lsvp patches kind of like here
+
+178
+00:06:40,720 --> 00:06:45,759
+um but there's still quite a lot of um
+
+179
+00:06:43,440 --> 00:06:48,560
+flow outside these regions
+
+180
+00:06:45,759 --> 00:06:49,280
+um moving forward we've got quite a lot
+
+181
+00:06:48,560 --> 00:06:51,520
+of
+
+182
+00:06:49,280 --> 00:06:53,120
+plans so we want to keep investigating
+
+183
+00:06:51,520 --> 00:06:56,639
+different regions
+
+184
+00:06:53,120 --> 00:06:57,520
+and remove upward continuation as part
+
+185
+00:06:56,639 --> 00:07:00,880
+of
+
+186
+00:06:57,520 --> 00:07:03,759
+our inversions and maybe use altitude
+
+187
+00:07:00,880 --> 00:07:06,800
+cognizance slap in functions instead
+
+188
+00:07:03,759 --> 00:07:10,400
+which would allow our
+
+189
+00:07:06,800 --> 00:07:12,960
+functions to be dependent on the
+
+190
+00:07:10,400 --> 00:07:15,120
+downward continuation and not a step
+
+191
+00:07:12,960 --> 00:07:18,479
+that we have to kind of work around
+
+192
+00:07:15,120 --> 00:07:20,319
+but i can explain that more in person um
+
+193
+00:07:18,479 --> 00:07:22,639
+so thanks a lot feel free to come and
+
+194
+00:07:20,319 --> 00:07:26,400
+talk to me about slap in functions
+
+195
+00:07:22,639 --> 00:07:29,199
+the impact of lsvps on core flow
+
+196
+00:07:26,400 --> 00:07:30,880
+uh inversions virtual observatories or
+
+197
+00:07:29,199 --> 00:07:34,319
+just to say hi
+
+198
+00:07:30,880 --> 00:07:36,000
+thanks thank you
+
+199
+00:07:34,319 --> 00:07:38,240
+well you know what i you know just come
+
+200
+00:07:36,000 --> 00:07:40,400
+by see my poster i can i can just talk
+
+201
+00:07:38,240 --> 00:07:42,479
+about it real quickly uh
+
+202
+00:07:40,400 --> 00:07:43,520
+well at liverpool we've been working on
+
+203
+00:07:42,479 --> 00:07:46,240
+updating the
+
+204
+00:07:43,520 --> 00:07:47,120
+paleo intensity pint database a real big
+
+205
+00:07:46,240 --> 00:07:51,039
+push
+
+206
+00:07:47,120 --> 00:07:52,160
+and in particular um trying to add the
+
+207
+00:07:51,039 --> 00:07:54,240
+the qpi
+
+208
+00:07:52,160 --> 00:07:55,840
+aspect and try to fill in as much as we
+
+209
+00:07:54,240 --> 00:07:58,960
+can of the pint data set
+
+210
+00:07:55,840 --> 00:08:01,120
+and so this is a bit of a teaser of that
+
+211
+00:07:58,960 --> 00:08:01,120
+but
+
+212
+00:08:01,599 --> 00:08:07,280
+yeah we can yep so um
+
+213
+00:08:04,960 --> 00:08:08,879
+so my poster is on the paleo intensity
+
+214
+00:08:07,280 --> 00:08:11,520
+results um
+
+215
+00:08:08,879 --> 00:08:12,080
+i've gotten as part of a collaboration
+
+216
+00:08:11,520 --> 00:08:14,560
+between
+
+217
+00:08:12,080 --> 00:08:16,400
+liverpool and curtin university um from
+
+218
+00:08:14,560 --> 00:08:19,039
+the 2.6 billion year old rocks
+
+219
+00:08:16,400 --> 00:08:20,400
+uh from the yilgaan craton um they've
+
+220
+00:08:19,039 --> 00:08:23,680
+previously been
+
+221
+00:08:20,400 --> 00:08:24,639
+looked up for directions can i get rid
+
+222
+00:08:23,680 --> 00:08:27,199
+of you
+
+223
+00:08:24,639 --> 00:08:27,919
+um by one of the phd students over there
+
+224
+00:08:27,199 --> 00:08:29,280
+and they
+
+225
+00:08:27,919 --> 00:08:31,919
+showed that despite the fact that
+
+226
+00:08:29,280 --> 00:08:33,120
+there's been several generations of dyke
+
+227
+00:08:31,919 --> 00:08:35,279
+swarms in the area
+
+228
+00:08:33,120 --> 00:08:37,120
+you do actually appear to have the chrm
+
+229
+00:08:35,279 --> 00:08:37,919
+component at quite high temperatures
+
+230
+00:08:37,120 --> 00:08:41,200
+from about like
+
+231
+00:08:37,919 --> 00:08:43,680
+530 to 565 degrees
+
+232
+00:08:41,200 --> 00:08:45,360
+and the magnetic mineralogy of the
+
+233
+00:08:43,680 --> 00:08:48,880
+samples looks really good
+
+234
+00:08:45,360 --> 00:08:50,000
+um capper bridge and vfdb thermomag
+
+235
+00:08:48,880 --> 00:08:51,839
+for a lot of the samples i've been
+
+236
+00:08:50,000 --> 00:08:52,560
+looking at they show you know really
+
+237
+00:08:51,839 --> 00:08:55,839
+clearly
+
+238
+00:08:52,560 --> 00:08:58,240
+magnetic curie temperatures um
+
+239
+00:08:55,839 --> 00:09:00,959
+very fine grains because of the
+
+240
+00:08:58,240 --> 00:09:00,959
+exhalation
+
+241
+00:09:01,120 --> 00:09:06,480
+of the magnetite and ilmanite yeah
+
+242
+00:09:03,920 --> 00:09:09,839
+pretty fine grain based on the
+
+243
+00:09:06,480 --> 00:09:13,839
+day plot um so i
+
+244
+00:09:09,839 --> 00:09:17,040
+did paleo intensity on what i could both
+
+245
+00:09:13,839 --> 00:09:17,519
+thermal uh a microwave teleo type as
+
+246
+00:09:17,040 --> 00:09:21,120
+well as
+
+247
+00:09:17,519 --> 00:09:25,360
+shore method and i did do ltd
+
+248
+00:09:21,120 --> 00:09:27,600
+shaw and thermal tele-a
+
+249
+00:09:25,360 --> 00:09:28,640
+with the easy protocol but none of the
+
+250
+00:09:27,600 --> 00:09:31,120
+ltd stuff
+
+251
+00:09:28,640 --> 00:09:32,399
+passed it seemed to give really terrible
+
+252
+00:09:31,120 --> 00:09:33,519
+pass rates and none of it could really
+
+253
+00:09:32,399 --> 00:09:35,519
+be accepted
+
+254
+00:09:33,519 --> 00:09:37,120
+um but you've got some nice generally i
+
+255
+00:09:35,519 --> 00:09:39,920
+mean two-slope but
+
+256
+00:09:37,120 --> 00:09:40,880
+very clearly linked to the overprint in
+
+257
+00:09:39,920 --> 00:09:44,800
+most cases
+
+258
+00:09:40,880 --> 00:09:46,080
+and also um the chrm intensity still
+
+259
+00:09:44,800 --> 00:09:47,839
+represents a decent amount of the
+
+260
+00:09:46,080 --> 00:09:51,200
+overall intensity of the samples
+
+261
+00:09:47,839 --> 00:09:52,240
+and yeah um only five sites um
+
+262
+00:09:51,200 --> 00:09:54,080
+we were able to get passable
+
+263
+00:09:52,240 --> 00:09:55,120
+measurements but that's still quite
+
+264
+00:09:54,080 --> 00:09:58,640
+reasonable
+
+265
+00:09:55,120 --> 00:09:59,519
+um so i know richard earlier was asking
+
+266
+00:09:58,640 --> 00:10:02,800
+about
+
+267
+00:09:59,519 --> 00:10:06,880
+um the icn pattern and
+
+268
+00:10:02,800 --> 00:10:10,720
+uh what it should look like and
+
+269
+00:10:06,880 --> 00:10:13,920
+um well the oh bear of a tell
+
+270
+00:10:10,720 --> 00:10:14,800
+2009 the thing that we kind of all talk
+
+271
+00:10:13,920 --> 00:10:17,600
+about with
+
+272
+00:10:14,800 --> 00:10:19,680
+um the weakening field leading up to icy
+
+273
+00:10:17,600 --> 00:10:22,480
+at inner core nucleation
+
+274
+00:10:19,680 --> 00:10:24,480
+at either sometime between like 1.5 to
+
+275
+00:10:22,480 --> 00:10:28,959
+1.3 billion years or
+
+276
+00:10:24,480 --> 00:10:31,279
+1.1 billion years or even 500 ma um
+
+277
+00:10:28,959 --> 00:10:32,800
+if you're expecting really quite strong
+
+278
+00:10:31,279 --> 00:10:36,240
+paleo intensity measurements
+
+279
+00:10:32,800 --> 00:10:38,480
+um sort of around 2.6 ga based on this
+
+280
+00:10:36,240 --> 00:10:40,000
+they are definitely sort of quite low
+
+281
+00:10:38,480 --> 00:10:42,320
+compared to what you'd expect
+
+282
+00:10:40,000 --> 00:10:43,519
+and also um quite low compared to the
+
+283
+00:10:42,320 --> 00:10:46,160
+wiki mother dykes
+
+284
+00:10:43,519 --> 00:10:47,440
+the sort of closest in time and location
+
+285
+00:10:46,160 --> 00:10:51,519
+around 2.4
+
+286
+00:10:47,440 --> 00:10:53,360
+billion years um but yes so
+
+287
+00:10:51,519 --> 00:10:54,640
+there has been more recent research
+
+288
+00:10:53,360 --> 00:10:55,360
+which suggests that actually we wouldn't
+
+289
+00:10:54,640 --> 00:10:58,480
+see
+
+290
+00:10:55,360 --> 00:10:59,440
+um a spike in a core nucleation orlando
+
+291
+00:10:58,480 --> 00:11:03,200
+hotel
+
+292
+00:10:59,440 --> 00:11:05,040
+2017 paper um so i guess with the low
+
+293
+00:11:03,200 --> 00:11:07,360
+results you could argue
+
+294
+00:11:05,040 --> 00:11:08,800
+well you need a lot better coverage of
+
+295
+00:11:07,360 --> 00:11:12,240
+the precambrian
+
+296
+00:11:08,800 --> 00:11:16,000
+but maybe we are seeing more variation
+
+297
+00:11:12,240 --> 00:11:17,519
+and the 2000 and the
+
+298
+00:11:16,000 --> 00:11:19,120
+weakening field trend is just an
+
+299
+00:11:17,519 --> 00:11:20,399
+underlying trend that we're also seeing
+
+300
+00:11:19,120 --> 00:11:22,000
+variation on top of
+
+301
+00:11:20,399 --> 00:11:24,160
+or maybe we're just kind of putting on a
+
+302
+00:11:22,000 --> 00:11:27,040
+trend i don't know
+
+303
+00:11:24,160 --> 00:11:28,240
+um but yeah you can come see my poster i
+
+304
+00:11:27,040 --> 00:11:30,560
+think i've just explained all of it
+
+305
+00:11:28,240 --> 00:11:30,560
+sorry
+
+306
+00:11:30,640 --> 00:11:34,480
+and how do i stop the screen share
+
+307
+00:11:36,160 --> 00:11:43,040
+thank you very much louise uh dan
+
+308
+00:11:40,399 --> 00:11:43,040
+you want to go
+
+309
+00:11:44,720 --> 00:11:51,519
+um let me see
+
+310
+00:11:48,160 --> 00:11:51,519
+if that works
+
+311
+00:11:54,240 --> 00:12:00,880
+can you see my pdf yeah we can
+
+312
+00:11:58,240 --> 00:12:01,760
+okay that worked so this is my yearly
+
+313
+00:12:00,880 --> 00:12:03,120
+project update
+
+314
+00:12:01,760 --> 00:12:04,959
+that i do every year at magnetic
+
+315
+00:12:03,120 --> 00:12:07,920
+interactions i
+
+316
+00:12:04,959 --> 00:12:09,360
+am looking at paleo intensities in the
+
+317
+00:12:07,920 --> 00:12:12,399
+edo current period
+
+318
+00:12:09,360 --> 00:12:15,440
+because in in this period we had some
+
+319
+00:12:12,399 --> 00:12:16,880
+anomalous directional results and it's
+
+320
+00:12:15,440 --> 00:12:19,920
+also quite interesting because
+
+321
+00:12:16,880 --> 00:12:21,680
+because it should be around the area of
+
+322
+00:12:19,920 --> 00:12:23,120
+it could be around the area of inner
+
+323
+00:12:21,680 --> 00:12:27,279
+corner creation
+
+324
+00:12:23,120 --> 00:12:29,440
+so what we did is we did a multi method
+
+325
+00:12:27,279 --> 00:12:32,399
+in density study well more of them
+
+326
+00:12:29,440 --> 00:12:34,880
+actually and but now we have about
+
+327
+00:12:32,399 --> 00:12:36,560
+even over a thousand intensity specimens
+
+328
+00:12:34,880 --> 00:12:38,800
+that have been measured
+
+329
+00:12:36,560 --> 00:12:39,760
+with over half of them come from
+
+330
+00:12:38,800 --> 00:12:42,320
+microwave
+
+331
+00:12:39,760 --> 00:12:42,800
+and and thermal italian methods and the
+
+332
+00:12:42,320 --> 00:12:45,680
+rest
+
+333
+00:12:42,800 --> 00:12:48,560
+is double heating showers to italia or
+
+334
+00:12:45,680 --> 00:12:51,440
+from wozen experiments
+
+335
+00:12:48,560 --> 00:12:52,639
+we have success rates that different
+
+336
+00:12:51,440 --> 00:12:56,639
+depending on on
+
+337
+00:12:52,639 --> 00:13:00,480
+site and method between zero and
+
+338
+00:12:56,639 --> 00:13:02,880
+25 and the ones that do pass
+
+339
+00:13:00,480 --> 00:13:04,160
+pretty much all look look the same we
+
+340
+00:13:02,880 --> 00:13:06,880
+get our two slope
+
+341
+00:13:04,160 --> 00:13:08,800
+behavior and have to be quite careful to
+
+342
+00:13:06,880 --> 00:13:10,800
+differentiate between
+
+343
+00:13:08,800 --> 00:13:12,079
+too slow behavior and sucking arrived
+
+344
+00:13:10,800 --> 00:13:14,399
+plots but it is
+
+345
+00:13:12,079 --> 00:13:15,839
+quite helpful that we do get directional
+
+346
+00:13:14,399 --> 00:13:18,240
+changes
+
+347
+00:13:15,839 --> 00:13:19,279
+at the same point where there's a bend
+
+348
+00:13:18,240 --> 00:13:22,800
+between
+
+349
+00:13:19,279 --> 00:13:25,519
+between the two slopes and
+
+350
+00:13:22,800 --> 00:13:26,480
+basically look the same for for thermal
+
+351
+00:13:25,519 --> 00:13:30,000
+telly
+
+352
+00:13:26,480 --> 00:13:33,040
+and microwave telly and the results
+
+353
+00:13:30,000 --> 00:13:36,240
+here the ones that i'm showing are all
+
+354
+00:13:33,040 --> 00:13:38,560
+lower than than two micro teslas and
+
+355
+00:13:36,240 --> 00:13:39,839
+microwave and thermal results do agree
+
+356
+00:13:38,560 --> 00:13:42,959
+pretty well there
+
+357
+00:13:39,839 --> 00:13:43,440
+if we look at at shaw we can't really
+
+358
+00:13:42,959 --> 00:13:47,199
+see a
+
+359
+00:13:43,440 --> 00:13:49,120
+two slope behavior well you can if you
+
+360
+00:13:47,199 --> 00:13:50,880
+use your imagination and the same for
+
+361
+00:13:49,120 --> 00:13:53,760
+pseudo delia
+
+362
+00:13:50,880 --> 00:13:54,639
+but if we compare what we get from from
+
+363
+00:13:53,760 --> 00:13:57,279
+the three
+
+364
+00:13:54,639 --> 00:13:57,760
+methods then then they all agree pretty
+
+365
+00:13:57,279 --> 00:14:01,440
+well
+
+366
+00:13:57,760 --> 00:14:04,639
+and usually the lowest results come from
+
+367
+00:14:01,440 --> 00:14:06,240
+from the pseudo-italian method so if we
+
+368
+00:14:04,639 --> 00:14:08,959
+look at
+
+369
+00:14:06,240 --> 00:14:10,079
+the vdms at this time period we can see
+
+370
+00:14:08,959 --> 00:14:13,440
+that all of them are
+
+371
+00:14:10,079 --> 00:14:14,000
+really really low we have an in orange
+
+372
+00:14:13,440 --> 00:14:17,519
+here
+
+373
+00:14:14,000 --> 00:14:19,519
+rigid bonus uh single crystal result
+
+374
+00:14:17,519 --> 00:14:20,720
+and pretty much all of what we've been
+
+375
+00:14:19,519 --> 00:14:24,079
+measuring between
+
+376
+00:14:20,720 --> 00:14:26,000
+600 and 560 ma has been
+
+377
+00:14:24,079 --> 00:14:28,160
+has been agreeing pretty well with with
+
+378
+00:14:26,000 --> 00:14:29,279
+that and it basically looks like it's
+
+379
+00:14:28,160 --> 00:14:32,639
+it's getting even
+
+380
+00:14:29,279 --> 00:14:35,920
+weaker as it gets older and we get
+
+381
+00:14:32,639 --> 00:14:37,839
+a bit of different results around 550
+
+382
+00:14:35,920 --> 00:14:39,440
+so we get higher brilliant densities
+
+383
+00:14:37,839 --> 00:14:43,120
+here and if we say higher
+
+384
+00:14:39,440 --> 00:14:46,240
+i'm talking about like 10 micro tesla so
+
+385
+00:14:43,120 --> 00:14:46,959
+for context the present day field
+
+386
+00:14:46,240 --> 00:14:50,079
+strength
+
+387
+00:14:46,959 --> 00:14:52,079
+in this plot would be up here somewhere
+
+388
+00:14:50,079 --> 00:14:53,440
+and if you look at all of the
+
+389
+00:14:52,079 --> 00:14:56,639
+intensities the low
+
+390
+00:14:53,440 --> 00:15:00,240
+and the high ones and compare those two
+
+391
+00:14:56,639 --> 00:15:02,079
+to younger distributions of dipole
+
+392
+00:15:00,240 --> 00:15:04,240
+moments then we can see they are
+
+393
+00:15:02,079 --> 00:15:05,600
+really different from anything we can
+
+394
+00:15:04,240 --> 00:15:09,040
+see after that
+
+395
+00:15:05,600 --> 00:15:12,639
+even the hyperactivity periods
+
+396
+00:15:09,040 --> 00:15:13,519
+do not even close give us intensities
+
+397
+00:15:12,639 --> 00:15:17,360
+that
+
+398
+00:15:13,519 --> 00:15:20,800
+that low as we see and in the idiocarin
+
+399
+00:15:17,360 --> 00:15:23,760
+so what we also did is is look at
+
+400
+00:15:20,800 --> 00:15:24,959
+directional circular variation and when
+
+401
+00:15:23,760 --> 00:15:27,519
+we started to do that
+
+402
+00:15:24,959 --> 00:15:28,480
+it really gave us results that looked
+
+403
+00:15:27,519 --> 00:15:32,639
+pretty similar
+
+404
+00:15:28,480 --> 00:15:35,519
+to what we would get from from psv10
+
+405
+00:15:32,639 --> 00:15:35,519
+apart from the
+
+406
+00:15:36,399 --> 00:15:40,000
+from the error bars that we see but i've
+
+407
+00:15:38,639 --> 00:15:43,279
+done a bit more on
+
+408
+00:15:40,000 --> 00:15:45,519
+that by now and have been a i've been
+
+409
+00:15:43,279 --> 00:15:47,440
+getting a bit stricter with my criteria
+
+410
+00:15:45,519 --> 00:15:49,279
+of what to use and what not to use
+
+411
+00:15:47,440 --> 00:15:50,880
+and i don't have a final result yet but
+
+412
+00:15:49,279 --> 00:15:53,920
+it looks like
+
+413
+00:15:50,880 --> 00:15:55,519
+it will give us a model a that is a bit
+
+414
+00:15:53,920 --> 00:15:58,800
+higher than what we see here
+
+415
+00:15:55,519 --> 00:16:01,839
+and a b value that is quite a bit lower
+
+416
+00:15:58,800 --> 00:16:03,680
+than what we got here and
+
+417
+00:16:01,839 --> 00:16:05,440
+yeah at this point i can give you the
+
+418
+00:16:03,680 --> 00:16:06,399
+the same conclusion that i've been
+
+419
+00:16:05,440 --> 00:16:09,199
+giving you
+
+420
+00:16:06,399 --> 00:16:10,399
+every year namely that the the field was
+
+421
+00:16:09,199 --> 00:16:13,759
+pretty weird back then
+
+422
+00:16:10,399 --> 00:16:15,920
+and also very weak but
+
+423
+00:16:13,759 --> 00:16:17,440
+now we can also say that it looks like
+
+424
+00:16:15,920 --> 00:16:20,639
+it has been weak over an
+
+425
+00:16:17,440 --> 00:16:22,240
+extended period of time maybe 40 million
+
+426
+00:16:20,639 --> 00:16:24,480
+years and maybe even longer
+
+427
+00:16:22,240 --> 00:16:25,920
+it doesn't and that it seems to change
+
+428
+00:16:24,480 --> 00:16:28,880
+at the
+
+429
+00:16:25,920 --> 00:16:29,440
+ethio karen cambrian transition and it
+
+430
+00:16:28,880 --> 00:16:31,839
+seems to
+
+431
+00:16:29,440 --> 00:16:32,480
+get stronger there and i think that's
+
+432
+00:16:31,839 --> 00:16:36,079
+pretty much
+
+433
+00:16:32,480 --> 00:16:38,880
+all i can say here just come by and
+
+434
+00:16:36,079 --> 00:16:41,279
+then we can have a chat about details
+
+435
+00:16:38,880 --> 00:16:41,279
+thank you
+
+436
+00:16:42,160 --> 00:16:46,480
+thank you very much uh is there another
+
+437
+00:16:44,959 --> 00:16:51,839
+one
+
+438
+00:16:46,480 --> 00:16:51,839
+becky let's just put us up please
+
+439
+00:16:53,040 --> 00:16:57,759
+so i'm now going to take you guys all
+
+440
+00:16:55,920 --> 00:17:01,279
+the way to antarctica
+
+441
+00:16:57,759 --> 00:17:04,319
+welcome to the amundsen sea uh so here
+
+442
+00:17:01,279 --> 00:17:05,439
+is an area of interest more recently and
+
+443
+00:17:04,319 --> 00:17:06,160
+you may have heard about this in the
+
+444
+00:17:05,439 --> 00:17:10,640
+news
+
+445
+00:17:06,160 --> 00:17:10,640
+about weights glacier and its concern
+
+446
+00:17:11,520 --> 00:17:16,640
+for sort of rise and sea levels and so
+
+447
+00:17:14,400 --> 00:17:17,360
+this was an iodp expedition that took
+
+448
+00:17:16,640 --> 00:17:20,400
+place in
+
+449
+00:17:17,360 --> 00:17:21,199
+january 2019 and i did not say on this
+
+450
+00:17:20,400 --> 00:17:23,360
+cruise i'll be
+
+451
+00:17:21,199 --> 00:17:25,039
+up front and but i'm working on you
+
+452
+00:17:23,360 --> 00:17:27,919
+channels that were collected from
+
+453
+00:17:25,039 --> 00:17:29,200
+site u1533 which is shown here in the
+
+454
+00:17:27,919 --> 00:17:33,200
+star
+
+455
+00:17:29,200 --> 00:17:34,640
+um and so we have fif i've been working
+
+456
+00:17:33,200 --> 00:17:37,360
+on the pleistocene section
+
+457
+00:17:34,640 --> 00:17:39,280
+from this cruise to sort of work out
+
+458
+00:17:37,360 --> 00:17:41,679
+what's been happening recently
+
+459
+00:17:39,280 --> 00:17:42,320
+and so my main aims are sort of to
+
+460
+00:17:41,679 --> 00:17:44,880
+refine
+
+461
+00:17:42,320 --> 00:17:46,000
+the magnesium stratigraphic framework
+
+462
+00:17:44,880 --> 00:17:49,039
+that was sort of collected
+
+463
+00:17:46,000 --> 00:17:51,360
+on the ship and try and produce an rpi
+
+464
+00:17:49,039 --> 00:17:53,120
+record because as we sort of
+
+465
+00:17:51,360 --> 00:17:55,520
+look in the southern ocean there aren't
+
+466
+00:17:53,120 --> 00:17:57,840
+very many paleo intensity records from
+
+467
+00:17:55,520 --> 00:18:00,000
+new channels and sediment cores
+
+468
+00:17:57,840 --> 00:18:01,280
+that sort of exist and if they do exist
+
+469
+00:18:00,000 --> 00:18:03,120
+they're quite short
+
+470
+00:18:01,280 --> 00:18:05,160
+and so trying to work out whether this
+
+471
+00:18:03,120 --> 00:18:08,080
+is possible here it's like you
+
+472
+00:18:05,160 --> 00:18:10,640
+1533 and then to look at
+
+473
+00:18:08,080 --> 00:18:11,120
+the environmental magnetism of this site
+
+474
+00:18:10,640 --> 00:18:13,120
+and
+
+475
+00:18:11,120 --> 00:18:15,039
+all this together should be able to tell
+
+476
+00:18:13,120 --> 00:18:16,480
+us sort of a bit more about what was the
+
+477
+00:18:15,039 --> 00:18:19,200
+paleo climate like
+
+478
+00:18:16,480 --> 00:18:21,440
+at fight us 1533 sort of during the
+
+479
+00:18:19,200 --> 00:18:24,720
+pleistocene
+
+480
+00:18:21,440 --> 00:18:27,760
+so my results so far are pretty good
+
+481
+00:18:24,720 --> 00:18:28,799
+and we've refined the magnetographic
+
+482
+00:18:27,760 --> 00:18:31,360
+framework
+
+483
+00:18:28,799 --> 00:18:32,320
+and we have all the major polarity
+
+484
+00:18:31,360 --> 00:18:33,919
+reversals
+
+485
+00:18:32,320 --> 00:18:35,919
+so for the last two and a half million
+
+486
+00:18:33,919 --> 00:18:37,760
+years and and
+
+487
+00:18:35,919 --> 00:18:40,000
+on my poster you'll see sort of that
+
+488
+00:18:37,760 --> 00:18:41,520
+there's uh highlighted
+
+489
+00:18:40,000 --> 00:18:43,120
+excursions that have been picked
+
+490
+00:18:41,520 --> 00:18:45,600
+depicted from a
+
+491
+00:18:43,120 --> 00:18:46,559
+deconvolution of the record that i've
+
+492
+00:18:45,600 --> 00:18:50,160
+got
+
+493
+00:18:46,559 --> 00:18:51,200
+and i've also got a really good sort of
+
+494
+00:18:50,160 --> 00:18:53,360
+start
+
+495
+00:18:51,200 --> 00:18:54,720
+to the relative paleo intensity record
+
+496
+00:18:53,360 --> 00:18:56,240
+so this is sort of highlighted here in
+
+497
+00:18:54,720 --> 00:18:58,799
+this figure and
+
+498
+00:18:56,240 --> 00:19:00,799
+so this is my paleo intensity and it
+
+499
+00:18:58,799 --> 00:19:03,520
+shows really good correlation
+
+500
+00:19:00,799 --> 00:19:04,720
+to the piso 1500 stack which is a
+
+501
+00:19:03,520 --> 00:19:07,679
+reference stack
+
+502
+00:19:04,720 --> 00:19:09,679
+that sort of is sort of from 12 chords
+
+503
+00:19:07,679 --> 00:19:10,559
+from across the world that's correlated
+
+504
+00:19:09,679 --> 00:19:13,760
+to
+
+505
+00:19:10,559 --> 00:19:14,320
+and the oxygen 18 record so this is this
+
+506
+00:19:13,760 --> 00:19:17,120
+dark
+
+507
+00:19:14,320 --> 00:19:18,160
+green line on this graph yeah but
+
+508
+00:19:17,120 --> 00:19:21,440
+unfortunately
+
+509
+00:19:18,160 --> 00:19:23,200
+so it's only 1.5 million years long
+
+510
+00:19:21,440 --> 00:19:24,480
+and my record extends further than that
+
+511
+00:19:23,200 --> 00:19:27,520
+so this
+
+512
+00:19:24,480 --> 00:19:28,320
+stack here is an equatorial pacific
+
+513
+00:19:27,520 --> 00:19:30,720
+stack
+
+514
+00:19:28,320 --> 00:19:31,600
+which as you can see from my gray bars
+
+515
+00:19:30,720 --> 00:19:34,960
+which correlate
+
+516
+00:19:31,600 --> 00:19:36,799
+down to the paleo intensity they sort of
+
+517
+00:19:34,960 --> 00:19:38,720
+vanish after this point
+
+518
+00:19:36,799 --> 00:19:40,720
+and this could be either because the
+
+519
+00:19:38,720 --> 00:19:42,640
+pacific stack that i've chosen to use
+
+520
+00:19:40,720 --> 00:19:44,799
+isn't a good one so i need to find a
+
+521
+00:19:42,640 --> 00:19:46,880
+better stack to compare to
+
+522
+00:19:44,799 --> 00:19:49,360
+and or it could be some change in
+
+523
+00:19:46,880 --> 00:19:52,720
+behavior sort of later on here
+
+524
+00:19:49,360 --> 00:19:53,840
+so these orange bars are major polarity
+
+525
+00:19:52,720 --> 00:19:56,880
+reversals that
+
+526
+00:19:53,840 --> 00:19:59,600
+are shown better on the full poster
+
+527
+00:19:56,880 --> 00:20:01,600
+and so here is the bruins cron this is
+
+528
+00:19:59,600 --> 00:20:04,240
+the gauss matiama boundary
+
+529
+00:20:01,600 --> 00:20:05,039
+and so there may be some sort of change
+
+530
+00:20:04,240 --> 00:20:06,640
+here
+
+531
+00:20:05,039 --> 00:20:08,480
+and i should point out this gap in the
+
+532
+00:20:06,640 --> 00:20:09,280
+record is a u channel that was not
+
+533
+00:20:08,480 --> 00:20:11,360
+sampled
+
+534
+00:20:09,280 --> 00:20:13,840
+with the rest of the new channels and
+
+535
+00:20:11,360 --> 00:20:16,240
+but we will should receive that later on
+
+536
+00:20:13,840 --> 00:20:18,159
+uh sort of to fill in that gap and work
+
+537
+00:20:16,240 --> 00:20:19,120
+out what's happening in that space as
+
+538
+00:20:18,159 --> 00:20:22,320
+well
+
+539
+00:20:19,120 --> 00:20:23,120
+and so beyond that for future work uh
+
+540
+00:20:22,320 --> 00:20:24,559
+i'm gonna
+
+541
+00:20:23,120 --> 00:20:26,240
+validate those excursions that i
+
+542
+00:20:24,559 --> 00:20:27,760
+mentioned to sort of work out
+
+543
+00:20:26,240 --> 00:20:30,480
+whether they're true whether they're to
+
+544
+00:20:27,760 --> 00:20:31,600
+do with changes in magnetic grain size
+
+545
+00:20:30,480 --> 00:20:34,159
+or mineralogy
+
+546
+00:20:31,600 --> 00:20:35,679
+and sort of deeper look into the core
+
+547
+00:20:34,159 --> 00:20:36,799
+descriptions to see whether there's a
+
+548
+00:20:35,679 --> 00:20:39,760
+physical
+
+549
+00:20:36,799 --> 00:20:40,720
+visible reason for those excursions and
+
+550
+00:20:39,760 --> 00:20:43,200
+and then if they are
+
+551
+00:20:40,720 --> 00:20:44,960
+true excursions there are quite a lot of
+
+552
+00:20:43,200 --> 00:20:46,880
+them in the bruins crown which can help
+
+553
+00:20:44,960 --> 00:20:49,679
+tie down the age model better
+
+554
+00:20:46,880 --> 00:20:50,480
+for the younger section of this record
+
+555
+00:20:49,679 --> 00:20:52,880
+and then i'm going to
+
+556
+00:20:50,480 --> 00:20:55,120
+plan to do sort of rock rock magnetic
+
+557
+00:20:52,880 --> 00:20:57,520
+experiments too to sort of
+
+558
+00:20:55,120 --> 00:20:58,240
+fill it off fill up sort of the rest of
+
+559
+00:20:57,520 --> 00:20:59,520
+the
+
+560
+00:20:58,240 --> 00:21:01,679
+information to work out what is
+
+561
+00:20:59,520 --> 00:21:03,120
+recording everything
+
+562
+00:21:01,679 --> 00:21:05,520
+and then see sort of how does that
+
+563
+00:21:03,120 --> 00:21:06,960
+change environmentally in the anderson
+
+564
+00:21:05,520 --> 00:21:08,960
+sea
+
+565
+00:21:06,960 --> 00:21:11,919
+yeah come to my poster and hopefully i
+
+566
+00:21:08,960 --> 00:21:11,919
+will do better there
+
+567
+00:21:12,799 --> 00:21:16,320
+thank you very much i think there's one
+
+568
+00:21:15,200 --> 00:21:18,960
+more
+
+569
+00:21:16,320 --> 00:21:18,960
+from ben
+
+570
+00:21:22,000 --> 00:21:26,480
+yeah i'm just trying to show you
+
+571
+00:21:28,840 --> 00:21:31,840
+okay
+
+572
+00:21:33,520 --> 00:21:37,919
+cool yeah so in this we've been looking
+
+573
+00:21:37,120 --> 00:21:40,799
+at um
+
+574
+00:21:37,919 --> 00:21:42,880
+paleocircular variation off to the pcrs
+
+575
+00:21:40,799 --> 00:21:45,440
+and so compile the triassic
+
+576
+00:21:42,880 --> 00:21:47,120
+direction bgp database and incorporate
+
+577
+00:21:45,440 --> 00:21:50,320
+this into a longer time interval which
+
+578
+00:21:47,120 --> 00:21:52,960
+we're calling the pctrx and
+
+579
+00:21:50,320 --> 00:21:54,320
+most other things um we found behavior
+
+580
+00:21:52,960 --> 00:21:56,080
+in this time to be
+
+581
+00:21:54,320 --> 00:21:57,600
+very similar to that observed in the pre
+
+582
+00:21:56,080 --> 00:21:59,520
+cns which includes drastic high
+
+583
+00:21:57,600 --> 00:22:02,480
+productivity
+
+584
+00:21:59,520 --> 00:22:04,240
+so there's a bit of background uh psb is
+
+585
+00:22:02,480 --> 00:22:05,760
+commonly studied as vgp scatter
+
+586
+00:22:04,240 --> 00:22:08,080
+and this relationship's often expressed
+
+587
+00:22:05,760 --> 00:22:10,480
+formal g which is defined by
+
+588
+00:22:08,080 --> 00:22:11,120
+coefficients a and b which given it in
+
+589
+00:22:10,480 --> 00:22:14,320
+this
+
+590
+00:22:11,120 --> 00:22:16,480
+equation um on several studies
+
+591
+00:22:14,320 --> 00:22:17,760
+of um listening to intervals since the
+
+592
+00:22:16,480 --> 00:22:19,520
+beginning of the pcrs
+
+593
+00:22:17,760 --> 00:22:21,120
+however most of the trials is not
+
+594
+00:22:19,520 --> 00:22:23,280
+included in the east
+
+595
+00:22:21,120 --> 00:22:25,919
+and so these studies looking at normally
+
+596
+00:22:23,280 --> 00:22:27,919
+a relationship between psp behavior and
+
+597
+00:22:25,919 --> 00:22:30,080
+average reversal frequency
+
+598
+00:22:27,919 --> 00:22:31,679
+whether quantifying psv with va ratio
+
+599
+00:22:30,080 --> 00:22:32,960
+from model g
+
+600
+00:22:31,679 --> 00:22:34,880
+um however like the nature of this
+
+601
+00:22:32,960 --> 00:22:36,240
+relationship is still unclear and so
+
+602
+00:22:34,880 --> 00:22:38,720
+this study is looking at what maybe
+
+603
+00:22:36,240 --> 00:22:41,600
+traffic psp behavior may be able to
+
+604
+00:22:38,720 --> 00:22:43,919
+tell us about this relationship and also
+
+605
+00:22:41,600 --> 00:22:46,320
+making use of a new idea that model ga
+
+606
+00:22:43,919 --> 00:22:47,840
+promiser may be able to provide
+
+607
+00:22:46,320 --> 00:22:50,240
+information regarding morphology of the
+
+608
+00:22:47,840 --> 00:22:54,559
+geomagnetic field
+
+609
+00:22:50,240 --> 00:22:56,720
+so as well as compiling pulse pcrs
+
+610
+00:22:54,559 --> 00:22:57,679
+database or compiled the new pcrs
+
+611
+00:22:56,720 --> 00:22:59,760
+database
+
+612
+00:22:57,679 --> 00:23:01,840
+just to allow for a direct comparison as
+
+613
+00:22:59,760 --> 00:23:03,520
+now uh both intervals will satisfy the
+
+614
+00:23:01,840 --> 00:23:05,919
+same selection criteria
+
+615
+00:23:03,520 --> 00:23:07,679
+we estimated a vgp scatter and the model
+
+616
+00:23:05,919 --> 00:23:09,360
+g coefficients for each time interval
+
+617
+00:23:07,679 --> 00:23:11,840
+and look to how the data selected
+
+618
+00:23:09,360 --> 00:23:12,480
+influence the observed dispersions so we
+
+619
+00:23:11,840 --> 00:23:14,880
+investigate
+
+620
+00:23:12,480 --> 00:23:16,640
+effects of serial correlation and
+
+621
+00:23:14,880 --> 00:23:18,000
+excluding direct data derived from great
+
+622
+00:23:16,640 --> 00:23:20,559
+circles
+
+623
+00:23:18,000 --> 00:23:22,000
+and on top of this we use some
+
+624
+00:23:20,559 --> 00:23:24,000
+additional selection criteria
+
+625
+00:23:22,000 --> 00:23:25,280
+to generate higher quality database and
+
+626
+00:23:24,000 --> 00:23:27,120
+then check the robustness of the
+
+627
+00:23:25,280 --> 00:23:28,960
+dispersions that we see
+
+628
+00:23:27,120 --> 00:23:30,159
+and finally our results were compared
+
+629
+00:23:28,960 --> 00:23:31,039
+with those from other published data
+
+630
+00:23:30,159 --> 00:23:34,320
+compilations
+
+631
+00:23:31,039 --> 00:23:37,760
+representing intervals since the pcrs
+
+632
+00:23:34,320 --> 00:23:39,440
+and so uh in the results what we see
+
+633
+00:23:37,760 --> 00:23:41,840
+is a little evidence of a relationship
+
+634
+00:23:39,440 --> 00:23:44,159
+between vgp scatter and light choose
+
+635
+00:23:41,840 --> 00:23:45,919
+given in figure one and then yeah in
+
+636
+00:23:44,159 --> 00:23:46,640
+figure two we can see that the the pcrs
+
+637
+00:23:45,919 --> 00:23:48,159
+showed a strong
+
+638
+00:23:46,640 --> 00:23:50,400
+increase in scatter with latitude we've
+
+639
+00:23:48,159 --> 00:23:53,200
+got agreement with the model g fit
+
+640
+00:23:50,400 --> 00:23:54,720
+and incorporating the things like serial
+
+641
+00:23:53,200 --> 00:23:55,760
+correlation and great circle data had
+
+642
+00:23:54,720 --> 00:23:56,960
+little effect
+
+643
+00:23:55,760 --> 00:23:59,120
+so they weren't really taken into
+
+644
+00:23:56,960 --> 00:24:02,240
+consideration in the end and then
+
+645
+00:23:59,120 --> 00:24:03,679
+um yeah this was also true when using
+
+646
+00:24:02,240 --> 00:24:05,360
+the higher quality data so the overall
+
+647
+00:24:03,679 --> 00:24:07,520
+dispersion was pretty much the same
+
+648
+00:24:05,360 --> 00:24:10,000
+suggesting the dispersions to be robust
+
+649
+00:24:07,520 --> 00:24:11,840
+features of each time interval
+
+650
+00:24:10,000 --> 00:24:14,159
+and then when compared with other time
+
+651
+00:24:11,840 --> 00:24:16,240
+intervals since the pulse pcrs
+
+652
+00:24:14,159 --> 00:24:17,360
+we see the vgp dispersions very similar
+
+653
+00:24:16,240 --> 00:24:20,000
+to that observed
+
+654
+00:24:17,360 --> 00:24:21,919
+in the pre-cns this is demonstrated by
+
+655
+00:24:20,000 --> 00:24:22,799
+the the similarity in the model g shape
+
+656
+00:24:21,919 --> 00:24:25,840
+parameters
+
+657
+00:24:22,799 --> 00:24:28,080
+and in figure 3 you can see the nearly
+
+658
+00:24:25,840 --> 00:24:29,600
+identical ba ratios
+
+659
+00:24:28,080 --> 00:24:31,200
+and this type of behavior this
+
+660
+00:24:29,600 --> 00:24:32,400
+latitudinal invariance is traditionally
+
+661
+00:24:31,200 --> 00:24:33,760
+thought to represent times of high
+
+662
+00:24:32,400 --> 00:24:35,279
+reversal frequency
+
+663
+00:24:33,760 --> 00:24:37,520
+such as the drastic hyperactivity and
+
+664
+00:24:35,279 --> 00:24:38,640
+the pre-cns but here we see there's very
+
+665
+00:24:37,520 --> 00:24:39,919
+consistent behavior
+
+666
+00:24:38,640 --> 00:24:41,600
+at the time interval between the two
+
+667
+00:24:39,919 --> 00:24:42,799
+super crowns despite quite a large
+
+668
+00:24:41,600 --> 00:24:44,880
+variation
+
+669
+00:24:42,799 --> 00:24:46,400
+in a point reversal frequency so part
+
+670
+00:24:44,880 --> 00:24:47,760
+suggesting that uh
+
+671
+00:24:46,400 --> 00:24:50,000
+any relationship between the vessel
+
+672
+00:24:47,760 --> 00:24:53,120
+frequency and psp more complex
+
+673
+00:24:50,000 --> 00:24:54,960
+um maybe future studies should uh treat
+
+674
+00:24:53,120 --> 00:24:57,520
+this as one time interval
+
+675
+00:24:54,960 --> 00:24:58,720
+and then also like in the the recent
+
+676
+00:24:57,520 --> 00:25:00,320
+paper from bigger than others at the
+
+677
+00:24:58,720 --> 00:25:01,840
+back end last year where
+
+678
+00:25:00,320 --> 00:25:03,919
+we find share promises don't do not
+
+679
+00:25:01,840 --> 00:25:05,360
+necessarily call vary and so as a result
+
+680
+00:25:03,919 --> 00:25:06,960
+maybe the traditional interpretation
+
+681
+00:25:05,360 --> 00:25:09,120
+appears to be outdated
+
+682
+00:25:06,960 --> 00:25:11,440
+so from this study as long as possible
+
+683
+00:25:09,120 --> 00:25:13,200
+the super crowns occur when a is lower
+
+684
+00:25:11,440 --> 00:25:14,240
+and so actual dipole dominance is
+
+685
+00:25:13,200 --> 00:25:15,679
+greater
+
+686
+00:25:14,240 --> 00:25:17,840
+which is the field morphology was talked
+
+687
+00:25:15,679 --> 00:25:20,240
+about earlier and um
+
+688
+00:25:17,840 --> 00:25:21,600
+however the cns is only slightly but not
+
+689
+00:25:20,240 --> 00:25:23,360
+statistically distinct from time of
+
+690
+00:25:21,600 --> 00:25:24,240
+reversals which from this would make it
+
+691
+00:25:23,360 --> 00:25:26,799
+difficult to
+
+692
+00:25:24,240 --> 00:25:28,320
+to say for certain and then if you were
+
+693
+00:25:26,799 --> 00:25:29,279
+to look for like a new meaning behind
+
+694
+00:25:28,320 --> 00:25:30,960
+model g
+
+695
+00:25:29,279 --> 00:25:32,799
+b parameter perhaps then that could be
+
+696
+00:25:30,960 --> 00:25:33,679
+related to field intensity or average
+
+697
+00:25:32,799 --> 00:25:35,840
+vdm
+
+698
+00:25:33,679 --> 00:25:38,000
+where you see the lower values um in
+
+699
+00:25:35,840 --> 00:25:39,679
+between the two super crons could maybe
+
+700
+00:25:38,000 --> 00:25:41,919
+roughly agree with an extended metastory
+
+701
+00:25:39,679 --> 00:25:44,400
+dipole however we need a lot more paleo
+
+702
+00:25:41,919 --> 00:25:46,159
+intensity data to look into that
+
+703
+00:25:44,400 --> 00:25:48,240
+and then finally it would seem that the
+
+704
+00:25:46,159 --> 00:25:49,840
+pcrs is a unique time interval
+
+705
+00:25:48,240 --> 00:25:52,159
+um or at least the last 300 million
+
+706
+00:25:49,840 --> 00:25:54,720
+years or so regarding psp behavior
+
+707
+00:25:52,159 --> 00:25:56,159
+uh estimates of the model g promoters
+
+708
+00:25:54,720 --> 00:25:58,400
+are very different and statistically
+
+709
+00:25:56,159 --> 00:26:00,159
+distinct from terms of reversals
+
+710
+00:25:58,400 --> 00:26:02,000
+and using the polar associated with
+
+711
+00:26:00,159 --> 00:26:04,480
+model g a promo
+
+712
+00:26:02,000 --> 00:26:05,600
+was just a time of like unique um axial
+
+713
+00:26:04,480 --> 00:26:07,200
+dipole dominance
+
+714
+00:26:05,600 --> 00:26:09,039
+so maybe this could be responsible for
+
+715
+00:26:07,200 --> 00:26:10,000
+its extended duration compared to the
+
+716
+00:26:09,039 --> 00:26:12,400
+cns or
+
+717
+00:26:10,000 --> 00:26:13,679
+maybe an artifact for the long length of
+
+718
+00:26:12,400 --> 00:26:16,320
+the super chrome
+
+719
+00:26:13,679 --> 00:26:19,919
+so yeah if anyone's interested come and
+
+720
+00:26:16,320 --> 00:26:19,919
+find me
+

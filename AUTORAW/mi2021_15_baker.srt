@@ -1,0 +1,2448 @@
+1
+00:00:00,000 --> 00:00:06,160
+come now to the law session of
+
+2
+00:00:03,040 --> 00:00:08,000
+this conference uh
+
+3
+00:00:06,160 --> 00:00:09,679
+titled new developments in magnetic
+
+4
+00:00:08,000 --> 00:00:12,960
+theory and techniques
+
+5
+00:00:09,679 --> 00:00:16,400
+and our four first talk is by evelyn
+
+6
+00:00:12,960 --> 00:00:18,080
+baker at all title uh prices based model
+
+7
+00:00:16,400 --> 00:00:19,600
+on chemical remnant magnetization
+
+8
+00:00:18,080 --> 00:00:21,760
+equities acquisition
+
+9
+00:00:19,600 --> 00:00:23,039
+and comparisons to thermo remnant
+
+10
+00:00:21,760 --> 00:00:26,560
+magnetizations
+
+11
+00:00:23,039 --> 00:00:26,560
+so you can take it away and share your
+
+12
+00:00:28,840 --> 00:00:33,200
+scheme
+
+13
+00:00:30,080 --> 00:00:36,559
+everyone see my screen yes
+
+14
+00:00:33,200 --> 00:00:38,320
+okay cool um so yeah i'm evie um
+
+15
+00:00:36,559 --> 00:00:40,160
+and we've been modeling chemical
+
+16
+00:00:38,320 --> 00:00:41,280
+remnantization acquisition by using
+
+17
+00:00:40,160 --> 00:00:43,120
+plastic theory
+
+18
+00:00:41,280 --> 00:00:44,960
+um along with my supervisors and we've
+
+19
+00:00:43,120 --> 00:00:47,600
+also been making some comparisons to
+
+20
+00:00:44,960 --> 00:00:51,360
+thermal remnant magnetizations
+
+21
+00:00:47,600 --> 00:00:54,239
+so there we go so first i'm just going
+
+22
+00:00:51,360 --> 00:00:56,960
+to talk briefly about um what a crm is
+
+23
+00:00:54,239 --> 00:00:58,079
+um just kind of to remind everyone so a
+
+24
+00:00:56,960 --> 00:01:00,480
+com is recorded
+
+25
+00:00:58,079 --> 00:01:01,520
+when magnetic minerals grow through the
+
+26
+00:01:00,480 --> 00:01:03,199
+blocking volume
+
+27
+00:01:01,520 --> 00:01:05,040
+and then they record the earth's field
+
+28
+00:01:03,199 --> 00:01:06,560
+um as they go through the bottom volume
+
+29
+00:01:05,040 --> 00:01:08,240
+and can no longer respond to changes in
+
+30
+00:01:06,560 --> 00:01:10,000
+the magnetic field
+
+31
+00:01:08,240 --> 00:01:11,360
+um and this can occur this occurs below
+
+32
+00:01:10,000 --> 00:01:14,640
+the kiwi temperature
+
+33
+00:01:11,360 --> 00:01:17,200
+so there are two main categories of crms
+
+34
+00:01:14,640 --> 00:01:17,759
+these are a growth crm so this occurs
+
+35
+00:01:17,200 --> 00:01:19,920
+when
+
+36
+00:01:17,759 --> 00:01:21,840
+magnetic minerals grow in a non-magnetic
+
+37
+00:01:19,920 --> 00:01:23,840
+matrix
+
+38
+00:01:21,840 --> 00:01:26,320
+so examples of this are hematite
+
+39
+00:01:23,840 --> 00:01:27,360
+precipitation in red beds and also you
+
+40
+00:01:26,320 --> 00:01:29,840
+can see here in this
+
+41
+00:01:27,360 --> 00:01:31,600
+um backscatter electron image that um
+
+42
+00:01:29,840 --> 00:01:33,119
+this is for a marine sediment
+
+43
+00:01:31,600 --> 00:01:35,520
+you can see that you have these pyrite
+
+44
+00:01:33,119 --> 00:01:36,880
+um kind of fanboys here marked by the p
+
+45
+00:01:35,520 --> 00:01:39,119
+and you can see that greg eye is
+
+46
+00:01:36,880 --> 00:01:42,240
+precipitated here marked by the g
+
+47
+00:01:39,119 --> 00:01:43,759
+um in between these these pyrite fanboys
+
+48
+00:01:42,240 --> 00:01:44,720
+which has shown that it's precipitated
+
+49
+00:01:43,759 --> 00:01:47,119
+orthogenically
+
+50
+00:01:44,720 --> 00:01:48,079
+and is therefore recordedly crm um as it
+
+51
+00:01:47,119 --> 00:01:50,159
+grew
+
+52
+00:01:48,079 --> 00:01:52,079
+and the second type of crms is an
+
+53
+00:01:50,159 --> 00:01:54,960
+alteration crm so these occur when
+
+54
+00:01:52,079 --> 00:01:56,719
+minerals alter to form magnetic minerals
+
+55
+00:01:54,960 --> 00:01:58,640
+these can be more complex because if you
+
+56
+00:01:56,719 --> 00:01:59,520
+have a magnetic precursor the field
+
+57
+00:01:58,640 --> 00:02:01,840
+that's recorded
+
+58
+00:01:59,520 --> 00:02:03,600
+is a combination of the earth's field
+
+59
+00:02:01,840 --> 00:02:05,119
+and also fields associated with that
+
+60
+00:02:03,600 --> 00:02:08,239
+primary magnetic phase
+
+61
+00:02:05,119 --> 00:02:10,239
+so things like exchange interactions and
+
+62
+00:02:08,239 --> 00:02:10,879
+crms occur in almost all environments on
+
+63
+00:02:10,239 --> 00:02:13,599
+earth
+
+64
+00:02:10,879 --> 00:02:14,800
+and in the solar system and so it's
+
+65
+00:02:13,599 --> 00:02:16,800
+important to kind of understand their
+
+66
+00:02:14,800 --> 00:02:17,599
+properties and what sort of remnants
+
+67
+00:02:16,800 --> 00:02:19,920
+they have
+
+68
+00:02:17,599 --> 00:02:21,599
+and um you know if there's a crm
+
+69
+00:02:19,920 --> 00:02:22,959
+component to our trms how is that
+
+70
+00:02:21,599 --> 00:02:23,760
+affecting paid intensity estimates
+
+71
+00:02:22,959 --> 00:02:26,080
+that's why we're trying to
+
+72
+00:02:23,760 --> 00:02:26,959
+learn more about them so now i'm going
+
+73
+00:02:26,080 --> 00:02:29,040
+to talk about
+
+74
+00:02:26,959 --> 00:02:30,239
+kind of what works previously been done
+
+75
+00:02:29,040 --> 00:02:30,959
+because there's been a lot of study on
+
+76
+00:02:30,239 --> 00:02:34,080
+crms
+
+77
+00:02:30,959 --> 00:02:35,680
+um today so the studies previously have
+
+78
+00:02:34,080 --> 00:02:37,200
+come from a theoretical or an
+
+79
+00:02:35,680 --> 00:02:39,920
+experimental perspective
+
+80
+00:02:37,200 --> 00:02:41,599
+so from the theoretical angle um people
+
+81
+00:02:39,920 --> 00:02:44,080
+have modeled
+
+82
+00:02:41,599 --> 00:02:45,280
+or made predictions on comm behavior by
+
+83
+00:02:44,080 --> 00:02:48,239
+using the al's theory for
+
+84
+00:02:45,280 --> 00:02:49,920
+non-interacting single-domain grains
+
+85
+00:02:48,239 --> 00:02:51,760
+and made predictions for example about
+
+86
+00:02:49,920 --> 00:02:53,440
+the serum intensity um
+
+87
+00:02:51,760 --> 00:02:55,519
+and the unblocking spectra and some
+
+88
+00:02:53,440 --> 00:02:56,959
+comparisons to trms
+
+89
+00:02:55,519 --> 00:02:58,560
+and other other studies have used
+
+90
+00:02:56,959 --> 00:03:00,239
+modelling of green growth crms so
+
+91
+00:02:58,560 --> 00:03:01,680
+there's been monte carlo simulations
+
+92
+00:03:00,239 --> 00:03:03,680
+which have included interactions
+
+93
+00:03:01,680 --> 00:03:05,360
+um and they've looked at the com
+
+94
+00:03:03,680 --> 00:03:07,920
+intensity and also again the the effect
+
+95
+00:03:05,360 --> 00:03:10,000
+on blocking spectra at high temperatures
+
+96
+00:03:07,920 --> 00:03:11,120
+um and alongside this theoretical
+
+97
+00:03:10,000 --> 00:03:13,360
+studies there's been
+
+98
+00:03:11,120 --> 00:03:15,519
+a lot of experimental studies and these
+
+99
+00:03:13,360 --> 00:03:18,239
+have included a wide range of minerals
+
+100
+00:03:15,519 --> 00:03:20,080
+and uh looking at lots of different um
+
+101
+00:03:18,239 --> 00:03:22,400
+types of crm acquisition so grain growth
+
+102
+00:03:20,080 --> 00:03:24,080
+com and onto the alteration
+
+103
+00:03:22,400 --> 00:03:26,720
+so in this figure here in the middle
+
+104
+00:03:24,080 --> 00:03:29,360
+graph you can see that the cm intensity
+
+105
+00:03:26,720 --> 00:03:31,519
+um you can see how the serum intensity
+
+106
+00:03:29,360 --> 00:03:34,080
+varies with changes in the applied field
+
+107
+00:03:31,519 --> 00:03:36,239
+and these are for experimental um
+
+108
+00:03:34,080 --> 00:03:39,120
+studies looking at hematite so about
+
+109
+00:03:36,239 --> 00:03:41,519
+90 degrees they precipitate hematite um
+
+110
+00:03:39,120 --> 00:03:42,959
+either in like a non-magnetic matrix or
+
+111
+00:03:41,519 --> 00:03:44,560
+or from the alteration of non-magnetic
+
+112
+00:03:42,959 --> 00:03:45,920
+mineral and you can see that you get
+
+113
+00:03:44,560 --> 00:03:48,000
+this linear relationship between the
+
+114
+00:03:45,920 --> 00:03:49,519
+comm intensity and the applied field
+
+115
+00:03:48,000 --> 00:03:51,440
+which is kind of what we'd expect which
+
+116
+00:03:49,519 --> 00:03:53,120
+shows that you know cms
+
+117
+00:03:51,440 --> 00:03:56,319
+should be able to be modeled or looked
+
+118
+00:03:53,120 --> 00:03:58,319
+at so what are we doing so for our study
+
+119
+00:03:56,319 --> 00:04:00,000
+we've developed a or we're developing a
+
+120
+00:03:58,319 --> 00:04:01,920
+model of cm acquisition for
+
+121
+00:04:00,000 --> 00:04:04,239
+interacting single domain grains and
+
+122
+00:04:01,920 --> 00:04:05,599
+we're doing this in physics space
+
+123
+00:04:04,239 --> 00:04:07,519
+and what this allows us to do is it
+
+124
+00:04:05,599 --> 00:04:08,959
+allows us to use the thought diagrams as
+
+125
+00:04:07,519 --> 00:04:10,720
+input for the for the model
+
+126
+00:04:08,959 --> 00:04:14,000
+which allows us to model crms for
+
+127
+00:04:10,720 --> 00:04:15,680
+specific samples um
+
+128
+00:04:14,000 --> 00:04:17,280
+so firstly i'm gonna try and give you a
+
+129
+00:04:15,680 --> 00:04:19,440
+brief overview of
+
+130
+00:04:17,280 --> 00:04:21,440
+the um thermally activated present model
+
+131
+00:04:19,440 --> 00:04:22,960
+for randomly orientated single domain
+
+132
+00:04:21,440 --> 00:04:25,199
+grains which we use
+
+133
+00:04:22,960 --> 00:04:27,680
+so prysic theory is a statistical
+
+134
+00:04:25,199 --> 00:04:29,600
+approach to modelling magnetic processes
+
+135
+00:04:27,680 --> 00:04:31,040
+so instead of trying to model each
+
+136
+00:04:29,600 --> 00:04:32,880
+visual grain in the sample
+
+137
+00:04:31,040 --> 00:04:34,720
+we're trying to model the statistical
+
+138
+00:04:32,880 --> 00:04:35,280
+behavior or the behavior of the magnetic
+
+139
+00:04:34,720 --> 00:04:38,240
+assemblies
+
+140
+00:04:35,280 --> 00:04:39,199
+as a whole um and we do this by by using
+
+141
+00:04:38,240 --> 00:04:42,240
+isaac theory
+
+142
+00:04:39,199 --> 00:04:44,080
+oh i'll go back again so if you see here
+
+143
+00:04:42,240 --> 00:04:45,840
+um on the right hand side this is kind
+
+144
+00:04:44,080 --> 00:04:47,040
+of plasic space and you can see that
+
+145
+00:04:45,840 --> 00:04:50,000
+it's split into
+
+146
+00:04:47,040 --> 00:04:51,840
+four regions or three regions so you've
+
+147
+00:04:50,000 --> 00:04:53,919
+got the field blocked regions and the
+
+148
+00:04:51,840 --> 00:04:56,479
+super paramagnetic regions and in in
+
+149
+00:04:53,919 --> 00:04:57,199
+these zones if a particle or a histogram
+
+150
+00:04:56,479 --> 00:04:58,560
+lies
+
+151
+00:04:57,199 --> 00:04:59,680
+in this part of the plastic diagram it
+
+152
+00:04:58,560 --> 00:05:01,199
+won't be recording a remnant
+
+153
+00:04:59,680 --> 00:05:03,039
+magnetization
+
+154
+00:05:01,199 --> 00:05:04,800
+and then we have this green region which
+
+155
+00:05:03,039 --> 00:05:05,600
+is a thermally blocked region and this
+
+156
+00:05:04,800 --> 00:05:07,840
+is where
+
+157
+00:05:05,600 --> 00:05:09,039
+um particles or histones which lie in
+
+158
+00:05:07,840 --> 00:05:10,960
+this zone will be
+
+159
+00:05:09,039 --> 00:05:13,199
+um recording or will have acquired and
+
+160
+00:05:10,960 --> 00:05:16,240
+be recording and contributing to the
+
+161
+00:05:13,199 --> 00:05:18,400
+to the magnetic remnants so
+
+162
+00:05:16,240 --> 00:05:19,360
+these uh thermal critical curve shown in
+
+163
+00:05:18,400 --> 00:05:21,360
+black and
+
+164
+00:05:19,360 --> 00:05:22,479
+and the price distribution here vary
+
+165
+00:05:21,360 --> 00:05:24,560
+with time and
+
+166
+00:05:22,479 --> 00:05:26,560
+thermal effect so these move during
+
+167
+00:05:24,560 --> 00:05:28,080
+monetization processes
+
+168
+00:05:26,560 --> 00:05:29,840
+um and we can kind of model how these
+
+169
+00:05:28,080 --> 00:05:31,039
+change relative to each other to to see
+
+170
+00:05:29,840 --> 00:05:32,240
+kind of what monetization we're
+
+171
+00:05:31,039 --> 00:05:34,800
+acquiring
+
+172
+00:05:32,240 --> 00:05:36,639
+so um the way we populate pricing space
+
+173
+00:05:34,800 --> 00:05:38,560
+is we use a thought diagram so
+
+174
+00:05:36,639 --> 00:05:40,000
+if you use a plastic diagram which is
+
+175
+00:05:38,560 --> 00:05:42,080
+kind of similar to a fort diagram but
+
+176
+00:05:40,000 --> 00:05:43,360
+symmetric concussivity axis
+
+177
+00:05:42,080 --> 00:05:45,520
+if you you can see how it kind of
+
+178
+00:05:43,360 --> 00:05:48,080
+rotates 45 degrees and can be used to
+
+179
+00:05:45,520 --> 00:05:49,919
+populate plastic space here
+
+180
+00:05:48,080 --> 00:05:51,600
+um and then what this allows us to do is
+
+181
+00:05:49,919 --> 00:05:53,039
+it allows us to populate isaac space the
+
+182
+00:05:51,600 --> 00:05:55,360
+large number of historians and then we
+
+183
+00:05:53,039 --> 00:05:58,560
+can track how these historians behave
+
+184
+00:05:55,360 --> 00:06:00,319
+during crm acquisition for example um
+
+185
+00:05:58,560 --> 00:06:02,560
+relative to these barriers and then how
+
+186
+00:06:00,319 --> 00:06:04,639
+the monetization gets acquired
+
+187
+00:06:02,560 --> 00:06:06,000
+so each historian has its own thermal
+
+188
+00:06:04,639 --> 00:06:06,639
+critical barriers which evolve at the
+
+189
+00:06:06,000 --> 00:06:08,479
+time
+
+190
+00:06:06,639 --> 00:06:09,919
+which is worth noting and depending on
+
+191
+00:06:08,479 --> 00:06:11,120
+when they cross depends on the alignment
+
+192
+00:06:09,919 --> 00:06:12,560
+between the earth's feet or the
+
+193
+00:06:11,120 --> 00:06:14,080
+magnetization on the field
+
+194
+00:06:12,560 --> 00:06:16,880
+which affects the the mounted of the
+
+195
+00:06:14,080 --> 00:06:18,160
+remnants um also another thing to note
+
+196
+00:06:16,880 --> 00:06:20,080
+uh the last thing i'm going to say about
+
+197
+00:06:18,160 --> 00:06:21,840
+a slide is that uh
+
+198
+00:06:20,080 --> 00:06:23,520
+the earth's field or the um applied
+
+199
+00:06:21,840 --> 00:06:25,120
+field shifts these this part and the
+
+200
+00:06:23,520 --> 00:06:28,160
+thermal critical barriers
+
+201
+00:06:25,120 --> 00:06:29,600
+as you can see here by this ha um and
+
+202
+00:06:28,160 --> 00:06:31,039
+kind of in nature this is actually a
+
+203
+00:06:29,600 --> 00:06:32,560
+very small bias but i've just kind of
+
+204
+00:06:31,039 --> 00:06:34,160
+exaggerated it for this for the sake of
+
+205
+00:06:32,560 --> 00:06:35,919
+this schematic
+
+206
+00:06:34,160 --> 00:06:38,240
+so now i'm going to talk about how we
+
+207
+00:06:35,919 --> 00:06:38,960
+can use this model to look at grain
+
+208
+00:06:38,240 --> 00:06:42,000
+growth cm
+
+209
+00:06:38,960 --> 00:06:42,639
+acquisition so the start time um of com
+
+210
+00:06:42,000 --> 00:06:44,800
+acquisition
+
+211
+00:06:42,639 --> 00:06:46,080
+is when the particles are very small and
+
+212
+00:06:44,800 --> 00:06:47,600
+you can see that most of them
+
+213
+00:06:46,080 --> 00:06:49,360
+here's the price distribution most of
+
+214
+00:06:47,600 --> 00:06:51,120
+the histones are lying within the
+
+215
+00:06:49,360 --> 00:06:52,479
+superpower magnetic region
+
+216
+00:06:51,120 --> 00:06:54,639
+therefore they're not recording your
+
+217
+00:06:52,479 --> 00:06:57,199
+magnetic remnants
+
+218
+00:06:54,639 --> 00:06:58,479
+and then as the grains grow you can see
+
+219
+00:06:57,199 --> 00:07:00,400
+that the
+
+220
+00:06:58,479 --> 00:07:01,680
+the thermal critical curves are contract
+
+221
+00:07:00,400 --> 00:07:03,199
+contracting
+
+222
+00:07:01,680 --> 00:07:04,720
+and you can see that we're starting to
+
+223
+00:07:03,199 --> 00:07:06,160
+move into the remnants region and we're
+
+224
+00:07:04,720 --> 00:07:08,080
+starting to require a remnant
+
+225
+00:07:06,160 --> 00:07:09,759
+magnetization
+
+226
+00:07:08,080 --> 00:07:12,080
+and then at the final volume when the
+
+227
+00:07:09,759 --> 00:07:13,280
+grains are growing and when the histones
+
+228
+00:07:12,080 --> 00:07:14,319
+or you know when the
+
+229
+00:07:13,280 --> 00:07:16,319
+particles have reached their final
+
+230
+00:07:14,319 --> 00:07:18,240
+volume you can see that now the majority
+
+231
+00:07:16,319 --> 00:07:21,280
+of them lie within this remnants region
+
+232
+00:07:18,240 --> 00:07:23,120
+have acquired a magnetization and then
+
+233
+00:07:21,280 --> 00:07:25,039
+when we turn off the field this is our
+
+234
+00:07:23,120 --> 00:07:27,599
+final kind of magnetic remnants
+
+235
+00:07:25,039 --> 00:07:28,960
+you can see that it's um the
+
+236
+00:07:27,599 --> 00:07:30,720
+thermocritical curves are symmetrical
+
+237
+00:07:28,960 --> 00:07:32,880
+about the coercivity axis
+
+238
+00:07:30,720 --> 00:07:34,240
+and the histones which lie in this green
+
+239
+00:07:32,880 --> 00:07:36,319
+region are
+
+240
+00:07:34,240 --> 00:07:38,000
+contributing to the to the magnetic
+
+241
+00:07:36,319 --> 00:07:39,039
+remnants and if we sum up the
+
+242
+00:07:38,000 --> 00:07:42,800
+contribution of all of them
+
+243
+00:07:39,039 --> 00:07:44,479
+we get our crm so now i kind of talked
+
+244
+00:07:42,800 --> 00:07:45,520
+about how the model's built in fighting
+
+245
+00:07:44,479 --> 00:07:47,520
+space i'm gonna
+
+246
+00:07:45,520 --> 00:07:49,120
+kind of briefly um so an important part
+
+247
+00:07:47,520 --> 00:07:51,520
+of our model is the growth rate
+
+248
+00:07:49,120 --> 00:07:53,520
+so in a crm you know we're we're growing
+
+249
+00:07:51,520 --> 00:07:54,879
+our inner graduate crm that
+
+250
+00:07:53,520 --> 00:07:56,400
+the the particles are increasing in
+
+251
+00:07:54,879 --> 00:07:57,599
+volume kind of what rate should we be
+
+252
+00:07:56,400 --> 00:07:59,599
+building into our model
+
+253
+00:07:57,599 --> 00:08:02,160
+so we looked at the literature and a
+
+254
+00:07:59,599 --> 00:08:04,319
+recent study looking at pyrite fanboys
+
+255
+00:08:02,160 --> 00:08:05,360
+found that um they grew on the order of
+
+256
+00:08:04,319 --> 00:08:07,520
+order of days
+
+257
+00:08:05,360 --> 00:08:08,479
+obviously these are much larger than our
+
+258
+00:08:07,520 --> 00:08:11,280
+single domain
+
+259
+00:08:08,479 --> 00:08:12,319
+um particles or magnetotype grains that
+
+260
+00:08:11,280 --> 00:08:14,160
+we're interested in
+
+261
+00:08:12,319 --> 00:08:16,240
+but we get a growth rate um by using
+
+262
+00:08:14,160 --> 00:08:18,319
+this of about 10 to the minus 12 meters
+
+263
+00:08:16,240 --> 00:08:19,840
+per second as a radial growth rate
+
+264
+00:08:18,319 --> 00:08:21,199
+um and also if you look in the
+
+265
+00:08:19,840 --> 00:08:22,240
+literature further there's lots of
+
+266
+00:08:21,199 --> 00:08:24,720
+studies on like
+
+267
+00:08:22,240 --> 00:08:26,000
+growing microplate in the lab and they
+
+268
+00:08:24,720 --> 00:08:28,000
+found that single domain
+
+269
+00:08:26,000 --> 00:08:29,599
+magnetite grew on the orders of hours to
+
+270
+00:08:28,000 --> 00:08:31,120
+days which also gives um
+
+271
+00:08:29,599 --> 00:08:32,959
+very similar growth rates so that's the
+
+272
+00:08:31,120 --> 00:08:34,320
+growth that we use and we can
+
+273
+00:08:32,959 --> 00:08:36,159
+incorporate the growth rate into our
+
+274
+00:08:34,320 --> 00:08:38,959
+model in terms of an effective time
+
+275
+00:08:36,159 --> 00:08:39,760
+um which you derived which shows how the
+
+276
+00:08:38,959 --> 00:08:42,959
+how the
+
+277
+00:08:39,760 --> 00:08:44,399
+rate of growth affects how long the um
+
+278
+00:08:42,959 --> 00:08:47,200
+magnetization has to align with the
+
+279
+00:08:44,399 --> 00:08:48,959
+field at each volume step
+
+280
+00:08:47,200 --> 00:08:50,640
+so now i was kind of going to introduce
+
+281
+00:08:48,959 --> 00:08:53,279
+you to the outputs of the models
+
+282
+00:08:50,640 --> 00:08:55,360
+and the way the model works is we get
+
+283
+00:08:53,279 --> 00:08:57,839
+our final volume distribution from the
+
+284
+00:08:55,360 --> 00:09:01,279
+fork diagram of the pristine diagram
+
+285
+00:08:57,839 --> 00:09:03,120
+and then we we shrink these down to
+
+286
+00:09:01,279 --> 00:09:04,560
+nucleating and all of the grains have
+
+287
+00:09:03,120 --> 00:09:06,320
+the same growth rate
+
+288
+00:09:04,560 --> 00:09:08,480
+so therefore in order to get our
+
+289
+00:09:06,320 --> 00:09:09,839
+variation in volumes at the end we they
+
+290
+00:09:08,480 --> 00:09:11,760
+nuclear different times so
+
+291
+00:09:09,839 --> 00:09:13,920
+time equals zero in the model is when
+
+292
+00:09:11,760 --> 00:09:15,440
+the largest grain nucleates
+
+293
+00:09:13,920 --> 00:09:17,440
+and you can see that as you increase
+
+294
+00:09:15,440 --> 00:09:19,920
+time when we get to about 15 hours
+
+295
+00:09:17,440 --> 00:09:21,839
+um is this is when the majority of the
+
+296
+00:09:19,920 --> 00:09:23,360
+the particles are now nucleating and we
+
+297
+00:09:21,839 --> 00:09:24,800
+start to see a visible increase in the
+
+298
+00:09:23,360 --> 00:09:26,000
+mean radius
+
+299
+00:09:24,800 --> 00:09:27,680
+and then we actually have to wait until
+
+300
+00:09:26,000 --> 00:09:30,080
+about 22 hours until we get any
+
+301
+00:09:27,680 --> 00:09:31,200
+contribution to the to the magnetization
+
+302
+00:09:30,080 --> 00:09:32,560
+and this is because we have to wait
+
+303
+00:09:31,200 --> 00:09:36,000
+until these grains are growing through
+
+304
+00:09:32,560 --> 00:09:38,080
+the through the blocking volume
+
+305
+00:09:36,000 --> 00:09:39,600
+so as i mentioned we use literature to
+
+306
+00:09:38,080 --> 00:09:40,399
+look at the growth rate so we kind of
+
+307
+00:09:39,600 --> 00:09:42,720
+wanted to know
+
+308
+00:09:40,399 --> 00:09:44,000
+how does our model how does crms vary
+
+309
+00:09:42,720 --> 00:09:45,680
+with growth right and also
+
+310
+00:09:44,000 --> 00:09:47,120
+it's we also wanted to you know now
+
+311
+00:09:45,680 --> 00:09:48,480
+we're using our model to investigate the
+
+312
+00:09:47,120 --> 00:09:50,640
+properties of crms
+
+313
+00:09:48,480 --> 00:09:52,720
+so yeah so we looked at how crms how the
+
+314
+00:09:50,640 --> 00:09:54,560
+intensity changes with the growth rate
+
+315
+00:09:52,720 --> 00:09:56,240
+and what we find is that for for growth
+
+316
+00:09:54,560 --> 00:09:57,680
+times on the orders of hours
+
+317
+00:09:56,240 --> 00:09:59,440
+compared to growth times on the orders
+
+318
+00:09:57,680 --> 00:10:00,240
+of millions of years there's only about
+
+319
+00:09:59,440 --> 00:10:02,399
+a two percent
+
+320
+00:10:00,240 --> 00:10:04,079
+increase in the clm intensity so the
+
+321
+00:10:02,399 --> 00:10:07,440
+crms aren't particularly sensitive
+
+322
+00:10:04,079 --> 00:10:09,120
+to to the growth rate um and the other
+
+323
+00:10:07,440 --> 00:10:10,800
+thing that we we did is we can look at
+
+324
+00:10:09,120 --> 00:10:11,839
+how the serum intensity changed with the
+
+325
+00:10:10,800 --> 00:10:13,839
+applied field
+
+326
+00:10:11,839 --> 00:10:15,440
+and again as we saw in the um
+
+327
+00:10:13,839 --> 00:10:17,279
+experimental studies you get this linear
+
+328
+00:10:15,440 --> 00:10:18,000
+relationship and yeah clearly we see
+
+329
+00:10:17,279 --> 00:10:20,000
+this in our model
+
+330
+00:10:18,000 --> 00:10:22,000
+too and you can see here that um the
+
+331
+00:10:20,000 --> 00:10:22,959
+crms have all been normalized to the to
+
+332
+00:10:22,000 --> 00:10:25,040
+the saturation
+
+333
+00:10:22,959 --> 00:10:26,240
+isothermal monetization which we can
+
+334
+00:10:25,040 --> 00:10:29,440
+also um
+
+335
+00:10:26,240 --> 00:10:30,800
+model um using pisa space and
+
+336
+00:10:29,440 --> 00:10:33,360
+kind of now is a good time to mention
+
+337
+00:10:30,800 --> 00:10:34,000
+that we can make comparisons to trms by
+
+338
+00:10:33,360 --> 00:10:36,240
+using the
+
+339
+00:10:34,000 --> 00:10:38,240
+for the same price distributions by
+
+340
+00:10:36,240 --> 00:10:40,160
+using the trm acquisition model that my
+
+341
+00:10:38,240 --> 00:10:43,360
+supervisors developed back in 2011
+
+342
+00:10:40,160 --> 00:10:44,959
+um using 563 tlm acquisition you can see
+
+343
+00:10:43,360 --> 00:10:47,600
+here that they both increase at similar
+
+344
+00:10:44,959 --> 00:10:49,120
+rates um
+
+345
+00:10:47,600 --> 00:10:51,120
+so now i'm going to just talk about how
+
+346
+00:10:49,120 --> 00:10:54,000
+we can change the price distribution
+
+347
+00:10:51,120 --> 00:10:55,519
+to look at crm intensities and what we
+
+348
+00:10:54,000 --> 00:10:57,040
+find is that
+
+349
+00:10:55,519 --> 00:10:59,120
+so we can increase the amount of
+
+350
+00:10:57,040 --> 00:11:01,200
+interactions in a sample by
+
+351
+00:10:59,120 --> 00:11:02,240
+increasingly spread in the y axis of the
+
+352
+00:11:01,200 --> 00:11:04,959
+thought diagram
+
+353
+00:11:02,240 --> 00:11:06,560
+um of the prison diagram and we see that
+
+354
+00:11:04,959 --> 00:11:07,200
+as we increase interactions we get a
+
+355
+00:11:06,560 --> 00:11:09,680
+decrease
+
+356
+00:11:07,200 --> 00:11:10,240
+in the crm intensity this is because
+
+357
+00:11:09,680 --> 00:11:12,640
+when you
+
+358
+00:11:10,240 --> 00:11:14,560
+um increase the interactions you reduce
+
+359
+00:11:12,640 --> 00:11:16,640
+the alignment between the
+
+360
+00:11:14,560 --> 00:11:18,560
+um applied field and the histones
+
+361
+00:11:16,640 --> 00:11:20,399
+magnetization upon blocking so when they
+
+362
+00:11:18,560 --> 00:11:23,360
+cross those thermal critical curves
+
+363
+00:11:20,399 --> 00:11:25,360
+they don't align as as well so you get a
+
+364
+00:11:23,360 --> 00:11:27,200
+reduced magnetization
+
+365
+00:11:25,360 --> 00:11:28,399
+and the other way that we can vary the
+
+366
+00:11:27,200 --> 00:11:30,640
+price of distribution
+
+367
+00:11:28,399 --> 00:11:32,800
+is by changing the cohesivity so this is
+
+368
+00:11:30,640 --> 00:11:33,200
+the spread along the coefficient axis of
+
+369
+00:11:32,800 --> 00:11:35,200
+the
+
+370
+00:11:33,200 --> 00:11:36,880
+of the preset diagram and we can see
+
+371
+00:11:35,200 --> 00:11:40,959
+that as we increase the cohesivity we
+
+372
+00:11:36,880 --> 00:11:43,680
+decrease the intensity of the of the crm
+
+373
+00:11:40,959 --> 00:11:45,120
+so now so if i've looked at intensities
+
+374
+00:11:43,680 --> 00:11:47,760
+but we can also look at the
+
+375
+00:11:45,120 --> 00:11:49,440
+behavior of the crm um in response to
+
+376
+00:11:47,760 --> 00:11:51,040
+demagnetization so we can start to look
+
+377
+00:11:49,440 --> 00:11:53,279
+at the unblocking spectra
+
+378
+00:11:51,040 --> 00:11:55,040
+um and we can do this using thermal
+
+379
+00:11:53,279 --> 00:11:57,600
+demonetization or alternating
+
+380
+00:11:55,040 --> 00:11:58,560
+field demonetization by simulating these
+
+381
+00:11:57,600 --> 00:12:02,000
+processes again
+
+382
+00:11:58,560 --> 00:12:03,440
+in prison space for the samples um
+
+383
+00:12:02,000 --> 00:12:05,760
+for the for the crms that we've just
+
+384
+00:12:03,440 --> 00:12:06,639
+acquired and what we see here is that
+
+385
+00:12:05,760 --> 00:12:08,560
+when we
+
+386
+00:12:06,639 --> 00:12:11,040
+so the blue line is for this extreme
+
+387
+00:12:08,560 --> 00:12:13,519
+case of low interactions and the
+
+388
+00:12:11,040 --> 00:12:15,360
+green line is for the high interactions
+
+389
+00:12:13,519 --> 00:12:16,959
+and we see that we get a
+
+390
+00:12:15,360 --> 00:12:18,800
+we seem to get a slight increase in the
+
+391
+00:12:16,959 --> 00:12:20,000
+stability of the magnetization when we
+
+392
+00:12:18,800 --> 00:12:21,519
+increase interactions
+
+393
+00:12:20,000 --> 00:12:23,200
+but again you can kind of see my error
+
+394
+00:12:21,519 --> 00:12:24,399
+bars it's it's not particularly
+
+395
+00:12:23,200 --> 00:12:26,160
+significant in the minute and you know
+
+396
+00:12:24,399 --> 00:12:27,200
+we need to run on higher um
+
+397
+00:12:26,160 --> 00:12:28,880
+with higher number of histones and
+
+398
+00:12:27,200 --> 00:12:29,360
+higher resolutions to to really look at
+
+399
+00:12:28,880 --> 00:12:31,839
+this
+
+400
+00:12:29,360 --> 00:12:32,800
+um which i haven't quite had time to do
+
+401
+00:12:31,839 --> 00:12:34,399
+um
+
+402
+00:12:32,800 --> 00:12:36,560
+but yeah so this is kind of what we see
+
+403
+00:12:34,399 --> 00:12:38,399
+and we again can see the same thing in
+
+404
+00:12:36,560 --> 00:12:40,720
+the thermal d-max spectra
+
+405
+00:12:38,399 --> 00:12:41,680
+um again using the same particles and
+
+406
+00:12:40,720 --> 00:12:45,040
+they they um
+
+407
+00:12:41,680 --> 00:12:46,800
+they mirror each other quite well so
+
+408
+00:12:45,040 --> 00:12:48,079
+so far we've looked at crms we can come
+
+409
+00:12:46,800 --> 00:12:49,440
+we can make comparisons to the
+
+410
+00:12:48,079 --> 00:12:51,440
+unblocking spectra of
+
+411
+00:12:49,440 --> 00:12:54,160
+thermal demagnetizations compared to our
+
+412
+00:12:51,440 --> 00:12:56,399
+crms for the same price of distributions
+
+413
+00:12:54,160 --> 00:12:59,279
+so here for quite a high currency sample
+
+414
+00:12:56,399 --> 00:13:01,680
+with kind of medium to low interactions
+
+415
+00:12:59,279 --> 00:13:03,440
+we can see that the tm intensity is
+
+416
+00:13:01,680 --> 00:13:03,760
+higher than the crm which is which you
+
+417
+00:13:03,440 --> 00:13:06,240
+know
+
+418
+00:13:03,760 --> 00:13:08,560
+what we'd expect but the demonetization
+
+419
+00:13:06,240 --> 00:13:11,680
+spectra look quite similar in shape
+
+420
+00:13:08,560 --> 00:13:12,959
+um however when we go to loco acidity
+
+421
+00:13:11,680 --> 00:13:13,680
+samples so you know we're getting
+
+422
+00:13:12,959 --> 00:13:16,880
+towards the
+
+423
+00:13:13,680 --> 00:13:17,760
+the y-axis of the fork diagram we can
+
+424
+00:13:16,880 --> 00:13:19,920
+see that now
+
+425
+00:13:17,760 --> 00:13:21,120
+both of them were unblocking earlier but
+
+426
+00:13:19,920 --> 00:13:22,399
+also it seems like the
+
+427
+00:13:21,120 --> 00:13:25,120
+the difference between the serum the
+
+428
+00:13:22,399 --> 00:13:26,720
+tier may be a bit larger and the crms
+
+429
+00:13:25,120 --> 00:13:28,959
+are magnetically weaker than
+
+430
+00:13:26,720 --> 00:13:30,800
+than the terms in comparison it's also
+
+431
+00:13:28,959 --> 00:13:33,600
+worth noting that at this low cost
+
+432
+00:13:30,800 --> 00:13:35,519
+the crm intensity is more sensitive to
+
+433
+00:13:33,600 --> 00:13:36,639
+connectivity changes so now the tm and
+
+434
+00:13:35,519 --> 00:13:38,320
+the serum test are actually quite
+
+435
+00:13:36,639 --> 00:13:40,079
+similar in magnitude
+
+436
+00:13:38,320 --> 00:13:41,600
+but the demonetization spectras look
+
+437
+00:13:40,079 --> 00:13:44,800
+more different
+
+438
+00:13:41,600 --> 00:13:46,560
+um so kind of in summary
+
+439
+00:13:44,800 --> 00:13:48,000
+what we've looked at is we're developing
+
+440
+00:13:46,560 --> 00:13:49,600
+this model and i've kind of shown some
+
+441
+00:13:48,000 --> 00:13:50,160
+like preliminary results of what we've
+
+442
+00:13:49,600 --> 00:13:52,399
+seen
+
+443
+00:13:50,160 --> 00:13:54,000
+and we can see that crm intensity varies
+
+444
+00:13:52,399 --> 00:13:55,760
+significantly when we change the price
+
+445
+00:13:54,000 --> 00:13:56,959
+of distribution in terms of coercivity
+
+446
+00:13:55,760 --> 00:13:58,480
+and interactions
+
+447
+00:13:56,959 --> 00:14:00,639
+and both increasing the interactions and
+
+448
+00:13:58,480 --> 00:14:02,880
+the correctivity caused to this causes
+
+449
+00:14:00,639 --> 00:14:04,800
+or leads to this decrease in intensity
+
+450
+00:14:02,880 --> 00:14:06,720
+and we can see that the crm and tm
+
+451
+00:14:04,800 --> 00:14:08,160
+have different unblocking spectra and
+
+452
+00:14:06,720 --> 00:14:10,399
+they respond differently and
+
+453
+00:14:08,160 --> 00:14:11,519
+kind of um by different magnitudes to
+
+454
+00:14:10,399 --> 00:14:13,760
+changes in
+
+455
+00:14:11,519 --> 00:14:15,120
+in the price of distribution so kind of
+
+456
+00:14:13,760 --> 00:14:16,639
+what we're looking to do next is we're
+
+457
+00:14:15,120 --> 00:14:18,000
+going to apply this to experimental data
+
+458
+00:14:16,639 --> 00:14:20,320
+so we're going to use for diagrams that
+
+459
+00:14:18,000 --> 00:14:21,600
+have come from lab grown crms
+
+460
+00:14:20,320 --> 00:14:23,120
+and they've been acquired in the lab and
+
+461
+00:14:21,600 --> 00:14:23,839
+then looking at kind of what behavioral
+
+462
+00:14:23,120 --> 00:14:25,199
+model shows
+
+463
+00:14:23,839 --> 00:14:26,720
+but this was heavily delayed due to
+
+464
+00:14:25,199 --> 00:14:27,760
+covert but hopefully we'll be able to do
+
+465
+00:14:26,720 --> 00:14:29,279
+this soon
+
+466
+00:14:27,760 --> 00:14:31,839
+and thank you for listening and do you
+
+467
+00:14:29,279 --> 00:14:31,839
+have any questions
+
+468
+00:14:33,839 --> 00:14:42,000
+thank you so any questions
+
+469
+00:14:38,720 --> 00:14:43,839
+uh yeah i have fun um
+
+470
+00:14:42,000 --> 00:14:45,519
+that was a really great talk uh very
+
+471
+00:14:43,839 --> 00:14:46,880
+enjoyed that that was uh
+
+472
+00:14:45,519 --> 00:14:48,880
+really nice work i was going to ask
+
+473
+00:14:46,880 --> 00:14:51,519
+about so you showed one figure
+
+474
+00:14:48,880 --> 00:14:53,279
+which was the the the the drop off in
+
+475
+00:14:51,519 --> 00:14:56,079
+crm as you increase
+
+476
+00:14:53,279 --> 00:14:57,120
+these interactions it's quite quite
+
+477
+00:14:56,079 --> 00:14:59,839
+marked and
+
+478
+00:14:57,120 --> 00:15:01,760
+uh quite an important result i think um
+
+479
+00:14:59,839 --> 00:15:02,000
+how did how did that graph compare with
+
+480
+00:15:01,760 --> 00:15:05,360
+the
+
+481
+00:15:02,000 --> 00:15:08,800
+the equivalent trm i was wondering
+
+482
+00:15:05,360 --> 00:15:10,000
+yeah so the tlm also decreases with
+
+483
+00:15:08,800 --> 00:15:11,199
+interactions
+
+484
+00:15:10,000 --> 00:15:13,519
+and this is something that we're kind of
+
+485
+00:15:11,199 --> 00:15:16,959
+still investigating because um
+
+486
+00:15:13,519 --> 00:15:18,800
+it doesn't seem to be so they both both
+
+487
+00:15:16,959 --> 00:15:19,760
+the tlm and the crm obviously they both
+
+488
+00:15:18,800 --> 00:15:20,800
+decrease when we increase the
+
+489
+00:15:19,760 --> 00:15:22,880
+interactions
+
+490
+00:15:20,800 --> 00:15:24,399
+um but the the way that the ratio
+
+491
+00:15:22,880 --> 00:15:25,680
+changes we haven't quite constrained
+
+492
+00:15:24,399 --> 00:15:26,720
+because it does seem to change quite a
+
+493
+00:15:25,680 --> 00:15:29,199
+lot with the coercivity so the
+
+494
+00:15:26,720 --> 00:15:31,920
+cohesivity has a larger effect on the
+
+495
+00:15:29,199 --> 00:15:33,199
+crm to tlm ratio so i'm still kind of
+
+496
+00:15:31,920 --> 00:15:34,240
+looking into that but it looks like it
+
+497
+00:15:33,199 --> 00:15:37,120
+doesn't have
+
+498
+00:15:34,240 --> 00:15:38,880
+um there's a large effect um on the
+
+499
+00:15:37,120 --> 00:15:42,240
+ratio as they both decrease
+
+500
+00:15:38,880 --> 00:15:44,639
+so roughly similar amounts
+
+501
+00:15:42,240 --> 00:15:46,480
+yeah it seems like it but yeah thanks
+
+502
+00:15:44,639 --> 00:15:50,160
+yeah
+
+503
+00:15:46,480 --> 00:15:50,160
+so any any more questions
+
+504
+00:15:50,880 --> 00:15:57,120
+i've got one if if i can go ahead yeah
+
+505
+00:15:54,240 --> 00:15:58,480
+evie great talk um i know you mentioned
+
+506
+00:15:57,120 --> 00:15:59,839
+the beginning it had consequences for
+
+507
+00:15:58,480 --> 00:16:00,399
+understanding of early soil system
+
+508
+00:15:59,839 --> 00:16:02,720
+evolution
+
+509
+00:16:00,399 --> 00:16:04,000
+and it might be too early to sort of use
+
+510
+00:16:02,720 --> 00:16:06,720
+your results to
+
+511
+00:16:04,000 --> 00:16:08,000
+to further that effort uh right now but
+
+512
+00:16:06,720 --> 00:16:10,560
+if you were to tentatively say
+
+513
+00:16:08,000 --> 00:16:11,920
+something right now certainly with
+
+514
+00:16:10,560 --> 00:16:12,880
+regards to sem acquisition during
+
+515
+00:16:11,920 --> 00:16:14,320
+aqueous alteration
+
+516
+00:16:12,880 --> 00:16:17,759
+uh during the early solstice do you have
+
+517
+00:16:14,320 --> 00:16:20,959
+any um initial observations there
+
+518
+00:16:17,759 --> 00:16:21,440
+um i don't think i could comment on that
+
+519
+00:16:20,959 --> 00:16:22,959
+yet
+
+520
+00:16:21,440 --> 00:16:24,720
+um i think it's something i'm really
+
+521
+00:16:22,959 --> 00:16:25,920
+interested in using like you know
+
+522
+00:16:24,720 --> 00:16:27,360
+when we kind of develop this model and
+
+523
+00:16:25,920 --> 00:16:28,240
+once you've applied it to experimental
+
+524
+00:16:27,360 --> 00:16:30,720
+data
+
+525
+00:16:28,240 --> 00:16:32,079
+then we can kind of think about how it
+
+526
+00:16:30,720 --> 00:16:33,920
+might affect that but i think at the
+
+527
+00:16:32,079 --> 00:16:35,360
+minute it's quite um
+
+528
+00:16:33,920 --> 00:16:36,720
+kind of just looked at kind of synthetic
+
+529
+00:16:35,360 --> 00:16:37,600
+samples so i don't think i can make a
+
+530
+00:16:36,720 --> 00:16:39,519
+comment but
+
+531
+00:16:37,600 --> 00:16:41,440
+it would be interesting to be able to
+
+532
+00:16:39,519 --> 00:16:42,480
+kind of model some acquisition for these
+
+533
+00:16:41,440 --> 00:16:44,000
+you know yeah because we think they're
+
+534
+00:16:42,480 --> 00:16:44,639
+really important in the solar system
+
+535
+00:16:44,000 --> 00:16:46,639
+stuff
+
+536
+00:16:44,639 --> 00:16:48,320
+it'd be really interesting and hopefully
+
+537
+00:16:46,639 --> 00:16:49,600
+um soon this model might be more helpful
+
+538
+00:16:48,320 --> 00:16:51,040
+at looking into that and
+
+539
+00:16:49,600 --> 00:16:52,800
+how they're affecting the remnants but i
+
+540
+00:16:51,040 --> 00:16:54,880
+don't think it's quite there yet
+
+541
+00:16:52,800 --> 00:16:57,120
+so i think i could comment on it awesome
+
+542
+00:16:54,880 --> 00:16:58,880
+thanks a lot
+
+543
+00:16:57,120 --> 00:17:00,480
+and that's why i'd like to go with it
+
+544
+00:16:58,880 --> 00:17:02,399
+but yeah
+
+545
+00:17:00,480 --> 00:17:05,839
+any any more questions so we have time
+
+546
+00:17:02,399 --> 00:17:05,839
+for a couple more
+
+547
+00:17:07,919 --> 00:17:12,880
+well i guess my other question is so
+
+548
+00:17:11,199 --> 00:17:14,480
+i mean you're modeling the prize at
+
+549
+00:17:12,880 --> 00:17:19,439
+distributions you'll show
+
+550
+00:17:14,480 --> 00:17:22,000
+this sort of nice ellipse of uh
+
+551
+00:17:19,439 --> 00:17:22,559
+where i mean if you look at rand what
+
+552
+00:17:22,000 --> 00:17:26,480
+the
+
+553
+00:17:22,559 --> 00:17:28,160
+shape of fault diagrams for um
+
+554
+00:17:26,480 --> 00:17:29,520
+interacting single domain they have to
+
+555
+00:17:28,160 --> 00:17:32,080
+have rather a different shape they have
+
+556
+00:17:29,520 --> 00:17:33,360
+this kind of more teardrop
+
+557
+00:17:32,080 --> 00:17:35,760
+shape i don't know if you've modeled
+
+558
+00:17:33,360 --> 00:17:37,520
+that and also when it comes to looking
+
+559
+00:17:35,760 --> 00:17:38,160
+at the solar system stuff that you know
+
+560
+00:17:37,520 --> 00:17:39,919
+like the
+
+561
+00:17:38,160 --> 00:17:41,440
+you look at ursula's poster which has
+
+562
+00:17:39,919 --> 00:17:43,280
+these framboids and plaquettes and
+
+563
+00:17:41,440 --> 00:17:44,240
+things like that and the fork diagrams
+
+564
+00:17:43,280 --> 00:17:46,720
+there
+
+565
+00:17:44,240 --> 00:17:48,240
+look uh again rather different to the to
+
+566
+00:17:46,720 --> 00:17:50,160
+the prize at distribution so is that is
+
+567
+00:17:48,240 --> 00:17:53,200
+that a direction you can go in to
+
+568
+00:17:50,160 --> 00:17:56,160
+to to model more realistic
+
+569
+00:17:53,200 --> 00:17:56,960
+uh prizette distributions yeah so
+
+570
+00:17:56,160 --> 00:17:58,400
+synthetically
+
+571
+00:17:56,960 --> 00:17:59,919
+we we kind of we're starting to look at
+
+572
+00:17:58,400 --> 00:18:01,039
+modeling these kind of tear duct shapes
+
+573
+00:17:59,919 --> 00:18:02,559
+that's something that i'm
+
+574
+00:18:01,039 --> 00:18:04,640
+kind of trying to model at the minute
+
+575
+00:18:02,559 --> 00:18:05,039
+but um kind of initially i've just been
+
+576
+00:18:04,640 --> 00:18:06,799
+kind of
+
+577
+00:18:05,039 --> 00:18:08,559
+using the ones that are kind of the
+
+578
+00:18:06,799 --> 00:18:09,919
+simplest cases basically kind of look at
+
+579
+00:18:08,559 --> 00:18:11,840
+the changes but um
+
+580
+00:18:09,919 --> 00:18:13,440
+yeah and we started to look at like um
+
+581
+00:18:11,840 --> 00:18:15,600
+kind of multi-domain shapes just kind of
+
+582
+00:18:13,440 --> 00:18:17,200
+investigating the parameter space really
+
+583
+00:18:15,600 --> 00:18:18,720
+um but yeah so it would be interesting
+
+584
+00:18:17,200 --> 00:18:19,919
+to be able to model more complex fort
+
+585
+00:18:18,720 --> 00:18:21,200
+diagrams but i think that's something
+
+586
+00:18:19,919 --> 00:18:21,919
+that will come with the experimental
+
+587
+00:18:21,200 --> 00:18:23,440
+data
+
+588
+00:18:21,919 --> 00:18:25,280
+so when we have experimental studies
+
+589
+00:18:23,440 --> 00:18:27,120
+then we'll be using real kind of thought
+
+590
+00:18:25,280 --> 00:18:28,960
+diagrams i think then we'll start to see
+
+591
+00:18:27,120 --> 00:18:30,240
+how they respond to these
+
+592
+00:18:28,960 --> 00:18:31,520
+these shapes and things so i think
+
+593
+00:18:30,240 --> 00:18:33,200
+that's kind of what i'm waiting on for
+
+594
+00:18:31,520 --> 00:18:35,200
+that mm-hmm
+
+595
+00:18:33,200 --> 00:18:36,480
+if i could just jump in i mean i was the
+
+596
+00:18:35,200 --> 00:18:37,200
+feeling was that when we were doing this
+
+597
+00:18:36,480 --> 00:18:38,400
+we should
+
+598
+00:18:37,200 --> 00:18:40,480
+we're just going to test the model on
+
+599
+00:18:38,400 --> 00:18:41,919
+some arbitrary forward distribution that
+
+600
+00:18:40,480 --> 00:18:44,000
+we should just choose some nice gaussian
+
+601
+00:18:41,919 --> 00:18:45,919
+distribution as a starting point and i
+
+602
+00:18:44,000 --> 00:18:47,760
+agree these are a bit artificial but
+
+603
+00:18:45,919 --> 00:18:49,440
+that was kind of deliberately
+
+604
+00:18:47,760 --> 00:18:50,880
+chosen because if we're just worried if
+
+605
+00:18:49,440 --> 00:18:52,160
+you chose you might end up choosing
+
+606
+00:18:50,880 --> 00:18:53,280
+something it's a nice single domain
+
+607
+00:18:52,160 --> 00:18:55,520
+sample and it's
+
+608
+00:18:53,280 --> 00:18:56,799
+not really in has a weird shape to the
+
+609
+00:18:55,520 --> 00:18:58,240
+fork diagram we're maybe
+
+610
+00:18:56,799 --> 00:19:00,160
+going down a rabbit hole so that's where
+
+611
+00:18:58,240 --> 00:19:06,080
+we stop these gaussian distributions to
+
+612
+00:19:00,160 --> 00:19:06,080
+start off with
+

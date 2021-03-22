@@ -1,0 +1,2032 @@
+1
+00:00:00,160 --> 00:00:06,160
+the next talk which is eduardo davine
+
+2
+00:00:03,439 --> 00:00:09,240
+uh talking about testing the reliability
+
+3
+00:00:06,160 --> 00:00:12,480
+of sedimentary paleomagnetic dataset for
+
+4
+00:00:09,240 --> 00:00:15,759
+paleogeographic reconstructions
+
+5
+00:00:12,480 --> 00:00:16,880
+uh take it away can you hear me all
+
+6
+00:00:15,759 --> 00:00:20,400
+right
+
+7
+00:00:16,880 --> 00:00:22,800
+yeah i can't perfect so my last name is
+
+8
+00:00:20,400 --> 00:00:25,199
+i know sorry it's italian don't worry
+
+9
+00:00:22,800 --> 00:00:25,199
+sorry
+
+10
+00:00:26,160 --> 00:00:31,439
+i'm used to that so can you see my
+
+11
+00:00:29,439 --> 00:00:35,200
+screen
+
+12
+00:00:31,439 --> 00:00:35,200
+yeah we can perfect
+
+13
+00:00:35,760 --> 00:00:38,399
+let me just
+
+14
+00:00:40,000 --> 00:00:43,120
+yeah okay so i want to talk to you about
+
+15
+00:00:42,079 --> 00:00:46,079
+um
+
+16
+00:00:43,120 --> 00:00:49,200
+it's basically a paper just got just got
+
+17
+00:00:46,079 --> 00:00:52,480
+published a few weeks ago
+
+18
+00:00:49,200 --> 00:00:55,039
+and is yeah it's about how can we
+
+19
+00:00:52,480 --> 00:00:56,879
+possibly test the reliability of
+
+20
+00:00:55,039 --> 00:00:59,120
+sedimentary paramagnetic data set
+
+21
+00:00:56,879 --> 00:01:01,600
+because
+
+22
+00:00:59,120 --> 00:01:03,039
+i mean sediments for the temporal and
+
+23
+00:01:01,600 --> 00:01:04,159
+the spatial distribution are very
+
+24
+00:01:03,039 --> 00:01:05,680
+important for parallel geographic
+
+25
+00:01:04,159 --> 00:01:06,640
+reconstruction so we want to be sure
+
+26
+00:01:05,680 --> 00:01:10,400
+that
+
+27
+00:01:06,640 --> 00:01:10,400
+the data we use are reliable
+
+28
+00:01:10,840 --> 00:01:16,400
+and why
+
+29
+00:01:13,119 --> 00:01:18,320
+so for people that were listening to me
+
+30
+00:01:16,400 --> 00:01:20,400
+last year they made my remember that i
+
+31
+00:01:18,320 --> 00:01:26,799
+was talking about um
+
+32
+00:01:20,400 --> 00:01:29,280
+new caledonia so some sedimentary data
+
+33
+00:01:26,799 --> 00:01:31,040
+from new caledonia and they're very good
+
+34
+00:01:29,280 --> 00:01:34,159
+in terms of magnetostratigraphy
+
+35
+00:01:31,040 --> 00:01:37,119
+so the direction themselves are reliable
+
+36
+00:01:34,159 --> 00:01:38,079
+they appear reliable at least but we
+
+37
+00:01:37,119 --> 00:01:39,600
+have a problem
+
+38
+00:01:38,079 --> 00:01:41,360
+especially about the inclination
+
+39
+00:01:39,600 --> 00:01:43,200
+inclination is not fitting with the
+
+40
+00:01:41,360 --> 00:01:44,720
+expected one
+
+41
+00:01:43,200 --> 00:01:46,240
+and also we have something to say i
+
+42
+00:01:44,720 --> 00:01:48,720
+always say something about the
+
+43
+00:01:46,240 --> 00:01:50,320
+unresolved availability sustainability
+
+44
+00:01:48,720 --> 00:01:53,520
+so is there a way
+
+45
+00:01:50,320 --> 00:01:56,079
+to assess the reliability of this
+
+46
+00:01:53,520 --> 00:01:57,200
+data so the problems that really is not
+
+47
+00:01:56,079 --> 00:02:00,240
+purely theoretical
+
+48
+00:01:57,200 --> 00:02:02,240
+stuff from real data and
+
+49
+00:02:00,240 --> 00:02:03,280
+how do we do that we want to investigate
+
+50
+00:02:02,240 --> 00:02:05,920
+the effects of
+
+51
+00:02:03,280 --> 00:02:08,399
+finite strain on simulated distribution
+
+52
+00:02:05,920 --> 00:02:10,399
+and we see different cases
+
+53
+00:02:08,399 --> 00:02:12,160
+and then there's what do we learn from
+
+54
+00:02:10,399 --> 00:02:14,080
+that what we see in the end so
+
+55
+00:02:12,160 --> 00:02:16,160
+it's just to see the outline of the
+
+56
+00:02:14,080 --> 00:02:20,800
+presentation
+
+57
+00:02:16,160 --> 00:02:20,800
+so it's just a bit off let me just set
+
+58
+00:02:20,840 --> 00:02:23,840
+up
+
+59
+00:02:24,000 --> 00:02:27,680
+uh the frame the geographic frame new
+
+60
+00:02:25,920 --> 00:02:30,000
+caledonia is in the
+
+61
+00:02:27,680 --> 00:02:32,239
+is a small island in the southwest
+
+62
+00:02:30,000 --> 00:02:34,640
+pacific so it's a
+
+63
+00:02:32,239 --> 00:02:35,440
+it's a portion of the norfolk reach so
+
+64
+00:02:34,640 --> 00:02:37,440
+all these
+
+65
+00:02:35,440 --> 00:02:40,000
+continent that you see here is called
+
+66
+00:02:37,440 --> 00:02:41,599
+zealandia and it's mostly submerged
+
+67
+00:02:40,000 --> 00:02:44,720
+but it's quite important for
+
+68
+00:02:41,599 --> 00:02:46,800
+understanding the dynamics of the
+
+69
+00:02:44,720 --> 00:02:48,400
+subduction initiate initiation of the
+
+70
+00:02:46,800 --> 00:02:49,760
+pacific play beneath the australian
+
+71
+00:02:48,400 --> 00:02:52,000
+plane so
+
+72
+00:02:49,760 --> 00:02:54,080
+since there is no much cropping out so
+
+73
+00:02:52,000 --> 00:02:57,280
+you either go and read as we did
+
+74
+00:02:54,080 --> 00:02:57,760
+with iodp expedition or you study
+
+75
+00:02:57,280 --> 00:03:01,360
+whatever
+
+76
+00:02:57,760 --> 00:03:02,800
+is cropping up and new caledonia is just
+
+77
+00:03:01,360 --> 00:03:06,400
+one of the few places where you can
+
+78
+00:03:02,800 --> 00:03:09,360
+study these sediments and
+
+79
+00:03:06,400 --> 00:03:11,120
+there is a section in particular in the
+
+80
+00:03:09,360 --> 00:03:12,159
+northern part of the nile of the island
+
+81
+00:03:11,120 --> 00:03:15,599
+with this this
+
+82
+00:03:12,159 --> 00:03:17,920
+transition between pelagic uh microsoft
+
+83
+00:03:15,599 --> 00:03:19,360
+carbonate sedimentary to a summary
+
+84
+00:03:17,920 --> 00:03:22,400
+plateau
+
+85
+00:03:19,360 --> 00:03:24,239
+to turbidites and it's this transition
+
+86
+00:03:22,400 --> 00:03:27,599
+is important in terms of the
+
+87
+00:03:24,239 --> 00:03:30,799
+regional geology and evolution
+
+88
+00:03:27,599 --> 00:03:33,440
+but if we focus on the lower part of the
+
+89
+00:03:30,799 --> 00:03:35,599
+section we have a beautiful data set
+
+90
+00:03:33,440 --> 00:03:36,640
+there is also some extra slides if you
+
+91
+00:03:35,599 --> 00:03:38,879
+want with some zyder
+
+92
+00:03:36,640 --> 00:03:42,560
+so you can show you can see them so we
+
+93
+00:03:38,879 --> 00:03:42,560
+have reversals we have very
+
+94
+00:03:42,640 --> 00:03:49,280
+consistent declination inclination
+
+95
+00:03:46,319 --> 00:03:50,000
+and the age model is quite clear so the
+
+96
+00:03:49,280 --> 00:03:52,640
+age is about
+
+97
+00:03:50,000 --> 00:03:53,439
+48 million of years ago around this age
+
+98
+00:03:52,640 --> 00:03:56,959
+and
+
+99
+00:03:53,439 --> 00:03:59,840
+so the data itself it does look reliable
+
+100
+00:03:56,959 --> 00:04:01,040
+especially if we take the direction we
+
+101
+00:03:59,840 --> 00:04:02,879
+don't take the direction from the
+
+102
+00:04:01,040 --> 00:04:04,720
+turbidites because they're not as good
+
+103
+00:04:02,879 --> 00:04:07,040
+as the lower part so we just want to
+
+104
+00:04:04,720 --> 00:04:08,159
+focus with a good data set and we have a
+
+105
+00:04:07,040 --> 00:04:11,120
+total of
+
+106
+00:04:08,159 --> 00:04:13,519
+88 i didn't put the number here but 88
+
+107
+00:04:11,120 --> 00:04:16,400
+directions
+
+108
+00:04:13,519 --> 00:04:17,759
+positive reversal test we use a
+
+109
+00:04:16,400 --> 00:04:19,919
+bootstrap approach
+
+110
+00:04:17,759 --> 00:04:21,680
+other than the normal the traditional
+
+111
+00:04:19,919 --> 00:04:24,720
+reversal tests usually
+
+112
+00:04:21,680 --> 00:04:25,040
+they um they assume that the directions
+
+113
+00:04:24,720 --> 00:04:27,280
+are
+
+114
+00:04:25,040 --> 00:04:28,080
+fissure distributed that's not always
+
+115
+00:04:27,280 --> 00:04:30,320
+the case
+
+116
+00:04:28,080 --> 00:04:31,759
+so with this bootstrap approach i'm not
+
+117
+00:04:30,320 --> 00:04:33,520
+going through the details but you
+
+118
+00:04:31,759 --> 00:04:37,280
+overcome this limitation
+
+119
+00:04:33,520 --> 00:04:40,240
+but the reversal test is positive and
+
+120
+00:04:37,280 --> 00:04:42,639
+we can see here that we have the data
+
+121
+00:04:40,240 --> 00:04:45,040
+set with the bed in implant
+
+122
+00:04:42,639 --> 00:04:46,479
+if we if we look at the data set in tilt
+
+123
+00:04:45,040 --> 00:04:49,280
+the corrected
+
+124
+00:04:46,479 --> 00:04:49,759
+coordinates just look at the blue one so
+
+125
+00:04:49,280 --> 00:04:52,400
+it's
+
+126
+00:04:49,759 --> 00:04:54,320
+the blue reference line they're clearly
+
+127
+00:04:52,400 --> 00:04:55,360
+more the inclination is higher it's a
+
+128
+00:04:54,320 --> 00:04:56,800
+lot higher like
+
+129
+00:04:55,360 --> 00:04:58,479
+something about 10 degrees other than
+
+130
+00:04:56,800 --> 00:05:01,440
+the one that we expect calculated from
+
+131
+00:04:58,479 --> 00:05:04,240
+the compilation of thor's week
+
+132
+00:05:01,440 --> 00:05:05,919
+and but we also know that there is a we
+
+133
+00:05:04,240 --> 00:05:07,280
+measure the unexotic magnetic
+
+134
+00:05:05,919 --> 00:05:10,639
+sustainability and
+
+135
+00:05:07,280 --> 00:05:14,080
+it's not um sedimentary
+
+136
+00:05:10,639 --> 00:05:16,560
+so if you look at the the plane
+
+137
+00:05:14,080 --> 00:05:18,320
+that lie between k1 and k2 is not
+
+138
+00:05:16,560 --> 00:05:20,240
+coincided with the sedimentary place so
+
+139
+00:05:18,320 --> 00:05:20,639
+that is clearly like something that ring
+
+140
+00:05:20,240 --> 00:05:24,639
+about
+
+141
+00:05:20,639 --> 00:05:26,320
+in terms of the reliability of the data
+
+142
+00:05:24,639 --> 00:05:27,919
+in terms of polygeography that's what we
+
+143
+00:05:26,320 --> 00:05:28,960
+see so this is new caledonia this
+
+144
+00:05:27,919 --> 00:05:31,520
+paramagnetic
+
+145
+00:05:28,960 --> 00:05:33,360
+is rotated compared to the the position
+
+146
+00:05:31,520 --> 00:05:34,960
+that we would expect but we know that
+
+147
+00:05:33,360 --> 00:05:38,240
+because nucalidon itself
+
+148
+00:05:34,960 --> 00:05:40,800
+is rotated so it fits with the
+
+149
+00:05:38,240 --> 00:05:41,600
+with a structural frame or sorry but the
+
+150
+00:05:40,800 --> 00:05:43,919
+inclination
+
+151
+00:05:41,600 --> 00:05:44,800
+is so the paramagnetic pole is clearly
+
+152
+00:05:43,919 --> 00:05:46,479
+off
+
+153
+00:05:44,800 --> 00:05:48,400
+is also true that the compilation of
+
+154
+00:05:46,479 --> 00:05:50,400
+tarvy tosvig used
+
+155
+00:05:48,400 --> 00:05:52,400
+data from other continents mostly
+
+156
+00:05:50,400 --> 00:05:55,199
+there's only one entry which is
+
+157
+00:05:52,400 --> 00:05:57,280
+within this time window all the other
+
+158
+00:05:55,199 --> 00:06:00,160
+data are coming from other continents
+
+159
+00:05:57,280 --> 00:06:01,840
+and they go through multiple rotations
+
+160
+00:06:00,160 --> 00:06:03,759
+and this is the parallel latitude that
+
+161
+00:06:01,840 --> 00:06:04,880
+we calculate with our data this is the
+
+162
+00:06:03,759 --> 00:06:07,199
+palu geographic
+
+163
+00:06:04,880 --> 00:06:08,160
+and global reconstruction let's say and
+
+164
+00:06:07,199 --> 00:06:11,520
+it's clearly off
+
+165
+00:06:08,160 --> 00:06:13,759
+so where is the problem
+
+166
+00:06:11,520 --> 00:06:16,400
+is the problem in the compilation or in
+
+167
+00:06:13,759 --> 00:06:16,400
+our data
+
+168
+00:06:16,479 --> 00:06:20,240
+we know that uh yeah there is like a
+
+169
+00:06:19,360 --> 00:06:21,840
+kind of fresh
+
+170
+00:06:20,240 --> 00:06:23,759
+regional compression but the the
+
+171
+00:06:21,840 --> 00:06:27,440
+straight are not heavily folded
+
+172
+00:06:23,759 --> 00:06:30,319
+so there's no indication of like heavily
+
+173
+00:06:27,440 --> 00:06:32,639
+the full menstruator that you can like
+
+174
+00:06:30,319 --> 00:06:34,720
+assume that the data are not reliable
+
+175
+00:06:32,639 --> 00:06:36,160
+so if you look at the literature there
+
+176
+00:06:34,720 --> 00:06:37,759
+are different phenomena that could
+
+177
+00:06:36,160 --> 00:06:40,000
+deviate your directions from the
+
+178
+00:06:37,759 --> 00:06:42,319
+original position the first one
+
+179
+00:06:40,000 --> 00:06:43,680
+the well-known one is the inclination
+
+180
+00:06:42,319 --> 00:06:46,800
+flattening
+
+181
+00:06:43,680 --> 00:06:48,720
+and if we measure the susceptibility of
+
+182
+00:06:46,800 --> 00:06:50,639
+the it's out of your society in this
+
+183
+00:06:48,720 --> 00:06:54,000
+condition we would have a
+
+184
+00:06:50,639 --> 00:06:56,720
+an oblate tensor and then as
+
+185
+00:06:54,000 --> 00:06:59,360
+we start deforming the straighter a bit
+
+186
+00:06:56,720 --> 00:07:02,800
+more we can imagine no cell compression
+
+187
+00:06:59,360 --> 00:07:06,000
+folding direction pointing to the north
+
+188
+00:07:02,800 --> 00:07:09,280
+we start having different um
+
+189
+00:07:06,000 --> 00:07:11,759
+fabrics like the weak cleavage fabric
+
+190
+00:07:09,280 --> 00:07:12,960
+will result in a anisotropic magnetic
+
+191
+00:07:11,759 --> 00:07:16,080
+stability
+
+192
+00:07:12,960 --> 00:07:17,759
+prolate in shape and then the
+
+193
+00:07:16,080 --> 00:07:19,759
+more extreme condition with short
+
+194
+00:07:17,759 --> 00:07:20,240
+cleavage strong cleavage and we would
+
+195
+00:07:19,759 --> 00:07:22,880
+have a
+
+196
+00:07:20,240 --> 00:07:24,800
+triaxial and this is the theoretical
+
+197
+00:07:22,880 --> 00:07:28,479
+evolution of the inclination that is
+
+198
+00:07:24,800 --> 00:07:30,880
+being published in some some old papers
+
+199
+00:07:28,479 --> 00:07:32,160
+so you could have either uh depending on
+
+200
+00:07:30,880 --> 00:07:34,080
+the flag on the
+
+201
+00:07:32,160 --> 00:07:37,199
+limb of the four you are you could have
+
+202
+00:07:34,080 --> 00:07:40,160
+shallowing or sleeping
+
+203
+00:07:37,199 --> 00:07:42,080
+so now uh we know and andy was talking
+
+204
+00:07:40,160 --> 00:07:45,360
+about that before the
+
+205
+00:07:42,080 --> 00:07:46,960
+the direction distribution uh we know
+
+206
+00:07:45,360 --> 00:07:48,879
+that they're not fisheries but they
+
+207
+00:07:46,960 --> 00:07:50,000
+they're a bit more complex so one of the
+
+208
+00:07:48,879 --> 00:07:52,960
+models people
+
+209
+00:07:50,000 --> 00:07:54,560
+put forward in the last few years is a
+
+210
+00:07:52,960 --> 00:07:56,479
+tko3
+
+211
+00:07:54,560 --> 00:07:58,639
+one of the assumption is that the vgps
+
+212
+00:07:56,479 --> 00:08:00,800
+are circular and that results in a
+
+213
+00:07:58,639 --> 00:08:02,240
+specific side the direction are not
+
+214
+00:08:00,800 --> 00:08:04,479
+circular but they are
+
+215
+00:08:02,240 --> 00:08:05,360
+elliptical and the elongation is
+
+216
+00:08:04,479 --> 00:08:09,199
+calculated
+
+217
+00:08:05,360 --> 00:08:12,400
+using the ratio between these two
+
+218
+00:08:09,199 --> 00:08:15,280
+eigenvalues so we simulated a saw um
+
+219
+00:08:12,400 --> 00:08:16,240
+a set of directions for different
+
+220
+00:08:15,280 --> 00:08:19,120
+latitude
+
+221
+00:08:16,240 --> 00:08:19,440
+they are drawn accordingly to this model
+
+222
+00:08:19,120 --> 00:08:21,039
+so
+
+223
+00:08:19,440 --> 00:08:23,919
+in this case we have the inclination
+
+224
+00:08:21,039 --> 00:08:25,599
+here and the elongation
+
+225
+00:08:23,919 --> 00:08:28,479
+and we see that it varies depending on
+
+226
+00:08:25,599 --> 00:08:31,039
+the inclination which in turn depends on
+
+227
+00:08:28,479 --> 00:08:32,959
+the latitude
+
+228
+00:08:31,039 --> 00:08:34,479
+and this method has been applied in the
+
+229
+00:08:32,959 --> 00:08:36,000
+past for
+
+230
+00:08:34,479 --> 00:08:38,000
+correcting for the inclination
+
+231
+00:08:36,000 --> 00:08:41,440
+flattening for example
+
+232
+00:08:38,000 --> 00:08:44,720
+so we gradually can uh increase this the
+
+233
+00:08:41,440 --> 00:08:47,120
+inclination of a set of direction uh
+
+234
+00:08:44,720 --> 00:08:48,399
+and the elongation vary until across the
+
+235
+00:08:47,120 --> 00:08:50,880
+expected values
+
+236
+00:08:48,399 --> 00:08:52,080
+so this for example is the same data set
+
+237
+00:08:50,880 --> 00:08:54,720
+as b correct
+
+238
+00:08:52,080 --> 00:08:56,320
+using this idea for inclination
+
+239
+00:08:54,720 --> 00:09:00,000
+flattening
+
+240
+00:08:56,320 --> 00:09:01,600
+so what we did is try to figure out how
+
+241
+00:09:00,000 --> 00:09:03,200
+not just inclination flattening but
+
+242
+00:09:01,600 --> 00:09:05,920
+other mechanisms could change
+
+243
+00:09:03,200 --> 00:09:08,080
+the shape of the distribution so we
+
+244
+00:09:05,920 --> 00:09:09,360
+started with a circular distribution for
+
+245
+00:09:08,080 --> 00:09:12,480
+two reasons
+
+246
+00:09:09,360 --> 00:09:14,880
+it's easier to visualize and
+
+247
+00:09:12,480 --> 00:09:17,040
+second is not necessarily far away from
+
+248
+00:09:14,880 --> 00:09:19,519
+the reality because if we sample
+
+249
+00:09:17,040 --> 00:09:22,560
+one single strata we are not expecting
+
+250
+00:09:19,519 --> 00:09:24,399
+to ever image averaging out the
+
+251
+00:09:22,560 --> 00:09:26,480
+circular variations so we would have a
+
+252
+00:09:24,399 --> 00:09:28,959
+fisherian distribution which is not
+
+253
+00:09:26,480 --> 00:09:30,160
+far away from a circle so we applied
+
+254
+00:09:28,959 --> 00:09:32,560
+different scenarios
+
+255
+00:09:30,160 --> 00:09:34,640
+to this circuit distribution which is
+
+256
+00:09:32,560 --> 00:09:37,440
+inclination of 50 degrees
+
+257
+00:09:34,640 --> 00:09:39,279
+and radius of 30 degrees we applied
+
+258
+00:09:37,440 --> 00:09:42,959
+first a flattening
+
+259
+00:09:39,279 --> 00:09:46,160
+and then just a pure shear
+
+260
+00:09:42,959 --> 00:09:47,360
+simulation and what we see for example
+
+261
+00:09:46,160 --> 00:09:49,120
+in this this
+
+262
+00:09:47,360 --> 00:09:51,440
+this is the gradient diagram where we
+
+263
+00:09:49,120 --> 00:09:54,959
+see the inclination and the elongation
+
+264
+00:09:51,440 --> 00:09:56,399
+this orange area is the area where you
+
+265
+00:09:54,959 --> 00:09:58,399
+would have
+
+266
+00:09:56,399 --> 00:10:00,000
+directions that are only affected by
+
+267
+00:09:58,399 --> 00:10:01,839
+inclination flattening
+
+268
+00:10:00,000 --> 00:10:04,079
+so they are potentially they potentially
+
+269
+00:10:01,839 --> 00:10:07,120
+can be corrected with
+
+270
+00:10:04,079 --> 00:10:08,480
+the method that we saw before
+
+271
+00:10:07,120 --> 00:10:10,560
+everything that falls here is not
+
+272
+00:10:08,480 --> 00:10:12,320
+reliable so it's clearly affected by
+
+273
+00:10:10,560 --> 00:10:15,279
+some problem
+
+274
+00:10:12,320 --> 00:10:15,839
+and yeah what we see is that when you
+
+275
+00:10:15,279 --> 00:10:19,279
+apply
+
+276
+00:10:15,839 --> 00:10:21,200
+a pure shear we immediately jump
+
+277
+00:10:19,279 --> 00:10:23,920
+to condition that is not realistic
+
+278
+00:10:21,200 --> 00:10:26,720
+anymore but it's not entirely released
+
+279
+00:10:23,920 --> 00:10:27,680
+so we wanted to we know that we also
+
+280
+00:10:26,720 --> 00:10:30,079
+have folding
+
+281
+00:10:27,680 --> 00:10:31,200
+so what we have to do is also apply a
+
+282
+00:10:30,079 --> 00:10:33,839
+folding to the data
+
+283
+00:10:31,200 --> 00:10:35,279
+what we do is just apply a minimum
+
+284
+00:10:33,839 --> 00:10:39,200
+tilting of the strata
+
+285
+00:10:35,279 --> 00:10:42,480
+and then we apply the pure shear
+
+286
+00:10:39,200 --> 00:10:45,920
+to both the direction and the bedding
+
+287
+00:10:42,480 --> 00:10:47,839
+and we get into a situation that is um
+
+288
+00:10:45,920 --> 00:10:48,959
+very similar to the one predicted by the
+
+289
+00:10:47,839 --> 00:10:50,959
+model
+
+290
+00:10:48,959 --> 00:10:52,240
+that we saw before so we can have either
+
+291
+00:10:50,959 --> 00:10:54,160
+depending on the limbs
+
+292
+00:10:52,240 --> 00:10:55,360
+on the fold that we found ourselves we
+
+293
+00:10:54,160 --> 00:10:59,120
+could have shallowing
+
+294
+00:10:55,360 --> 00:11:02,560
+or steepening it's very interesting that
+
+295
+00:10:59,120 --> 00:11:06,160
+this problem
+
+296
+00:11:02,560 --> 00:11:08,399
+is higher when we have a
+
+297
+00:11:06,160 --> 00:11:10,320
+pursuit a compression let's say that
+
+298
+00:11:08,399 --> 00:11:12,240
+it's not parallel to the declination
+
+299
+00:11:10,320 --> 00:11:13,839
+so it's affecting the shape of the
+
+300
+00:11:12,240 --> 00:11:15,200
+distribution a lot more but more
+
+301
+00:11:13,839 --> 00:11:17,279
+importantly
+
+302
+00:11:15,200 --> 00:11:18,640
+we don't have an elongation that is
+
+303
+00:11:17,279 --> 00:11:21,680
+neither parallel
+
+304
+00:11:18,640 --> 00:11:22,640
+nor perpendicular to the average
+
+305
+00:11:21,680 --> 00:11:24,959
+declination
+
+306
+00:11:22,640 --> 00:11:25,760
+but it's crooked and you can see that
+
+307
+00:11:24,959 --> 00:11:28,800
+from here
+
+308
+00:11:25,760 --> 00:11:30,800
+so the ellipticity is reflecting the
+
+309
+00:11:28,800 --> 00:11:32,560
+shape of the distribution
+
+310
+00:11:30,800 --> 00:11:34,640
+and that because that's what we expect
+
+311
+00:11:32,560 --> 00:11:36,640
+either from the model or for
+
+312
+00:11:34,640 --> 00:11:38,720
+the data that are just affected by
+
+313
+00:11:36,640 --> 00:11:40,800
+inclination flattening
+
+314
+00:11:38,720 --> 00:11:42,800
+either parallel or perpendicular when
+
+315
+00:11:40,800 --> 00:11:46,000
+it's not there is clearly something
+
+316
+00:11:42,800 --> 00:11:48,079
+something else affecting the data
+
+317
+00:11:46,000 --> 00:11:50,240
+after that okay we decided to work on
+
+318
+00:11:48,079 --> 00:11:52,320
+the generator the simulated data set to
+
+319
+00:11:50,240 --> 00:11:55,920
+see something a bit more
+
+320
+00:11:52,320 --> 00:11:56,800
+realistic in the first case we did we
+
+321
+00:11:55,920 --> 00:11:59,839
+applied again
+
+322
+00:11:56,800 --> 00:12:01,920
+just a pure shear without tilting
+
+323
+00:11:59,839 --> 00:12:03,440
+which is not entirely realistic i know
+
+324
+00:12:01,920 --> 00:12:05,600
+but is uh
+
+325
+00:12:03,440 --> 00:12:07,279
+it shows very well how the shape of the
+
+326
+00:12:05,600 --> 00:12:09,360
+distribution change
+
+327
+00:12:07,279 --> 00:12:10,720
+and one of the things that we can see is
+
+328
+00:12:09,360 --> 00:12:13,120
+that as soon as
+
+329
+00:12:10,720 --> 00:12:15,040
+we have an angle between the the
+
+330
+00:12:13,120 --> 00:12:17,680
+compression let's say
+
+331
+00:12:15,040 --> 00:12:18,639
+and the declination the directions
+
+332
+00:12:17,680 --> 00:12:20,880
+immediately jump
+
+333
+00:12:18,639 --> 00:12:21,760
+into distribution shapes that are not
+
+334
+00:12:20,880 --> 00:12:24,079
+acceptable
+
+335
+00:12:21,760 --> 00:12:25,440
+so they don't go we have some situation
+
+336
+00:12:24,079 --> 00:12:26,639
+where we can have something that is
+
+337
+00:12:25,440 --> 00:12:29,680
+falling into this
+
+338
+00:12:26,639 --> 00:12:32,320
+sedimentary kind of state
+
+339
+00:12:29,680 --> 00:12:33,760
+so increasing flattening state but in
+
+340
+00:12:32,320 --> 00:12:35,680
+most of the case
+
+341
+00:12:33,760 --> 00:12:37,360
+when you have an angle not even that one
+
+342
+00:12:35,680 --> 00:12:39,360
+there's a few degrees
+
+343
+00:12:37,360 --> 00:12:42,880
+you jump straight to directions
+
+344
+00:12:39,360 --> 00:12:42,880
+distribution that are not reliable
+
+345
+00:12:43,680 --> 00:12:47,519
+but we know that it's not entirely
+
+346
+00:12:45,279 --> 00:12:51,519
+realistic so we decided to do
+
+347
+00:12:47,519 --> 00:12:53,360
+just for two distribution 10 degrees of
+
+348
+00:12:51,519 --> 00:12:55,600
+poly latitude simulation simulated
+
+349
+00:12:53,360 --> 00:12:58,480
+latitude and 40 degrees
+
+350
+00:12:55,600 --> 00:13:00,639
+the series of events that could could
+
+351
+00:12:58,480 --> 00:13:01,600
+happen in reality so we apply first a
+
+352
+00:13:00,639 --> 00:13:04,880
+complex
+
+353
+00:13:01,600 --> 00:13:07,760
+compaction flattening of 0.6 and put it
+
+354
+00:13:04,880 --> 00:13:08,639
+here but i saw the standard let's say
+
+355
+00:13:07,760 --> 00:13:12,240
+sedimentary
+
+356
+00:13:08,639 --> 00:13:13,040
+flattening and then the possible weak
+
+357
+00:13:12,240 --> 00:13:15,839
+cleavage
+
+358
+00:13:13,040 --> 00:13:16,320
+and strong cleavage in both limbs of the
+
+359
+00:13:15,839 --> 00:13:19,519
+fold
+
+360
+00:13:16,320 --> 00:13:23,040
+and see what happen and
+
+361
+00:13:19,519 --> 00:13:25,440
+these the the red and the pink
+
+362
+00:13:23,040 --> 00:13:26,639
+um ellipses are the original
+
+363
+00:13:25,440 --> 00:13:30,000
+distribution they are lie
+
+364
+00:13:26,639 --> 00:13:31,600
+on the expected and we can see that when
+
+365
+00:13:30,000 --> 00:13:33,279
+we are so here
+
+366
+00:13:31,600 --> 00:13:35,360
+we can now go through all the diagrams
+
+367
+00:13:33,279 --> 00:13:36,480
+and photo but we can see basically this
+
+368
+00:13:35,360 --> 00:13:39,040
+is the
+
+369
+00:13:36,480 --> 00:13:39,600
+weak cleavage state the strong cleavage
+
+370
+00:13:39,040 --> 00:13:41,920
+stay
+
+371
+00:13:39,600 --> 00:13:42,959
+the front limb and the back lean and
+
+372
+00:13:41,920 --> 00:13:47,600
+they all create
+
+373
+00:13:42,959 --> 00:13:50,800
+different situations but
+
+374
+00:13:47,600 --> 00:13:53,440
+yeah we could see them when we apply um
+
+375
+00:13:50,800 --> 00:13:55,440
+like strong deformation they generally
+
+376
+00:13:53,440 --> 00:13:57,279
+jump over to the situation it's not
+
+377
+00:13:55,440 --> 00:14:01,360
+possible to correct anymore
+
+378
+00:13:57,279 --> 00:14:05,120
+and this is a lot stronger again
+
+379
+00:14:01,360 --> 00:14:08,079
+when we apply um stress let's say
+
+380
+00:14:05,120 --> 00:14:09,680
+finite strain there is no parallel to
+
+381
+00:14:08,079 --> 00:14:11,519
+the declination which is a very likely
+
+382
+00:14:09,680 --> 00:14:14,079
+situation i would say
+
+383
+00:14:11,519 --> 00:14:16,320
+and all the distribution you can say you
+
+384
+00:14:14,079 --> 00:14:19,120
+can see they jump immediately to shapes
+
+385
+00:14:16,320 --> 00:14:20,880
+that are not realistic with this model
+
+386
+00:14:19,120 --> 00:14:22,720
+i'm talking about this mod
+
+387
+00:14:20,880 --> 00:14:24,560
+and one of the thing is again the
+
+388
+00:14:22,720 --> 00:14:28,560
+elongation is crooked
+
+389
+00:14:24,560 --> 00:14:29,600
+so it's not it's not parallel to the
+
+390
+00:14:28,560 --> 00:14:32,240
+declination
+
+391
+00:14:29,600 --> 00:14:32,959
+as we would expect so this could be also
+
+392
+00:14:32,240 --> 00:14:36,079
+used
+
+393
+00:14:32,959 --> 00:14:36,399
+as a reliable reliability index so that
+
+394
+00:14:36,079 --> 00:14:38,240
+the
+
+395
+00:14:36,399 --> 00:14:40,399
+the elongation in this diagram is
+
+396
+00:14:38,240 --> 00:14:43,199
+represented by the dotted circle
+
+397
+00:14:40,399 --> 00:14:45,040
+where in some cases like for example is
+
+398
+00:14:43,199 --> 00:14:47,519
+passing through the center
+
+399
+00:14:45,040 --> 00:14:48,399
+and that will be parallel with the
+
+400
+00:14:47,519 --> 00:14:51,440
+declination
+
+401
+00:14:48,399 --> 00:14:55,440
+some other cases not clearly
+
+402
+00:14:51,440 --> 00:14:55,440
+so going back to our data
+
+403
+00:14:55,760 --> 00:15:02,160
+can we apply this kind of uh theory to
+
+404
+00:14:58,959 --> 00:15:03,279
+this so what we did is just so uh we we
+
+405
+00:15:02,160 --> 00:15:06,079
+say we have
+
+406
+00:15:03,279 --> 00:15:06,320
+88 direction which is not a lot this is
+
+407
+00:15:06,079 --> 00:15:10,079
+a
+
+408
+00:15:06,320 --> 00:15:11,519
+reasonable number but it's not like um
+
+409
+00:15:10,079 --> 00:15:13,839
+the problem is i want to calculate
+
+410
+00:15:11,519 --> 00:15:16,480
+confidence confidence margin
+
+411
+00:15:13,839 --> 00:15:18,000
+and the only way at least the one i know
+
+412
+00:15:16,480 --> 00:15:20,560
+is about bootstrap
+
+413
+00:15:18,000 --> 00:15:21,600
+using booster and we can see that this
+
+414
+00:15:20,560 --> 00:15:24,720
+is a 90
+
+415
+00:15:21,600 --> 00:15:25,199
+confident boundary it's quite wide but
+
+416
+00:15:24,720 --> 00:15:29,759
+still
+
+417
+00:15:25,199 --> 00:15:32,720
+um from the complete data set
+
+418
+00:15:29,759 --> 00:15:33,680
+we also filter some direction that i had
+
+419
+00:15:32,720 --> 00:15:37,120
+some criteria
+
+420
+00:15:33,680 --> 00:15:38,160
+i can yeah i can show you maybe like uh
+
+421
+00:15:37,120 --> 00:15:41,839
+if you want
+
+422
+00:15:38,160 --> 00:15:41,839
+so it's mostly
+
+423
+00:15:44,880 --> 00:15:48,639
+yeah and what we see is the the complete
+
+424
+00:15:47,920 --> 00:15:52,320
+data set
+
+425
+00:15:48,639 --> 00:15:54,000
+it looks reliable if we feel that the
+
+426
+00:15:52,320 --> 00:15:56,320
+data is a bit less reliable
+
+427
+00:15:54,000 --> 00:15:58,000
+and then we try using the direction from
+
+428
+00:15:56,320 --> 00:16:01,040
+the
+
+429
+00:15:58,000 --> 00:16:03,040
+magnetic susceptibility tensor to
+
+430
+00:16:01,040 --> 00:16:04,000
+unstrain the direction to see what
+
+431
+00:16:03,040 --> 00:16:07,600
+happens
+
+432
+00:16:04,000 --> 00:16:10,079
+if we apply an unstrained technique
+
+433
+00:16:07,600 --> 00:16:11,920
+this direction and what we see is that
+
+434
+00:16:10,079 --> 00:16:13,920
+we entered the condition
+
+435
+00:16:11,920 --> 00:16:15,120
+of elongation parallel to the
+
+436
+00:16:13,920 --> 00:16:17,120
+declination
+
+437
+00:16:15,120 --> 00:16:18,320
+with very similar results but still we
+
+438
+00:16:17,120 --> 00:16:23,839
+are far from the
+
+439
+00:16:18,320 --> 00:16:23,839
+expected inclination which is this one
+
+440
+00:16:24,160 --> 00:16:27,120
+so um
+
+441
+00:16:27,839 --> 00:16:34,320
+final remarks we're still in a pico
+
+442
+00:16:31,680 --> 00:16:36,000
+about this direction because we we are
+
+443
+00:16:34,320 --> 00:16:38,560
+more inclined to consider
+
+444
+00:16:36,000 --> 00:16:39,199
+the the direction not reliable because
+
+445
+00:16:38,560 --> 00:16:41,519
+of the
+
+446
+00:16:39,199 --> 00:16:43,759
+ams measurement something that i want to
+
+447
+00:16:41,519 --> 00:16:44,639
+outline without the unexpected magnetic
+
+448
+00:16:43,759 --> 00:16:46,880
+sustainability
+
+449
+00:16:44,639 --> 00:16:48,079
+this dataset will look reliable so
+
+450
+00:16:46,880 --> 00:16:51,279
+there's something that
+
+451
+00:16:48,079 --> 00:16:52,639
+should be always presented when we use
+
+452
+00:16:51,279 --> 00:16:53,839
+the direction for parallel geographic
+
+453
+00:16:52,639 --> 00:16:55,360
+reconstruction
+
+454
+00:16:53,839 --> 00:16:57,040
+and that should be done together with
+
+455
+00:16:55,360 --> 00:16:59,360
+adequate um with a
+
+456
+00:16:57,040 --> 00:17:00,320
+proper number of direction normally a
+
+457
+00:16:59,360 --> 00:17:03,120
+hundred
+
+458
+00:17:00,320 --> 00:17:05,039
+it's considered and some other standard
+
+459
+00:17:03,120 --> 00:17:08,559
+reliability tests like the usual
+
+460
+00:17:05,039 --> 00:17:10,480
+fault test and and we recommend also to
+
+461
+00:17:08,559 --> 00:17:11,760
+you to do also the distribution shape
+
+462
+00:17:10,480 --> 00:17:14,000
+analysis
+
+463
+00:17:11,760 --> 00:17:16,400
+and with new caledonia it's probably we
+
+464
+00:17:14,000 --> 00:17:18,799
+need more data from the area because
+
+465
+00:17:16,400 --> 00:17:20,880
+all the data are rotated so yeah they
+
+466
+00:17:18,799 --> 00:17:22,799
+are probably more correct this one even
+
+467
+00:17:20,880 --> 00:17:23,839
+if they are rotated but we are still in
+
+468
+00:17:22,799 --> 00:17:27,360
+a situation where
+
+469
+00:17:23,839 --> 00:17:28,960
+there's no data from the area
+
+470
+00:17:27,360 --> 00:17:30,720
+and what about the limitation of this
+
+471
+00:17:28,960 --> 00:17:30,960
+method you need a lot of direction to
+
+472
+00:17:30,720 --> 00:17:34,000
+have
+
+473
+00:17:30,960 --> 00:17:36,160
+nice confidence margin and
+
+474
+00:17:34,000 --> 00:17:37,679
+we actually don't know i think if this
+
+475
+00:17:36,160 --> 00:17:40,559
+model is valid
+
+476
+00:17:37,679 --> 00:17:40,559
+always so
+
+477
+00:17:40,799 --> 00:17:47,840
+that's it i always finish with a picture
+
+478
+00:17:44,240 --> 00:17:47,840
+from new caledonia
+
+479
+00:17:51,679 --> 00:17:58,960
+oh thank you very much has anyone got
+
+480
+00:17:55,520 --> 00:18:02,559
+any questions yes
+
+481
+00:17:58,960 --> 00:18:06,000
+go forward hi that's great talk thanks
+
+482
+00:18:02,559 --> 00:18:06,480
+um i was wondering there's i i've also
+
+483
+00:18:06,000 --> 00:18:08,320
+had some
+
+484
+00:18:06,480 --> 00:18:09,919
+some strange inclinations in the eu
+
+485
+00:18:08,320 --> 00:18:12,559
+scene and i think they're reported for
+
+486
+00:18:09,919 --> 00:18:14,080
+many parts in the in its ethium belt
+
+487
+00:18:12,559 --> 00:18:16,160
+do you think that maybe it has something
+
+488
+00:18:14,080 --> 00:18:17,760
+to do with that my inclinations are
+
+489
+00:18:16,160 --> 00:18:19,919
+always very shallow and they're
+
+490
+00:18:17,760 --> 00:18:21,760
+in volcanic rocks and i think they find
+
+491
+00:18:19,919 --> 00:18:24,799
+them from
+
+492
+00:18:21,760 --> 00:18:27,520
+from spain all the way to the east
+
+493
+00:18:24,799 --> 00:18:29,440
+i was wondering if you have any idea ah
+
+494
+00:18:27,520 --> 00:18:31,280
+so you may
+
+495
+00:18:29,440 --> 00:18:32,960
+i have a kind of blood memory in the
+
+496
+00:18:31,280 --> 00:18:33,520
+past that read some paper that i say in
+
+497
+00:18:32,960 --> 00:18:35,600
+the
+
+498
+00:18:33,520 --> 00:18:37,679
+in the some part of the cenozoic maybe
+
+499
+00:18:35,600 --> 00:18:39,520
+the three was not that polar at least
+
+500
+00:18:37,679 --> 00:18:41,200
+yeah i think there's a paper of westfall
+
+501
+00:18:39,520 --> 00:18:44,400
+and also of kanye that's
+
+502
+00:18:41,200 --> 00:18:46,320
+um speculate about this but i yeah yeah
+
+503
+00:18:44,400 --> 00:18:47,039
+because this thing is quite new so it's
+
+504
+00:18:46,320 --> 00:18:49,039
+uh
+
+505
+00:18:47,039 --> 00:18:51,280
+yeah it would be interesting to check
+
+506
+00:18:49,039 --> 00:18:51,280
+that
+
+507
+00:18:52,240 --> 00:18:59,520
+i i have no answer right now so yeah no
+
+508
+00:18:56,520 --> 00:18:59,520
+worries
+

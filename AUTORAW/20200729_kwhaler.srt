@@ -1,0 +1,3684 @@
+1
+00:00:00,160 --> 00:00:04,720
+for coming uh to today's uh magnet
+
+2
+00:00:02,800 --> 00:00:06,720
+seminar this is the
+
+3
+00:00:04,720 --> 00:00:08,320
+fifth in our series so we're going
+
+4
+00:00:06,720 --> 00:00:10,400
+strong and we've had some
+
+5
+00:00:08,320 --> 00:00:11,360
+uh fantastic support from our community
+
+6
+00:00:10,400 --> 00:00:14,160
+so uh
+
+7
+00:00:11,360 --> 00:00:15,200
+thank you all very much and today we
+
+8
+00:00:14,160 --> 00:00:17,600
+will have
+
+9
+00:00:15,200 --> 00:00:18,480
+uh kathy whaler from the university of
+
+10
+00:00:17,600 --> 00:00:22,320
+edinburgh
+
+11
+00:00:18,480 --> 00:00:24,320
+talking to us about the uh 2016 pacific
+
+12
+00:00:22,320 --> 00:00:25,680
+jerk and core mantle boundary flows
+
+13
+00:00:24,320 --> 00:00:29,439
+derived from
+
+14
+00:00:25,680 --> 00:00:31,599
+uh swarm data but before we begin that
+
+15
+00:00:29,439 --> 00:00:33,040
+just a a quick rundown for those of you
+
+16
+00:00:31,599 --> 00:00:34,320
+who haven't attended one of these
+
+17
+00:00:33,040 --> 00:00:37,360
+seminars
+
+18
+00:00:34,320 --> 00:00:41,040
+um our presentations will be about uh
+
+19
+00:00:37,360 --> 00:00:43,520
+20 to 20 uh 25 to 30 minutes long
+
+20
+00:00:41,040 --> 00:00:45,200
+and i kindly ask that you keep your
+
+21
+00:00:43,520 --> 00:00:46,879
+microphones mediated so that
+
+22
+00:00:45,200 --> 00:00:48,480
+background noise such as babies
+
+23
+00:00:46,879 --> 00:00:51,840
+screaming and crying
+
+24
+00:00:48,480 --> 00:00:53,840
+doesn't interrupt the seminar um
+
+25
+00:00:51,840 --> 00:00:54,879
+at the end of the the presentation we
+
+26
+00:00:53,840 --> 00:00:58,399
+will have
+
+27
+00:00:54,879 --> 00:01:01,359
+10 to 15 minutes for questions
+
+28
+00:00:58,399 --> 00:01:03,359
+you can raise your hand via zoom and we
+
+29
+00:01:01,359 --> 00:01:04,400
+can we'll invite you to unmute and ask
+
+30
+00:01:03,359 --> 00:01:07,040
+your question
+
+31
+00:01:04,400 --> 00:01:07,840
+if you don't want to ask an oral
+
+32
+00:01:07,040 --> 00:01:11,439
+question
+
+33
+00:01:07,840 --> 00:01:15,680
+please just type it into the zoom chat
+
+34
+00:01:11,439 --> 00:01:17,520
+and add the no mic uh quote to it
+
+35
+00:01:15,680 --> 00:01:18,960
+and then either myself or one of my
+
+36
+00:01:17,520 --> 00:01:22,320
+co-hosts will
+
+37
+00:01:18,960 --> 00:01:25,680
+read out the question uh for you
+
+38
+00:01:22,320 --> 00:01:28,720
+and as usual we're always busy so um
+
+39
+00:01:25,680 --> 00:01:30,079
+please just uh leave if you have to and
+
+40
+00:01:28,720 --> 00:01:31,200
+we all have life going on in the
+
+41
+00:01:30,079 --> 00:01:34,000
+background
+
+42
+00:01:31,200 --> 00:01:36,000
+and at the end of the seminar um we will
+
+43
+00:01:34,000 --> 00:01:37,520
+have a small chance to catch up and
+
+44
+00:01:36,000 --> 00:01:40,000
+socialize with everybody
+
+45
+00:01:37,520 --> 00:01:41,360
+and i should state that at the end of
+
+46
+00:01:40,000 --> 00:01:42,799
+the seminar when we have this little
+
+47
+00:01:41,360 --> 00:01:45,040
+networking socializing
+
+48
+00:01:42,799 --> 00:01:46,479
+uh the recording will be stopped so it's
+
+49
+00:01:45,040 --> 00:01:49,360
+only the seminar
+
+50
+00:01:46,479 --> 00:01:51,520
+and the um question and answer session
+
+51
+00:01:49,360 --> 00:01:54,079
+uh that will be recorded
+
+52
+00:01:51,520 --> 00:01:55,280
+um and so without further ado i will
+
+53
+00:01:54,079 --> 00:01:57,119
+hand over to our
+
+54
+00:01:55,280 --> 00:02:01,119
+uh presenter for today which is kathy
+
+55
+00:01:57,119 --> 00:02:01,119
+whaler from the university of edinburgh
+
+56
+00:02:01,870 --> 00:02:06,640
+[Music]
+
+57
+00:02:04,000 --> 00:02:09,840
+thanks very much greg um i'm hoping i'm
+
+58
+00:02:06,640 --> 00:02:12,160
+sharing my screen now
+
+59
+00:02:09,840 --> 00:02:13,760
+and you can see my presentation is that
+
+60
+00:02:12,160 --> 00:02:17,599
+right
+
+61
+00:02:13,760 --> 00:02:18,300
+uh not at the moment right
+
+62
+00:02:17,599 --> 00:02:21,120
+um
+
+63
+00:02:18,300 --> 00:02:26,640
+[Music]
+
+64
+00:02:21,120 --> 00:02:26,640
+share screen aha let's try this one
+
+65
+00:02:28,480 --> 00:02:31,280
+is that any better
+
+66
+00:02:32,000 --> 00:02:35,200
+yeah that's that's perfect you can see
+
+67
+00:02:33,599 --> 00:02:37,280
+your screen now okay
+
+68
+00:02:35,200 --> 00:02:38,480
+right first of all thanks very much for
+
+69
+00:02:37,280 --> 00:02:41,599
+the opportunity
+
+70
+00:02:38,480 --> 00:02:42,400
+to speak today secondly this is really
+
+71
+00:02:41,599 --> 00:02:45,360
+just um
+
+72
+00:02:42,400 --> 00:02:46,319
+a brief update to a presentation that i
+
+73
+00:02:45,360 --> 00:02:49,360
+gave at the
+
+74
+00:02:46,319 --> 00:02:50,080
+virtual eg meeting so apologies to for
+
+75
+00:02:49,360 --> 00:02:53,120
+those of you
+
+76
+00:02:50,080 --> 00:02:56,400
+who were present at that and
+
+77
+00:02:53,120 --> 00:02:58,879
+just one other small update um i'm
+
+78
+00:02:56,400 --> 00:03:01,599
+informed my co-authors that the jerk is
+
+79
+00:02:58,879 --> 00:03:04,000
+actually very specifically in 2017
+
+80
+00:03:01,599 --> 00:03:06,720
+so i've just changed that uh date from
+
+81
+00:03:04,000 --> 00:03:07,519
+2016 that was in the abstract to 2017
+
+82
+00:03:06,720 --> 00:03:10,720
+here
+
+83
+00:03:07,519 --> 00:03:12,879
+so let's see if i can there we go
+
+84
+00:03:10,720 --> 00:03:13,920
+outline i'm just going to cover where
+
+85
+00:03:12,879 --> 00:03:17,360
+we've got to
+
+86
+00:03:13,920 --> 00:03:19,519
+fro to be at this point um
+
+87
+00:03:17,360 --> 00:03:20,800
+in the research i'll talk a little bit
+
+88
+00:03:19,519 --> 00:03:23,360
+about the data
+
+89
+00:03:20,800 --> 00:03:23,920
+then i'll talk about the inversions that
+
+90
+00:03:23,360 --> 00:03:26,640
+i did
+
+91
+00:03:23,920 --> 00:03:28,239
+to obtain core surface flows in terms of
+
+92
+00:03:26,640 --> 00:03:29,280
+the models and how well they fit the
+
+93
+00:03:28,239 --> 00:03:31,280
+data
+
+94
+00:03:29,280 --> 00:03:32,640
+and then i'll move on specifically to
+
+95
+00:03:31,280 --> 00:03:35,519
+the pacific jerk
+
+96
+00:03:32,640 --> 00:03:36,000
+before including and just to say that
+
+97
+00:03:35,519 --> 00:03:39,760
+this is
+
+98
+00:03:36,000 --> 00:03:39,760
+uh really quite a nice um
+
+99
+00:03:40,000 --> 00:03:44,239
+i mean related to the very first talk in
+
+100
+00:03:42,400 --> 00:03:45,760
+this series by chris davis when he was
+
+101
+00:03:44,239 --> 00:03:48,640
+looking at very rapid
+
+102
+00:03:45,760 --> 00:03:49,280
+changes in field direction and looking
+
+103
+00:03:48,640 --> 00:03:51,360
+at the
+
+104
+00:03:49,280 --> 00:03:53,120
+field dynamics itself and i'm going to
+
+105
+00:03:51,360 --> 00:03:55,040
+do something slightly different look at
+
+106
+00:03:53,120 --> 00:03:56,720
+all three components of the magnetic
+
+107
+00:03:55,040 --> 00:03:59,280
+field from current
+
+108
+00:03:56,720 --> 00:04:00,319
+observations and think about the core
+
+109
+00:03:59,280 --> 00:04:03,680
+surface flow
+
+110
+00:04:00,319 --> 00:04:03,680
+that might explain them
+
+111
+00:04:04,879 --> 00:04:08,720
+so what i'm going to use is virtual
+
+112
+00:04:06,400 --> 00:04:11,040
+observatories or vos
+
+113
+00:04:08,720 --> 00:04:11,760
+and these are a way of reducing large
+
+114
+00:04:11,040 --> 00:04:14,480
+quantities
+
+115
+00:04:11,760 --> 00:04:16,239
+of satellite data to estimates of
+
+116
+00:04:14,480 --> 00:04:18,959
+magnetic field quantities
+
+117
+00:04:16,239 --> 00:04:20,400
+at a set of target points and as a
+
+118
+00:04:18,959 --> 00:04:22,000
+function of flight time
+
+119
+00:04:20,400 --> 00:04:24,400
+so what we're trying to do by this
+
+120
+00:04:22,000 --> 00:04:25,520
+process is to mimic the time series that
+
+121
+00:04:24,400 --> 00:04:28,880
+you obtained from
+
+122
+00:04:25,520 --> 00:04:31,440
+ground observatories so what
+
+123
+00:04:28,880 --> 00:04:33,520
+one uses to produce a vo estimator are
+
+124
+00:04:31,440 --> 00:04:34,160
+data within a vertical cylinder whose
+
+125
+00:04:33,520 --> 00:04:36,560
+axis
+
+126
+00:04:34,160 --> 00:04:37,360
+passes through the target point and then
+
+127
+00:04:36,560 --> 00:04:39,440
+those data
+
+128
+00:04:37,360 --> 00:04:41,840
+are reduced to values at the target
+
+129
+00:04:39,440 --> 00:04:43,280
+point using a potential representation
+
+130
+00:04:41,840 --> 00:04:45,360
+of local
+
+131
+00:04:43,280 --> 00:04:46,960
+potential representation i'm not going
+
+132
+00:04:45,360 --> 00:04:47,600
+to go into any of the details of that
+
+133
+00:04:46,960 --> 00:04:51,120
+here
+
+134
+00:04:47,600 --> 00:04:53,040
+um but just to comment that the dtu
+
+135
+00:04:51,120 --> 00:04:54,800
+group my co-authors have made several
+
+136
+00:04:53,040 --> 00:04:58,400
+key improvements to the
+
+137
+00:04:54,800 --> 00:05:00,080
+vo methodology this includes
+
+138
+00:04:58,400 --> 00:05:02,160
+and this is going to be the focus today
+
+139
+00:05:00,080 --> 00:05:04,479
+producing spatial gradients of the field
+
+140
+00:05:02,160 --> 00:05:06,400
+in addition to the magnetic field and
+
+141
+00:05:04,479 --> 00:05:08,479
+time derivatives of both the field and
+
+142
+00:05:06,400 --> 00:05:11,520
+the field gradients
+
+143
+00:05:08,479 --> 00:05:15,039
+so previously i've demonstrated that the
+
+144
+00:05:11,520 --> 00:05:17,520
+surface sv gradient as well as the esv
+
+145
+00:05:15,039 --> 00:05:19,039
+vo estimates can be used to infer core
+
+146
+00:05:17,520 --> 00:05:21,120
+surface flow
+
+147
+00:05:19,039 --> 00:05:22,800
+and uh shown that the residuals are less
+
+148
+00:05:21,120 --> 00:05:24,880
+biased including in
+
+149
+00:05:22,800 --> 00:05:26,880
+sorry indicating less contamination of
+
+150
+00:05:24,880 --> 00:05:29,120
+the data by external fields
+
+151
+00:05:26,880 --> 00:05:30,000
+this was definitely a problem with some
+
+152
+00:05:29,120 --> 00:05:32,639
+of the earlier
+
+153
+00:05:30,000 --> 00:05:33,680
+vo estimates and by doing a lot of work
+
+154
+00:05:32,639 --> 00:05:36,000
+the dtu
+
+155
+00:05:33,680 --> 00:05:37,120
+group have overcome a lot of those
+
+156
+00:05:36,000 --> 00:05:38,720
+issues
+
+157
+00:05:37,120 --> 00:05:41,039
+and i've shown that the resolution is
+
+158
+00:05:38,720 --> 00:05:44,639
+better for gradient data so i will show
+
+159
+00:05:41,039 --> 00:05:46,479
+um that we can use these gradient data
+
+160
+00:05:44,639 --> 00:05:48,560
+to produce the core surface flows and i
+
+161
+00:05:46,479 --> 00:05:50,080
+will i have got a slide to show about
+
+162
+00:05:48,560 --> 00:05:50,880
+the resolution but i'm not going to talk
+
+163
+00:05:50,080 --> 00:05:55,600
+today about
+
+164
+00:05:50,880 --> 00:05:59,360
+the residuals because of lack of time
+
+165
+00:05:55,600 --> 00:06:02,080
+so these vo estimates are derived from
+
+166
+00:05:59,360 --> 00:06:02,720
+sums and differences of the observations
+
+167
+00:06:02,080 --> 00:06:06,000
+along
+
+168
+00:06:02,720 --> 00:06:08,400
+and across track from the satellite data
+
+169
+00:06:06,000 --> 00:06:10,479
+and they're reduced to a central point
+
+170
+00:06:08,400 --> 00:06:12,479
+using a cubic potential description
+
+171
+00:06:10,479 --> 00:06:15,840
+which is one of the enhancements that
+
+172
+00:06:12,479 --> 00:06:18,000
+dtu group have made and
+
+173
+00:06:15,840 --> 00:06:20,000
+rather than producing monthly values
+
+174
+00:06:18,000 --> 00:06:22,639
+which is what we typically get from
+
+175
+00:06:20,000 --> 00:06:24,720
+observations they're using they're
+
+176
+00:06:22,639 --> 00:06:26,880
+producing four monthly values so that
+
+177
+00:06:24,720 --> 00:06:29,120
+each virtual observatory volume
+
+178
+00:06:26,880 --> 00:06:31,360
+is well sampled so we don't have biases
+
+179
+00:06:29,120 --> 00:06:33,360
+from the satellite orbits during the
+
+180
+00:06:31,360 --> 00:06:35,360
+period that's being studied
+
+181
+00:06:33,360 --> 00:06:37,280
+and then simple annual differences of
+
+182
+00:06:35,360 --> 00:06:39,680
+the field estimates provide
+
+183
+00:06:37,280 --> 00:06:41,680
+secular variation estimates and
+
+184
+00:06:39,680 --> 00:06:42,479
+alongside all of this process you can
+
+185
+00:06:41,680 --> 00:06:45,520
+get
+
+186
+00:06:42,479 --> 00:06:47,520
+reliable uncertainties so the inversions
+
+187
+00:06:45,520 --> 00:06:49,440
+that i've been done again
+
+188
+00:06:47,520 --> 00:06:51,919
+i've done they're going to be weighted
+
+189
+00:06:49,440 --> 00:06:54,639
+by the uncertainties
+
+190
+00:06:51,919 --> 00:06:56,880
+and the optimum arrangement of vo's
+
+191
+00:06:54,639 --> 00:06:57,759
+turns out to be something like 300 so
+
+192
+00:06:56,880 --> 00:07:00,880
+i'm going to be using
+
+193
+00:06:57,759 --> 00:07:03,360
+300 equally spaced vios and in fact i'm
+
+194
+00:07:00,880 --> 00:07:05,199
+going to be using 298 because we don't
+
+195
+00:07:03,360 --> 00:07:08,880
+use gradients from the
+
+196
+00:07:05,199 --> 00:07:11,599
+polar um positions and then the
+
+197
+00:07:08,880 --> 00:07:12,400
+search range i the the diameter of those
+
+198
+00:07:11,599 --> 00:07:15,520
+cylinders
+
+199
+00:07:12,400 --> 00:07:16,400
+is 700 kilometers and the correction
+
+200
+00:07:15,520 --> 00:07:18,400
+that have also
+
+201
+00:07:16,400 --> 00:07:20,479
+helped with improving these estimates is
+
+202
+00:07:18,400 --> 00:07:23,280
+to remove the crustal field
+
+203
+00:07:20,479 --> 00:07:23,840
+remove the external and its induced
+
+204
+00:07:23,280 --> 00:07:27,039
+field
+
+205
+00:07:23,840 --> 00:07:28,800
+and reduce um remove the ionospheric
+
+206
+00:07:27,039 --> 00:07:30,880
+plus its induced
+
+207
+00:07:28,800 --> 00:07:34,000
+field estimate as well as part of the
+
+208
+00:07:30,880 --> 00:07:34,000
+processing chain
+
+209
+00:07:34,080 --> 00:07:39,599
+and here is an example from these 300
+
+210
+00:07:37,840 --> 00:07:42,560
+virtual observatories
+
+211
+00:07:39,599 --> 00:07:42,880
+of one of the secular variation gradient
+
+212
+00:07:42,560 --> 00:07:46,319
+time
+
+213
+00:07:42,880 --> 00:07:48,720
+series so this is the time derivative
+
+214
+00:07:46,319 --> 00:07:49,759
+of the radial component in the radial
+
+215
+00:07:48,720 --> 00:07:51,919
+direction
+
+216
+00:07:49,759 --> 00:07:53,360
+and you'll be seeing the other five
+
+217
+00:07:51,919 --> 00:07:56,240
+independent components
+
+218
+00:07:53,360 --> 00:07:56,800
+later on so the red dots on the screen
+
+219
+00:07:56,240 --> 00:07:59,039
+here
+
+220
+00:07:56,800 --> 00:08:00,720
+are the positions the virtual
+
+221
+00:07:59,039 --> 00:08:02,240
+observatories they don't look equally
+
+222
+00:08:00,720 --> 00:08:04,639
+spaced here but that's just the
+
+223
+00:08:02,240 --> 00:08:08,000
+projection that's been chosen
+
+224
+00:08:04,639 --> 00:08:09,280
+and the blue dots either side of those
+
+225
+00:08:08,000 --> 00:08:11,520
+red dots are the time
+
+226
+00:08:09,280 --> 00:08:13,199
+series so you can see the kind of
+
+227
+00:08:11,520 --> 00:08:14,080
+variation and then in the bottom left
+
+228
+00:08:13,199 --> 00:08:18,240
+here
+
+229
+00:08:14,080 --> 00:08:19,680
+is the um scale so this is 20 pico
+
+230
+00:08:18,240 --> 00:08:23,440
+teslas per kilometer
+
+231
+00:08:19,680 --> 00:08:24,319
+per year and the time span is 2014 to
+
+232
+00:08:23,440 --> 00:08:28,240
+about 23
+
+233
+00:08:24,319 --> 00:08:29,599
+20 19. okay and as i said these are four
+
+234
+00:08:28,240 --> 00:08:32,000
+monthly estimates
+
+235
+00:08:29,599 --> 00:08:33,599
+and the black ellipse here we're going
+
+236
+00:08:32,000 --> 00:08:36,080
+to be looking at the fits
+
+237
+00:08:33,599 --> 00:08:40,640
+to the data at this virtual observatory
+
+238
+00:08:36,080 --> 00:08:44,000
+a little bit later on
+
+239
+00:08:40,640 --> 00:08:46,000
+um the 2017 pacific jerk
+
+240
+00:08:44,000 --> 00:08:48,080
+um i should have pointed this out of
+
+241
+00:08:46,000 --> 00:08:49,120
+course you can see that there's really
+
+242
+00:08:48,080 --> 00:08:51,600
+quite a sudden
+
+243
+00:08:49,120 --> 00:08:53,040
+change in this particular component in
+
+244
+00:08:51,600 --> 00:08:55,120
+the pacific region
+
+245
+00:08:53,040 --> 00:08:57,360
+at about the middle of that time series
+
+246
+00:08:55,120 --> 00:09:00,080
+which means it is about 2017.
+
+247
+00:08:57,360 --> 00:09:02,080
+okay and you can also see that in the
+
+248
+00:09:00,080 --> 00:09:03,040
+secular variation data themselves so
+
+249
+00:09:02,080 --> 00:09:06,480
+here data from
+
+250
+00:09:03,040 --> 00:09:08,880
+honolulu observatory the radio
+
+251
+00:09:06,480 --> 00:09:10,959
+the north south and the east-west
+
+252
+00:09:08,880 --> 00:09:12,880
+component of the magnetic field there or
+
+253
+00:09:10,959 --> 00:09:15,839
+sorry the secular ocean there
+
+254
+00:09:12,880 --> 00:09:17,279
+so now in nanoteslas per year and again
+
+255
+00:09:15,839 --> 00:09:20,320
+you can see this very
+
+256
+00:09:17,279 --> 00:09:22,160
+sudden change in around 2017
+
+257
+00:09:20,320 --> 00:09:24,080
+and certainly these two components and
+
+258
+00:09:22,160 --> 00:09:26,000
+in some extent also into the
+
+259
+00:09:24,080 --> 00:09:27,600
+in the fight components as well as the
+
+260
+00:09:26,000 --> 00:09:31,440
+second variation
+
+261
+00:09:27,600 --> 00:09:32,399
+so this is a locally um well-defined
+
+262
+00:09:31,440 --> 00:09:34,480
+feature
+
+263
+00:09:32,399 --> 00:09:36,480
+and i'm showing just the observatory
+
+264
+00:09:34,480 --> 00:09:37,600
+data here but you can also see in the
+
+265
+00:09:36,480 --> 00:09:40,959
+secular variation
+
+266
+00:09:37,600 --> 00:09:43,920
+vo data as well
+
+267
+00:09:40,959 --> 00:09:44,880
+so what kind of flows do we need to
+
+268
+00:09:43,920 --> 00:09:47,279
+explain
+
+269
+00:09:44,880 --> 00:09:49,600
+these changes the way we do this is we
+
+270
+00:09:47,279 --> 00:09:51,760
+assume the magnetic field is frozen into
+
+271
+00:09:49,600 --> 00:09:54,320
+the fluid at the top of the outer core
+
+272
+00:09:51,760 --> 00:09:55,839
+that means that we are assuming magnetic
+
+273
+00:09:54,320 --> 00:09:59,040
+diffusion is negligible
+
+274
+00:09:55,839 --> 00:10:01,200
+and as a result the field lines track
+
+275
+00:09:59,040 --> 00:10:02,000
+the flow which i've tried to illustrate
+
+276
+00:10:01,200 --> 00:10:04,720
+in this
+
+277
+00:10:02,000 --> 00:10:05,519
+little slide so we've got two times t1
+
+278
+00:10:04,720 --> 00:10:08,640
+here
+
+279
+00:10:05,519 --> 00:10:10,000
+and t2 here this black line here is the
+
+280
+00:10:08,640 --> 00:10:11,760
+core mental boundary
+
+281
+00:10:10,000 --> 00:10:14,079
+and we're looking at a cross section
+
+282
+00:10:11,760 --> 00:10:16,079
+through it so here's the out liquid
+
+283
+00:10:14,079 --> 00:10:19,040
+outer corner here's the mental above
+
+284
+00:10:16,079 --> 00:10:20,560
+and these red and blue lines here are
+
+285
+00:10:19,040 --> 00:10:22,959
+the field lines that thread the core
+
+286
+00:10:20,560 --> 00:10:24,800
+metal boundary so here the field is
+
+287
+00:10:22,959 --> 00:10:26,560
+leaving the core here it's entering the
+
+288
+00:10:24,800 --> 00:10:29,920
+core and i've imagined
+
+289
+00:10:26,560 --> 00:10:32,800
+a flow pattern underneath so because
+
+290
+00:10:29,920 --> 00:10:34,079
+uh field lines are tied to the parcels
+
+291
+00:10:32,800 --> 00:10:37,519
+of fluid
+
+292
+00:10:34,079 --> 00:10:39,279
+um on the core side as the fluid moves
+
+293
+00:10:37,519 --> 00:10:41,040
+it drags the field lines along with it
+
+294
+00:10:39,279 --> 00:10:42,880
+so if we've got a simple flow like this
+
+295
+00:10:41,040 --> 00:10:44,320
+it's just going to move
+
+296
+00:10:42,880 --> 00:10:46,079
+the pattern around so it's going to
+
+297
+00:10:44,320 --> 00:10:49,600
+drift the pattern between
+
+298
+00:10:46,079 --> 00:10:51,279
+time t1 and time t2 in the lower half
+
+299
+00:10:49,600 --> 00:10:54,079
+here we've got a different kind of
+
+300
+00:10:51,279 --> 00:10:56,800
+scenario where i'm imagining converging
+
+301
+00:10:54,079 --> 00:10:59,120
+flow at the core surface and that
+
+302
+00:10:56,800 --> 00:11:01,000
+results then by dragging the field lines
+
+303
+00:10:59,120 --> 00:11:03,600
+together in a local field
+
+304
+00:11:01,000 --> 00:11:04,560
+intensification so this is the idea
+
+305
+00:11:03,600 --> 00:11:07,600
+behind
+
+306
+00:11:04,560 --> 00:11:08,160
+using the objective flow assumption to
+
+307
+00:11:07,600 --> 00:11:11,440
+derive
+
+308
+00:11:08,160 --> 00:11:13,040
+the core surface flow so the equation
+
+309
+00:11:11,440 --> 00:11:14,560
+that derives that is here
+
+310
+00:11:13,040 --> 00:11:16,320
+so it says the rate of change of the
+
+311
+00:11:14,560 --> 00:11:18,000
+field or the secular version they give
+
+312
+00:11:16,320 --> 00:11:21,120
+pardon
+
+313
+00:11:18,000 --> 00:11:22,160
+too many clicks um is an interaction
+
+314
+00:11:21,120 --> 00:11:25,279
+between the flow
+
+315
+00:11:22,160 --> 00:11:26,560
+acting on the field so what we're going
+
+316
+00:11:25,279 --> 00:11:28,480
+to do is we're going to look at the
+
+317
+00:11:26,560 --> 00:11:31,120
+radial component of this
+
+318
+00:11:28,480 --> 00:11:32,880
+equation here at the core surface treat
+
+319
+00:11:31,120 --> 00:11:34,880
+it as an inverse problem
+
+320
+00:11:32,880 --> 00:11:36,480
+for the flow which has no radial
+
+321
+00:11:34,880 --> 00:11:38,480
+component at the core surface
+
+322
+00:11:36,480 --> 00:11:39,839
+because it's a material boundary so
+
+323
+00:11:38,480 --> 00:11:41,600
+we're going to look at the north south
+
+324
+00:11:39,839 --> 00:11:44,000
+and the east-west components
+
+325
+00:11:41,600 --> 00:11:45,440
+and we're going to derive them from the
+
+326
+00:11:44,000 --> 00:11:47,200
+secular variation but in fact we're
+
+327
+00:11:45,440 --> 00:11:48,880
+going to derive them from the spatial
+
+328
+00:11:47,200 --> 00:11:49,360
+gradients and the second operation of
+
+329
+00:11:48,880 --> 00:11:52,160
+those
+
+330
+00:11:49,360 --> 00:11:54,240
+satellite virtual observatories and we
+
+331
+00:11:52,160 --> 00:11:55,839
+assume within this process that the main
+
+332
+00:11:54,240 --> 00:11:58,000
+field is perfectly known and i've just
+
+333
+00:11:55,839 --> 00:12:00,560
+chosen to specify it like the chaos
+
+334
+00:11:58,000 --> 00:12:02,959
+model at the time instant each time
+
+335
+00:12:00,560 --> 00:12:03,920
+and i'm going to get a time series of
+
+336
+00:12:02,959 --> 00:12:06,959
+the flow by
+
+337
+00:12:03,920 --> 00:12:08,720
+minimizing the tempo and the spatial
+
+338
+00:12:06,959 --> 00:12:10,320
+complexity of the phone i'll talk a
+
+339
+00:12:08,720 --> 00:12:12,639
+little bit about that more about that
+
+340
+00:12:10,320 --> 00:12:14,399
+later on
+
+341
+00:12:12,639 --> 00:12:15,920
+so what we actually do is we expand
+
+342
+00:12:14,399 --> 00:12:18,079
+everything the field itself
+
+343
+00:12:15,920 --> 00:12:19,760
+the secular ovation and potentials
+
+344
+00:12:18,079 --> 00:12:21,200
+representing the flow in terms of
+
+345
+00:12:19,760 --> 00:12:23,360
+spherical harmonics
+
+346
+00:12:21,200 --> 00:12:24,720
+and that allows us to seek solutions for
+
+347
+00:12:23,360 --> 00:12:26,800
+the coefficients
+
+348
+00:12:24,720 --> 00:12:29,440
+of these potential expansions of the
+
+349
+00:12:26,800 --> 00:12:31,200
+flow which are linearly related
+
+350
+00:12:29,440 --> 00:12:34,560
+to the secularization of the secular
+
+351
+00:12:31,200 --> 00:12:34,560
+variation gradient data
+
+352
+00:12:35,360 --> 00:12:39,120
+so i said a little bit more about i said
+
+353
+00:12:37,600 --> 00:12:40,639
+earlier we're going to minimize the
+
+354
+00:12:39,120 --> 00:12:43,200
+spatial and the temporal correct
+
+355
+00:12:40,639 --> 00:12:45,440
+complexity of the flow so the way we do
+
+356
+00:12:43,200 --> 00:12:46,480
+that or regularizing it is we minimize
+
+357
+00:12:45,440 --> 00:12:49,040
+the epoxy
+
+358
+00:12:46,480 --> 00:12:50,639
+crop flow changes in each of our flow
+
+359
+00:12:49,040 --> 00:12:53,839
+coefficients
+
+360
+00:12:50,639 --> 00:12:56,079
+and either minimize one of these three
+
+361
+00:12:53,839 --> 00:12:58,639
+measures of the spatial complexity
+
+362
+00:12:56,079 --> 00:12:59,519
+of the flow so the first choice possible
+
+363
+00:12:58,639 --> 00:13:02,880
+choice is to
+
+364
+00:12:59,519 --> 00:13:05,360
+minimize the kinetic energy the second
+
+365
+00:13:02,880 --> 00:13:06,320
+is what's become known these days as the
+
+366
+00:13:05,360 --> 00:13:08,000
+strong norm
+
+367
+00:13:06,320 --> 00:13:10,079
+we're going to minimize the root mean
+
+368
+00:13:08,000 --> 00:13:10,959
+square second spatial derivatives and
+
+369
+00:13:10,079 --> 00:13:13,680
+i'm not going to be
+
+370
+00:13:10,959 --> 00:13:16,000
+more explicit than that and the third
+
+371
+00:13:13,680 --> 00:13:18,160
+choice this was um
+
+372
+00:13:16,000 --> 00:13:19,760
+a regularization i derived when i first
+
+373
+00:13:18,160 --> 00:13:21,120
+started looking at flows for a
+
+374
+00:13:19,760 --> 00:13:24,160
+completely different reason
+
+375
+00:13:21,120 --> 00:13:25,360
+but what we can do is say right i would
+
+376
+00:13:24,160 --> 00:13:27,760
+like to minimize
+
+377
+00:13:25,360 --> 00:13:29,600
+the amount of secular variation that the
+
+378
+00:13:27,760 --> 00:13:30,639
+flow generates when it interacts with
+
+379
+00:13:29,600 --> 00:13:32,720
+the field
+
+380
+00:13:30,639 --> 00:13:34,720
+so what i've actually chosen to is in
+
+381
+00:13:32,720 --> 00:13:38,000
+fact to minimize the root mean square
+
+382
+00:13:34,720 --> 00:13:40,880
+radial circulation so three really quite
+
+383
+00:13:38,000 --> 00:13:42,880
+different measures of spatial complexity
+
+384
+00:13:40,880 --> 00:13:44,079
+but what i hope to convince you of by
+
+385
+00:13:42,880 --> 00:13:46,160
+the end of the talk
+
+386
+00:13:44,079 --> 00:13:48,240
+is that they each require the same kind
+
+387
+00:13:46,160 --> 00:13:51,519
+of flow accelerations
+
+388
+00:13:48,240 --> 00:13:52,399
+to fit the data and in particular to
+
+389
+00:13:51,519 --> 00:13:56,320
+explain that
+
+390
+00:13:52,399 --> 00:13:58,880
+pacific junk so
+
+391
+00:13:56,320 --> 00:13:59,760
+very quickly moving on to the results i
+
+392
+00:13:58,880 --> 00:14:02,240
+was able to
+
+393
+00:13:59,760 --> 00:14:03,440
+obtain a minimum normalized misfit of
+
+394
+00:14:02,240 --> 00:14:05,680
+1.2
+
+395
+00:14:03,440 --> 00:14:07,760
+and the flows presented here have that
+
+396
+00:14:05,680 --> 00:14:08,399
+value so obviously that's slightly above
+
+397
+00:14:07,760 --> 00:14:11,279
+the
+
+398
+00:14:08,399 --> 00:14:13,279
+optimum value of one but remember that
+
+399
+00:14:11,279 --> 00:14:15,839
+we are neglecting diffusion
+
+400
+00:14:13,279 --> 00:14:17,120
+and so on and so forth so i was fairly
+
+401
+00:14:15,839 --> 00:14:20,079
+content with a
+
+402
+00:14:17,120 --> 00:14:20,800
+normalized misfit of 1.2 now i'm going
+
+403
+00:14:20,079 --> 00:14:23,440
+to show you
+
+404
+00:14:20,800 --> 00:14:25,040
+a movie of the flow globally in a moment
+
+405
+00:14:23,440 --> 00:14:26,959
+it shows the usual features
+
+406
+00:14:25,040 --> 00:14:29,440
+such as the band of westward flow
+
+407
+00:14:26,959 --> 00:14:31,680
+beneath the atlantic ocean
+
+408
+00:14:29,440 --> 00:14:33,920
+slower flow beneath the pacific ocean
+
+409
+00:14:31,680 --> 00:14:36,560
+because in general secular variation is
+
+410
+00:14:33,920 --> 00:14:37,199
+uh weaker there and the eccentric
+
+411
+00:14:36,560 --> 00:14:39,839
+planetary
+
+412
+00:14:37,199 --> 00:14:40,560
+gyre and what you'll see is that few
+
+413
+00:14:39,839 --> 00:14:43,120
+globally
+
+414
+00:14:40,560 --> 00:14:44,959
+very little flow changes are required to
+
+415
+00:14:43,120 --> 00:14:47,920
+achieve this misfit
+
+416
+00:14:44,959 --> 00:14:49,279
+over the um five years or so of swarm
+
+417
+00:14:47,920 --> 00:14:52,399
+data that i've
+
+418
+00:14:49,279 --> 00:14:54,240
+looked at so here is the flow and
+
+419
+00:14:52,399 --> 00:14:56,160
+uh this was actually obtained with the
+
+420
+00:14:54,240 --> 00:14:56,800
+minimizing the kinetic energy in the
+
+421
+00:14:56,160 --> 00:14:58,240
+flow
+
+422
+00:14:56,800 --> 00:15:00,240
+and just to give you an idea of the
+
+423
+00:14:58,240 --> 00:15:02,560
+scale the root mean square
+
+424
+00:15:00,240 --> 00:15:03,279
+flow speed is about eight kilometers per
+
+425
+00:15:02,560 --> 00:15:06,639
+year so
+
+426
+00:15:03,279 --> 00:15:09,760
+here's the eccentric planetary gyre
+
+427
+00:15:06,639 --> 00:15:11,040
+here's the band of westwood flow in this
+
+428
+00:15:09,760 --> 00:15:12,320
+sort of western hemisphere of the
+
+429
+00:15:11,040 --> 00:15:15,120
+hemisphere
+
+430
+00:15:12,320 --> 00:15:15,760
+centered on greenwich longitude and here
+
+431
+00:15:15,120 --> 00:15:18,639
+is the
+
+432
+00:15:15,760 --> 00:15:20,480
+lower much weaker flow slower flow in
+
+433
+00:15:18,639 --> 00:15:23,680
+the pacific hemisphere
+
+434
+00:15:20,480 --> 00:15:25,760
+and this is the rather boring movie that
+
+435
+00:15:23,680 --> 00:15:27,839
+puts that results from that i'll just
+
+436
+00:15:25,760 --> 00:15:30,000
+play it one more time
+
+437
+00:15:27,839 --> 00:15:31,360
+okay but we'll see later when we hang in
+
+438
+00:15:30,000 --> 00:15:32,880
+on the pacific that there is a little
+
+439
+00:15:31,360 --> 00:15:37,120
+bit more detail to be seen
+
+440
+00:15:32,880 --> 00:15:38,560
+there okay so before i do that i'll show
+
+441
+00:15:37,120 --> 00:15:41,199
+you how well these data
+
+442
+00:15:38,560 --> 00:15:42,160
+fit um how did well these models predict
+
+443
+00:15:41,199 --> 00:15:43,839
+the data
+
+444
+00:15:42,160 --> 00:15:45,680
+so we're going to look at the six
+
+445
+00:15:43,839 --> 00:15:47,519
+independent gradient components at that
+
+446
+00:15:45,680 --> 00:15:49,920
+virtual observatory i
+
+447
+00:15:47,519 --> 00:15:50,880
+marked with the black ellipse earlier
+
+448
+00:15:49,920 --> 00:15:53,040
+and
+
+449
+00:15:50,880 --> 00:15:54,000
+look at the predictions by the three
+
+450
+00:15:53,040 --> 00:15:56,639
+flows that
+
+451
+00:15:54,000 --> 00:15:58,240
+um using those three different spatial
+
+452
+00:15:56,639 --> 00:16:01,600
+regularizations and again
+
+453
+00:15:58,240 --> 00:16:03,680
+units pico teslas per kilometer per year
+
+454
+00:16:01,600 --> 00:16:05,040
+vertical scales you'll see vary from
+
+455
+00:16:03,680 --> 00:16:07,839
+plot to plot
+
+456
+00:16:05,040 --> 00:16:08,720
+okay now the predictions of the
+
+457
+00:16:07,839 --> 00:16:11,440
+differently
+
+458
+00:16:08,720 --> 00:16:12,959
+spatially regularized solutions feel fit
+
+459
+00:16:11,440 --> 00:16:15,040
+equally well globally
+
+460
+00:16:12,959 --> 00:16:17,279
+but they differ a little as you'll see
+
+461
+00:16:15,040 --> 00:16:19,519
+at the virtual observatory location
+
+462
+00:16:17,279 --> 00:16:21,839
+and you'll also note that regularized
+
+463
+00:16:19,519 --> 00:16:23,040
+flows under predict the amplitude of the
+
+464
+00:16:21,839 --> 00:16:25,920
+signal slightly
+
+465
+00:16:23,040 --> 00:16:27,360
+and relaxing regularization doesn't help
+
+466
+00:16:25,920 --> 00:16:29,759
+in any substantial
+
+467
+00:16:27,360 --> 00:16:31,680
+fashion so this is the component we were
+
+468
+00:16:29,759 --> 00:16:34,880
+looking at before in the top right
+
+469
+00:16:31,680 --> 00:16:39,759
+we are our component of secular ovation
+
+470
+00:16:34,880 --> 00:16:42,079
+um again 2014 to 2019 the blue dots here
+
+471
+00:16:39,759 --> 00:16:44,240
+are the data themselves and then the
+
+472
+00:16:42,079 --> 00:16:46,720
+three curves in orange grey
+
+473
+00:16:44,240 --> 00:16:49,040
+and yellow are the predictions of those
+
+474
+00:16:46,720 --> 00:16:51,680
+three different spatial complexity
+
+475
+00:16:49,040 --> 00:16:53,600
+norms so this is the strong norm the
+
+476
+00:16:51,680 --> 00:16:55,279
+strongest regularization
+
+477
+00:16:53,600 --> 00:16:57,680
+the kinetic energy norm you've just seen
+
+478
+00:16:55,279 --> 00:16:58,720
+the flow for that and the radial second
+
+479
+00:16:57,680 --> 00:17:01,279
+ovation norm
+
+480
+00:16:58,720 --> 00:17:02,000
+which i'll also show you flows for later
+
+481
+00:17:01,279 --> 00:17:03,920
+okay
+
+482
+00:17:02,000 --> 00:17:06,160
+so you can see that we're following the
+
+483
+00:17:03,920 --> 00:17:08,079
+trends in general as i say here
+
+484
+00:17:06,160 --> 00:17:10,079
+here for example you can see how we're
+
+485
+00:17:08,079 --> 00:17:11,679
+under predicting the amplitudes
+
+486
+00:17:10,079 --> 00:17:13,360
+this scale is here is a little bit
+
+487
+00:17:11,679 --> 00:17:15,679
+smaller but then you'll see these are
+
+488
+00:17:13,360 --> 00:17:17,679
+rather scattered data as well
+
+489
+00:17:15,679 --> 00:17:19,679
+and here and that is another example of
+
+490
+00:17:17,679 --> 00:17:22,640
+where we're under predicting the data
+
+491
+00:17:19,679 --> 00:17:23,280
+but those three flows do roughly equal
+
+492
+00:17:22,640 --> 00:17:24,959
+jobs in
+
+493
+00:17:23,280 --> 00:17:26,559
+fitting the data so i hope you can
+
+494
+00:17:24,959 --> 00:17:30,720
+believe that globally
+
+495
+00:17:26,559 --> 00:17:30,720
+they fit to it at the same extent
+
+496
+00:17:31,039 --> 00:17:35,360
+okay so let's look at the pacific jerk
+
+497
+00:17:33,760 --> 00:17:36,960
+in 2017
+
+498
+00:17:35,360 --> 00:17:38,799
+and i'll try to convince you that
+
+499
+00:17:36,960 --> 00:17:41,440
+there's a localized increase
+
+500
+00:17:38,799 --> 00:17:43,200
+in eastwood flow speed particularly in
+
+501
+00:17:41,440 --> 00:17:44,320
+the western part of the pacific north of
+
+502
+00:17:43,200 --> 00:17:46,240
+the equator
+
+503
+00:17:44,320 --> 00:17:47,919
+and there's a westward acceleration
+
+504
+00:17:46,240 --> 00:17:51,360
+south of the equator
+
+505
+00:17:47,919 --> 00:17:52,799
+and these flow changes are inserted in
+
+506
+00:17:51,360 --> 00:17:54,880
+sensitive to the form of spatial
+
+507
+00:17:52,799 --> 00:17:56,559
+regularization the flows themselves are
+
+508
+00:17:54,880 --> 00:17:59,760
+really quite different so
+
+509
+00:17:56,559 --> 00:18:01,200
+i was quite stunned when i found that
+
+510
+00:17:59,760 --> 00:18:04,480
+the changes themselves
+
+511
+00:18:01,200 --> 00:18:09,039
+are very very similar
+
+512
+00:18:04,480 --> 00:18:12,080
+so this is the pacific region here um
+
+513
+00:18:09,039 --> 00:18:13,679
+and this is the strong norm flow and
+
+514
+00:18:12,080 --> 00:18:15,679
+again i'm going to show you a video i've
+
+515
+00:18:13,679 --> 00:18:17,200
+put lots more arrows on here to look at
+
+516
+00:18:15,679 --> 00:18:19,840
+this small region
+
+517
+00:18:17,200 --> 00:18:20,720
+and i hope if i play it again you'll see
+
+518
+00:18:19,840 --> 00:18:23,600
+how this
+
+519
+00:18:20,720 --> 00:18:24,320
+eastwood flow here is intensifying at
+
+520
+00:18:23,600 --> 00:18:26,799
+around
+
+521
+00:18:24,320 --> 00:18:27,360
+jerk speed time okay there are some
+
+522
+00:18:26,799 --> 00:18:29,360
+other
+
+523
+00:18:27,360 --> 00:18:31,679
+notable changes over this side as well
+
+524
+00:18:29,360 --> 00:18:34,400
+but to explain the pacific
+
+525
+00:18:31,679 --> 00:18:36,000
+uh jerk you know in this region um we're
+
+526
+00:18:34,400 --> 00:18:37,280
+probably looking at these kind of
+
+527
+00:18:36,000 --> 00:18:40,480
+pictures here
+
+528
+00:18:37,280 --> 00:18:42,320
+i'll play one more time okay
+
+529
+00:18:40,480 --> 00:18:44,799
+so that's really quite a pronounced
+
+530
+00:18:42,320 --> 00:18:44,799
+feature
+
+531
+00:18:45,919 --> 00:18:49,280
+now these are the flows for different
+
+532
+00:18:48,559 --> 00:18:51,440
+spatial
+
+533
+00:18:49,280 --> 00:18:53,760
+regularizations i've just chosen one
+
+534
+00:18:51,440 --> 00:18:56,160
+epoch from within that you've seen how
+
+535
+00:18:53,760 --> 00:18:58,080
+little temporal variability there is so
+
+536
+00:18:56,160 --> 00:19:00,000
+this is the kinetic energy norm
+
+537
+00:18:58,080 --> 00:19:02,000
+this is the strong norm so you'll see
+
+538
+00:19:00,000 --> 00:19:03,120
+that we're more strongly regularized so
+
+539
+00:19:02,000 --> 00:19:05,679
+we're allowing
+
+540
+00:19:03,120 --> 00:19:07,600
+less spatial structure than within the
+
+541
+00:19:05,679 --> 00:19:10,400
+connect with the kinetic energy norm
+
+542
+00:19:07,600 --> 00:19:12,160
+and this has got a reference vector on
+
+543
+00:19:10,400 --> 00:19:15,039
+which applies to all three
+
+544
+00:19:12,160 --> 00:19:17,280
+and this is the flow that minimizes the
+
+545
+00:19:15,039 --> 00:19:19,679
+amount of radial circular evolution
+
+546
+00:19:17,280 --> 00:19:21,919
+when it acts on the magnetic field and
+
+547
+00:19:19,679 --> 00:19:25,120
+you'll see it's quite a bit stronger
+
+548
+00:19:21,919 --> 00:19:26,160
+um certainly there's no real sense of
+
+549
+00:19:25,120 --> 00:19:28,799
+weaker
+
+550
+00:19:26,160 --> 00:19:29,360
+slower flow beneath the pacific um in
+
+551
+00:19:28,799 --> 00:19:30,880
+general
+
+552
+00:19:29,360 --> 00:19:32,480
+although there are some places where
+
+553
+00:19:30,880 --> 00:19:36,320
+that's true and the
+
+554
+00:19:32,480 --> 00:19:38,400
+the eccentric gyrus is less well-defined
+
+555
+00:19:36,320 --> 00:19:40,559
+i would say and there are some other
+
+556
+00:19:38,400 --> 00:19:43,280
+really quite strange
+
+557
+00:19:40,559 --> 00:19:44,400
+rapid sorry small scale upwellings and
+
+558
+00:19:43,280 --> 00:19:45,600
+downwards so
+
+559
+00:19:44,400 --> 00:19:48,320
+i'm not suggesting that that's
+
+560
+00:19:45,600 --> 00:19:50,559
+necessarily a physically realistic flow
+
+561
+00:19:48,320 --> 00:19:52,000
+but it's again one that fits the data
+
+562
+00:19:50,559 --> 00:19:55,200
+and we will again we will see
+
+563
+00:19:52,000 --> 00:19:57,440
+shortly that the changes that we need to
+
+564
+00:19:55,200 --> 00:19:59,200
+explain the data with this flow are the
+
+565
+00:19:57,440 --> 00:20:01,600
+same essentially as with these two
+
+566
+00:19:59,200 --> 00:20:03,840
+planes as well
+
+567
+00:20:01,600 --> 00:20:04,799
+okay so the way i'm going to try and
+
+568
+00:20:03,840 --> 00:20:07,600
+show you that is
+
+569
+00:20:04,799 --> 00:20:09,919
+by calculating the acceleration and i've
+
+570
+00:20:07,600 --> 00:20:12,000
+just done that as successive
+
+571
+00:20:09,919 --> 00:20:14,240
+flow differences so i'll take i've
+
+572
+00:20:12,000 --> 00:20:16,400
+subtracted
+
+573
+00:20:14,240 --> 00:20:18,559
+the epoch before from a given epoch and
+
+574
+00:20:16,400 --> 00:20:20,159
+use that to define the acceleration
+
+575
+00:20:18,559 --> 00:20:22,240
+and i've not done any smoothing or
+
+576
+00:20:20,159 --> 00:20:23,760
+anything like that and you can also see
+
+577
+00:20:22,240 --> 00:20:27,360
+these same kind of differences
+
+578
+00:20:23,760 --> 00:20:29,039
+these um features if we look at the
+
+579
+00:20:27,360 --> 00:20:30,799
+differences from the mean and i do have
+
+580
+00:20:29,039 --> 00:20:32,880
+videos of those at the end
+
+581
+00:20:30,799 --> 00:20:35,520
+and they're slightly less noisy than the
+
+582
+00:20:32,880 --> 00:20:38,880
+acceleration as you can imagine
+
+583
+00:20:35,520 --> 00:20:40,400
+okay so here's the flow acceleration for
+
+584
+00:20:38,880 --> 00:20:43,520
+the struggle
+
+585
+00:20:40,400 --> 00:20:45,760
+i apologize the scale vector is uh
+
+586
+00:20:43,520 --> 00:20:47,200
+factor three too large which you can't
+
+587
+00:20:45,760 --> 00:20:48,080
+really see it very well anyway so i'm
+
+588
+00:20:47,200 --> 00:20:51,360
+going to play
+
+589
+00:20:48,080 --> 00:20:53,360
+this movie okay
+
+590
+00:20:51,360 --> 00:20:55,840
+and you can see around the jerk time
+
+591
+00:20:53,360 --> 00:20:57,520
+this start this feature starts to show
+
+592
+00:20:55,840 --> 00:20:59,200
+this eastwood acceleration and in fact
+
+593
+00:20:57,520 --> 00:21:02,480
+there's a counterbalancing
+
+594
+00:20:59,200 --> 00:21:04,240
+um westward acceleration to this and
+
+595
+00:21:02,480 --> 00:21:06,559
+slightly off to the southwest and these
+
+596
+00:21:04,240 --> 00:21:08,559
+features also seem to be robust
+
+597
+00:21:06,559 --> 00:21:10,559
+between the three different workflow
+
+598
+00:21:08,559 --> 00:21:11,600
+regularized stations i've chosen so i'll
+
+599
+00:21:10,559 --> 00:21:14,240
+play this
+
+600
+00:21:11,600 --> 00:21:16,400
+one more time okay we'll see some other
+
+601
+00:21:14,240 --> 00:21:18,240
+circulations giants
+
+602
+00:21:16,400 --> 00:21:20,559
+in the acceleration show up here as well
+
+603
+00:21:18,240 --> 00:21:22,640
+as we as we go through the time sequence
+
+604
+00:21:20,559 --> 00:21:24,559
+but that's the strong law here's the
+
+605
+00:21:22,640 --> 00:21:27,200
+kinetic energy norm you'll see there's
+
+606
+00:21:24,559 --> 00:21:28,840
+slightly more energy in uh converging
+
+607
+00:21:27,200 --> 00:21:30,799
+and diverging
+
+608
+00:21:28,840 --> 00:21:32,320
+accelerations which is slightly
+
+609
+00:21:30,799 --> 00:21:35,360
+difficult to get your head around
+
+610
+00:21:32,320 --> 00:21:37,600
+your mind and again we see at the end
+
+611
+00:21:35,360 --> 00:21:39,039
+an eastwood acceleration here westward
+
+612
+00:21:37,600 --> 00:21:42,880
+acceleration here
+
+613
+00:21:39,039 --> 00:21:46,080
+south westward and here northeast here
+
+614
+00:21:42,880 --> 00:21:48,080
+as we saw in the last one with some
+
+615
+00:21:46,080 --> 00:21:50,240
+other features that are consistent
+
+616
+00:21:48,080 --> 00:21:51,919
+in between but it's hard to stop the
+
+617
+00:21:50,240 --> 00:21:55,840
+video reliably to
+
+618
+00:21:51,919 --> 00:21:57,520
+to show you those and finally the um
+
+619
+00:21:55,840 --> 00:21:59,039
+the norm that produces a slightly
+
+620
+00:21:57,520 --> 00:22:00,640
+strange flow
+
+621
+00:21:59,039 --> 00:22:02,559
+uh that minimizes the amount of
+
+622
+00:22:00,640 --> 00:22:04,480
+predicted circulation and again you'll
+
+623
+00:22:02,559 --> 00:22:06,400
+see the snapshot here showing a very
+
+624
+00:22:04,480 --> 00:22:08,960
+similar feature
+
+625
+00:22:06,400 --> 00:22:09,600
+acceleration at the start and as we go
+
+626
+00:22:08,960 --> 00:22:11,679
+through
+
+627
+00:22:09,600 --> 00:22:12,720
+very similar acceleration the end south
+
+628
+00:22:11,679 --> 00:22:14,799
+westward here
+
+629
+00:22:12,720 --> 00:22:17,440
+north eastward here eastward and
+
+630
+00:22:14,799 --> 00:22:17,440
+westward there
+
+631
+00:22:17,760 --> 00:22:22,960
+so i i would claim that we've um
+
+632
+00:22:20,960 --> 00:22:25,039
+identified features of the flow or
+
+633
+00:22:22,960 --> 00:22:25,520
+changes in the flow that are required to
+
+634
+00:22:25,039 --> 00:22:28,240
+fit
+
+635
+00:22:25,520 --> 00:22:30,400
+those circulation gradient data so we've
+
+636
+00:22:28,240 --> 00:22:32,960
+produced satisfactory flow models
+
+637
+00:22:30,400 --> 00:22:33,520
+derived only from the gradient data i
+
+638
+00:22:32,960 --> 00:22:35,679
+haven't put
+
+639
+00:22:33,520 --> 00:22:36,880
+any actual secularization data in
+
+640
+00:22:35,679 --> 00:22:39,120
+themselves
+
+641
+00:22:36,880 --> 00:22:40,799
+as we've seen globally very little flow
+
+642
+00:22:39,120 --> 00:22:43,360
+changes required
+
+643
+00:22:40,799 --> 00:22:44,960
+um to start these temporally and
+
+644
+00:22:43,360 --> 00:22:47,760
+spatially regularized flows
+
+645
+00:22:44,960 --> 00:22:48,799
+slightly under predictable jet amplitude
+
+646
+00:22:47,760 --> 00:22:51,120
+in these
+
+647
+00:22:48,799 --> 00:22:53,280
+uh gradient data and that's certainly an
+
+648
+00:22:51,120 --> 00:22:55,120
+experience i've had before
+
+649
+00:22:53,280 --> 00:22:57,280
+where they are they under predict
+
+650
+00:22:55,120 --> 00:23:00,000
+secular variation day to themselves
+
+651
+00:22:57,280 --> 00:23:01,600
+and what we've seen i hope is that 2017
+
+652
+00:23:00,000 --> 00:23:02,640
+jerk involves an eastwood flower
+
+653
+00:23:01,600 --> 00:23:05,760
+acceleration
+
+654
+00:23:02,640 --> 00:23:09,840
+in the central pacific near the equator
+
+655
+00:23:05,760 --> 00:23:09,840
+and i will stop there thank you
+
+656
+00:23:10,000 --> 00:23:13,280
+excellent thank you very much kathy um
+
+657
+00:23:12,159 --> 00:23:16,000
+so we can all give
+
+658
+00:23:13,280 --> 00:23:16,640
+kathy a virtual uh applause uh through
+
+659
+00:23:16,000 --> 00:23:19,200
+zoom
+
+660
+00:23:16,640 --> 00:23:19,840
+it's a really uh interesting talk thank
+
+661
+00:23:19,200 --> 00:23:23,200
+you
+
+662
+00:23:19,840 --> 00:23:35,919
+and i will open the floor now to um
+
+663
+00:23:23,200 --> 00:23:37,200
+anybody with some questions for kathy
+
+664
+00:23:35,919 --> 00:23:40,400
+well i guess i'll kick off
+
+665
+00:23:37,200 --> 00:23:40,880
+uh the questions um when you're looking
+
+666
+00:23:40,400 --> 00:23:44,320
+at the
+
+667
+00:23:40,880 --> 00:23:47,679
+the um different regularizations
+
+668
+00:23:44,320 --> 00:23:49,760
+you know you're seeing very different um
+
+669
+00:23:47,679 --> 00:23:51,039
+globally speaking very different flow
+
+670
+00:23:49,760 --> 00:23:54,320
+patterns
+
+671
+00:23:51,039 --> 00:23:55,840
+um are there any consistent features
+
+672
+00:23:54,320 --> 00:23:56,880
+other than what you're looking at in
+
+673
+00:23:55,840 --> 00:23:59,600
+pacific
+
+674
+00:23:56,880 --> 00:24:00,480
+that that that would be robust features
+
+675
+00:23:59,600 --> 00:24:04,400
+in these different
+
+676
+00:24:00,480 --> 00:24:05,039
+models let me go back to showing my
+
+677
+00:24:04,400 --> 00:24:08,480
+screen
+
+678
+00:24:05,039 --> 00:24:08,480
+and um
+
+679
+00:24:09,919 --> 00:24:14,559
+so you know how they say beauty is in
+
+680
+00:24:14,000 --> 00:24:18,559
+the eye of
+
+681
+00:24:14,559 --> 00:24:21,960
+the beholder and all that so
+
+682
+00:24:18,559 --> 00:24:25,360
+i mean i would say that the gyre is
+
+683
+00:24:21,960 --> 00:24:27,919
+identifiable in all three so here's this
+
+684
+00:24:25,360 --> 00:24:29,279
+pacific gyre this is the enhanced
+
+685
+00:24:27,919 --> 00:24:30,960
+feature in the um
+
+686
+00:24:29,279 --> 00:24:32,960
+sort of above the bering strait at the
+
+687
+00:24:30,960 --> 00:24:34,799
+cormental boundary that uh
+
+688
+00:24:32,960 --> 00:24:37,360
+bill livermore's looked at with chris
+
+689
+00:24:34,799 --> 00:24:40,480
+finley from swarm data
+
+690
+00:24:37,360 --> 00:24:41,120
+down here round back up again they've
+
+691
+00:24:40,480 --> 00:24:44,400
+all got
+
+692
+00:24:41,120 --> 00:24:47,279
+a band of westwood flow
+
+693
+00:24:44,400 --> 00:24:48,400
+across the hemisphere centered on
+
+694
+00:24:47,279 --> 00:24:51,600
+greenwich
+
+695
+00:24:48,400 --> 00:24:54,559
+here a little bit less obvious and
+
+696
+00:24:51,600 --> 00:24:56,080
+the gyre is kind of a little bit
+
+697
+00:24:54,559 --> 00:24:58,880
+different in this case but
+
+698
+00:24:56,080 --> 00:25:00,720
+uh i suspect if you filter that flow
+
+699
+00:24:58,880 --> 00:25:02,559
+just to look at these spherical
+
+700
+00:25:00,720 --> 00:25:04,799
+harmonics that were
+
+701
+00:25:02,559 --> 00:25:06,720
+most representative of the gyre you
+
+702
+00:25:04,799 --> 00:25:09,520
+would see those same features
+
+703
+00:25:06,720 --> 00:25:11,440
+um i haven't looked at a comparison
+
+704
+00:25:09,520 --> 00:25:12,960
+between the power spectra to see if
+
+705
+00:25:11,440 --> 00:25:14,559
+there are any sort of shapes that are
+
+706
+00:25:12,960 --> 00:25:17,760
+similar there but
+
+707
+00:25:14,559 --> 00:25:20,000
+um you can you can identify
+
+708
+00:25:17,760 --> 00:25:20,799
+some features that seem to be consistent
+
+709
+00:25:20,000 --> 00:25:24,559
+i mean there's
+
+710
+00:25:20,799 --> 00:25:27,600
+another one here would be this small
+
+711
+00:25:24,559 --> 00:25:30,080
+um eddie okay
+
+712
+00:25:27,600 --> 00:25:30,799
+less well resolved here because of the
+
+713
+00:25:30,080 --> 00:25:34,720
+um
+
+714
+00:25:30,799 --> 00:25:38,240
+increased um damping or regularization
+
+715
+00:25:34,720 --> 00:25:40,000
+of small scale features so
+
+716
+00:25:38,240 --> 00:25:42,640
+there are some features that are similar
+
+717
+00:25:40,000 --> 00:25:45,760
+but it's perhaps harder to
+
+718
+00:25:42,640 --> 00:25:48,080
+um identify them particularly in this
+
+719
+00:25:45,760 --> 00:25:48,080
+play
+
+720
+00:25:49,360 --> 00:25:57,679
+um constable has a question
+
+721
+00:25:54,640 --> 00:26:01,279
+yeah uh i have to confess i'm a little
+
+722
+00:25:57,679 --> 00:26:03,039
+uh struck by the fact that uh the
+
+723
+00:26:01,279 --> 00:26:04,480
+jerk occurs in the place where the
+
+724
+00:26:03,039 --> 00:26:08,559
+secular variation
+
+725
+00:26:04,480 --> 00:26:11,520
+is weakest and um i'm wondering
+
+726
+00:26:08,559 --> 00:26:13,120
+if this is telling us something about uh
+
+727
+00:26:11,520 --> 00:26:14,080
+changes that are coming in the pacific
+
+728
+00:26:13,120 --> 00:26:17,279
+hemisphere
+
+729
+00:26:14,080 --> 00:26:18,799
+potential i would have thought there's a
+
+730
+00:26:17,279 --> 00:26:22,960
+good chance that it is
+
+731
+00:26:18,799 --> 00:26:24,480
+yes um i mean it's certainly
+
+732
+00:26:22,960 --> 00:26:26,320
+maybe i should have prepared a slide
+
+733
+00:26:24,480 --> 00:26:26,960
+also of the virtual observatories
+
+734
+00:26:26,320 --> 00:26:28,880
+throughout the
+
+735
+00:26:26,960 --> 00:26:30,480
+region because obviously people were
+
+736
+00:26:28,880 --> 00:26:32,159
+arguing oh well you don't see the
+
+737
+00:26:30,480 --> 00:26:33,919
+changes because we've only got a few
+
+738
+00:26:32,159 --> 00:26:35,840
+spots where we can actually
+
+739
+00:26:33,919 --> 00:26:37,520
+measure the field at the observatories
+
+740
+00:26:35,840 --> 00:26:39,200
+but once you do look throughout the
+
+741
+00:26:37,520 --> 00:26:40,880
+whole of the pacific using virtual
+
+742
+00:26:39,200 --> 00:26:42,320
+observations you do see very very
+
+743
+00:26:40,880 --> 00:26:45,600
+consistent features with
+
+744
+00:26:42,320 --> 00:26:47,039
+in general as you say low secularization
+
+745
+00:26:45,600 --> 00:26:49,760
+but now this
+
+746
+00:26:47,039 --> 00:26:51,760
+certainly this well-defined jerk seen
+
+747
+00:26:49,760 --> 00:26:54,400
+first in honolulu but certainly
+
+748
+00:26:51,760 --> 00:26:56,000
+throughout that local area very well
+
+749
+00:26:54,400 --> 00:26:58,640
+resolved in the
+
+750
+00:26:56,000 --> 00:27:00,240
+virtual observatory data so yes i'm sure
+
+751
+00:26:58,640 --> 00:27:02,480
+that it is telling us something about
+
+752
+00:27:00,240 --> 00:27:02,480
+that
+
+753
+00:27:04,640 --> 00:27:09,200
+do you have any further questions for
+
+754
+00:27:06,799 --> 00:27:09,200
+kathy
+
+755
+00:27:10,799 --> 00:27:14,799
+so i guess i have a question i don't
+
+756
+00:27:14,000 --> 00:27:18,159
+know if you have
+
+757
+00:27:14,799 --> 00:27:20,399
+seen it um there was a recent paper
+
+758
+00:27:18,159 --> 00:27:21,360
+in neutral geoscience which was
+
+759
+00:27:20,399 --> 00:27:23,919
+inferring
+
+760
+00:27:21,360 --> 00:27:24,640
+um high quantity high conductivity
+
+761
+00:27:23,919 --> 00:27:26,480
+mantle
+
+762
+00:27:24,640 --> 00:27:28,960
+under the pacific which is explaining
+
+763
+00:27:26,480 --> 00:27:32,320
+this low secular variation
+
+764
+00:27:28,960 --> 00:27:35,120
+given the fact that we see a jerk
+
+765
+00:27:32,320 --> 00:27:36,000
+uh what does that suggest then about the
+
+766
+00:27:35,120 --> 00:27:39,200
+conductivity
+
+767
+00:27:36,000 --> 00:27:42,559
+in the mantle in that region
+
+768
+00:27:39,200 --> 00:27:44,799
+um the simple answer
+
+769
+00:27:42,559 --> 00:27:46,960
+to that question would be you know that
+
+770
+00:27:44,799 --> 00:27:49,440
+that i mean
+
+771
+00:27:46,960 --> 00:27:51,679
+connectivity will screen out the changes
+
+772
+00:27:49,440 --> 00:27:55,039
+will stop them propagating through but
+
+773
+00:27:51,679 --> 00:27:57,840
+um as george backus showed back in 83
+
+774
+00:27:55,039 --> 00:28:01,039
+you can get a combination
+
+775
+00:27:57,840 --> 00:28:03,120
+of field changes um that that will
+
+776
+00:28:01,039 --> 00:28:05,840
+propagate and be seen
+
+777
+00:28:03,120 --> 00:28:07,520
+as a as a rapid change a jerk like
+
+778
+00:28:05,840 --> 00:28:10,000
+feature at the surface
+
+779
+00:28:07,520 --> 00:28:11,120
+regardless of the actual conductivity of
+
+780
+00:28:10,000 --> 00:28:13,440
+the mantle
+
+781
+00:28:11,120 --> 00:28:15,840
+and in particular and there's very
+
+782
+00:28:13,440 --> 00:28:16,159
+little screening if your connectivity is
+
+783
+00:28:15,840 --> 00:28:18,720
+um
+
+784
+00:28:16,159 --> 00:28:19,600
+concentrated close to the the core
+
+785
+00:28:18,720 --> 00:28:21,840
+mental boundary
+
+786
+00:28:19,600 --> 00:28:23,360
+indeed double prime for instance then
+
+787
+00:28:21,840 --> 00:28:26,080
+this
+
+788
+00:28:23,360 --> 00:28:27,760
+is very much weaker and i think that
+
+789
+00:28:26,080 --> 00:28:29,440
+tends to be where people want to put
+
+790
+00:28:27,760 --> 00:28:31,279
+high conductivity you know with things
+
+791
+00:28:29,440 --> 00:28:33,039
+like post-cross sky and iron in the
+
+792
+00:28:31,279 --> 00:28:36,799
+elemental
+
+793
+00:28:33,039 --> 00:28:44,799
+so it it's not a barrier to having
+
+794
+00:28:36,799 --> 00:28:46,240
+rapid circulation at the surface
+
+795
+00:28:44,799 --> 00:28:48,640
+so we've got some a little bit of time
+
+796
+00:28:46,240 --> 00:28:52,640
+for any more comments or questions i see
+
+797
+00:28:48,640 --> 00:28:52,640
+uh richard holm leaving his hands
+
+798
+00:28:53,279 --> 00:28:57,440
+hey kathy so i was struck by your
+
+799
+00:28:56,720 --> 00:29:01,279
+vertical
+
+800
+00:28:57,440 --> 00:29:04,880
+virtual observatories by just how sharp
+
+801
+00:29:01,279 --> 00:29:07,120
+these features are in the data and
+
+802
+00:29:04,880 --> 00:29:09,679
+these features are not measurements of
+
+803
+00:29:07,120 --> 00:29:12,559
+secular variation they are
+
+804
+00:29:09,679 --> 00:29:14,240
+annual averages in effect of what the
+
+805
+00:29:12,559 --> 00:29:17,279
+real secular variation is
+
+806
+00:29:14,240 --> 00:29:18,880
+and yet they're very very sharp now
+
+807
+00:29:17,279 --> 00:29:20,240
+you can't invert them directly and i've
+
+808
+00:29:18,880 --> 00:29:21,919
+been just trying to do some this is
+
+809
+00:29:20,240 --> 00:29:22,960
+related to the stuff i did on rotation a
+
+810
+00:29:21,919 --> 00:29:24,480
+few years ago
+
+811
+00:29:22,960 --> 00:29:26,159
+um you can't invert them directly but
+
+812
+00:29:24,480 --> 00:29:29,440
+you can come up with some kind of ideas
+
+813
+00:29:26,159 --> 00:29:30,080
+and the field changes don't just have to
+
+814
+00:29:29,440 --> 00:29:32,000
+be sharp
+
+815
+00:29:30,080 --> 00:29:34,320
+they have to the second version has to
+
+816
+00:29:32,000 --> 00:29:35,679
+jump in order to get the average coming
+
+817
+00:29:34,320 --> 00:29:38,240
+out of such a sharp v
+
+818
+00:29:35,679 --> 00:29:38,799
+shape anything it's not an average it's
+
+819
+00:29:38,240 --> 00:29:41,200
+just
+
+820
+00:29:38,799 --> 00:29:42,720
+two annual differences there's two
+
+821
+00:29:41,200 --> 00:29:45,760
+differences of values
+
+822
+00:29:42,720 --> 00:29:47,200
+yes that is the equivalent of if you're
+
+823
+00:29:45,760 --> 00:29:48,480
+trying to plot secular variation that's
+
+824
+00:29:47,200 --> 00:29:51,360
+equivalent of an annual
+
+825
+00:29:48,480 --> 00:29:52,080
+annual mean yeah yeah it's close to an
+
+826
+00:29:51,360 --> 00:29:54,000
+annual meeting
+
+827
+00:29:52,080 --> 00:29:55,760
+yes and then if you have these really
+
+828
+00:29:54,000 --> 00:29:59,279
+sharp changes
+
+829
+00:29:55,760 --> 00:30:01,279
+that's quite a strong change
+
+830
+00:29:59,279 --> 00:30:02,799
+yeah i mean this this is a problem we've
+
+831
+00:30:01,279 --> 00:30:04,960
+been looking for ages but just your
+
+832
+00:30:02,799 --> 00:30:06,399
+data are quite so sharp and of course
+
+833
+00:30:04,960 --> 00:30:08,480
+your flows don't come up
+
+834
+00:30:06,399 --> 00:30:11,200
+dtu's data not mine i've just been
+
+835
+00:30:08,480 --> 00:30:14,080
+inverting them but your group status
+
+836
+00:30:11,200 --> 00:30:15,279
+your talk statement unless niels wants
+
+837
+00:30:14,080 --> 00:30:18,320
+to argue with me he was
+
+838
+00:30:15,279 --> 00:30:20,799
+there somewhere um but nonetheless
+
+839
+00:30:18,320 --> 00:30:22,080
+these things are very very sharp when
+
+840
+00:30:20,799 --> 00:30:24,240
+you think about how they're constructed
+
+841
+00:30:22,080 --> 00:30:27,360
+in terms of first differences
+
+842
+00:30:24,240 --> 00:30:28,720
+and any thoughts on that no and that's
+
+843
+00:30:27,360 --> 00:30:31,120
+one of the things that the
+
+844
+00:30:28,720 --> 00:30:33,039
+dtu group are looking at in terms of
+
+845
+00:30:31,120 --> 00:30:36,240
+their um
+
+846
+00:30:33,039 --> 00:30:37,760
+their virtual observatory
+
+847
+00:30:36,240 --> 00:30:39,919
+calculations so that they've been
+
+848
+00:30:37,760 --> 00:30:43,039
+producing these as part of these swarm
+
+849
+00:30:39,919 --> 00:30:46,240
+disc um enterprise as it were
+
+850
+00:30:43,039 --> 00:30:48,720
+so they've looked at uh and
+
+851
+00:30:46,240 --> 00:30:50,240
+clearly what you get is um a spatial
+
+852
+00:30:48,720 --> 00:30:52,240
+temple trade-off
+
+853
+00:30:50,240 --> 00:30:54,080
+so you can make smaller vo you know you
+
+854
+00:30:52,240 --> 00:30:56,159
+can average over a smaller
+
+855
+00:30:54,080 --> 00:30:57,840
+area if you're willing to take longer
+
+856
+00:30:56,159 --> 00:30:59,440
+times or if you want a shorter time
+
+857
+00:30:57,840 --> 00:31:00,399
+scale then you need to take a bigger
+
+858
+00:30:59,440 --> 00:31:02,720
+volume
+
+859
+00:31:00,399 --> 00:31:04,240
+to get a meaningful average so there's
+
+860
+00:31:02,720 --> 00:31:07,679
+there's some kind of trade-off
+
+861
+00:31:04,240 --> 00:31:11,120
+there and so you could optimize
+
+862
+00:31:07,679 --> 00:31:13,919
+to look at the temporal variability
+
+863
+00:31:11,120 --> 00:31:13,919
+i suspect
+
+864
+00:31:14,720 --> 00:31:18,159
+even without doing it they are very very
+
+865
+00:31:17,600 --> 00:31:20,559
+sharp
+
+866
+00:31:18,159 --> 00:31:22,399
+they're they're pretty sharp yeah and um
+
+867
+00:31:20,559 --> 00:31:24,240
+i haven't you know what i should
+
+868
+00:31:22,399 --> 00:31:26,480
+should have done and what we've been
+
+869
+00:31:24,240 --> 00:31:28,240
+encouraging the dtu group is to put on
+
+870
+00:31:26,480 --> 00:31:30,880
+the error bars as well so
+
+871
+00:31:28,240 --> 00:31:32,880
+as i mentioned they've calculated um
+
+872
+00:31:30,880 --> 00:31:34,240
+variances of each of those data points
+
+873
+00:31:32,880 --> 00:31:36,880
+so you can actually see
+
+874
+00:31:34,240 --> 00:31:37,679
+that they they are well resolved within
+
+875
+00:31:36,880 --> 00:31:39,360
+you know them
+
+876
+00:31:37,679 --> 00:31:41,679
+those are bigger changes than the
+
+877
+00:31:39,360 --> 00:31:43,360
+uncertainties well me being me i don't
+
+878
+00:31:41,679 --> 00:31:45,120
+worry too much about error balance but
+
+879
+00:31:43,360 --> 00:31:46,880
+the fact that they shot so consistently
+
+880
+00:31:45,120 --> 00:31:50,640
+looking like that
+
+881
+00:31:46,880 --> 00:31:54,159
+says no there's something there yeah
+
+882
+00:31:50,640 --> 00:31:55,919
+yeah i agree with you
+
+883
+00:31:54,159 --> 00:31:58,480
+but i can't offer any further insight
+
+884
+00:31:55,919 --> 00:31:58,480
+i'm afraid
+
+885
+00:31:59,200 --> 00:32:02,320
+cool thank you um we can have time to
+
+886
+00:32:01,679 --> 00:32:06,640
+squeeze in
+
+887
+00:32:02,320 --> 00:32:06,640
+uh one more question if anybody has one
+
+888
+00:32:10,880 --> 00:32:15,679
+no i guess not um so thank you very much
+
+889
+00:32:14,240 --> 00:32:18,080
+kathy that was a
+
+890
+00:32:15,679 --> 00:32:19,039
+a really uh interesting talk and a lot
+
+891
+00:32:18,080 --> 00:32:20,799
+of uh
+
+892
+00:32:19,039 --> 00:32:23,519
+valuable and interesting questions here
+
+893
+00:32:20,799 --> 00:32:24,240
+so um everyone like to thank kathy once
+
+894
+00:32:23,519 --> 00:32:28,559
+again for
+
+895
+00:32:24,240 --> 00:32:32,159
+for her talk um
+
+896
+00:32:28,559 --> 00:32:35,039
+before we all disappear
+
+897
+00:32:32,159 --> 00:32:36,559
+um i would just like to to make a quick
+
+898
+00:32:35,039 --> 00:32:39,919
+announcement for the
+
+899
+00:32:36,559 --> 00:32:40,799
+uh upcoming seminars uh in in the coming
+
+900
+00:32:39,919 --> 00:32:43,200
+weeks
+
+901
+00:32:40,799 --> 00:32:44,000
+uh so in two weeks on august 12th we
+
+902
+00:32:43,200 --> 00:32:45,919
+have
+
+903
+00:32:44,000 --> 00:32:48,720
+uh courtney sprain from the university
+
+904
+00:32:45,919 --> 00:32:50,880
+of florida uh giving us a presentation
+
+905
+00:32:48,720 --> 00:32:53,440
+um but as we come to the end of summer
+
+906
+00:32:50,880 --> 00:32:56,559
+we still have some some open slots
+
+907
+00:32:53,440 --> 00:33:00,000
+so if anybody is interested in
+
+908
+00:32:56,559 --> 00:33:02,080
+uh giving a presentation please um
+
+909
+00:33:00,000 --> 00:33:03,279
+get in touch with us and we can schedule
+
+910
+00:33:02,080 --> 00:33:06,399
+something up for you
+
+911
+00:33:03,279 --> 00:33:08,880
+in the coming weeks um and as always
+
+912
+00:33:06,399 --> 00:33:09,600
+uh feedback uh thoughts ideas and
+
+913
+00:33:08,880 --> 00:33:11,760
+criticisms
+
+914
+00:33:09,600 --> 00:33:13,039
+criticisms are always very welcome for
+
+915
+00:33:11,760 --> 00:33:14,880
+these seminars so
+
+916
+00:33:13,039 --> 00:33:16,080
+just drop us an email if you have any
+
+917
+00:33:14,880 --> 00:33:18,880
+suggestions there
+
+918
+00:33:16,080 --> 00:33:19,200
+and thank you all again for coming out
+
+919
+00:33:18,880 --> 00:33:23,440
+for
+
+920
+00:33:19,200 --> 00:33:25,840
+another uh successful uh magnet seminar
+
+921
+00:33:23,440 --> 00:33:25,840
+so thank you
+

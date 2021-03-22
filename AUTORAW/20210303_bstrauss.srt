@@ -1,0 +1,4456 @@
+1
+00:00:00,480 --> 00:00:07,200
+welcome hi everybody um welcome to
+
+2
+00:00:03,600 --> 00:00:08,559
+um the next um in our 2021 series of of
+
+3
+00:00:07,200 --> 00:00:10,240
+the magnet seminars
+
+4
+00:00:08,559 --> 00:00:12,639
+uh we've been going strong for quite a
+
+5
+00:00:10,240 --> 00:00:14,719
+while and and we had some really great
+
+6
+00:00:12,639 --> 00:00:16,720
+uh support from our community so thank
+
+7
+00:00:14,719 --> 00:00:17,760
+you everybody uh for coming along and
+
+8
+00:00:16,720 --> 00:00:20,560
+thank you to
+
+9
+00:00:17,760 --> 00:00:22,480
+um all of our pre presenters uh past
+
+10
+00:00:20,560 --> 00:00:24,960
+present and future
+
+11
+00:00:22,480 --> 00:00:26,400
+um just a quick reminder for those who
+
+12
+00:00:24,960 --> 00:00:29,920
+haven't joined us before
+
+13
+00:00:26,400 --> 00:00:30,880
+um the magnet seminars are 25-minute
+
+14
+00:00:29,920 --> 00:00:33,040
+30-minute
+
+15
+00:00:30,880 --> 00:00:35,120
+presentations so we kindly ask that you
+
+16
+00:00:33,040 --> 00:00:38,000
+keep your microphones uh muted
+
+17
+00:00:35,120 --> 00:00:39,840
+um and during the the presentation and
+
+18
+00:00:38,000 --> 00:00:42,079
+if you have uh problems with your
+
+19
+00:00:39,840 --> 00:00:44,320
+internet connection um turning off your
+
+20
+00:00:42,079 --> 00:00:46,800
+video can can help improve that
+
+21
+00:00:44,320 --> 00:00:49,039
+um after the seminar we'll have um time
+
+22
+00:00:46,800 --> 00:00:51,199
+for our 10 to 15 minute
+
+23
+00:00:49,039 --> 00:00:54,079
+question session and discussion session
+
+24
+00:00:51,199 --> 00:00:56,559
+and questions are are welcomed via the
+
+25
+00:00:54,079 --> 00:00:58,000
+um text chat as well as via the
+
+26
+00:00:56,559 --> 00:00:59,920
+microphone um
+
+27
+00:00:58,000 --> 00:01:01,440
+if you don't want to speak um with the
+
+28
+00:00:59,920 --> 00:01:02,800
+microphone please just type into the
+
+29
+00:01:01,440 --> 00:01:06,080
+chat no mic
+
+30
+00:01:02,800 --> 00:01:09,680
+and i myself or one of our co-hosts will
+
+31
+00:01:06,080 --> 00:01:12,400
+um i read out the question um for you
+
+32
+00:01:09,680 --> 00:01:13,439
+and as always we've got our um our lives
+
+33
+00:01:12,400 --> 00:01:15,600
+going on around us
+
+34
+00:01:13,439 --> 00:01:16,640
+in in still in the midst of a global
+
+35
+00:01:15,600 --> 00:01:18,640
+pandemic
+
+36
+00:01:16,640 --> 00:01:19,840
+so if you do have to get up and go uh
+
+37
+00:01:18,640 --> 00:01:22,240
+halfway through please
+
+38
+00:01:19,840 --> 00:01:23,439
+just um get up and go it's absolutely
+
+39
+00:01:22,240 --> 00:01:25,360
+fine
+
+40
+00:01:23,439 --> 00:01:27,360
+and at the end of the the seminar we
+
+41
+00:01:25,360 --> 00:01:28,960
+have some time uh for a bit of a catch
+
+42
+00:01:27,360 --> 00:01:31,759
+up a bit of a social
+
+43
+00:01:28,960 --> 00:01:32,560
+um um time for us to chat with each
+
+44
+00:01:31,759 --> 00:01:35,280
+other and just
+
+45
+00:01:32,560 --> 00:01:36,320
+see how everybody is is getting on and
+
+46
+00:01:35,280 --> 00:01:37,920
+this part of the
+
+47
+00:01:36,320 --> 00:01:40,000
+the seminar series isn't actually
+
+48
+00:01:37,920 --> 00:01:42,240
+recorded so you won't have to
+
+49
+00:01:40,000 --> 00:01:44,079
+you can unmute and you can show your
+
+50
+00:01:42,240 --> 00:01:47,119
+video
+
+51
+00:01:44,079 --> 00:01:50,240
+um so today we have uh beck strauss
+
+52
+00:01:47,119 --> 00:01:51,520
+who is from uh not only from nist but
+
+53
+00:01:50,240 --> 00:01:54,399
+also from nasa
+
+54
+00:01:51,520 --> 00:01:56,399
+um and they will be talking about um
+
+55
+00:01:54,399 --> 00:01:57,360
+constraining uh the moon's magnetic
+
+56
+00:01:56,399 --> 00:01:59,920
+field from
+
+57
+00:01:57,360 --> 00:02:01,119
+the analysis of apollo samples so beck
+
+58
+00:01:59,920 --> 00:02:04,159
+thank you very much for
+
+59
+00:02:01,119 --> 00:02:04,159
+uh speaking today
+
+60
+00:02:04,560 --> 00:02:09,840
+thanks very much for having me let me
+
+61
+00:02:06,159 --> 00:02:09,840
+see if i can share my screen
+
+62
+00:02:14,080 --> 00:02:17,120
+okay we see in my slides all right
+
+63
+00:02:16,080 --> 00:02:19,280
+perfect
+
+64
+00:02:17,120 --> 00:02:21,040
+great um thank you again for having me
+
+65
+00:02:19,280 --> 00:02:23,520
+today it's a little bit intimidating to
+
+66
+00:02:21,040 --> 00:02:24,800
+follow lisa tookes but i will do my best
+
+67
+00:02:23,520 --> 00:02:27,120
+again for those who haven't met me
+
+68
+00:02:24,800 --> 00:02:28,160
+before i'm beck strauss my pronouns are
+
+69
+00:02:27,120 --> 00:02:30,000
+they them theirs
+
+70
+00:02:28,160 --> 00:02:32,319
+and i am a term research scientist at
+
+71
+00:02:30,000 --> 00:02:33,680
+nist currently on detail to nasa goddard
+
+72
+00:02:32,319 --> 00:02:35,280
+space flight center
+
+73
+00:02:33,680 --> 00:02:37,360
+so today i'm going to talk with you a
+
+74
+00:02:35,280 --> 00:02:38,080
+little bit about how we can use apollo
+
+75
+00:02:37,360 --> 00:02:39,599
+samples
+
+76
+00:02:38,080 --> 00:02:42,400
+to study the decline of the moon's
+
+77
+00:02:39,599 --> 00:02:42,400
+magnetic field
+
+78
+00:02:44,480 --> 00:02:49,680
+so measurements from orbiters landers
+
+79
+00:02:47,920 --> 00:02:50,400
+and portable magnetometers at the moon
+
+80
+00:02:49,680 --> 00:02:52,480
+have told us
+
+81
+00:02:50,400 --> 00:02:54,319
+that the moon does not have a strong
+
+82
+00:02:52,480 --> 00:02:56,560
+magnetic field in the present day
+
+83
+00:02:54,319 --> 00:02:57,360
+and in fact these uh these measurements
+
+84
+00:02:56,560 --> 00:02:59,280
+generally agree
+
+85
+00:02:57,360 --> 00:03:00,879
+that the surface field intensity there
+
+86
+00:02:59,280 --> 00:03:01,360
+is on the order of somewhere less than
+
+87
+00:03:00,879 --> 00:03:03,519
+one
+
+88
+00:03:01,360 --> 00:03:05,120
+nanotesla which is pretty weak and for
+
+89
+00:03:03,519 --> 00:03:06,640
+paleomagnetic purposes
+
+90
+00:03:05,120 --> 00:03:09,040
+we can think of the modern moon as
+
+91
+00:03:06,640 --> 00:03:10,879
+essentially a zero field environment
+
+92
+00:03:09,040 --> 00:03:13,120
+now the big exception to this is some
+
+93
+00:03:10,879 --> 00:03:13,840
+regions of magnetized crust or crustal
+
+94
+00:03:13,120 --> 00:03:15,120
+anomalies
+
+95
+00:03:13,840 --> 00:03:17,440
+some of which are associated with
+
+96
+00:03:15,120 --> 00:03:18,800
+features like craters and lunar swirls
+
+97
+00:03:17,440 --> 00:03:20,640
+and we can take these as evidence that
+
+98
+00:03:18,800 --> 00:03:21,440
+the moon must have had a much stronger
+
+99
+00:03:20,640 --> 00:03:24,319
+magnetic field
+
+100
+00:03:21,440 --> 00:03:25,120
+in the past to understand the history of
+
+101
+00:03:24,319 --> 00:03:26,560
+that field
+
+102
+00:03:25,120 --> 00:03:28,720
+we've been working with material from
+
+103
+00:03:26,560 --> 00:03:29,840
+the apollo sample suite which is made up
+
+104
+00:03:28,720 --> 00:03:31,920
+of more than 2 000
+
+105
+00:03:29,840 --> 00:03:33,840
+rock regolith and core samples collected
+
+106
+00:03:31,920 --> 00:03:34,480
+by the apollo astronauts and returned to
+
+107
+00:03:33,840 --> 00:03:35,840
+earth
+
+108
+00:03:34,480 --> 00:03:37,680
+these collections are now available
+
+109
+00:03:35,840 --> 00:03:39,040
+primarily through johnson space center
+
+110
+00:03:37,680 --> 00:03:41,120
+and the captain program
+
+111
+00:03:39,040 --> 00:03:43,120
+which has recently changed to xmag the
+
+112
+00:03:41,120 --> 00:03:45,440
+extraterrestrial materials analysis
+
+113
+00:03:43,120 --> 00:03:47,040
+group
+
+114
+00:03:45,440 --> 00:03:49,440
+when i think about studies of lunar
+
+115
+00:03:47,040 --> 00:03:51,280
+paleomagnetism it's uh most helpful to
+
+116
+00:03:49,440 --> 00:03:52,959
+conceptualize them on a timeline so
+
+117
+00:03:51,280 --> 00:03:54,640
+here i've got billions of years before
+
+118
+00:03:52,959 --> 00:03:56,560
+the present on our x-axis with the
+
+119
+00:03:54,640 --> 00:03:59,040
+present-day all the way to the right
+
+120
+00:03:56,560 --> 00:04:00,959
+and paleo intensity or the strength of
+
+121
+00:03:59,040 --> 00:04:02,640
+the ancient field on the y-axis in
+
+122
+00:04:00,959 --> 00:04:03,840
+microteslas please note that that is a
+
+123
+00:04:02,640 --> 00:04:06,319
+log scale
+
+124
+00:04:03,840 --> 00:04:06,959
+there are two kinds of data on this plot
+
+125
+00:04:06,319 --> 00:04:09,280
+first the
+
+126
+00:04:06,959 --> 00:04:10,720
+filled shapes indicate actual records of
+
+127
+00:04:09,280 --> 00:04:13,280
+ancient magnetic fields
+
+128
+00:04:10,720 --> 00:04:15,120
+and the open shapes indicate maximum
+
+129
+00:04:13,280 --> 00:04:17,199
+intensities those fields could have had
+
+130
+00:04:15,120 --> 00:04:18,799
+based on the recording limits of the
+
+131
+00:04:17,199 --> 00:04:20,479
+associated samples which i'll come back
+
+132
+00:04:18,799 --> 00:04:22,720
+to in a little bit
+
+133
+00:04:20,479 --> 00:04:24,479
+so i want to point out some big trends
+
+134
+00:04:22,720 --> 00:04:25,520
+in this collection of data to help guide
+
+135
+00:04:24,479 --> 00:04:27,360
+your eye through how we usually
+
+136
+00:04:25,520 --> 00:04:29,440
+interpret it
+
+137
+00:04:27,360 --> 00:04:30,720
+there is a generally recognized high
+
+138
+00:04:29,440 --> 00:04:32,400
+field period when
+
+139
+00:04:30,720 --> 00:04:34,160
+the moon's magnetic field reached
+
+140
+00:04:32,400 --> 00:04:36,720
+surface intensities um
+
+141
+00:04:34,160 --> 00:04:39,440
+of an average of 77 microteslas
+
+142
+00:04:36,720 --> 00:04:42,160
+somewhere between 3.56 and 3.5
+
+143
+00:04:39,440 --> 00:04:44,000
+3.85 billion years ago excuse me
+
+144
+00:04:42,160 --> 00:04:45,759
+subsequent to the high field period a
+
+145
+00:04:44,000 --> 00:04:47,680
+series of studies established that there
+
+146
+00:04:45,759 --> 00:04:50,080
+was no longer any evidence for fields
+
+147
+00:04:47,680 --> 00:04:53,360
+stronger than about four microteslas
+
+148
+00:04:50,080 --> 00:04:55,280
+by around 3.19 billion years ago
+
+149
+00:04:53,360 --> 00:04:57,199
+now from that information alone we can
+
+150
+00:04:55,280 --> 00:04:59,120
+start constructing this kind of generic
+
+151
+00:04:57,199 --> 00:05:00,800
+schematic curve this is not quantitative
+
+152
+00:04:59,120 --> 00:05:02,880
+this is purely intended to guide your
+
+153
+00:05:00,800 --> 00:05:05,120
+eye through the data
+
+154
+00:05:02,880 --> 00:05:06,880
+so a few years ago another study came
+
+155
+00:05:05,120 --> 00:05:09,120
+out that found an actual record
+
+156
+00:05:06,880 --> 00:05:10,080
+of a roughly five microtesla field in a
+
+157
+00:05:09,120 --> 00:05:11,600
+much younger sample
+
+158
+00:05:10,080 --> 00:05:13,600
+dated to somewhere between one and two
+
+159
+00:05:11,600 --> 00:05:14,160
+billion years old and a study that was
+
+160
+00:05:13,600 --> 00:05:16,639
+published
+
+161
+00:05:14,160 --> 00:05:18,400
+last year in 2020 showed that there was
+
+162
+00:05:16,639 --> 00:05:20,800
+no evidence for fields any stronger than
+
+163
+00:05:18,400 --> 00:05:22,240
+about 0.1 microteslas by a half a
+
+164
+00:05:20,800 --> 00:05:24,160
+billion years ago
+
+165
+00:05:22,240 --> 00:05:25,520
+so that was a lot all at once the main
+
+166
+00:05:24,160 --> 00:05:27,600
+thing that we're interested here
+
+167
+00:05:25,520 --> 00:05:30,000
+interested in here is that the
+
+168
+00:05:27,600 --> 00:05:30,960
+paleomagnetic data from apollo samples
+
+169
+00:05:30,000 --> 00:05:33,199
+seems to indicate
+
+170
+00:05:30,960 --> 00:05:34,080
+the moon's field didn't just up and turn
+
+171
+00:05:33,199 --> 00:05:35,680
+off one day
+
+172
+00:05:34,080 --> 00:05:37,680
+rather it went through a couple of
+
+173
+00:05:35,680 --> 00:05:40,000
+periods of decline
+
+174
+00:05:37,680 --> 00:05:40,960
+we're really interested in these dynamic
+
+175
+00:05:40,000 --> 00:05:43,280
+changes in
+
+176
+00:05:40,960 --> 00:05:45,120
+the intensity of the lunar field because
+
+177
+00:05:43,280 --> 00:05:47,680
+intensities of magnetic fields tell us
+
+178
+00:05:45,120 --> 00:05:49,199
+something about planetary interiors
+
+179
+00:05:47,680 --> 00:05:50,960
+a whole bunch of mechanisms at least a
+
+180
+00:05:49,199 --> 00:05:53,120
+dozen have been proposed to explain
+
+181
+00:05:50,960 --> 00:05:54,400
+why the moon had a strong magnetic field
+
+182
+00:05:53,120 --> 00:05:55,520
+at some point and what might have
+
+183
+00:05:54,400 --> 00:05:58,319
+happened to it and i'm just going to
+
+184
+00:05:55,520 --> 00:06:00,880
+mention a few of the major ones here
+
+185
+00:05:58,319 --> 00:06:03,280
+some studies have looked into chemical
+
+186
+00:06:00,880 --> 00:06:04,319
+convection dynamos or impact generated
+
+187
+00:06:03,280 --> 00:06:05,600
+dynamo systems
+
+188
+00:06:04,319 --> 00:06:07,520
+which would have been able to account
+
+189
+00:06:05,600 --> 00:06:09,360
+for fields on the order of maybe seven
+
+190
+00:06:07,520 --> 00:06:10,639
+to ten microteslas but wouldn't have
+
+191
+00:06:09,360 --> 00:06:13,680
+lasted much past
+
+192
+00:06:10,639 --> 00:06:15,759
+3.8 billion years ago other studies have
+
+193
+00:06:13,680 --> 00:06:17,600
+looked into precession dynamos where the
+
+194
+00:06:15,759 --> 00:06:19,199
+interior and exterior portions of the
+
+195
+00:06:17,600 --> 00:06:20,000
+moon could have been decoupled and moved
+
+196
+00:06:19,199 --> 00:06:21,919
+relative to each
+
+197
+00:06:20,000 --> 00:06:23,199
+other and that motion and the associated
+
+198
+00:06:21,919 --> 00:06:24,639
+stirring might have been enough to
+
+199
+00:06:23,199 --> 00:06:26,000
+generate the currents we need for
+
+200
+00:06:24,639 --> 00:06:27,360
+magnetic fields
+
+201
+00:06:26,000 --> 00:06:29,280
+that could have given us field strengths
+
+202
+00:06:27,360 --> 00:06:30,160
+on the order of 100 micro teslas and
+
+203
+00:06:29,280 --> 00:06:31,919
+would have lasted till
+
+204
+00:06:30,160 --> 00:06:33,600
+maybe 2 billion years ago depending
+
+205
+00:06:31,919 --> 00:06:35,120
+whose model you like for how far
+
+206
+00:06:33,600 --> 00:06:36,639
+the moon was from the earth at any given
+
+207
+00:06:35,120 --> 00:06:38,880
+point in time
+
+208
+00:06:36,639 --> 00:06:40,639
+and still other studies have looked at
+
+209
+00:06:38,880 --> 00:06:42,240
+thermochemical convection similar to
+
+210
+00:06:40,639 --> 00:06:43,600
+what we have on the earth today
+
+211
+00:06:42,240 --> 00:06:45,360
+this would have been able to sustain
+
+212
+00:06:43,600 --> 00:06:47,440
+fields on the order of five or six micro
+
+213
+00:06:45,360 --> 00:06:48,960
+teslas till maybe a billion years ago
+
+214
+00:06:47,440 --> 00:06:50,800
+tops
+
+215
+00:06:48,960 --> 00:06:52,800
+so you may be looking at this end
+
+216
+00:06:50,800 --> 00:06:54,880
+rightly saying to yourself there is not
+
+217
+00:06:52,800 --> 00:06:56,720
+very much data on this plot
+
+218
+00:06:54,880 --> 00:06:58,800
+what that means is we really need to
+
+219
+00:06:56,720 --> 00:07:00,560
+keep an eye on small number statistics
+
+220
+00:06:58,800 --> 00:07:03,360
+problems and make sure we're not
+
+221
+00:07:00,560 --> 00:07:06,560
+creating these big assertions out of a
+
+222
+00:07:03,360 --> 00:07:06,560
+statistical anomaly
+
+223
+00:07:06,720 --> 00:07:09,840
+so i want to answer a couple of
+
+224
+00:07:08,000 --> 00:07:11,840
+questions in this study the first is
+
+225
+00:07:09,840 --> 00:07:14,160
+did the lunar dynamo really decline
+
+226
+00:07:11,840 --> 00:07:16,400
+after 3.56 billion years ago
+
+227
+00:07:14,160 --> 00:07:18,160
+or are we suffering from a small amount
+
+228
+00:07:16,400 --> 00:07:20,319
+of data could there be methodological
+
+229
+00:07:18,160 --> 00:07:22,639
+problems or issues with our materials
+
+230
+00:07:20,319 --> 00:07:23,759
+and second if the dynamo did decline
+
+231
+00:07:22,639 --> 00:07:25,520
+what happened to it
+
+232
+00:07:23,759 --> 00:07:26,880
+what kind of change in mechanism could
+
+233
+00:07:25,520 --> 00:07:29,520
+explain this
+
+234
+00:07:26,880 --> 00:07:30,000
+this change in state that we observe to
+
+235
+00:07:29,520 --> 00:07:31,599
+answer these
+
+236
+00:07:30,000 --> 00:07:33,280
+questions we need to work with samples
+
+237
+00:07:31,599 --> 00:07:34,400
+that are capable of recording weak
+
+238
+00:07:33,280 --> 00:07:37,759
+magnetic fields
+
+239
+00:07:34,400 --> 00:07:38,639
+after 3.2 billion years ago so that
+
+240
+00:07:37,759 --> 00:07:40,479
+brings us to
+
+241
+00:07:38,639 --> 00:07:41,840
+a case study using some apollo 12
+
+242
+00:07:40,479 --> 00:07:43,440
+basalts this is
+
+243
+00:07:41,840 --> 00:07:44,960
+primarily work that i did with sonya
+
+244
+00:07:43,440 --> 00:07:45,759
+tiku while we were both at rutgers
+
+245
+00:07:44,960 --> 00:07:47,199
+university
+
+246
+00:07:45,759 --> 00:07:50,560
+and we just had it published in the
+
+247
+00:07:47,199 --> 00:07:52,240
+journal of geophysical research planets
+
+248
+00:07:50,560 --> 00:07:54,319
+so we'll start with a field map for the
+
+249
+00:07:52,240 --> 00:07:56,160
+field geologists in the room uh this is
+
+250
+00:07:54,319 --> 00:07:58,319
+the location where our samples were
+
+251
+00:07:56,160 --> 00:07:59,840
+collected at the apollo 12 landing site
+
+252
+00:07:58,319 --> 00:08:00,800
+please pardon the truck noise in the
+
+253
+00:07:59,840 --> 00:08:02,800
+background
+
+254
+00:08:00,800 --> 00:08:04,560
+um all three samples were collected from
+
+255
+00:08:02,800 --> 00:08:07,199
+the sort of upper left edge of this
+
+256
+00:08:04,560 --> 00:08:08,800
+image and i have photos from a couple of
+
+257
+00:08:07,199 --> 00:08:09,599
+the locations where our samples were
+
+258
+00:08:08,800 --> 00:08:11,360
+picked up
+
+259
+00:08:09,599 --> 00:08:13,120
+unfortunately i don't have a photo for
+
+260
+00:08:11,360 --> 00:08:14,639
+where the third sample was collected and
+
+261
+00:08:13,120 --> 00:08:16,160
+this i think is a point in favor of
+
+262
+00:08:14,639 --> 00:08:17,759
+sending more geologists to the moon
+
+263
+00:08:16,160 --> 00:08:19,680
+because we know to take a picture before
+
+264
+00:08:17,759 --> 00:08:21,520
+we mess with the field site
+
+265
+00:08:19,680 --> 00:08:23,280
+so these are the actual samples that we
+
+266
+00:08:21,520 --> 00:08:24,639
+worked with we got much smaller pieces
+
+267
+00:08:23,280 --> 00:08:26,160
+of course these are each about the size
+
+268
+00:08:24,639 --> 00:08:30,000
+of the palm of your hand these are
+
+269
+00:08:26,160 --> 00:08:33,760
+apollo 12 samples 12008-12009
+
+270
+00:08:30,000 --> 00:08:35,440
+and 12015 and just for fun uh after all
+
+271
+00:08:33,760 --> 00:08:37,200
+of the analyses i did take a couple of
+
+272
+00:08:35,440 --> 00:08:38,640
+photos of me holding the samples
+
+273
+00:08:37,200 --> 00:08:40,959
+you may notice that each of our little
+
+274
+00:08:38,640 --> 00:08:42,719
+sub-sample slices has an orienting arrow
+
+275
+00:08:40,959 --> 00:08:44,880
+on the disk to which it's attached and
+
+276
+00:08:42,719 --> 00:08:46,959
+this is because we wanted to preserve
+
+277
+00:08:44,880 --> 00:08:48,480
+the relative orientation of subsamples
+
+278
+00:08:46,959 --> 00:08:50,000
+from each of our main samples
+
+279
+00:08:48,480 --> 00:08:53,040
+even though the bulk samples themselves
+
+280
+00:08:50,000 --> 00:08:55,440
+were not oriented on collection
+
+281
+00:08:53,040 --> 00:08:57,760
+okay so all three of these rocks are
+
+282
+00:08:55,440 --> 00:08:59,600
+olivine vitrifier mari basalts
+
+283
+00:08:57,760 --> 00:09:01,440
+and our microscopy didn't turn up any
+
+284
+00:08:59,600 --> 00:09:03,200
+evidence of major shock effects so
+
+285
+00:09:01,440 --> 00:09:05,360
+we are going to assert that these were
+
+286
+00:09:03,200 --> 00:09:07,200
+most likely magnetized through a trm a
+
+287
+00:09:05,360 --> 00:09:09,680
+thermo-remnant magnetization
+
+288
+00:09:07,200 --> 00:09:11,120
+we determined new argon argon ages for
+
+289
+00:09:09,680 --> 00:09:13,440
+two of these samples and
+
+290
+00:09:11,120 --> 00:09:14,240
+the first ever argon argon ages for the
+
+291
+00:09:13,440 --> 00:09:16,160
+third and
+
+292
+00:09:14,240 --> 00:09:17,600
+dated all three of them to about 3.1
+
+293
+00:09:16,160 --> 00:09:19,200
+billion years ago which is exactly what
+
+294
+00:09:17,600 --> 00:09:21,120
+we had been hoping for
+
+295
+00:09:19,200 --> 00:09:22,959
+now because these samples were rapidly
+
+296
+00:09:21,120 --> 00:09:23,600
+cooled and have a fine overall grain
+
+297
+00:09:22,959 --> 00:09:25,120
+size
+
+298
+00:09:23,600 --> 00:09:27,040
+our hope was that they might contain
+
+299
+00:09:25,120 --> 00:09:28,640
+some fine-grained magnetic material that
+
+300
+00:09:27,040 --> 00:09:29,760
+would make them good paleomagnetic
+
+301
+00:09:28,640 --> 00:09:31,279
+recorders
+
+302
+00:09:29,760 --> 00:09:33,600
+and at this scale we were able to
+
+303
+00:09:31,279 --> 00:09:35,040
+observe some bright metallic grains that
+
+304
+00:09:33,600 --> 00:09:37,120
+we thought might be the iron nickel
+
+305
+00:09:35,040 --> 00:09:40,320
+grains suggested by previous studies to
+
+306
+00:09:37,120 --> 00:09:40,320
+exist in these samples
+
+307
+00:09:41,279 --> 00:09:45,040
+okay i'm going to go right into our
+
+308
+00:09:42,399 --> 00:09:46,959
+paleomagnetic results first
+
+309
+00:09:45,040 --> 00:09:48,560
+the first question we asked was did
+
+310
+00:09:46,959 --> 00:09:49,440
+these samples record a field when they
+
+311
+00:09:48,560 --> 00:09:51,519
+formed
+
+312
+00:09:49,440 --> 00:09:52,640
+now usually when i give this talk i'm
+
+313
+00:09:51,519 --> 00:09:54,080
+talking to people who have never
+
+314
+00:09:52,640 --> 00:09:55,519
+taught uh never thought about magnets
+
+315
+00:09:54,080 --> 00:09:57,440
+before so i go through a little
+
+316
+00:09:55,519 --> 00:09:58,640
+explanation of how we build xiphel
+
+317
+00:09:57,440 --> 00:10:00,240
+diagrams and what they're kind of
+
+318
+00:09:58,640 --> 00:10:02,079
+supposed to look like and how the data
+
+319
+00:10:00,240 --> 00:10:03,680
+should trend toward the origin
+
+320
+00:10:02,079 --> 00:10:05,519
+but i think in this group i can probably
+
+321
+00:10:03,680 --> 00:10:07,360
+just show you my data
+
+322
+00:10:05,519 --> 00:10:09,120
+uh if you are familiar with ciderfeld
+
+323
+00:10:07,360 --> 00:10:10,240
+plots at all you may be noticing that
+
+324
+00:10:09,120 --> 00:10:12,079
+these are statistically
+
+325
+00:10:10,240 --> 00:10:13,519
+indistinguishable from spaghetti
+
+326
+00:10:12,079 --> 00:10:15,360
+at least once we remove this low
+
+327
+00:10:13,519 --> 00:10:16,800
+coercivity component that's consistent
+
+328
+00:10:15,360 --> 00:10:18,240
+with an overprint from just hanging out
+
+329
+00:10:16,800 --> 00:10:19,519
+in the earth's magnetic field for about
+
+330
+00:10:18,240 --> 00:10:21,760
+50 years
+
+331
+00:10:19,519 --> 00:10:23,600
+so unfortunately we're looking at the
+
+332
+00:10:21,760 --> 00:10:24,720
+data that's indistinguishable from noise
+
+333
+00:10:23,600 --> 00:10:27,200
+and what that means
+
+334
+00:10:24,720 --> 00:10:29,200
+is we were not able to retrieve a stable
+
+335
+00:10:27,200 --> 00:10:32,800
+high coercivity magnetization
+
+336
+00:10:29,200 --> 00:10:35,200
+through a standard afd mag of the nrm
+
+337
+00:10:32,800 --> 00:10:36,560
+so then we asked how weak a field could
+
+338
+00:10:35,200 --> 00:10:38,959
+these samples have recorded
+
+339
+00:10:36,560 --> 00:10:40,480
+if there was a field present at the time
+
+340
+00:10:38,959 --> 00:10:41,839
+now this is an important question to ask
+
+341
+00:10:40,480 --> 00:10:43,600
+in lunar studies because the
+
+342
+00:10:41,839 --> 00:10:45,040
+paleomagnetic techniques that were used
+
+343
+00:10:43,600 --> 00:10:46,720
+during the apollo era
+
+344
+00:10:45,040 --> 00:10:48,800
+were not always able to differentiate
+
+345
+00:10:46,720 --> 00:10:50,240
+between samples that did not record an
+
+346
+00:10:48,800 --> 00:10:52,560
+ancient magnetic field
+
+347
+00:10:50,240 --> 00:10:54,560
+and samples that just had poor remnants
+
+348
+00:10:52,560 --> 00:10:56,720
+or shoddy recording properties
+
+349
+00:10:54,560 --> 00:10:58,160
+or between samples that did record
+
+350
+00:10:56,720 --> 00:10:59,360
+strong planetary fields
+
+351
+00:10:58,160 --> 00:11:02,320
+and those that had just picked up
+
+352
+00:10:59,360 --> 00:11:04,240
+spurious remnants on earth
+
+353
+00:11:02,320 --> 00:11:05,920
+so to determine the fidelity limits for
+
+354
+00:11:04,240 --> 00:11:07,680
+these three samples we performed a
+
+355
+00:11:05,920 --> 00:11:09,200
+series of laboratory experiments in
+
+356
+00:11:07,680 --> 00:11:11,279
+which we were essentially applying a
+
+357
+00:11:09,200 --> 00:11:12,000
+magnetic field of a known intensity to
+
+358
+00:11:11,279 --> 00:11:14,000
+each sample
+
+359
+00:11:12,000 --> 00:11:15,519
+to simulate a trm at room temperature
+
+360
+00:11:14,000 --> 00:11:16,640
+because nasa doesn't love it when you
+
+361
+00:11:15,519 --> 00:11:18,480
+cook their rocks
+
+362
+00:11:16,640 --> 00:11:19,839
+um and then attempted to get back a
+
+363
+00:11:18,480 --> 00:11:22,000
+record of that applied field
+
+364
+00:11:19,839 --> 00:11:23,760
+using the same af dmag methods that we
+
+365
+00:11:22,000 --> 00:11:24,399
+had to try to get at nrm in the first
+
+366
+00:11:23,760 --> 00:11:26,000
+place
+
+367
+00:11:24,399 --> 00:11:27,760
+the hope being that we should see a
+
+368
+00:11:26,000 --> 00:11:30,959
+one-to-one relationship between the
+
+369
+00:11:27,760 --> 00:11:32,959
+applied field and the retrieved field
+
+370
+00:11:30,959 --> 00:11:34,240
+here are the results of those analyses
+
+371
+00:11:32,959 --> 00:11:35,040
+if you look at the plot all the way to
+
+372
+00:11:34,240 --> 00:11:37,680
+the left
+
+373
+00:11:35,040 --> 00:11:38,480
+we have our applied laboratory field on
+
+374
+00:11:37,680 --> 00:11:40,800
+the x-axis
+
+375
+00:11:38,480 --> 00:11:42,640
+in microteslas and the retrieved paleo
+
+376
+00:11:40,800 --> 00:11:43,680
+intensity on the y-axis again in
+
+377
+00:11:42,640 --> 00:11:45,279
+microteslas
+
+378
+00:11:43,680 --> 00:11:47,440
+and ideally all of our data should
+
+379
+00:11:45,279 --> 00:11:49,839
+cluster around this one-to-one
+
+380
+00:11:47,440 --> 00:11:51,200
+line that i've got in gray dash here
+
+381
+00:11:49,839 --> 00:11:52,880
+it's kind of hard to see exactly what's
+
+382
+00:11:51,200 --> 00:11:53,600
+happening from that figure alone so if
+
+383
+00:11:52,880 --> 00:11:55,600
+you look instead
+
+384
+00:11:53,600 --> 00:11:57,680
+at the middle figure we're applauding
+
+385
+00:11:55,600 --> 00:11:58,000
+we're re-plotting exactly the same data
+
+386
+00:11:57,680 --> 00:12:00,000
+in
+
+387
+00:11:58,000 --> 00:12:01,279
+a different way now we have the applied
+
+388
+00:12:00,000 --> 00:12:02,880
+field on the x-axis
+
+389
+00:12:01,279 --> 00:12:04,880
+and the difference between the applied
+
+390
+00:12:02,880 --> 00:12:07,360
+field and the retrieve field on the y
+
+391
+00:12:04,880 --> 00:12:08,800
+and using this 100 difference cut-offs
+
+392
+00:12:07,360 --> 00:12:10,560
+from some previous studies
+
+393
+00:12:08,800 --> 00:12:12,320
+we found that two of our samples could
+
+394
+00:12:10,560 --> 00:12:14,079
+give us back good records of fields as
+
+395
+00:12:12,320 --> 00:12:15,680
+weak as seven microteslas
+
+396
+00:12:14,079 --> 00:12:17,360
+and one of our samples was able to give
+
+397
+00:12:15,680 --> 00:12:17,680
+us back good records of fields as weak
+
+398
+00:12:17,360 --> 00:12:20,320
+as
+
+399
+00:12:17,680 --> 00:12:20,800
+four micro teslas which is pretty good
+
+400
+00:12:20,320 --> 00:12:23,120
+so
+
+401
+00:12:20,800 --> 00:12:25,040
+we would say that our af methods would
+
+402
+00:12:23,120 --> 00:12:26,320
+have been capable of retrieving records
+
+403
+00:12:25,040 --> 00:12:27,920
+of a weak trm
+
+404
+00:12:26,320 --> 00:12:29,440
+if the magnetizing fields were any
+
+405
+00:12:27,920 --> 00:12:30,560
+stronger than about four to seven
+
+406
+00:12:29,440 --> 00:12:32,399
+microtesles
+
+407
+00:12:30,560 --> 00:12:34,639
+you may recall from two slides ago that
+
+408
+00:12:32,399 --> 00:12:36,079
+we did no such thing
+
+409
+00:12:34,639 --> 00:12:38,000
+so let's go back to our timeline for a
+
+410
+00:12:36,079 --> 00:12:39,839
+second we have some new argon
+
+411
+00:12:38,000 --> 00:12:42,000
+argon dates we have some new fidelity
+
+412
+00:12:39,839 --> 00:12:43,519
+limits and we can add our three points
+
+413
+00:12:42,000 --> 00:12:45,440
+onto this timeline effectively
+
+414
+00:12:43,519 --> 00:12:48,880
+quadrupling the amount of data available
+
+415
+00:12:45,440 --> 00:12:51,440
+between 3.1 and 3.2 billion years ago
+
+416
+00:12:48,880 --> 00:12:52,000
+which is sort of fun to say one of the
+
+417
+00:12:51,440 --> 00:12:53,680
+things that i
+
+418
+00:12:52,000 --> 00:12:55,440
+really enjoyed about this study is that
+
+419
+00:12:53,680 --> 00:12:57,279
+we got results that are in really nice
+
+420
+00:12:55,440 --> 00:12:59,279
+agreement with previous work and this is
+
+421
+00:12:57,279 --> 00:13:00,959
+essentially a replication study
+
+422
+00:12:59,279 --> 00:13:02,240
+a hill that i will eventually die on is
+
+423
+00:13:00,959 --> 00:13:03,839
+that we should be able to do more
+
+424
+00:13:02,240 --> 00:13:05,920
+studies like that
+
+425
+00:13:03,839 --> 00:13:07,360
+because what this lets us do is we can
+
+426
+00:13:05,920 --> 00:13:08,959
+think back to this small number
+
+427
+00:13:07,360 --> 00:13:10,079
+statistics issue i brought up at the
+
+428
+00:13:08,959 --> 00:13:12,399
+front of the talk
+
+429
+00:13:10,079 --> 00:13:14,880
+and ask is the decline that we're seeing
+
+430
+00:13:12,399 --> 00:13:17,200
+actually statistically significant
+
+431
+00:13:14,880 --> 00:13:19,680
+we wanted to determine whether the paleo
+
+432
+00:13:17,200 --> 00:13:22,000
+intensities in the high field period
+
+433
+00:13:19,680 --> 00:13:22,800
+and the intensity limits determined in
+
+434
+00:13:22,000 --> 00:13:25,680
+this period of
+
+435
+00:13:22,800 --> 00:13:26,160
+initial field decline are really derived
+
+436
+00:13:25,680 --> 00:13:28,560
+from
+
+437
+00:13:26,160 --> 00:13:29,839
+separate populations or separate events
+
+438
+00:13:28,560 --> 00:13:31,600
+or whether they could be coming from the
+
+439
+00:13:29,839 --> 00:13:32,959
+same initial distribution of paleo
+
+440
+00:13:31,600 --> 00:13:34,720
+intensity values
+
+441
+00:13:32,959 --> 00:13:37,600
+so prior to the study just looking at
+
+442
+00:13:34,720 --> 00:13:39,040
+literature a ks test gave us a p-value
+
+443
+00:13:37,600 --> 00:13:40,880
+of 0.0152
+
+444
+00:13:39,040 --> 00:13:42,480
+saying these are almost certainly not
+
+445
+00:13:40,880 --> 00:13:43,519
+from excuse me these are almost
+
+446
+00:13:42,480 --> 00:13:45,120
+certainly not
+
+447
+00:13:43,519 --> 00:13:47,440
+random or from the same initial
+
+448
+00:13:45,120 --> 00:13:49,360
+distribution but when we add our three
+
+449
+00:13:47,440 --> 00:13:51,440
+data points we're unable to improve that
+
+450
+00:13:49,360 --> 00:13:51,839
+result by an order of magnitude and say
+
+451
+00:13:51,440 --> 00:13:54,240
+with
+
+452
+00:13:51,839 --> 00:13:55,839
+much more confidence that there was
+
+453
+00:13:54,240 --> 00:13:56,480
+about an order of magnitude field
+
+454
+00:13:55,839 --> 00:13:58,560
+decline
+
+455
+00:13:56,480 --> 00:14:00,240
+subsequent to the high field period on
+
+456
+00:13:58,560 --> 00:14:02,880
+the moon
+
+457
+00:14:00,240 --> 00:14:04,079
+so now we can extend our generic
+
+458
+00:14:02,880 --> 00:14:05,760
+schematic line
+
+459
+00:14:04,079 --> 00:14:07,839
+uh and say with a little bit more
+
+460
+00:14:05,760 --> 00:14:08,800
+confidence too that following the high
+
+461
+00:14:07,839 --> 00:14:10,560
+field period
+
+462
+00:14:08,800 --> 00:14:12,800
+there was a state change that put us
+
+463
+00:14:10,560 --> 00:14:16,079
+into a sustained weak field period
+
+464
+00:14:12,800 --> 00:14:17,920
+for some additional period of time so
+
+465
+00:14:16,079 --> 00:14:19,279
+again the reason that we're interested
+
+466
+00:14:17,920 --> 00:14:20,560
+in these kinds of questions about
+
+467
+00:14:19,279 --> 00:14:22,160
+changing intensity
+
+468
+00:14:20,560 --> 00:14:23,839
+is that they tell us something about the
+
+469
+00:14:22,160 --> 00:14:24,560
+mechanisms by which the field was
+
+470
+00:14:23,839 --> 00:14:26,880
+generated
+
+471
+00:14:24,560 --> 00:14:28,800
+and the hope is that by improving our
+
+472
+00:14:26,880 --> 00:14:30,880
+constraint of the timeline
+
+473
+00:14:28,800 --> 00:14:32,079
+we can eliminate some of these candidate
+
+474
+00:14:30,880 --> 00:14:34,480
+mechanisms from
+
+475
+00:14:32,079 --> 00:14:35,760
+our plot i'm not going to talk about
+
+476
+00:14:34,480 --> 00:14:36,959
+that right now though what i do want to
+
+477
+00:14:35,760 --> 00:14:38,800
+talk about instead
+
+478
+00:14:36,959 --> 00:14:40,560
+is the question of what is recording
+
+479
+00:14:38,800 --> 00:14:42,240
+these fields so i really want to talk
+
+480
+00:14:40,560 --> 00:14:44,320
+about mineralogy today because
+
+481
+00:14:42,240 --> 00:14:46,320
+these three samples have particularly
+
+482
+00:14:44,320 --> 00:14:47,040
+excellent fidelity properties for lunar
+
+483
+00:14:46,320 --> 00:14:48,880
+rocks
+
+484
+00:14:47,040 --> 00:14:50,320
+and i got pretty excited about trying to
+
+485
+00:14:48,880 --> 00:14:52,399
+figure out why so
+
+486
+00:14:50,320 --> 00:14:53,440
+previous studies have showed that the
+
+487
+00:14:52,399 --> 00:14:55,760
+ferromagnetic
+
+488
+00:14:53,440 --> 00:14:57,600
+mineralogy of lunar rocks is primarily
+
+489
+00:14:55,760 --> 00:14:59,920
+metallic iron and camasite
+
+490
+00:14:57,600 --> 00:15:01,760
+which is a low nickel iron nickel alloy
+
+491
+00:14:59,920 --> 00:15:04,560
+and i wanted to explore a little and see
+
+492
+00:15:01,760 --> 00:15:06,160
+what we could do with that information
+
+493
+00:15:04,560 --> 00:15:07,600
+so at rutgers we had access to an
+
+494
+00:15:06,160 --> 00:15:08,880
+electron microprobe uh
+
+495
+00:15:07,600 --> 00:15:10,720
+what you're looking at here in the
+
+496
+00:15:08,880 --> 00:15:12,880
+second through fourth columns are
+
+497
+00:15:10,720 --> 00:15:14,480
+qualitative elemental x-ray maps which
+
+498
+00:15:12,880 --> 00:15:15,760
+we collected in addition to obtaining
+
+499
+00:15:14,480 --> 00:15:17,760
+quantitative points from
+
+500
+00:15:15,760 --> 00:15:19,920
+individual grains you can basically
+
+501
+00:15:17,760 --> 00:15:21,920
+think of each pixel in each image as
+
+502
+00:15:19,920 --> 00:15:23,920
+representing a single data point
+
+503
+00:15:21,920 --> 00:15:26,399
+so if you look at the third column which
+
+504
+00:15:23,920 --> 00:15:28,560
+has this kind of navy blue background
+
+505
+00:15:26,399 --> 00:15:30,720
+we're showing iron in blue and nickel in
+
+506
+00:15:28,560 --> 00:15:32,480
+green and from that we can say we were
+
+507
+00:15:30,720 --> 00:15:34,639
+definitely seeing some actual iron
+
+508
+00:15:32,480 --> 00:15:36,000
+nickel grains which was pretty cool
+
+509
+00:15:34,639 --> 00:15:37,600
+i do want to highlight a few things that
+
+510
+00:15:36,000 --> 00:15:38,639
+we noticed during these observations
+
+511
+00:15:37,600 --> 00:15:40,480
+though
+
+512
+00:15:38,639 --> 00:15:42,079
+first we found grains with different
+
+513
+00:15:40,480 --> 00:15:44,320
+iron nickel ratios within
+
+514
+00:15:42,079 --> 00:15:45,199
+each sample and we were able to identify
+
+515
+00:15:44,320 --> 00:15:47,360
+both camasite
+
+516
+00:15:45,199 --> 00:15:49,199
+and martensite in this total collection
+
+517
+00:15:47,360 --> 00:15:50,480
+of grains in fact we were mostly finding
+
+518
+00:15:49,199 --> 00:15:52,160
+martensite which is a
+
+519
+00:15:50,480 --> 00:15:54,320
+slightly higher nickel content than
+
+520
+00:15:52,160 --> 00:15:56,480
+campasite we also saw
+
+521
+00:15:54,320 --> 00:15:57,920
+that many of these iron nickel grains
+
+522
+00:15:56,480 --> 00:15:59,600
+are not homogeneous
+
+523
+00:15:57,920 --> 00:16:01,839
+so in this figure you can see some
+
+524
+00:15:59,600 --> 00:16:03,759
+compositional gradients across a few
+
+525
+00:16:01,839 --> 00:16:04,959
+but not all of the grains that i'm
+
+526
+00:16:03,759 --> 00:16:06,639
+showing
+
+527
+00:16:04,959 --> 00:16:08,000
+there are color differences across the
+
+528
+00:16:06,639 --> 00:16:10,480
+grains and we
+
+529
+00:16:08,000 --> 00:16:12,480
+also observed some very likely iron
+
+530
+00:16:10,480 --> 00:16:14,320
+nickel grains of a sub micron size that
+
+531
+00:16:12,480 --> 00:16:15,519
+were unfortunately too small to acquire
+
+532
+00:16:14,320 --> 00:16:18,079
+quantitative points from
+
+533
+00:16:15,519 --> 00:16:19,839
+individually so in summary we were able
+
+534
+00:16:18,079 --> 00:16:22,399
+to observe what we're pretty sure our
+
+535
+00:16:19,839 --> 00:16:23,759
+multiple grain sizes of both camisite
+
+536
+00:16:22,399 --> 00:16:25,680
+and martensite
+
+537
+00:16:23,759 --> 00:16:26,880
+again pretty cool we've also been
+
+538
+00:16:25,680 --> 00:16:28,240
+thinking about some
+
+539
+00:16:26,880 --> 00:16:29,759
+studies that were published recently
+
+540
+00:16:28,240 --> 00:16:31,199
+suggesting that association with
+
+541
+00:16:29,759 --> 00:16:31,839
+troilite which is an iron sulfide
+
+542
+00:16:31,199 --> 00:16:33,120
+mineral
+
+543
+00:16:31,839 --> 00:16:35,519
+might be an indicator of good
+
+544
+00:16:33,120 --> 00:16:37,360
+paleomagnetic fidelity in lunar basalts
+
+545
+00:16:35,519 --> 00:16:38,800
+but we went looking and that's what's
+
+546
+00:16:37,360 --> 00:16:40,639
+going on with this fourth column where
+
+547
+00:16:38,800 --> 00:16:43,040
+now we've got sulfur in magenta
+
+548
+00:16:40,639 --> 00:16:45,040
+and iron in blue and we didn't find any
+
+549
+00:16:43,040 --> 00:16:46,000
+grains with compositions consistent with
+
+550
+00:16:45,040 --> 00:16:48,560
+trolite
+
+551
+00:16:46,000 --> 00:16:50,079
+so in general we would say that troilite
+
+552
+00:16:48,560 --> 00:16:52,160
+may be forming through
+
+553
+00:16:50,079 --> 00:16:54,320
+processes that also produce submicron
+
+554
+00:16:52,160 --> 00:16:56,079
+iron grains in some lunar rocks
+
+555
+00:16:54,320 --> 00:16:57,680
+but it's clearly not a requirement in
+
+556
+00:16:56,079 --> 00:17:00,480
+order for lunar rocks to have good
+
+557
+00:16:57,680 --> 00:17:02,000
+paleo-intensity fidelity
+
+558
+00:17:00,480 --> 00:17:04,000
+so then we also did some hysteresis
+
+559
+00:17:02,000 --> 00:17:05,839
+experiments the figures here are each
+
+560
+00:17:04,000 --> 00:17:07,760
+showing a representative subsample of
+
+561
+00:17:05,839 --> 00:17:09,919
+one of our three main samples
+
+562
+00:17:07,760 --> 00:17:11,679
+and we've got our applied field strength
+
+563
+00:17:09,919 --> 00:17:13,199
+in teslas on the x-axis
+
+564
+00:17:11,679 --> 00:17:15,120
+and the measured moment in ammeter
+
+565
+00:17:13,199 --> 00:17:17,520
+squared on the y-axis the
+
+566
+00:17:15,120 --> 00:17:19,120
+orange curves are raw data and the blue
+
+567
+00:17:17,520 --> 00:17:20,240
+curves are corrected for parametric
+
+568
+00:17:19,120 --> 00:17:22,880
+slope you might
+
+569
+00:17:20,240 --> 00:17:23,919
+recognize the irmdb software output here
+
+570
+00:17:22,880 --> 00:17:25,679
+i've also pulled out some of the
+
+571
+00:17:23,919 --> 00:17:27,199
+parameters that we used to define the
+
+572
+00:17:25,679 --> 00:17:28,480
+shape and size of each of our loops and
+
+573
+00:17:27,199 --> 00:17:30,880
+i will come back to that
+
+574
+00:17:28,480 --> 00:17:32,720
+very shortly so our measurements were
+
+575
+00:17:30,880 --> 00:17:34,559
+dominated by diamagnetic and
+
+576
+00:17:32,720 --> 00:17:36,320
+paramagnetic contributions probably
+
+577
+00:17:34,559 --> 00:17:38,320
+because we were using very small samples
+
+578
+00:17:36,320 --> 00:17:40,240
+for these particular experiments
+
+579
+00:17:38,320 --> 00:17:41,760
+but we did also observe some open loops
+
+580
+00:17:40,240 --> 00:17:43,039
+that we thought could be suggestive of
+
+581
+00:17:41,760 --> 00:17:44,720
+multi-domain states
+
+582
+00:17:43,039 --> 00:17:46,480
+and i want to note that they could also
+
+583
+00:17:44,720 --> 00:17:48,320
+be explained by some combination of
+
+584
+00:17:46,480 --> 00:17:50,320
+having extremely weak samples
+
+585
+00:17:48,320 --> 00:17:52,320
+and some known thermal disequilibrium
+
+586
+00:17:50,320 --> 00:17:54,720
+issues with the particular agfm that we
+
+587
+00:17:52,320 --> 00:17:57,200
+were using
+
+588
+00:17:54,720 --> 00:17:58,000
+okay so let's step back for a second and
+
+589
+00:17:57,200 --> 00:17:59,840
+talk about
+
+590
+00:17:58,000 --> 00:18:01,360
+domain behavior in lunar rocks between
+
+591
+00:17:59,840 --> 00:18:03,120
+beyond these three samples
+
+592
+00:18:01,360 --> 00:18:04,640
+what i'm showing here is a day plot and
+
+593
+00:18:03,120 --> 00:18:06,320
+these are typically used to understand
+
+594
+00:18:04,640 --> 00:18:08,000
+the hysteresis parameters of different
+
+595
+00:18:06,320 --> 00:18:09,919
+samples relative to each other
+
+596
+00:18:08,000 --> 00:18:11,520
+now i know that the terrestrial folks in
+
+597
+00:18:09,919 --> 00:18:13,039
+the room may be a little bit alarmed to
+
+598
+00:18:11,520 --> 00:18:14,720
+see this here especially if you are
+
+599
+00:18:13,039 --> 00:18:16,880
+familiar with andy roberts's seminal
+
+600
+00:18:14,720 --> 00:18:17,840
+2018 paper a critical appraisal of the
+
+601
+00:18:16,880 --> 00:18:19,120
+day diagram
+
+602
+00:18:17,840 --> 00:18:20,400
+but i ask you to please bear with me
+
+603
+00:18:19,120 --> 00:18:22,000
+because there is a point that i'm going
+
+604
+00:18:20,400 --> 00:18:24,320
+to try to make with this
+
+605
+00:18:22,000 --> 00:18:25,280
+um so on our x-axis we have remnant
+
+606
+00:18:24,320 --> 00:18:27,440
+coercivity
+
+607
+00:18:25,280 --> 00:18:29,520
+divided by coercive force and on our
+
+608
+00:18:27,440 --> 00:18:31,440
+y-axis we've got saturation remnant
+
+609
+00:18:29,520 --> 00:18:32,400
+magnetization divided by saturation
+
+610
+00:18:31,440 --> 00:18:34,400
+magnetization
+
+611
+00:18:32,400 --> 00:18:36,640
+and the general hope with the day plot
+
+612
+00:18:34,400 --> 00:18:37,919
+like this is that samples with better
+
+613
+00:18:36,640 --> 00:18:40,320
+recording properties
+
+614
+00:18:37,919 --> 00:18:42,240
+should plot toward the upper left and
+
+615
+00:18:40,320 --> 00:18:43,760
+may correspond with better magnetic
+
+616
+00:18:42,240 --> 00:18:46,880
+fidelity
+
+617
+00:18:43,760 --> 00:18:48,480
+so what we built in our study is to our
+
+618
+00:18:46,880 --> 00:18:50,400
+knowledge the largest published
+
+619
+00:18:48,480 --> 00:18:52,160
+compilation of hysteresis parameters
+
+620
+00:18:50,400 --> 00:18:53,679
+from apollo samples to date
+
+621
+00:18:52,160 --> 00:18:55,679
+each data point that you're seeing here
+
+622
+00:18:53,679 --> 00:18:56,559
+represents one sample or sub sample from
+
+623
+00:18:55,679 --> 00:18:58,480
+literature
+
+624
+00:18:56,559 --> 00:19:00,640
+sorted by bulk rock type kind of as a
+
+625
+00:18:58,480 --> 00:19:02,320
+first pass and the data from our study
+
+626
+00:19:00,640 --> 00:19:04,320
+is in the orange squares
+
+627
+00:19:02,320 --> 00:19:06,480
+i've also included these gray dashed
+
+628
+00:19:04,320 --> 00:19:08,240
+lines to indicate domain state regions
+
+629
+00:19:06,480 --> 00:19:10,160
+from the original day plot
+
+630
+00:19:08,240 --> 00:19:12,000
+so note the positions of samples from a
+
+631
+00:19:10,160 --> 00:19:13,120
+few recent studies on this figure just
+
+632
+00:19:12,000 --> 00:19:14,400
+by way of example
+
+633
+00:19:13,120 --> 00:19:16,080
+and you can kind of get a sense from
+
+634
+00:19:14,400 --> 00:19:17,200
+this handful of points that the general
+
+635
+00:19:16,080 --> 00:19:19,919
+trend we're hoping for
+
+636
+00:19:17,200 --> 00:19:21,840
+does seem to hold we see better lower
+
+637
+00:19:19,919 --> 00:19:22,559
+fidelity limits as we look toward the
+
+638
+00:19:21,840 --> 00:19:25,200
+upper left
+
+639
+00:19:22,559 --> 00:19:26,480
+of the plot however there is a problem
+
+640
+00:19:25,200 --> 00:19:27,760
+okay there's like there's a bunch of
+
+641
+00:19:26,480 --> 00:19:29,120
+problems with this figure but i'm just
+
+642
+00:19:27,760 --> 00:19:31,840
+gonna focus on one today
+
+643
+00:19:29,120 --> 00:19:33,039
+um those dashed lines do not actually
+
+644
+00:19:31,840 --> 00:19:34,960
+exist
+
+645
+00:19:33,039 --> 00:19:36,720
+the guiding domain parameter ranges were
+
+646
+00:19:34,960 --> 00:19:38,320
+originally developed for magnetite and
+
+647
+00:19:36,720 --> 00:19:39,520
+are not applicable to other kinds of
+
+648
+00:19:38,320 --> 00:19:41,760
+magnetic minerals
+
+649
+00:19:39,520 --> 00:19:43,520
+and this is crucial because not a single
+
+650
+00:19:41,760 --> 00:19:43,919
+one of the samples shown on this plot
+
+651
+00:19:43,520 --> 00:19:45,600
+nor
+
+652
+00:19:43,919 --> 00:19:47,200
+any of the samples used to build that
+
+653
+00:19:45,600 --> 00:19:50,320
+paleo intensity timeline
+
+654
+00:19:47,200 --> 00:19:51,679
+contain magnetite all that being said
+
+655
+00:19:50,320 --> 00:19:53,200
+we built this plot in the first place
+
+656
+00:19:51,679 --> 00:19:54,720
+because i wanted to understand our
+
+657
+00:19:53,200 --> 00:19:56,480
+samples in context
+
+658
+00:19:54,720 --> 00:19:58,240
+about half of the data that you see here
+
+659
+00:19:56,480 --> 00:19:59,120
+was collected prior to the invention of
+
+660
+00:19:58,240 --> 00:20:00,960
+forks when
+
+661
+00:19:59,120 --> 00:20:02,640
+this technique really was the cutting
+
+662
+00:20:00,960 --> 00:20:04,240
+edge and i'm convinced that we can at
+
+663
+00:20:02,640 --> 00:20:05,760
+least start some useful discussions
+
+664
+00:20:04,240 --> 00:20:07,679
+about how to go forward by
+
+665
+00:20:05,760 --> 00:20:09,440
+making these kinds of comparisons so
+
+666
+00:20:07,679 --> 00:20:11,280
+long story short i'm very proud of the
+
+667
+00:20:09,440 --> 00:20:13,039
+data compilation that we assembled here
+
+668
+00:20:11,280 --> 00:20:14,480
+and it is freely available at the nist
+
+669
+00:20:13,039 --> 00:20:15,679
+data repository with the link at the
+
+670
+00:20:14,480 --> 00:20:18,320
+bottom of the slide
+
+671
+00:20:15,679 --> 00:20:20,320
+um but i do strongly caution against
+
+672
+00:20:18,320 --> 00:20:22,000
+using day plots to determine specific
+
+673
+00:20:20,320 --> 00:20:23,679
+domain states or grain sizes
+
+674
+00:20:22,000 --> 00:20:25,679
+for the magnetic minerals in lunar
+
+675
+00:20:23,679 --> 00:20:27,520
+samples
+
+676
+00:20:25,679 --> 00:20:28,880
+okay if you zoned out or went to check
+
+677
+00:20:27,520 --> 00:20:30,960
+your phone i'm now going to summarize my
+
+678
+00:20:28,880 --> 00:20:32,880
+whole talk in about a minute and a half
+
+679
+00:20:30,960 --> 00:20:34,000
+what happened to the lunar field after
+
+680
+00:20:32,880 --> 00:20:36,960
+3.56 billion
+
+681
+00:20:34,000 --> 00:20:38,240
+years ago our methods would have been
+
+682
+00:20:36,960 --> 00:20:40,080
+able to retrieve a record
+
+683
+00:20:38,240 --> 00:20:41,600
+if the magnetizing field was any
+
+684
+00:20:40,080 --> 00:20:43,919
+stronger than about four to seven
+
+685
+00:20:41,600 --> 00:20:44,880
+microteslas however we did not retrieve
+
+686
+00:20:43,919 --> 00:20:46,559
+a stable record
+
+687
+00:20:44,880 --> 00:20:48,960
+of a magnetization consistent with that
+
+688
+00:20:46,559 --> 00:20:50,799
+kind of planetary field therefore
+
+689
+00:20:48,960 --> 00:20:52,159
+we find no evidence for lunar surface
+
+690
+00:20:50,799 --> 00:20:53,039
+fields any stronger than seven
+
+691
+00:20:52,159 --> 00:20:55,440
+microteslas
+
+692
+00:20:53,039 --> 00:20:57,280
+at about 3.1 billion years ago and as a
+
+693
+00:20:55,440 --> 00:20:59,520
+reminder this is roughly an order of
+
+694
+00:20:57,280 --> 00:21:02,960
+magnitude decline in field intensity
+
+695
+00:20:59,520 --> 00:21:03,840
+over about 370 million years in order to
+
+696
+00:21:02,960 --> 00:21:06,080
+explain this
+
+697
+00:21:03,840 --> 00:21:07,360
+we need either multiple mechanisms of
+
+698
+00:21:06,080 --> 00:21:09,679
+field generation or
+
+699
+00:21:07,360 --> 00:21:11,679
+a bistable dynamo for which the idea
+
+700
+00:21:09,679 --> 00:21:13,679
+would be some dynamo system that could
+
+701
+00:21:11,679 --> 00:21:15,840
+sustain itself in a strong state get
+
+702
+00:21:13,679 --> 00:21:16,960
+destabilized and then be reasserted in a
+
+703
+00:21:15,840 --> 00:21:18,480
+weak state
+
+704
+00:21:16,960 --> 00:21:19,760
+we think it's a little bit more likely
+
+705
+00:21:18,480 --> 00:21:21,760
+that we're looking at multiple
+
+706
+00:21:19,760 --> 00:21:22,400
+mechanisms here and we're particularly
+
+707
+00:21:21,760 --> 00:21:25,039
+interested
+
+708
+00:21:22,400 --> 00:21:26,159
+in a precession generated dynamo which
+
+709
+00:21:25,039 --> 00:21:28,159
+could have given way to
+
+710
+00:21:26,159 --> 00:21:29,679
+an underlying thermochemical convection
+
+711
+00:21:28,159 --> 00:21:31,360
+system after the moon
+
+712
+00:21:29,679 --> 00:21:33,120
+reached such a distance from the earth
+
+713
+00:21:31,360 --> 00:21:35,360
+that its gravitational state
+
+714
+00:21:33,120 --> 00:21:37,280
+uh destabilized the procession required
+
+715
+00:21:35,360 --> 00:21:39,039
+to produce those strong's field those
+
+716
+00:21:37,280 --> 00:21:41,200
+strong fields
+
+717
+00:21:39,039 --> 00:21:42,320
+and with that i will leave up a few of
+
+718
+00:21:41,200 --> 00:21:43,919
+our major takeaways
+
+719
+00:21:42,320 --> 00:21:45,520
+i want to say thank you again for having
+
+720
+00:21:43,919 --> 00:21:47,520
+me today it's a real honor to be part of
+
+721
+00:21:45,520 --> 00:21:48,320
+the magnet series i want to thank the
+
+722
+00:21:47,520 --> 00:21:50,960
+captain
+
+723
+00:21:48,320 --> 00:21:51,679
+program for sample allocation um and
+
+724
+00:21:50,960 --> 00:21:53,360
+thank you to
+
+725
+00:21:51,679 --> 00:21:54,960
+the two folks i think maybe in the
+
+726
+00:21:53,360 --> 00:21:56,320
+audience today who reviewed our paper
+
+727
+00:21:54,960 --> 00:21:58,240
+and gave some really genuinely
+
+728
+00:21:56,320 --> 00:22:00,640
+constructive feedback that actually
+
+729
+00:21:58,240 --> 00:22:02,080
+uh really helped with the draft that we
+
+730
+00:22:00,640 --> 00:22:04,880
+were putting together
+
+731
+00:22:02,080 --> 00:22:06,720
+i also want to make a very quick plug uh
+
+732
+00:22:04,880 --> 00:22:08,320
+if you are going to lpsc the lunar and
+
+733
+00:22:06,720 --> 00:22:08,960
+planetary science conference in a couple
+
+734
+00:22:08,320 --> 00:22:11,600
+of weeks
+
+735
+00:22:08,960 --> 00:22:13,679
+i'm giving two presentations one is on
+
+736
+00:22:11,600 --> 00:22:15,360
+uh magnetic domain domain behavior and
+
+737
+00:22:13,679 --> 00:22:16,480
+interpretation in apollo samples where
+
+738
+00:22:15,360 --> 00:22:18,559
+i'm going to go a little bit more in
+
+739
+00:22:16,480 --> 00:22:20,400
+depth on lunar magnetic mineralogy
+
+740
+00:22:18,559 --> 00:22:21,840
+and i'm also presenting a poster on some
+
+741
+00:22:20,400 --> 00:22:23,600
+work that i've been leading on gender
+
+742
+00:22:21,840 --> 00:22:25,200
+inclusive study methods in planetary
+
+743
+00:22:23,600 --> 00:22:26,960
+science and related fields and how we
+
+744
+00:22:25,200 --> 00:22:28,880
+can be more welcome to
+
+745
+00:22:26,960 --> 00:22:30,799
+welcoming to trans and non-binary people
+
+746
+00:22:28,880 --> 00:22:32,640
+in our study areas
+
+747
+00:22:30,799 --> 00:22:35,039
+and with that i'd be happy to take
+
+748
+00:22:32,640 --> 00:22:35,039
+questions
+
+749
+00:22:37,440 --> 00:22:40,880
+thank you very much beck i was great
+
+750
+00:22:39,440 --> 00:22:43,600
+presentation
+
+751
+00:22:40,880 --> 00:22:44,640
+uh really really really good um we are
+
+752
+00:22:43,600 --> 00:22:48,159
+ready now to take
+
+753
+00:22:44,640 --> 00:22:54,080
+questions if anybody yeah big round of
+
+754
+00:22:48,159 --> 00:22:56,720
+applause thank you
+
+755
+00:22:54,080 --> 00:22:58,480
+if you if you don't want to speak you
+
+756
+00:22:56,720 --> 00:23:01,919
+can drop your question in the chat
+
+757
+00:22:58,480 --> 00:23:06,640
+as well carney
+
+758
+00:23:01,919 --> 00:23:06,640
+says awesome talk thank you back thank
+
+759
+00:23:06,840 --> 00:23:09,840
+you
+
+760
+00:23:15,039 --> 00:23:18,720
+sorry i'll get the ball rolling um on
+
+761
+00:23:17,120 --> 00:23:22,799
+some questions
+
+762
+00:23:18,720 --> 00:23:25,600
+so you you're talking about um
+
+763
+00:23:22,799 --> 00:23:26,159
+a sort of order of magnitude drop um
+
+764
+00:23:25,600 --> 00:23:28,480
+over
+
+765
+00:23:26,159 --> 00:23:29,360
+over sorry what what length of time uh
+
+766
+00:23:28,480 --> 00:23:33,280
+was it
+
+767
+00:23:29,360 --> 00:23:34,640
+370 million years or so yeah i mean
+
+768
+00:23:33,280 --> 00:23:37,039
+have you thought about how that compares
+
+769
+00:23:34,640 --> 00:23:40,480
+to some of the the changes that we see
+
+770
+00:23:37,039 --> 00:23:42,159
+in terrestrial uh patio intensity data
+
+771
+00:23:40,480 --> 00:23:43,679
+yeah so this is uh this is something
+
+772
+00:23:42,159 --> 00:23:45,279
+that actually our reviewers gave us very
+
+773
+00:23:43,679 --> 00:23:47,039
+good feedback on uh we've gotten into
+
+774
+00:23:45,279 --> 00:23:49,919
+the habit of describing these
+
+775
+00:23:47,039 --> 00:23:52,080
+periods of decline as rapid because the
+
+776
+00:23:49,919 --> 00:23:54,000
+temporal resolution of data that we have
+
+777
+00:23:52,080 --> 00:23:56,480
+for the moon's magnetic field is so
+
+778
+00:23:54,000 --> 00:23:57,520
+sparse so when something happens one
+
+779
+00:23:56,480 --> 00:23:59,279
+billion years ago
+
+780
+00:23:57,520 --> 00:24:00,960
+and something else happens three billion
+
+781
+00:23:59,279 --> 00:24:02,159
+years ago everything in the middle feels
+
+782
+00:24:00,960 --> 00:24:02,960
+really fast when you have nothing to
+
+783
+00:24:02,159 --> 00:24:05,760
+compare to
+
+784
+00:24:02,960 --> 00:24:08,320
+but compared to terrestrial systems this
+
+785
+00:24:05,760 --> 00:24:08,799
+370 million year decline is probably
+
+786
+00:24:08,320 --> 00:24:11,679
+quite
+
+787
+00:24:08,799 --> 00:24:13,600
+slow and in order to get a little bit
+
+788
+00:24:11,679 --> 00:24:15,360
+more nuance about that honestly this is
+
+789
+00:24:13,600 --> 00:24:18,559
+one of the biggest pitches for
+
+790
+00:24:15,360 --> 00:24:20,480
+both improving our access to doing
+
+791
+00:24:18,559 --> 00:24:22,240
+magnetic studies of the apollo sample
+
+792
+00:24:20,480 --> 00:24:24,000
+suite because we have all this
+
+793
+00:24:22,240 --> 00:24:25,360
+this material available we might be able
+
+794
+00:24:24,000 --> 00:24:28,240
+to get better resolution
+
+795
+00:24:25,360 --> 00:24:28,720
+but also a pitch for thinking about how
+
+796
+00:24:28,240 --> 00:24:30,559
+we do
+
+797
+00:24:28,720 --> 00:24:32,320
+sample return in the future and with
+
+798
+00:24:30,559 --> 00:24:35,039
+lunar missions like artemis and even
+
+799
+00:24:32,320 --> 00:24:37,440
+mars missions we can think about how to
+
+800
+00:24:35,039 --> 00:24:38,640
+um improve coverage that might let us
+
+801
+00:24:37,440 --> 00:24:40,799
+get at things like
+
+802
+00:24:38,640 --> 00:24:42,240
+for instance reversals i have no idea if
+
+803
+00:24:40,799 --> 00:24:43,600
+there were reversals on the moon because
+
+804
+00:24:42,240 --> 00:24:47,840
+we just don't have the
+
+805
+00:24:43,600 --> 00:24:47,840
+the data to show that yet
+
+806
+00:24:49,200 --> 00:24:55,120
+thank you james is his hand
+
+807
+00:24:52,480 --> 00:24:56,400
+up i think that was a really nice talk
+
+808
+00:24:55,120 --> 00:24:58,640
+thank you for giving that thank you
+
+809
+00:24:56,400 --> 00:25:00,159
+um you mentioned that most of the grains
+
+810
+00:24:58,640 --> 00:25:02,400
+in your samples uh
+
+811
+00:25:00,159 --> 00:25:03,360
+martensite um and i just want to kind of
+
+812
+00:25:02,400 --> 00:25:04,559
+ask uh
+
+813
+00:25:03,360 --> 00:25:05,760
+what you thought the actual going
+
+814
+00:25:04,559 --> 00:25:07,039
+through the martensitic transition would
+
+815
+00:25:05,760 --> 00:25:08,159
+have done to a pain intensity would have
+
+816
+00:25:07,039 --> 00:25:10,000
+been like a
+
+817
+00:25:08,159 --> 00:25:12,159
+a re-recording will it be a crm would be
+
+818
+00:25:10,000 --> 00:25:13,520
+a trm would it be a crm that's carrying
+
+819
+00:25:12,159 --> 00:25:17,360
+a trm like what actually
+
+820
+00:25:13,520 --> 00:25:18,720
+sort of um mechanically is happening
+
+821
+00:25:17,360 --> 00:25:20,480
+there and what do you think the impacts
+
+822
+00:25:18,720 --> 00:25:23,520
+of that would be on a paleontology you
+
+823
+00:25:20,480 --> 00:25:25,919
+recover from a sample like this so
+
+824
+00:25:23,520 --> 00:25:26,960
+our our current understanding of this
+
+825
+00:25:25,919 --> 00:25:28,880
+and i do
+
+826
+00:25:26,960 --> 00:25:30,480
+want to like go on a tangent about how
+
+827
+00:25:28,880 --> 00:25:32,159
+we need to understand martensite more
+
+828
+00:25:30,480 --> 00:25:33,840
+thoroughly in this context
+
+829
+00:25:32,159 --> 00:25:35,360
+separately um but our current
+
+830
+00:25:33,840 --> 00:25:38,559
+understanding of this is that
+
+831
+00:25:35,360 --> 00:25:39,600
+the the um transition into martensite
+
+832
+00:25:38,559 --> 00:25:42,480
+was likely happening
+
+833
+00:25:39,600 --> 00:25:43,120
+very rapidly looking at the grain sizes
+
+834
+00:25:42,480 --> 00:25:44,880
+that we see
+
+835
+00:25:43,120 --> 00:25:47,120
+and the textures that are visible in our
+
+836
+00:25:44,880 --> 00:25:49,760
+microscopy we think that these
+
+837
+00:25:47,120 --> 00:25:51,600
+rocks overall cooled like less than a
+
+838
+00:25:49,760 --> 00:25:54,000
+day something on that order and from
+
+839
+00:25:51,600 --> 00:25:55,360
+that we are continuing to refer to this
+
+840
+00:25:54,000 --> 00:25:57,279
+as a trm
+
+841
+00:25:55,360 --> 00:25:58,799
+um there we've done a little bit of
+
+842
+00:25:57,279 --> 00:26:00,559
+digging into literature and it seems
+
+843
+00:25:58,799 --> 00:26:02,240
+that the overall magnetic behavior of
+
+844
+00:26:00,559 --> 00:26:03,840
+camasite and martensite are likely very
+
+845
+00:26:02,240 --> 00:26:05,520
+similar so i think the assumptions that
+
+846
+00:26:03,840 --> 00:26:07,039
+we've made in order to do these arm to
+
+847
+00:26:05,520 --> 00:26:09,440
+trm calculations
+
+848
+00:26:07,039 --> 00:26:11,039
+probably continue to hold for martensite
+
+849
+00:26:09,440 --> 00:26:13,039
+just because of that speed
+
+850
+00:26:11,039 --> 00:26:15,200
+um but i would very much like to do a
+
+851
+00:26:13,039 --> 00:26:15,919
+deep dive into exactly what the nuances
+
+852
+00:26:15,200 --> 00:26:17,360
+of these
+
+853
+00:26:15,919 --> 00:26:19,279
+like honestly these are ranges of
+
+854
+00:26:17,360 --> 00:26:21,679
+compositions right we say martensite for
+
+855
+00:26:19,279 --> 00:26:23,360
+things going from five percent up to 25
+
+856
+00:26:21,679 --> 00:26:24,400
+nickel and then i talked to my material
+
+857
+00:26:23,360 --> 00:26:25,760
+science colleagues and they're like
+
+858
+00:26:24,400 --> 00:26:26,480
+that's like eight different things you
+
+859
+00:26:25,760 --> 00:26:28,720
+know
+
+860
+00:26:26,480 --> 00:26:30,320
+um so i if you have more thoughts on
+
+861
+00:26:28,720 --> 00:26:32,960
+this i would very much like to to chat
+
+862
+00:26:30,320 --> 00:26:32,960
+about that further
+
+863
+00:26:34,159 --> 00:26:38,480
+thank you thank you now kathy constable
+
+864
+00:26:37,600 --> 00:26:41,600
+you have your hand
+
+865
+00:26:38,480 --> 00:26:44,159
+up yeah i was just wondering
+
+866
+00:26:41,600 --> 00:26:44,960
+um what the prospects really are for
+
+867
+00:26:44,159 --> 00:26:48,000
+filling in
+
+868
+00:26:44,960 --> 00:26:51,200
+based on the apollo samples so
+
+869
+00:26:48,000 --> 00:26:52,720
+i i i assume that many of them have been
+
+870
+00:26:51,200 --> 00:26:54,880
+dated and i'm
+
+871
+00:26:52,720 --> 00:26:56,000
+guessing you've looked at that array of
+
+872
+00:26:54,880 --> 00:26:57,120
+dates and
+
+873
+00:26:56,000 --> 00:26:59,360
+thought a little bit about the
+
+874
+00:26:57,120 --> 00:27:01,120
+composition how many samples do you
+
+875
+00:26:59,360 --> 00:27:02,159
+think you could get from there or do you
+
+876
+00:27:01,120 --> 00:27:03,600
+really think you're going to have to go
+
+877
+00:27:02,159 --> 00:27:06,320
+back
+
+878
+00:27:03,600 --> 00:27:08,480
+so it's it's really a goldilocks game
+
+879
+00:27:06,320 --> 00:27:10,640
+right like you need a sample that both
+
+880
+00:27:08,480 --> 00:27:12,640
+has been dated and is from the correct
+
+881
+00:27:10,640 --> 00:27:14,240
+time period and has formed in such a way
+
+882
+00:27:12,640 --> 00:27:15,440
+that it likely could be holding a good
+
+883
+00:27:14,240 --> 00:27:17,440
+record based on
+
+884
+00:27:15,440 --> 00:27:18,640
+mineralogy and speed and other processes
+
+885
+00:27:17,440 --> 00:27:19,440
+that's been through and handling and
+
+886
+00:27:18,640 --> 00:27:22,720
+whatnot
+
+887
+00:27:19,440 --> 00:27:24,399
+um and at the end of that i actually
+
+888
+00:27:22,720 --> 00:27:25,840
+have a proposal in related to this where
+
+889
+00:27:24,399 --> 00:27:26,799
+i think we might be able to get on the
+
+890
+00:27:25,840 --> 00:27:28,559
+order of
+
+891
+00:27:26,799 --> 00:27:30,080
+like a hundred samples would be cool
+
+892
+00:27:28,559 --> 00:27:31,200
+maybe a couple hundred would have the
+
+893
+00:27:30,080 --> 00:27:33,200
+information that we need
+
+894
+00:27:31,200 --> 00:27:35,039
+currently without doing any further
+
+895
+00:27:33,200 --> 00:27:35,919
+dating analyses or any further moon
+
+896
+00:27:35,039 --> 00:27:37,840
+missions
+
+897
+00:27:35,919 --> 00:27:39,360
+um but if we want to do better than a
+
+898
+00:27:37,840 --> 00:27:40,399
+hundred or a couple of hundred data
+
+899
+00:27:39,360 --> 00:27:42,480
+points which is what we
+
+900
+00:27:40,399 --> 00:27:43,760
+would expect for like a comparable
+
+901
+00:27:42,480 --> 00:27:45,360
+terrestrial study
+
+902
+00:27:43,760 --> 00:27:47,200
+then that's where we really have to have
+
+903
+00:27:45,360 --> 00:27:48,000
+conversations about changing the way we
+
+904
+00:27:47,200 --> 00:27:50,559
+think about sample
+
+905
+00:27:48,000 --> 00:27:52,240
+return and there is of course also the
+
+906
+00:27:50,559 --> 00:27:54,559
+additional layer here where
+
+907
+00:27:52,240 --> 00:27:56,000
+the processes by which new rocks are
+
+908
+00:27:54,559 --> 00:27:58,159
+being formed on the moon
+
+909
+00:27:56,000 --> 00:27:59,440
+are very much relegated to particular
+
+910
+00:27:58,159 --> 00:28:01,440
+time periods it's not
+
+911
+00:27:59,440 --> 00:28:03,679
+like we have continuous lava flows
+
+912
+00:28:01,440 --> 00:28:06,720
+occurring all along that entire timeline
+
+913
+00:28:03,679 --> 00:28:08,240
+um so the the cross section of
+
+914
+00:28:06,720 --> 00:28:10,240
+information that we have is i don't
+
+915
+00:28:08,240 --> 00:28:11,120
+think all 2000 samples would give me
+
+916
+00:28:10,240 --> 00:28:13,120
+good information
+
+917
+00:28:11,120 --> 00:28:15,600
+but we could definitely improve what i'm
+
+918
+00:28:13,120 --> 00:28:18,559
+currently showing by
+
+919
+00:28:15,600 --> 00:28:19,120
+doubling or tripling the information and
+
+920
+00:28:18,559 --> 00:28:22,080
+that would
+
+921
+00:28:19,120 --> 00:28:23,200
+still of course be a somewhat uh i don't
+
+922
+00:28:22,080 --> 00:28:27,039
+really have an idea of
+
+923
+00:28:23,200 --> 00:28:29,840
+what how that spotty record would look
+
+924
+00:28:27,039 --> 00:28:31,520
+yeah it would still be it would still be
+
+925
+00:28:29,840 --> 00:28:34,799
+terrestrial standards um
+
+926
+00:28:31,520 --> 00:28:35,440
+but this is like one of the one of what
+
+927
+00:28:34,799 --> 00:28:37,279
+i think of
+
+928
+00:28:35,440 --> 00:28:38,880
+are both the funnest parts and the
+
+929
+00:28:37,279 --> 00:28:39,600
+hardest parts of doing planetary
+
+930
+00:28:38,880 --> 00:28:41,679
+magnetism
+
+931
+00:28:39,600 --> 00:28:43,840
+so if we use terrestrial studies as the
+
+932
+00:28:41,679 --> 00:28:45,520
+standard what i'm showing today is like
+
+933
+00:28:43,840 --> 00:28:47,760
+almost nothing i've said a huge amount
+
+934
+00:28:45,520 --> 00:28:50,240
+from three data points but if we look at
+
+935
+00:28:47,760 --> 00:28:50,799
+mars for instance we're doing way better
+
+936
+00:28:50,240 --> 00:28:52,480
+than we
+
+937
+00:28:50,799 --> 00:28:54,159
+have done for the intensity timeline for
+
+938
+00:28:52,480 --> 00:28:56,840
+mars so it's really a
+
+939
+00:28:54,159 --> 00:28:57,840
+it's kind of a relativistic game but i
+
+940
+00:28:56,840 --> 00:28:59,120
+think a lot better
+
+941
+00:28:57,840 --> 00:29:00,559
+i mean i think if you look at three
+
+942
+00:28:59,120 --> 00:29:01,919
+billion years ago on the earth we're not
+
+943
+00:29:00,559 --> 00:29:05,600
+doing that well either
+
+944
+00:29:01,919 --> 00:29:05,600
+that's fair that's a fair point
+
+945
+00:29:07,840 --> 00:29:13,840
+thank you anybody else has questions
+
+946
+00:29:15,679 --> 00:29:19,360
+elliot remember that you have an answer
+
+947
+00:29:17,679 --> 00:29:21,600
+for the pressing question of the day
+
+948
+00:29:19,360 --> 00:29:22,640
+regarding beck's background image if you
+
+949
+00:29:21,600 --> 00:29:24,880
+want it
+
+950
+00:29:22,640 --> 00:29:26,559
+oh yes um just context for anyone who
+
+951
+00:29:24,880 --> 00:29:28,480
+tuned in a second late i am standing in
+
+952
+00:29:26,559 --> 00:29:29,520
+front of an image from lady gaga's
+
+953
+00:29:28,480 --> 00:29:32,000
+chromatica album
+
+954
+00:29:29,520 --> 00:29:33,600
+and no one has yet been able to identify
+
+955
+00:29:32,000 --> 00:29:35,279
+the original land feature that this was
+
+956
+00:29:33,600 --> 00:29:38,880
+photoshopped on top of
+
+957
+00:29:35,279 --> 00:29:38,880
+so uh elliot what do you think it is
+
+958
+00:29:39,200 --> 00:29:41,840
+in california
+
+959
+00:29:43,279 --> 00:29:47,600
+i didn't work it out i did a bit of
+
+960
+00:29:45,039 --> 00:29:47,600
+google foo
+
+961
+00:29:47,919 --> 00:29:50,960
+still counts that's literature research
+
+962
+00:29:49,440 --> 00:29:53,200
+i'll count that yes
+
+963
+00:29:50,960 --> 00:29:55,520
+but look i have confirmation so yes it's
+
+964
+00:29:53,200 --> 00:29:58,720
+trolling pinnacles in california
+
+965
+00:29:55,520 --> 00:30:01,039
+awesome thank you i demand a cookie in
+
+966
+00:29:58,720 --> 00:30:01,039
+prize
+
+967
+00:30:01,760 --> 00:30:05,600
+you'll get it thank you
+
+968
+00:30:05,760 --> 00:30:09,520
+awesome talker so thank you very much
+
+969
+00:30:07,440 --> 00:30:11,840
+that was deeply enjoyable
+
+970
+00:30:09,520 --> 00:30:11,840
+thank you
+
+971
+00:30:13,919 --> 00:30:16,720
+any more questions
+
+972
+00:30:17,760 --> 00:30:24,480
+andre you have your hand up yeah
+
+973
+00:30:20,960 --> 00:30:27,360
+well i got intrigued with your uh
+
+974
+00:30:24,480 --> 00:30:29,520
+uh high series properties compilation
+
+975
+00:30:27,360 --> 00:30:32,640
+thank you for that
+
+976
+00:30:29,520 --> 00:30:36,159
+and uh but still uh
+
+977
+00:30:32,640 --> 00:30:40,080
+i would advocate a little bit the old
+
+978
+00:30:36,159 --> 00:30:42,080
+version of uh of ideas of
+
+979
+00:30:40,080 --> 00:30:44,000
+we all had about their plot with all the
+
+980
+00:30:42,080 --> 00:30:47,039
+reservations that eddie did
+
+981
+00:30:44,000 --> 00:30:51,039
+two years ago three years ago st
+
+982
+00:30:47,039 --> 00:30:54,559
+still if you have
+
+983
+00:30:51,039 --> 00:30:56,440
+if you have generally very low mrsms
+
+984
+00:30:54,559 --> 00:30:59,760
+ratios and very high
+
+985
+00:30:56,440 --> 00:31:04,240
+hcrhc ratios
+
+986
+00:30:59,760 --> 00:31:08,080
+does it is it not showing you that
+
+987
+00:31:04,240 --> 00:31:10,000
+you have you have a lot of very fine
+
+988
+00:31:08,080 --> 00:31:11,279
+super paramagnetic grains in your
+
+989
+00:31:10,000 --> 00:31:13,919
+samples
+
+990
+00:31:11,279 --> 00:31:16,880
+and have you looked at this using maybe
+
+991
+00:31:13,919 --> 00:31:18,159
+low temperature measurements
+
+992
+00:31:16,880 --> 00:31:20,000
+so i haven't looked into that
+
+993
+00:31:18,159 --> 00:31:21,360
+specifically with these samples the the
+
+994
+00:31:20,000 --> 00:31:23,600
+big day plot that i'm showing
+
+995
+00:31:21,360 --> 00:31:24,880
+is really compiled from literature and
+
+996
+00:31:23,600 --> 00:31:27,200
+we haven't been able to do further
+
+997
+00:31:24,880 --> 00:31:29,519
+experiments due to
+
+998
+00:31:27,200 --> 00:31:31,200
+because the question about sp is super
+
+999
+00:31:29,519 --> 00:31:33,760
+paramagnetic grains is that
+
+1000
+00:31:31,200 --> 00:31:35,279
+unfortunately if you have a lots of them
+
+1001
+00:31:33,760 --> 00:31:40,240
+in your sample
+
+1002
+00:31:35,279 --> 00:31:40,240
+they are bound to be a very bad
+
+1003
+00:31:40,720 --> 00:31:45,360
+recording of any magnetic information
+
+1004
+00:31:43,600 --> 00:31:49,600
+you would agree so maybe it
+
+1005
+00:31:45,360 --> 00:31:52,799
+might be might be a
+
+1006
+00:31:49,600 --> 00:31:56,080
+thing to look
+
+1007
+00:31:52,799 --> 00:31:58,799
+look into because i can't remember many
+
+1008
+00:31:56,080 --> 00:32:01,200
+low temperature measurements on the
+
+1009
+00:31:58,799 --> 00:32:03,519
+lunar samples in particular
+
+1010
+00:32:01,200 --> 00:32:04,640
+yeah it's i i'm racking my brain as
+
+1011
+00:32:03,519 --> 00:32:06,480
+you're saying that and i think that's
+
+1012
+00:32:04,640 --> 00:32:08,720
+one of the cases of like
+
+1013
+00:32:06,480 --> 00:32:10,080
+something that i want to put together
+
+1014
+00:32:08,720 --> 00:32:11,760
+following this work
+
+1015
+00:32:10,080 --> 00:32:13,440
+is recommendations for how we can do
+
+1016
+00:32:11,760 --> 00:32:14,960
+better in the future and so one of the
+
+1017
+00:32:13,440 --> 00:32:16,880
+things that i've been really focusing on
+
+1018
+00:32:14,960 --> 00:32:18,480
+is forks because that's now a tool
+
+1019
+00:32:16,880 --> 00:32:20,559
+that's kind of becoming bread and butter
+
+1020
+00:32:18,480 --> 00:32:24,080
+and terrestrial paleo
+
+1021
+00:32:20,559 --> 00:32:25,840
+you have you haven't shown one
+
+1022
+00:32:24,080 --> 00:32:27,120
+because i don't have any for my own
+
+1023
+00:32:25,840 --> 00:32:28,640
+samples and i
+
+1024
+00:32:27,120 --> 00:32:30,159
+was only able to find like one or two
+
+1025
+00:32:28,640 --> 00:32:32,799
+studies that have collected okay
+
+1026
+00:32:30,159 --> 00:32:33,360
+okay so so it's it's a matter of future
+
+1027
+00:32:32,799 --> 00:32:35,600
+yeah
+
+1028
+00:32:33,360 --> 00:32:36,640
+okay thank you very much very very good
+
+1029
+00:32:35,600 --> 00:32:38,399
+talk here
+
+1030
+00:32:36,640 --> 00:32:39,840
+yeah thank you and i do want to say that
+
+1031
+00:32:38,399 --> 00:32:40,559
+the kind of low temperature experiments
+
+1032
+00:32:39,840 --> 00:32:42,159
+you recommend
+
+1033
+00:32:40,559 --> 00:32:44,240
+you're suggesting are exactly the kind
+
+1034
+00:32:42,159 --> 00:32:48,000
+of thing i think we can start to write
+
+1035
+00:32:44,240 --> 00:32:51,360
+well it's it's pretty simple it's
+
+1036
+00:32:48,000 --> 00:32:53,600
+fast fast enough and as far as
+
+1037
+00:32:51,360 --> 00:32:55,279
+as far as i read about the new
+
+1038
+00:32:53,600 --> 00:33:00,159
+developments
+
+1039
+00:32:55,279 --> 00:33:03,519
+in minnesota at the irm they've got this
+
+1040
+00:33:00,159 --> 00:33:06,159
+nice machine in pms3 which is much
+
+1041
+00:33:03,519 --> 00:33:09,360
+faster than the previous one and
+
+1042
+00:33:06,159 --> 00:33:10,080
+much nicer and you can collect let's say
+
+1043
+00:33:09,360 --> 00:33:14,240
+20
+
+1044
+00:33:10,080 --> 00:33:17,760
+20 times more data through the same time
+
+1045
+00:33:14,240 --> 00:33:20,159
+so just keep going
+
+1046
+00:33:17,760 --> 00:33:20,799
+yeah thank you very much for sure thank
+
+1047
+00:33:20,159 --> 00:33:23,519
+you thank you
+
+1048
+00:33:20,799 --> 00:33:24,159
+thank you laurie you have your hand hope
+
+1049
+00:33:23,519 --> 00:33:27,519
+you want to
+
+1050
+00:33:24,159 --> 00:33:30,000
+ask a question you might want to unmute
+
+1051
+00:33:27,519 --> 00:33:30,000
+yourself
+
+1052
+00:33:31,120 --> 00:33:36,000
+thank you great talk back really
+
+1053
+00:33:34,320 --> 00:33:37,440
+interesting i have a question that's a
+
+1054
+00:33:36,000 --> 00:33:39,200
+little off from what you were talking
+
+1055
+00:33:37,440 --> 00:33:40,399
+about but you did mention the crustal
+
+1056
+00:33:39,200 --> 00:33:42,399
+anomalies
+
+1057
+00:33:40,399 --> 00:33:44,080
+and can you say anything about what you
+
+1058
+00:33:42,399 --> 00:33:47,679
+think the source of those are
+
+1059
+00:33:44,080 --> 00:33:51,200
+internal or external or whatever
+
+1060
+00:33:47,679 --> 00:33:53,360
+um i i can vaguely say that i'm on the
+
+1061
+00:33:51,200 --> 00:33:53,840
+side of buried source bodies of some
+
+1062
+00:33:53,360 --> 00:33:56,480
+kind
+
+1063
+00:33:53,840 --> 00:33:58,000
+but i haven't the more i learn about
+
+1064
+00:33:56,480 --> 00:33:59,120
+lunar swirls the more i learned that i
+
+1065
+00:33:58,000 --> 00:34:00,720
+don't know anything about lunar
+
+1066
+00:33:59,120 --> 00:34:02,799
+squirrels so i will unfortunately have
+
+1067
+00:34:00,720 --> 00:34:05,120
+to punt that question to a colleague who
+
+1068
+00:34:02,799 --> 00:34:08,480
+has been focusing more on those features
+
+1069
+00:34:05,120 --> 00:34:08,480
+okay thanks thanks
+
+1070
+00:34:09,280 --> 00:34:14,159
+thank you so any other questions
+
+1071
+00:34:18,000 --> 00:34:23,919
+no i guess
+
+1072
+00:34:21,839 --> 00:34:25,359
+yes if we have uh no more questions
+
+1073
+00:34:23,919 --> 00:34:27,679
+we'll we'll wrap up
+
+1074
+00:34:25,359 --> 00:34:29,359
+on this week's magnets so i just want to
+
+1075
+00:34:27,679 --> 00:34:31,760
+thank beck again for another
+
+1076
+00:34:29,359 --> 00:34:32,480
+uh fantastic and really uh interesting
+
+1077
+00:34:31,760 --> 00:34:34,800
+talk
+
+1078
+00:34:32,480 --> 00:34:35,919
+um it's a great diversity that we're
+
+1079
+00:34:34,800 --> 00:34:37,839
+building up now
+
+1080
+00:34:35,919 --> 00:34:39,679
+in in the kind of things that we cover
+
+1081
+00:34:37,839 --> 00:34:41,119
+in these series so it's it's really
+
+1082
+00:34:39,679 --> 00:34:43,679
+uh really great to have that thank you
+
+1083
+00:34:41,119 --> 00:34:46,639
+very much thank you for having me
+
+1084
+00:34:43,679 --> 00:34:47,440
+um so just a a quick reminder of our
+
+1085
+00:34:46,639 --> 00:34:50,720
+upcoming
+
+1086
+00:34:47,440 --> 00:34:51,359
+uh schedule um in a couple of weeks we
+
+1087
+00:34:50,720 --> 00:34:54,320
+will have
+
+1088
+00:34:51,359 --> 00:34:55,119
+uh andre and we'll be giving us a talk
+
+1089
+00:34:54,320 --> 00:34:56,639
+um
+
+1090
+00:34:55,119 --> 00:34:58,960
+and a couple of weeks after that we have
+
+1091
+00:34:56,639 --> 00:35:01,920
+an open slot so if anybody is
+
+1092
+00:34:58,960 --> 00:35:03,520
+interested in presenting their work here
+
+1093
+00:35:01,920 --> 00:35:05,920
+at magnets please just
+
+1094
+00:35:03,520 --> 00:35:06,800
+get in touch and then we'll have andrea
+
+1095
+00:35:05,920 --> 00:35:09,599
+byderman
+
+1096
+00:35:06,800 --> 00:35:11,280
+um into april and as before we'll have a
+
+1097
+00:35:09,599 --> 00:35:14,400
+break for egu
+
+1098
+00:35:11,280 --> 00:35:15,520
+and then after egu we'll move to um a
+
+1099
+00:35:14,400 --> 00:35:16,079
+time slot it's a little bit more
+
+1100
+00:35:15,520 --> 00:35:18,160
+favorable
+
+1101
+00:35:16,079 --> 00:35:19,119
+for uh our colleagues in the eastern
+
+1102
+00:35:18,160 --> 00:35:21,359
+hemisphere uh
+
+1103
+00:35:19,119 --> 00:35:23,280
+in australia new zealand uh china and
+
+1104
+00:35:21,359 --> 00:35:24,640
+japan and we'll have more information
+
+1105
+00:35:23,280 --> 00:35:27,440
+about that coming
+
+1106
+00:35:24,640 --> 00:35:28,240
+uh coming soon um but as always we're
+
+1107
+00:35:27,440 --> 00:35:31,040
+looking for
+
+1108
+00:35:28,240 --> 00:35:32,720
+um many more speakers and if anybody has
+
+1109
+00:35:31,040 --> 00:35:35,440
+any thoughts or suggestions
+
+1110
+00:35:32,720 --> 00:35:37,040
+um please get in touch and any form of
+
+1111
+00:35:35,440 --> 00:35:39,839
+feedback or or comments
+
+1112
+00:35:37,040 --> 00:35:41,440
+are always very very welcome and just
+
+1113
+00:35:39,839 --> 00:35:47,280
+thank you everybody again for
+
+1114
+00:35:41,440 --> 00:35:47,280
+coming along for another magnets cheers
+

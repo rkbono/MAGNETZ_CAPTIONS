@@ -1,0 +1,5964 @@
+1
+00:00:00,000 --> 00:00:03,280
+thank you everyone for uh joining the
+
+2
+00:00:01,760 --> 00:00:05,520
+magnet seminars this week
+
+3
+00:00:03,280 --> 00:00:07,440
+um and it's another another uh good
+
+4
+00:00:05,520 --> 00:00:11,200
+turnout so thank you very much for the
+
+5
+00:00:07,440 --> 00:00:12,000
+community support and just a very quick
+
+6
+00:00:11,200 --> 00:00:15,440
+reminder
+
+7
+00:00:12,000 --> 00:00:19,119
+about the uh seminar formats we have a
+
+8
+00:00:15,440 --> 00:00:20,320
+20 25 to 30 minute presentation i kindly
+
+9
+00:00:19,119 --> 00:00:21,920
+ask that everybody keeps their
+
+10
+00:00:20,320 --> 00:00:24,000
+microphones muted so it's not to
+
+11
+00:00:21,920 --> 00:00:26,640
+interrupt the presenter
+
+12
+00:00:24,000 --> 00:00:27,119
+um following that we'll have a 10-15
+
+13
+00:00:26,640 --> 00:00:29,599
+minute
+
+14
+00:00:27,119 --> 00:00:31,679
+uh question and answer session and we'll
+
+15
+00:00:29,599 --> 00:00:33,440
+invite you to on your microphones and
+
+16
+00:00:31,679 --> 00:00:35,920
+ask an oral question
+
+17
+00:00:33,440 --> 00:00:36,559
+if you don't want to to ask a question
+
+18
+00:00:35,920 --> 00:00:38,960
+um
+
+19
+00:00:36,559 --> 00:00:40,079
+in person you can add the question to
+
+20
+00:00:38,960 --> 00:00:42,160
+the chat
+
+21
+00:00:40,079 --> 00:00:44,000
+if you just simply put no mic then
+
+22
+00:00:42,160 --> 00:00:46,160
+either myself or one of the co-hosts
+
+23
+00:00:44,000 --> 00:00:47,760
+we'll be able to uh read out the
+
+24
+00:00:46,160 --> 00:00:49,680
+question for you
+
+25
+00:00:47,760 --> 00:00:51,520
+um and as always if you have to just get
+
+26
+00:00:49,680 --> 00:00:51,920
+up and go halfway through the seminars
+
+27
+00:00:51,520 --> 00:00:53,760
+please
+
+28
+00:00:51,920 --> 00:00:55,520
+just get up and go we've got life going
+
+29
+00:00:53,760 --> 00:00:57,120
+on all around us
+
+30
+00:00:55,520 --> 00:00:58,719
+and at the end of the session we'll have
+
+31
+00:00:57,120 --> 00:00:59,600
+time for a bit of a catch up with
+
+32
+00:00:58,719 --> 00:01:02,399
+everybody
+
+33
+00:00:59,600 --> 00:01:04,159
+and that part of the seminar will not be
+
+34
+00:01:02,399 --> 00:01:07,680
+will not be recorded so it's a
+
+35
+00:01:04,159 --> 00:01:09,280
+bit more of a relaxed environment and so
+
+36
+00:01:07,680 --> 00:01:10,310
+today our speaker i'll hand over to our
+
+37
+00:01:09,280 --> 00:01:11,680
+speaker adrian
+
+38
+00:01:10,310 --> 00:01:14,400
+[Music]
+
+39
+00:01:11,680 --> 00:01:15,360
+who will be presenting on diagenesis and
+
+40
+00:01:14,400 --> 00:01:19,040
+magnetic
+
+41
+00:01:15,360 --> 00:01:19,040
+signals of hydrocarbons
+
+42
+00:01:21,040 --> 00:01:28,640
+good hopefully you can see my screen now
+
+43
+00:01:24,840 --> 00:01:29,280
+um okay so major maxwell from piro
+
+44
+00:01:28,640 --> 00:01:32,159
+college
+
+45
+00:01:29,280 --> 00:01:33,680
+um i run the natural magnetism group and
+
+46
+00:01:32,159 --> 00:01:35,600
+i'll be talking about work that we've
+
+47
+00:01:33,680 --> 00:01:37,439
+been doing over the last decade and it's
+
+48
+00:01:35,600 --> 00:01:39,840
+something i've not really talked about
+
+49
+00:01:37,439 --> 00:01:41,280
+personally with this community some of
+
+50
+00:01:39,840 --> 00:01:42,880
+my students over the years have done
+
+51
+00:01:41,280 --> 00:01:46,320
+that but i haven't
+
+52
+00:01:42,880 --> 00:01:49,200
+given a talk on this particular topic to
+
+53
+00:01:46,320 --> 00:01:50,640
+uh this of the paleomonetic community or
+
+54
+00:01:49,200 --> 00:01:53,040
+geometric community
+
+55
+00:01:50,640 --> 00:01:55,119
+um so this is works been done with um
+
+56
+00:01:53,040 --> 00:01:58,079
+alfresa who's
+
+57
+00:01:55,119 --> 00:01:59,680
+worked for bp for i guess about 30 years
+
+58
+00:01:58,079 --> 00:02:00,960
+in exploration and now he's works at
+
+59
+00:01:59,680 --> 00:02:03,920
+university
+
+60
+00:02:00,960 --> 00:02:05,360
+uh mark sefton who's a organic
+
+61
+00:02:03,920 --> 00:02:08,560
+geochemist
+
+62
+00:02:05,360 --> 00:02:11,680
+and with a range of former and
+
+63
+00:02:08,560 --> 00:02:12,879
+current uh phd students your names are
+
+64
+00:02:11,680 --> 00:02:14,560
+up there on the screen you might have
+
+65
+00:02:12,879 --> 00:02:15,360
+met some of them at various meetings
+
+66
+00:02:14,560 --> 00:02:18,319
+over the
+
+67
+00:02:15,360 --> 00:02:20,720
+last few years so i'm going to be
+
+68
+00:02:18,319 --> 00:02:23,760
+talking about the magnetic signature of
+
+69
+00:02:20,720 --> 00:02:26,480
+uh hydrocarbons
+
+70
+00:02:23,760 --> 00:02:29,040
+um now we're not the first people to do
+
+71
+00:02:26,480 --> 00:02:31,840
+that and i guess the sort of first
+
+72
+00:02:29,040 --> 00:02:32,879
+motivational paper came out in 1917 i'm
+
+73
+00:02:31,840 --> 00:02:33,920
+not going to spend too long talking
+
+74
+00:02:32,879 --> 00:02:35,360
+about the history of this but just a
+
+75
+00:02:33,920 --> 00:02:38,879
+little bit to give some
+
+76
+00:02:35,360 --> 00:02:41,920
+idea of the motivation um
+
+77
+00:02:38,879 --> 00:02:44,080
+the first paper came out in 1979 where a
+
+78
+00:02:41,920 --> 00:02:44,879
+paper by donovan who did an aeromagnetic
+
+79
+00:02:44,080 --> 00:02:46,879
+survey
+
+80
+00:02:44,879 --> 00:02:47,920
+over an oil field called cement field
+
+81
+00:02:46,879 --> 00:02:51,360
+i'm not quite sure why it's called
+
+82
+00:02:47,920 --> 00:02:54,720
+cement field in oklahoma and
+
+83
+00:02:51,360 --> 00:02:56,720
+they detected magnetic anomalies so
+
+84
+00:02:54,720 --> 00:02:58,239
+i've got the sort of mineral or rot
+
+85
+00:02:56,720 --> 00:02:59,280
+magnetism interested in what might be
+
+86
+00:02:58,239 --> 00:03:02,480
+causing
+
+87
+00:02:59,280 --> 00:03:04,480
+that and over the last few decades a
+
+88
+00:03:02,480 --> 00:03:06,239
+number of
+
+89
+00:03:04,480 --> 00:03:07,519
+academics from various places around the
+
+90
+00:03:06,239 --> 00:03:08,080
+world particularly people like doc
+
+91
+00:03:07,519 --> 00:03:10,800
+elmore
+
+92
+00:03:08,080 --> 00:03:12,080
+groups in venezuela they've looked
+
+93
+00:03:10,800 --> 00:03:13,760
+trying to link
+
+94
+00:03:12,080 --> 00:03:15,200
+magnetic anomalies trying to understand
+
+95
+00:03:13,760 --> 00:03:16,720
+these magnetic anomalies
+
+96
+00:03:15,200 --> 00:03:18,959
+and trying to tie them to hydrocarbons
+
+97
+00:03:16,720 --> 00:03:21,680
+so here we've got this study from
+
+98
+00:03:18,959 --> 00:03:22,319
+from 2000 from the group in venezuela
+
+99
+00:03:21,680 --> 00:03:25,519
+and they've got
+
+100
+00:03:22,319 --> 00:03:27,840
+three cores um
+
+101
+00:03:25,519 --> 00:03:29,599
+the two on the left are above
+
+102
+00:03:27,840 --> 00:03:30,480
+hydrocarbon reservoirs and the one on
+
+103
+00:03:29,599 --> 00:03:33,280
+the
+
+104
+00:03:30,480 --> 00:03:34,400
+one on the the right is not and you can
+
+105
+00:03:33,280 --> 00:03:36,959
+see there's these
+
+106
+00:03:34,400 --> 00:03:38,879
+these spikes in the susceptibility and
+
+107
+00:03:36,959 --> 00:03:39,760
+the the values substability are much
+
+108
+00:03:38,879 --> 00:03:41,280
+higher
+
+109
+00:03:39,760 --> 00:03:43,680
+so there's clearly sort of some kind of
+
+110
+00:03:41,280 --> 00:03:46,720
+link going on between
+
+111
+00:03:43,680 --> 00:03:47,360
+the presence of hydrocarbons in in the
+
+112
+00:03:46,720 --> 00:03:49,840
+ground
+
+113
+00:03:47,360 --> 00:03:53,200
+and the magnetic uh magnetization the
+
+114
+00:03:49,840 --> 00:03:53,200
+magnetic signal of rocks
+
+115
+00:03:53,680 --> 00:03:57,280
+um it's been documented for a long time
+
+116
+00:03:55,760 --> 00:03:58,720
+now there's a picture from dog elmo from
+
+117
+00:03:57,280 --> 00:04:02,319
+987 you get these
+
+118
+00:03:58,720 --> 00:04:03,840
+wonderful framboids of iron oxides and
+
+119
+00:04:02,319 --> 00:04:05,519
+iron sulfides
+
+120
+00:04:03,840 --> 00:04:07,200
+and he who's we've got a picture on the
+
+121
+00:04:05,519 --> 00:04:10,560
+right taken by a former student
+
+122
+00:04:07,200 --> 00:04:12,799
+of mine stacy emerton and this is on the
+
+123
+00:04:10,560 --> 00:04:14,400
+on the one of the riders of a nice
+
+124
+00:04:12,799 --> 00:04:18,320
+framboid of
+
+125
+00:04:14,400 --> 00:04:21,519
+of of gregite um
+
+126
+00:04:18,320 --> 00:04:21,919
+and this is another sort of uh magnetic
+
+127
+00:04:21,519 --> 00:04:24,080
+uh
+
+128
+00:04:21,919 --> 00:04:27,040
+response that we kind of see in
+
+129
+00:04:24,080 --> 00:04:29,600
+association with hydrocarbons
+
+130
+00:04:27,040 --> 00:04:31,040
+in addition to that uh uh hans mackel
+
+131
+00:04:29,600 --> 00:04:33,360
+who's one of our collaborators
+
+132
+00:04:31,040 --> 00:04:35,040
+and liz burton did a whole bunch of
+
+133
+00:04:33,360 --> 00:04:37,919
+thermodynamic modeling
+
+134
+00:04:35,040 --> 00:04:39,199
+in the early to mid 90s where they
+
+135
+00:04:37,919 --> 00:04:42,479
+looked at
+
+136
+00:04:39,199 --> 00:04:45,040
+iron oxides and sulfides and cellulite
+
+137
+00:04:42,479 --> 00:04:46,800
+in the presence of various hydrocarbon
+
+138
+00:04:45,040 --> 00:04:48,720
+systems at a range of depths and
+
+139
+00:04:46,800 --> 00:04:49,680
+pressures and they showed how the
+
+140
+00:04:48,720 --> 00:04:52,400
+different minerals
+
+141
+00:04:49,680 --> 00:04:54,160
+would form and change depending on the
+
+142
+00:04:52,400 --> 00:04:57,440
+conditions so there's a whole
+
+143
+00:04:54,160 --> 00:05:00,080
+wealth of background um
+
+144
+00:04:57,440 --> 00:05:00,720
+in literature before we started looking
+
+145
+00:05:00,080 --> 00:05:02,880
+at this
+
+146
+00:05:00,720 --> 00:05:03,759
+problem okay so i'm not starting from
+
+147
+00:05:02,880 --> 00:05:05,199
+scratch or
+
+148
+00:05:03,759 --> 00:05:06,400
+one of the things even though there's
+
+149
+00:05:05,199 --> 00:05:07,039
+been a lot of work done there wasn't
+
+150
+00:05:06,400 --> 00:05:09,199
+really a
+
+151
+00:05:07,039 --> 00:05:10,560
+clear link between the magnetometer and
+
+152
+00:05:09,199 --> 00:05:12,000
+the hydrocarbons have been various
+
+153
+00:05:10,560 --> 00:05:15,360
+studies but they're often
+
+154
+00:05:12,000 --> 00:05:17,919
+related to various kind of aspects
+
+155
+00:05:15,360 --> 00:05:19,600
+of uh you know being case studies so see
+
+156
+00:05:17,919 --> 00:05:20,800
+some trends in one place but we can see
+
+157
+00:05:19,600 --> 00:05:21,280
+in the other place and we want to try
+
+158
+00:05:20,800 --> 00:05:22,720
+and
+
+159
+00:05:21,280 --> 00:05:25,120
+make something a bit more unified and
+
+160
+00:05:22,720 --> 00:05:28,000
+then can we use these magnetic signals
+
+161
+00:05:25,120 --> 00:05:30,160
+as a proxy to understand hydrocarbon
+
+162
+00:05:28,000 --> 00:05:32,960
+systems
+
+163
+00:05:30,160 --> 00:05:34,560
+so we're going to talk i'm not going to
+
+164
+00:05:32,960 --> 00:05:36,720
+talk too much about sort of background
+
+165
+00:05:34,560 --> 00:05:39,039
+geology but just a little bit here
+
+166
+00:05:36,720 --> 00:05:40,400
+um what how does oil form if you have a
+
+167
+00:05:39,039 --> 00:05:43,039
+sediment that's full of
+
+168
+00:05:40,400 --> 00:05:43,919
+organic material it gets buried when it
+
+169
+00:05:43,039 --> 00:05:46,720
+gets down to about
+
+170
+00:05:43,919 --> 00:05:48,720
+three kilometers or so starts to form
+
+171
+00:05:46,720 --> 00:05:49,520
+into oil if you go deeper it forms into
+
+172
+00:05:48,720 --> 00:05:52,800
+gas
+
+173
+00:05:49,520 --> 00:05:54,000
+of course oil and gas a light molecule
+
+174
+00:05:52,800 --> 00:05:56,160
+so they want to
+
+175
+00:05:54,000 --> 00:05:57,840
+go up so they try and escape from where
+
+176
+00:05:56,160 --> 00:05:59,520
+the deep places and go
+
+177
+00:05:57,840 --> 00:06:01,120
+go upwards towards the surface so they
+
+178
+00:05:59,520 --> 00:06:04,160
+then migrate
+
+179
+00:06:01,120 --> 00:06:06,639
+along through typically um
+
+180
+00:06:04,160 --> 00:06:08,479
+porous rock plastic rocks like sandstone
+
+181
+00:06:06,639 --> 00:06:09,120
+until they get trapped by an impermeable
+
+182
+00:06:08,479 --> 00:06:10,639
+layer
+
+183
+00:06:09,120 --> 00:06:12,319
+and you get a range of different kinds
+
+184
+00:06:10,639 --> 00:06:13,840
+of traps you can have anti-klein's
+
+185
+00:06:12,319 --> 00:06:17,360
+faults there's a whole range of
+
+186
+00:06:13,840 --> 00:06:17,680
+different types of traps and of course
+
+187
+00:06:17,360 --> 00:06:19,199
+the
+
+188
+00:06:17,680 --> 00:06:20,720
+the gas is lighter than the oil so you
+
+189
+00:06:19,199 --> 00:06:21,280
+tend to get gas on the top and you get
+
+190
+00:06:20,720 --> 00:06:23,520
+oil
+
+191
+00:06:21,280 --> 00:06:24,639
+and underneath you typically get maybe
+
+192
+00:06:23,520 --> 00:06:26,000
+get some water so you get these
+
+193
+00:06:24,639 --> 00:06:28,000
+different types of contacts and i'll be
+
+194
+00:06:26,000 --> 00:06:31,520
+talking about contacts a little bit
+
+195
+00:06:28,000 --> 00:06:32,720
+later on so this is the kind of system
+
+196
+00:06:31,520 --> 00:06:34,479
+we're looking at
+
+197
+00:06:32,720 --> 00:06:36,720
+we also have to worry about
+
+198
+00:06:34,479 --> 00:06:38,880
+biodegradation of the oil because this
+
+199
+00:06:36,720 --> 00:06:41,280
+has been shown to affect the magnetic
+
+200
+00:06:38,880 --> 00:06:44,560
+mineralogy so
+
+201
+00:06:41,280 --> 00:06:46,319
+as the oil gets towards the surface so
+
+202
+00:06:44,560 --> 00:06:48,560
+as the temperature drops below about 80
+
+203
+00:06:46,319 --> 00:06:49,680
+degrees celsius and impossible for
+
+204
+00:06:48,560 --> 00:06:51,599
+bacteria
+
+205
+00:06:49,680 --> 00:06:53,280
+to live they they quite like this
+
+206
+00:06:51,599 --> 00:06:56,000
+hydrocarbons and they
+
+207
+00:06:53,280 --> 00:06:57,360
+they essentially destroy it they degrade
+
+208
+00:06:56,000 --> 00:06:59,280
+the quality of it
+
+209
+00:06:57,360 --> 00:07:01,520
+and in the process some of these
+
+210
+00:06:59,280 --> 00:07:03,599
+bacteria can produce
+
+211
+00:07:01,520 --> 00:07:04,800
+magnetite particles as in this picture
+
+212
+00:07:03,599 --> 00:07:08,080
+here and some of them
+
+213
+00:07:04,800 --> 00:07:09,599
+can destroy the magnetization so it's
+
+214
+00:07:08,080 --> 00:07:11,759
+something else we need to consider when
+
+215
+00:07:09,599 --> 00:07:15,039
+we're looking at the magnetic response
+
+216
+00:07:11,759 --> 00:07:16,720
+of a hydrocarbon system
+
+217
+00:07:15,039 --> 00:07:18,240
+now i'm going to talk about some
+
+218
+00:07:16,720 --> 00:07:18,720
+examples of some work that we've done
+
+219
+00:07:18,240 --> 00:07:20,080
+and i
+
+220
+00:07:18,720 --> 00:07:21,199
+i didn't this is only the second time
+
+221
+00:07:20,080 --> 00:07:22,160
+i've been to one of these talks and i
+
+222
+00:07:21,199 --> 00:07:24,000
+haven't realized it's only supposed to
+
+223
+00:07:22,160 --> 00:07:26,080
+be 25 minutes so i might
+
+224
+00:07:24,000 --> 00:07:27,120
+just cut off just do the first three
+
+225
+00:07:26,080 --> 00:07:30,319
+bits and
+
+226
+00:07:27,120 --> 00:07:31,440
+take then go on to the end okay so
+
+227
+00:07:30,319 --> 00:07:32,560
+all these are the things that we these
+
+228
+00:07:31,440 --> 00:07:34,639
+are the sort of things we've been doing
+
+229
+00:07:32,560 --> 00:07:35,599
+over the last 10 years at imperial
+
+230
+00:07:34,639 --> 00:07:37,039
+and what we're going to do is we're
+
+231
+00:07:35,599 --> 00:07:38,240
+going to start off with the oral kitchen
+
+232
+00:07:37,039 --> 00:07:41,599
+this is the part
+
+233
+00:07:38,240 --> 00:07:45,280
+where the oil um
+
+234
+00:07:41,599 --> 00:07:47,919
+forms okay so if we're going to use
+
+235
+00:07:45,280 --> 00:07:49,759
+magnetization as a proxy we need to have
+
+236
+00:07:47,919 --> 00:07:52,720
+some kind of idea
+
+237
+00:07:49,759 --> 00:07:54,400
+um how these magnetic particles are
+
+238
+00:07:52,720 --> 00:07:55,520
+being formed are they being formed as
+
+239
+00:07:54,400 --> 00:07:58,639
+the fluid
+
+240
+00:07:55,520 --> 00:08:00,000
+uh passes through the rock some sort of
+
+241
+00:07:58,639 --> 00:08:02,400
+so that minerals are formed
+
+242
+00:08:00,000 --> 00:08:04,479
+in situ in place or are they actually
+
+243
+00:08:02,400 --> 00:08:07,680
+transported
+
+244
+00:08:04,479 --> 00:08:09,919
+with the oil itself so we did a series
+
+245
+00:08:07,680 --> 00:08:10,479
+of paralysis experiments to see if oil
+
+246
+00:08:09,919 --> 00:08:12,479
+if
+
+247
+00:08:10,479 --> 00:08:14,560
+when oil forms where the magnetic
+
+248
+00:08:12,479 --> 00:08:15,199
+particles form as well and whether these
+
+249
+00:08:14,560 --> 00:08:18,479
+particles
+
+250
+00:08:15,199 --> 00:08:21,599
+are small enough to be transported with
+
+251
+00:08:18,479 --> 00:08:22,800
+the oil so paralysis is essentially what
+
+252
+00:08:21,599 --> 00:08:24,400
+we're doing is
+
+253
+00:08:22,800 --> 00:08:26,240
+we're reproducing what we see in the
+
+254
+00:08:24,400 --> 00:08:27,520
+environment we're creating pressures and
+
+255
+00:08:26,240 --> 00:08:30,960
+temperatures which are
+
+256
+00:08:27,520 --> 00:08:32,159
+enough to generate um oil so we're going
+
+257
+00:08:30,960 --> 00:08:33,039
+to essentially going to make oil in the
+
+258
+00:08:32,159 --> 00:08:34,479
+lab
+
+259
+00:08:33,039 --> 00:08:36,800
+and this is this process is called
+
+260
+00:08:34,479 --> 00:08:39,200
+paralysis and to do that we need
+
+261
+00:08:36,800 --> 00:08:40,159
+we need a source rock so we're quite
+
+262
+00:08:39,200 --> 00:08:41,680
+lucky in
+
+263
+00:08:40,159 --> 00:08:43,039
+london which is just about here that
+
+264
+00:08:41,680 --> 00:08:44,959
+we're about two hours drive from the
+
+265
+00:08:43,039 --> 00:08:47,279
+wessex basin which is the
+
+266
+00:08:44,959 --> 00:08:48,480
+probably the best example of an onshore
+
+267
+00:08:47,279 --> 00:08:51,600
+um oil
+
+268
+00:08:48,480 --> 00:08:53,200
+uh hydrocarbon system in europe so
+
+269
+00:08:51,600 --> 00:08:54,320
+people not just people from uk but
+
+270
+00:08:53,200 --> 00:08:57,279
+people from elsewhere
+
+271
+00:08:54,320 --> 00:08:59,200
+will come to this this area to study
+
+272
+00:08:57,279 --> 00:09:01,360
+hydrocarbon systems
+
+273
+00:08:59,200 --> 00:09:02,800
+and if you go down to the beaches all
+
+274
+00:09:01,360 --> 00:09:04,399
+the way along the beach here you get the
+
+275
+00:09:02,800 --> 00:09:08,160
+sandstone outcrops
+
+276
+00:09:04,399 --> 00:09:11,040
+and you can see you can see all this
+
+277
+00:09:08,160 --> 00:09:12,080
+all this uh the sand here the sandstone
+
+278
+00:09:11,040 --> 00:09:12,640
+and if you look at this you probably
+
+279
+00:09:12,080 --> 00:09:14,399
+think this is
+
+280
+00:09:12,640 --> 00:09:15,920
+wet and it is wet but it's actually all
+
+281
+00:09:14,399 --> 00:09:16,720
+oil if you actually go there the oil is
+
+282
+00:09:15,920 --> 00:09:18,480
+literally just
+
+283
+00:09:16,720 --> 00:09:20,640
+dribbling out of the rocks at the side
+
+284
+00:09:18,480 --> 00:09:23,120
+there it's so rich and all now
+
+285
+00:09:20,640 --> 00:09:24,320
+clearly if we wanted immature sauce walk
+
+286
+00:09:23,120 --> 00:09:25,680
+rock we want some of the rock that
+
+287
+00:09:24,320 --> 00:09:27,680
+hasn't actually been buried or isn't
+
+288
+00:09:25,680 --> 00:09:30,160
+contaminated by the oil so obviously
+
+289
+00:09:27,680 --> 00:09:31,040
+we've got our immature sauce rolled from
+
+290
+00:09:30,160 --> 00:09:33,279
+somewhere else but
+
+291
+00:09:31,040 --> 00:09:35,040
+it's this famous kimridge clay and blue
+
+292
+00:09:33,279 --> 00:09:37,839
+lyrics and oxford clay which are full
+
+293
+00:09:35,040 --> 00:09:39,040
+of organic content and we made oil in
+
+294
+00:09:37,839 --> 00:09:41,120
+the laboratory
+
+295
+00:09:39,040 --> 00:09:42,959
+now we haven't got geological time
+
+296
+00:09:41,120 --> 00:09:44,000
+scales so we have to cheat a little bit
+
+297
+00:09:42,959 --> 00:09:45,839
+and by cheating
+
+298
+00:09:44,000 --> 00:09:47,360
+we have to speed up the reaction to
+
+299
+00:09:45,839 --> 00:09:48,480
+speed up the reaction we go to higher
+
+300
+00:09:47,360 --> 00:09:50,399
+temperatures so
+
+301
+00:09:48,480 --> 00:09:51,920
+in nature this would typically be
+
+302
+00:09:50,399 --> 00:09:53,200
+happening at 100 degrees say or
+
+303
+00:09:51,920 --> 00:09:55,760
+something like that
+
+304
+00:09:53,200 --> 00:09:58,480
+we went up to 200 degrees to see what
+
+305
+00:09:55,760 --> 00:10:00,959
+happens to the magnetization
+
+306
+00:09:58,480 --> 00:10:02,399
+to generate magnetic properties on a
+
+307
+00:10:00,959 --> 00:10:05,760
+time scale
+
+308
+00:10:02,399 --> 00:10:06,399
+which is uh more you know more human so
+
+309
+00:10:05,760 --> 00:10:07,680
+we can
+
+310
+00:10:06,399 --> 00:10:09,680
+three or four days is typically what
+
+311
+00:10:07,680 --> 00:10:12,480
+we're looking at so
+
+312
+00:10:09,680 --> 00:10:14,079
+here we have hysteresis loops of a
+
+313
+00:10:12,480 --> 00:10:14,959
+sample so we've taken the unheated
+
+314
+00:10:14,079 --> 00:10:15,920
+sample as a history
+
+315
+00:10:14,959 --> 00:10:17,120
+you can't really see it because there's
+
+316
+00:10:15,920 --> 00:10:19,200
+nothing to see it's completely flat
+
+317
+00:10:17,120 --> 00:10:20,480
+there's no magnesium whatsoever
+
+318
+00:10:19,200 --> 00:10:22,640
+then when we did the paralysis
+
+319
+00:10:20,480 --> 00:10:24,480
+experiment at 250 degrees
+
+320
+00:10:22,640 --> 00:10:25,920
+we generated this curve here so we've
+
+321
+00:10:24,480 --> 00:10:26,800
+generated all these ferromagnetic
+
+322
+00:10:25,920 --> 00:10:28,160
+minerals
+
+323
+00:10:26,800 --> 00:10:30,560
+and when we did it at even higher
+
+324
+00:10:28,160 --> 00:10:34,079
+temperature we find that we had
+
+325
+00:10:30,560 --> 00:10:35,680
+even more uh well with different type of
+
+326
+00:10:34,079 --> 00:10:37,279
+magnetic minerals we're at slightly high
+
+327
+00:10:35,680 --> 00:10:38,640
+temperature now i should stress that
+
+328
+00:10:37,279 --> 00:10:40,399
+these are at artificially high
+
+329
+00:10:38,640 --> 00:10:42,160
+temperatures so that potentially the
+
+330
+00:10:40,399 --> 00:10:44,240
+minerals that we're producing
+
+331
+00:10:42,160 --> 00:10:45,440
+might not be exactly the same as what
+
+332
+00:10:44,240 --> 00:10:47,120
+might happen
+
+333
+00:10:45,440 --> 00:10:48,880
+in nature because we're doing these at
+
+334
+00:10:47,120 --> 00:10:49,600
+artificially high temperatures but the
+
+335
+00:10:48,880 --> 00:10:51,839
+idea is
+
+336
+00:10:49,600 --> 00:10:53,760
+that magnetic particles can be generated
+
+337
+00:10:51,839 --> 00:10:56,320
+so here we have a graph
+
+338
+00:10:53,760 --> 00:10:58,480
+of saturation magnetization from the
+
+339
+00:10:56,320 --> 00:11:00,640
+hysteresis loops
+
+340
+00:10:58,480 --> 00:11:01,920
+and this is the this is the unheated
+
+341
+00:11:00,640 --> 00:11:04,640
+immature sample
+
+342
+00:11:01,920 --> 00:11:06,399
+this is ms for three different source
+
+343
+00:11:04,640 --> 00:11:08,480
+rocks immature rocks
+
+344
+00:11:06,399 --> 00:11:10,240
+and this is the the response and these
+
+345
+00:11:08,480 --> 00:11:13,519
+are the temperatures at which we did
+
+346
+00:11:10,240 --> 00:11:15,440
+the paralysis and so here we have these
+
+347
+00:11:13,519 --> 00:11:16,880
+iron sulfide minerals when you go to a
+
+348
+00:11:15,440 --> 00:11:18,079
+certain level at 300 you're going to
+
+349
+00:11:16,880 --> 00:11:20,720
+drop to zero but then
+
+350
+00:11:18,079 --> 00:11:22,000
+above that we start producing iron oxide
+
+351
+00:11:20,720 --> 00:11:25,200
+minerals so clearly
+
+352
+00:11:22,000 --> 00:11:26,800
+we can produce this um
+
+353
+00:11:25,200 --> 00:11:28,079
+produce lots of magnetic minerals and
+
+354
+00:11:26,800 --> 00:11:29,839
+when we try and measure the magnetic
+
+355
+00:11:28,079 --> 00:11:30,800
+properties to try and get an idea of the
+
+356
+00:11:29,839 --> 00:11:32,640
+grain size
+
+357
+00:11:30,800 --> 00:11:34,160
+we see that we have lots and lots of
+
+358
+00:11:32,640 --> 00:11:36,000
+very very small
+
+359
+00:11:34,160 --> 00:11:37,360
+eliminated particles of the order of 30
+
+360
+00:11:36,000 --> 00:11:39,360
+nanometers now you might think we've
+
+361
+00:11:37,360 --> 00:11:40,880
+only got small particles
+
+362
+00:11:39,360 --> 00:11:42,240
+because we've done these experiments
+
+363
+00:11:40,880 --> 00:11:43,519
+very quickly and in nature because
+
+364
+00:11:42,240 --> 00:11:45,279
+you've got more time you end up with
+
+365
+00:11:43,519 --> 00:11:47,760
+much larger particles
+
+366
+00:11:45,279 --> 00:11:49,440
+but as you'll see later on these very
+
+367
+00:11:47,760 --> 00:11:51,279
+small particles of the order of 30
+
+368
+00:11:49,440 --> 00:11:53,360
+nanometers or less than 30 million are
+
+369
+00:11:51,279 --> 00:11:55,519
+very very typical in the natural systems
+
+370
+00:11:53,360 --> 00:11:57,360
+as well
+
+371
+00:11:55,519 --> 00:11:58,959
+just to verify that we have these very
+
+372
+00:11:57,360 --> 00:12:00,720
+small particles we did some transmission
+
+373
+00:11:58,959 --> 00:12:03,360
+electron microscopy
+
+374
+00:12:00,720 --> 00:12:04,480
+and we managed to find quite a lot of
+
+375
+00:12:03,360 --> 00:12:08,240
+these little
+
+376
+00:12:04,480 --> 00:12:09,279
+uh nanoparticles is 20 nanometers i
+
+377
+00:12:08,240 --> 00:12:12,320
+think this was a
+
+378
+00:12:09,279 --> 00:12:12,320
+an iron sulfide
+
+379
+00:12:12,399 --> 00:12:18,240
+mineral so this was part of uh
+
+380
+00:12:15,760 --> 00:12:19,600
+a piece using red used phd thesis and
+
+381
+00:12:18,240 --> 00:12:21,519
+then we showed this accelerated
+
+382
+00:12:19,600 --> 00:12:23,360
+paralysis produces these nanoparticles
+
+383
+00:12:21,519 --> 00:12:26,240
+and these nanoparticles importantly
+
+384
+00:12:23,360 --> 00:12:27,200
+are small enough to pass through the
+
+385
+00:12:26,240 --> 00:12:29,040
+pore spaces
+
+386
+00:12:27,200 --> 00:12:30,560
+in a typical sandstone so typically
+
+387
+00:12:29,040 --> 00:12:32,720
+you're looking at things less than 100
+
+388
+00:12:30,560 --> 00:12:35,920
+nanometers so 13 less than 30 nanometers
+
+389
+00:12:32,720 --> 00:12:38,320
+is much less than this critical limit so
+
+390
+00:12:35,920 --> 00:12:39,760
+the potential for the the magnetic
+
+391
+00:12:38,320 --> 00:12:41,680
+particles to be generated in the old
+
+392
+00:12:39,760 --> 00:12:43,680
+kitchen actually to migrate with the oil
+
+393
+00:12:41,680 --> 00:12:45,760
+itself
+
+394
+00:12:43,680 --> 00:12:48,160
+later on another phd student of mine
+
+395
+00:12:45,760 --> 00:12:48,639
+shopping was keen to test the idea that
+
+396
+00:12:48,160 --> 00:12:50,320
+the
+
+397
+00:12:48,639 --> 00:12:52,800
+oil part these magnetic particles
+
+398
+00:12:50,320 --> 00:12:54,560
+actually within the oil so he got a
+
+399
+00:12:52,800 --> 00:12:55,920
+he got some samples from the the north
+
+400
+00:12:54,560 --> 00:12:56,959
+sea and this is an area i'll be talking
+
+401
+00:12:55,920 --> 00:12:59,200
+about a little bit
+
+402
+00:12:56,959 --> 00:13:00,320
+uh further later on we'll talk about his
+
+403
+00:12:59,200 --> 00:13:02,399
+phd work
+
+404
+00:13:00,320 --> 00:13:04,720
+um but i thought i'd just bring this in
+
+405
+00:13:02,399 --> 00:13:07,600
+now so we had a pure oil
+
+406
+00:13:04,720 --> 00:13:08,160
+sample from the north sea he wanted to
+
+407
+00:13:07,600 --> 00:13:09,600
+mix it
+
+408
+00:13:08,160 --> 00:13:12,480
+in something so we could measure it so
+
+409
+00:13:09,600 --> 00:13:13,920
+we mixed it in this kayla night clay
+
+410
+00:13:12,480 --> 00:13:15,440
+and you can see this is the background
+
+411
+00:13:13,920 --> 00:13:16,480
+signal and when we put the oil in the
+
+412
+00:13:15,440 --> 00:13:18,399
+can like clay measured
+
+413
+00:13:16,480 --> 00:13:20,079
+on a on a squid magnetometer and did low
+
+414
+00:13:18,399 --> 00:13:21,360
+temperature magnetometry
+
+415
+00:13:20,079 --> 00:13:22,959
+you can see we've got these different
+
+416
+00:13:21,360 --> 00:13:24,880
+minerals but the main thing to see is
+
+417
+00:13:22,959 --> 00:13:26,560
+that the magnetization is significantly
+
+418
+00:13:24,880 --> 00:13:30,079
+higher we've got values of
+
+419
+00:13:26,560 --> 00:13:31,839
+roughly 100 times higher in the oil
+
+420
+00:13:30,079 --> 00:13:33,279
+sample so the oil samples are able to
+
+421
+00:13:31,839 --> 00:13:35,519
+actually contain
+
+422
+00:13:33,279 --> 00:13:38,560
+the magnetic particle phases when you're
+
+423
+00:13:35,519 --> 00:13:38,560
+off this size
+
+424
+00:13:39,120 --> 00:13:42,160
+okay so one of the main things we've
+
+425
+00:13:41,199 --> 00:13:46,480
+been doing over
+
+426
+00:13:42,160 --> 00:13:48,880
+the last um five or six years is trying
+
+427
+00:13:46,480 --> 00:13:52,720
+to see if we can use
+
+428
+00:13:48,880 --> 00:13:55,920
+this magnetic signal to track migration
+
+429
+00:13:52,720 --> 00:13:57,760
+now micro hydrocarbon migration in oil
+
+430
+00:13:55,920 --> 00:13:59,440
+reservoirs is actually something that's
+
+431
+00:13:57,760 --> 00:14:02,160
+quite hard to do
+
+432
+00:13:59,440 --> 00:14:03,360
+and a lot of actually all companies and
+
+433
+00:14:02,160 --> 00:14:04,639
+et cetera they're just more interested
+
+434
+00:14:03,360 --> 00:14:06,959
+in fighting with the oil is they're not
+
+435
+00:14:04,639 --> 00:14:08,399
+always that particular about how the oil
+
+436
+00:14:06,959 --> 00:14:10,399
+actually gets there
+
+437
+00:14:08,399 --> 00:14:11,760
+now if you want to increase yield from
+
+438
+00:14:10,399 --> 00:14:15,519
+mature
+
+439
+00:14:11,760 --> 00:14:16,959
+oil fields and then it's
+
+440
+00:14:15,519 --> 00:14:18,639
+probably a very good idea to understand
+
+441
+00:14:16,959 --> 00:14:21,360
+the migration so rather than
+
+442
+00:14:18,639 --> 00:14:23,040
+having to explore and exploit new oil
+
+443
+00:14:21,360 --> 00:14:26,399
+fields and new parts of the world
+
+444
+00:14:23,040 --> 00:14:27,920
+you can keep um extracting oil from
+
+445
+00:14:26,399 --> 00:14:30,320
+existing oil fields so
+
+446
+00:14:27,920 --> 00:14:31,519
+understanding migration is quite a key
+
+447
+00:14:30,320 --> 00:14:34,560
+uh
+
+448
+00:14:31,519 --> 00:14:36,720
+problem uh to try and tackle so we've
+
+449
+00:14:34,560 --> 00:14:38,800
+kind of shown that nanoparticles can
+
+450
+00:14:36,720 --> 00:14:42,160
+probably migrate
+
+451
+00:14:38,800 --> 00:14:42,480
+and also there's lots of uh literature
+
+452
+00:14:42,160 --> 00:14:44,399
+to
+
+453
+00:14:42,480 --> 00:14:45,760
+suggest that the hydrocarbons themselves
+
+454
+00:14:44,399 --> 00:14:47,680
+as they pass through
+
+455
+00:14:45,760 --> 00:14:48,959
+create a diagenesis front which also
+
+456
+00:14:47,680 --> 00:14:50,880
+causes the formation
+
+457
+00:14:48,959 --> 00:14:52,800
+of magnetic minerals so these thromboids
+
+458
+00:14:50,880 --> 00:14:54,880
+that we see are obviously too big
+
+459
+00:14:52,800 --> 00:14:57,040
+to be uh transported with the
+
+460
+00:14:54,880 --> 00:15:00,240
+hydrocarbons
+
+461
+00:14:57,040 --> 00:15:01,839
+so because this um
+
+462
+00:15:00,240 --> 00:15:03,839
+got a bit longer here i thought i would
+
+463
+00:15:01,839 --> 00:15:05,040
+just talk about our first attempt to do
+
+464
+00:15:03,839 --> 00:15:06,000
+this which wasn't particularly
+
+465
+00:15:05,040 --> 00:15:07,279
+successful
+
+466
+00:15:06,000 --> 00:15:09,199
+and i'll tell you why i wasn't
+
+467
+00:15:07,279 --> 00:15:10,240
+successful then i'll talk about more
+
+468
+00:15:09,199 --> 00:15:13,040
+successful
+
+469
+00:15:10,240 --> 00:15:14,560
+study so this wessex basin which i
+
+470
+00:15:13,040 --> 00:15:16,320
+discussed already so this is where
+
+471
+00:15:14,560 --> 00:15:16,959
+london is and this is slightly down to
+
+472
+00:15:16,320 --> 00:15:19,360
+the
+
+473
+00:15:16,959 --> 00:15:21,839
+the west of uh on the south coast of
+
+474
+00:15:19,360 --> 00:15:24,079
+england to the west of london
+
+475
+00:15:21,839 --> 00:15:25,120
+and what we're interested in doing is
+
+476
+00:15:24,079 --> 00:15:29,279
+can we
+
+477
+00:15:25,120 --> 00:15:32,240
+take cores so can we take material from
+
+478
+00:15:29,279 --> 00:15:34,079
+this hydrocarbon system determine the
+
+479
+00:15:32,240 --> 00:15:35,120
+migration path independently using the
+
+480
+00:15:34,079 --> 00:15:36,880
+magnetics
+
+481
+00:15:35,120 --> 00:15:39,199
+and then try and determine the migration
+
+482
+00:15:36,880 --> 00:15:42,240
+path using
+
+483
+00:15:39,199 --> 00:15:45,360
+uh 3d seismic sorry
+
+484
+00:15:42,240 --> 00:15:46,880
+3d basin modeling based on 3d seismic
+
+485
+00:15:45,360 --> 00:15:47,759
+data that's the kind of idea so we get
+
+486
+00:15:46,880 --> 00:15:49,600
+an independent
+
+487
+00:15:47,759 --> 00:15:51,759
+estimate of migration can the magnetics
+
+488
+00:15:49,600 --> 00:15:54,000
+match up that's what we're trying to do
+
+489
+00:15:51,759 --> 00:15:56,160
+right so the first thing we need to do
+
+490
+00:15:54,000 --> 00:15:58,000
+is to get a location with core
+
+491
+00:15:56,160 --> 00:15:59,600
+and we was working we were working on
+
+492
+00:15:58,000 --> 00:16:00,800
+the wessex basins that was obviously the
+
+493
+00:15:59,600 --> 00:16:03,839
+first place to
+
+494
+00:16:00,800 --> 00:16:05,759
+that we thought we would try and we're
+
+495
+00:16:03,839 --> 00:16:07,839
+very lucky in the uk that
+
+496
+00:16:05,759 --> 00:16:10,000
+i don't know since when it's the 60s or
+
+497
+00:16:07,839 --> 00:16:11,440
+70 every single core that's been drilled
+
+498
+00:16:10,000 --> 00:16:15,040
+anywhere in the uk
+
+499
+00:16:11,440 --> 00:16:17,120
+on land or offshore half of it has to go
+
+500
+00:16:15,040 --> 00:16:18,160
+half of the core has to go to the
+
+501
+00:16:17,120 --> 00:16:20,320
+government and it's stored at the
+
+502
+00:16:18,160 --> 00:16:22,160
+british geological survey in nottingham
+
+503
+00:16:20,320 --> 00:16:23,680
+and as an academic we've got free access
+
+504
+00:16:22,160 --> 00:16:25,759
+to all of this so we can just
+
+505
+00:16:23,680 --> 00:16:27,360
+go up we can take samples it's a
+
+506
+00:16:25,759 --> 00:16:28,079
+fantastic resource we're very lucky to
+
+507
+00:16:27,360 --> 00:16:29,360
+have it
+
+508
+00:16:28,079 --> 00:16:31,279
+i know some other countries have this
+
+509
+00:16:29,360 --> 00:16:33,600
+but not all countries have this
+
+510
+00:16:31,279 --> 00:16:35,440
+this resource and so we have a picture
+
+511
+00:16:33,600 --> 00:16:36,639
+here on the left we have some sandstorm
+
+512
+00:16:35,440 --> 00:16:39,680
+which was from
+
+513
+00:16:36,639 --> 00:16:41,040
+not uh it's a water wet so there wasn't
+
+514
+00:16:39,680 --> 00:16:42,240
+any oil on this and you can see here
+
+515
+00:16:41,040 --> 00:16:44,720
+we've got oil stains you can see it
+
+516
+00:16:42,240 --> 00:16:47,199
+looks very very different
+
+517
+00:16:44,720 --> 00:16:48,320
+okay so this is uh so we go up there we
+
+518
+00:16:47,199 --> 00:16:51,519
+have all these different
+
+519
+00:16:48,320 --> 00:16:52,720
+um these where the different cores and
+
+520
+00:16:51,519 --> 00:16:54,160
+we get all these different materials
+
+521
+00:16:52,720 --> 00:16:57,519
+allows us to do
+
+522
+00:16:54,160 --> 00:16:58,079
+look at the uh the magnetism we also
+
+523
+00:16:57,519 --> 00:17:00,320
+have to
+
+524
+00:16:58,079 --> 00:17:02,560
+find an area where they've done the 3d
+
+525
+00:17:00,320 --> 00:17:04,319
+uh seismic data has been collected in
+
+526
+00:17:02,560 --> 00:17:06,000
+here just showing you the 3d seismic
+
+527
+00:17:04,319 --> 00:17:07,919
+data for this particular area that we're
+
+528
+00:17:06,000 --> 00:17:10,079
+interested in
+
+529
+00:17:07,919 --> 00:17:11,520
+now later on i'll be talking about how
+
+530
+00:17:10,079 --> 00:17:13,199
+we get to the magnetic results but we
+
+531
+00:17:11,520 --> 00:17:14,400
+use a suite of magnetic tools low
+
+532
+00:17:13,199 --> 00:17:16,240
+temperature high temperature and for
+
+533
+00:17:14,400 --> 00:17:18,319
+this particular study i just want to
+
+534
+00:17:16,240 --> 00:17:19,600
+jump straight into the results now this
+
+535
+00:17:18,319 --> 00:17:22,640
+was a particularly
+
+536
+00:17:19,600 --> 00:17:24,079
+it was quite a hard hard kind of study
+
+537
+00:17:22,640 --> 00:17:26,079
+and trying to interpret the data it was
+
+538
+00:17:24,079 --> 00:17:28,000
+quite complex and
+
+539
+00:17:26,079 --> 00:17:29,919
+in places it was uh quite difficult to
+
+540
+00:17:28,000 --> 00:17:31,679
+interpret but um
+
+541
+00:17:29,919 --> 00:17:33,840
+just taking the average of each of these
+
+542
+00:17:31,679 --> 00:17:35,600
+particular cores we're able to
+
+543
+00:17:33,840 --> 00:17:37,840
+kind of get a trend for the general
+
+544
+00:17:35,600 --> 00:17:38,640
+behavior now we'll be talking later on
+
+545
+00:17:37,840 --> 00:17:40,799
+about
+
+546
+00:17:38,640 --> 00:17:42,080
+how you get variations of magnetization
+
+547
+00:17:40,799 --> 00:17:42,720
+along the core but right here we just
+
+548
+00:17:42,080 --> 00:17:44,960
+talked about this
+
+549
+00:17:42,720 --> 00:17:46,480
+average behavior so we we think the oil
+
+550
+00:17:44,960 --> 00:17:48,480
+is coming out we know the oil is
+
+551
+00:17:46,480 --> 00:17:50,720
+formed that kim ridge is coming up and
+
+552
+00:17:48,480 --> 00:17:52,400
+then migrating to which farm
+
+553
+00:17:50,720 --> 00:17:53,840
+and we was kind of sure from the
+
+554
+00:17:52,400 --> 00:17:55,440
+magnetics that it doesn't go through
+
+555
+00:17:53,840 --> 00:17:57,520
+bushy farm that was previously thought
+
+556
+00:17:55,440 --> 00:17:59,360
+and actually kind of went around it
+
+557
+00:17:57,520 --> 00:18:01,120
+over in this region here we have so this
+
+558
+00:17:59,360 --> 00:18:01,600
+is the magnetite signal the yellow is
+
+559
+00:18:01,120 --> 00:18:03,679
+the
+
+560
+00:18:01,600 --> 00:18:04,799
+periodic signal the green is this mixed
+
+561
+00:18:03,679 --> 00:18:06,880
+response
+
+562
+00:18:04,799 --> 00:18:08,160
+over here it was quite complex and
+
+563
+00:18:06,880 --> 00:18:09,440
+difficult to interpret
+
+564
+00:18:08,160 --> 00:18:11,520
+but anyway we kind of thought for the
+
+565
+00:18:09,440 --> 00:18:12,320
+magnetics even though the result wasn't
+
+566
+00:18:11,520 --> 00:18:13,919
+100
+
+567
+00:18:12,320 --> 00:18:15,679
+clear that there was some sort of
+
+568
+00:18:13,919 --> 00:18:16,240
+migration power so the idea is could we
+
+569
+00:18:15,679 --> 00:18:21,520
+tie that
+
+570
+00:18:16,240 --> 00:18:24,640
+in with the uh 3d basin modeling
+
+571
+00:18:21,520 --> 00:18:26,000
+and this is the upheaval map for the
+
+572
+00:18:24,640 --> 00:18:27,360
+area and
+
+573
+00:18:26,000 --> 00:18:28,559
+some of you probably not very familiar
+
+574
+00:18:27,360 --> 00:18:30,240
+with these things i'm not going to go
+
+575
+00:18:28,559 --> 00:18:32,000
+into great detail on the 3d basin
+
+576
+00:18:30,240 --> 00:18:35,120
+modeling but basically
+
+577
+00:18:32,000 --> 00:18:36,559
+it's not a particularly uh it's not a
+
+578
+00:18:35,120 --> 00:18:38,720
+particularly great example of an
+
+579
+00:18:36,559 --> 00:18:40,000
+upheaval mate just it was very complex
+
+580
+00:18:38,720 --> 00:18:40,960
+and it was very difficult to do the
+
+581
+00:18:40,000 --> 00:18:42,880
+modeling
+
+582
+00:18:40,960 --> 00:18:44,640
+and even though there's a hint of a
+
+583
+00:18:42,880 --> 00:18:45,840
+migration path here
+
+584
+00:18:44,640 --> 00:18:47,440
+so this is the king ridge where it's
+
+585
+00:18:45,840 --> 00:18:48,400
+come up and this is the this is the
+
+586
+00:18:47,440 --> 00:18:51,360
+which farm where
+
+587
+00:18:48,400 --> 00:18:52,960
+we think the with the oil reservoir is
+
+588
+00:18:51,360 --> 00:18:54,880
+um it wasn't very clear from the
+
+589
+00:18:52,960 --> 00:18:56,880
+modeling and unfortunately it wasn't
+
+590
+00:18:54,880 --> 00:18:59,440
+it wasn't good enough to be a control
+
+591
+00:18:56,880 --> 00:19:02,080
+and the reason for that is not so much
+
+592
+00:18:59,440 --> 00:19:03,120
+in rabbi who is a phd student it was
+
+593
+00:19:02,080 --> 00:19:04,880
+more the fact
+
+594
+00:19:03,120 --> 00:19:06,400
+and his supervisors chose a location
+
+595
+00:19:04,880 --> 00:19:07,919
+that probably wasn't the best place to
+
+596
+00:19:06,400 --> 00:19:09,280
+test the theory on so here we have the
+
+597
+00:19:07,919 --> 00:19:11,360
+wessex basin
+
+598
+00:19:09,280 --> 00:19:13,520
+this is the area we're working in around
+
+599
+00:19:11,360 --> 00:19:16,480
+about here and it's very very complex
+
+600
+00:19:13,520 --> 00:19:18,799
+lots of uh inversions anti-clients
+
+601
+00:19:16,480 --> 00:19:20,400
+inclines it's a very difficult
+
+602
+00:19:18,799 --> 00:19:22,559
+place to work and probably not the best
+
+603
+00:19:20,400 --> 00:19:26,160
+place to test our migration
+
+604
+00:19:22,559 --> 00:19:26,559
+theory using magnetic so we decided to
+
+605
+00:19:26,160 --> 00:19:29,280
+try
+
+606
+00:19:26,559 --> 00:19:30,000
+simple locality and this is where
+
+607
+00:19:29,280 --> 00:19:31,919
+shoppies
+
+608
+00:19:30,000 --> 00:19:33,120
+phd is and we choose a place in the
+
+609
+00:19:31,919 --> 00:19:34,960
+north sea
+
+610
+00:19:33,120 --> 00:19:37,360
+and we've chosen this locality the tay
+
+611
+00:19:34,960 --> 00:19:39,760
+fan which has a very linear system so
+
+612
+00:19:37,360 --> 00:19:42,000
+the oil is being formed over here
+
+613
+00:19:39,760 --> 00:19:44,000
+and then it migrates along in a straight
+
+614
+00:19:42,000 --> 00:19:44,640
+line along this direction so we've kind
+
+615
+00:19:44,000 --> 00:19:47,440
+of got
+
+616
+00:19:44,640 --> 00:19:49,120
+a relatively simple geology we think and
+
+617
+00:19:47,440 --> 00:19:50,880
+we've got a nice linear simple system
+
+618
+00:19:49,120 --> 00:19:51,520
+it's a fill and spill chain this is kind
+
+619
+00:19:50,880 --> 00:19:53,840
+of what we
+
+620
+00:19:51,520 --> 00:19:56,080
+thought we go to and we've also got
+
+621
+00:19:53,840 --> 00:19:58,480
+access to lots of 3d seismic data and
+
+622
+00:19:56,080 --> 00:19:59,440
+good core coverage so that was our
+
+623
+00:19:58,480 --> 00:20:02,320
+reason for
+
+624
+00:19:59,440 --> 00:20:04,480
+attempting this area and so here just in
+
+625
+00:20:02,320 --> 00:20:07,039
+slightly more detail here this is the
+
+626
+00:20:04,480 --> 00:20:08,320
+oil is coming here here on the side and
+
+627
+00:20:07,039 --> 00:20:11,200
+moving along
+
+628
+00:20:08,320 --> 00:20:12,799
+in this direction and this is the
+
+629
+00:20:11,200 --> 00:20:13,200
+schematic of what it originally looked
+
+630
+00:20:12,799 --> 00:20:15,440
+like
+
+631
+00:20:13,200 --> 00:20:16,960
+so we're starting down here in the oil
+
+632
+00:20:15,440 --> 00:20:19,840
+is migrating up
+
+633
+00:20:16,960 --> 00:20:21,679
+the upper along this upper tail fan up
+
+634
+00:20:19,840 --> 00:20:23,679
+through here
+
+635
+00:20:21,679 --> 00:20:24,960
+okay and these are the various names of
+
+636
+00:20:23,679 --> 00:20:28,000
+various oil fields
+
+637
+00:20:24,960 --> 00:20:28,000
+in the north sea
+
+638
+00:20:29,919 --> 00:20:33,120
+okay so i'm going to show some seismic
+
+639
+00:20:31,520 --> 00:20:34,559
+data which
+
+640
+00:20:33,120 --> 00:20:36,480
+you probably don't you guys probably
+
+641
+00:20:34,559 --> 00:20:37,679
+don't really look at very much i'm not
+
+642
+00:20:36,480 --> 00:20:39,120
+going to talk too much about it it's
+
+643
+00:20:37,679 --> 00:20:40,640
+more just to show this is kind of the
+
+644
+00:20:39,120 --> 00:20:42,000
+system we're looking at
+
+645
+00:20:40,640 --> 00:20:43,679
+and we started we thought we had a nice
+
+646
+00:20:42,000 --> 00:20:45,679
+linear system so we started off looking
+
+647
+00:20:43,679 --> 00:20:48,240
+at the 2d seismic models
+
+648
+00:20:45,679 --> 00:20:50,320
+um the idea is the oil forms over here
+
+649
+00:20:48,240 --> 00:20:51,840
+and it moves up and migrates along here
+
+650
+00:20:50,320 --> 00:20:53,360
+unfortunately it was all getting stuck
+
+651
+00:20:51,840 --> 00:20:55,840
+on this salt dome
+
+652
+00:20:53,360 --> 00:20:57,200
+and of course the world isn't a 2d model
+
+653
+00:20:55,840 --> 00:20:58,960
+it's a 3d model
+
+654
+00:20:57,200 --> 00:21:00,640
+and rather than we couldn't in the model
+
+655
+00:20:58,960 --> 00:21:01,919
+get the oil to go over the salt dome but
+
+656
+00:21:00,640 --> 00:21:03,679
+of course in real world it just goes
+
+657
+00:21:01,919 --> 00:21:06,400
+around it okay so
+
+658
+00:21:03,679 --> 00:21:08,320
+using a 2d model doesn't always work so
+
+659
+00:21:06,400 --> 00:21:10,080
+we had to resort to 3d models
+
+660
+00:21:08,320 --> 00:21:11,679
+and the 3d models is really quite a lot
+
+661
+00:21:10,080 --> 00:21:12,960
+of work this is
+
+662
+00:21:11,679 --> 00:21:15,200
+the work the students have done with
+
+663
+00:21:12,960 --> 00:21:17,120
+their other supervisor alfreso
+
+664
+00:21:15,200 --> 00:21:19,039
+i'm not going to talk about the the 3d
+
+665
+00:21:17,120 --> 00:21:20,880
+basin modeling in great detail
+
+666
+00:21:19,039 --> 00:21:22,240
+just just going to show you the results
+
+667
+00:21:20,880 --> 00:21:23,120
+there's a lot of work going on to these
+
+668
+00:21:22,240 --> 00:21:26,559
+models
+
+669
+00:21:23,120 --> 00:21:27,760
+and here you can see this this is
+
+670
+00:21:26,559 --> 00:21:29,200
+the final model i'm going to be talking
+
+671
+00:21:27,760 --> 00:21:30,240
+about this later on but this is just the
+
+672
+00:21:29,200 --> 00:21:33,440
+starting point
+
+673
+00:21:30,240 --> 00:21:35,280
+so here we have the tay sandstone
+
+674
+00:21:33,440 --> 00:21:36,640
+here we have the predicted oil
+
+675
+00:21:35,280 --> 00:21:38,400
+accumulations and here we have the
+
+676
+00:21:36,640 --> 00:21:40,240
+migration pass this is what the 3d
+
+677
+00:21:38,400 --> 00:21:42,960
+models allows us to do
+
+678
+00:21:40,240 --> 00:21:43,600
+and we are running these solutions now
+
+679
+00:21:42,960 --> 00:21:44,880
+on the hp
+
+680
+00:21:43,600 --> 00:21:46,159
+just to show they look quite tricky to
+
+681
+00:21:44,880 --> 00:21:46,960
+do we're running them on the hbc
+
+682
+00:21:46,159 --> 00:21:51,520
+facilities
+
+683
+00:21:46,960 --> 00:21:54,720
+to actually get these uh solved
+
+684
+00:21:51,520 --> 00:21:56,080
+so that's the that's the basic modeling
+
+685
+00:21:54,720 --> 00:21:56,799
+aspect and of course we want to tie that
+
+686
+00:21:56,080 --> 00:21:58,480
+in with the
+
+687
+00:21:56,799 --> 00:22:00,240
+magnetics and we do the whole range of
+
+688
+00:21:58,480 --> 00:22:01,600
+the usual experiments low temperature
+
+689
+00:22:00,240 --> 00:22:04,799
+experiments
+
+690
+00:22:01,600 --> 00:22:06,880
+um now the low temperature experiments
+
+691
+00:22:04,799 --> 00:22:07,840
+students have limited access to mpms
+
+692
+00:22:06,880 --> 00:22:09,760
+because we
+
+693
+00:22:07,840 --> 00:22:13,120
+don't have an mpms we managed to get an
+
+694
+00:22:09,760 --> 00:22:15,600
+npms in january 2019
+
+695
+00:22:13,120 --> 00:22:17,200
+and yesterday our the engineer from
+
+696
+00:22:15,600 --> 00:22:18,799
+quantum design was there and he said
+
+697
+00:22:17,200 --> 00:22:19,039
+it's working but we've not had any data
+
+698
+00:22:18,799 --> 00:22:20,880
+from
+
+699
+00:22:19,039 --> 00:22:23,039
+in 18 months so it's been one big
+
+700
+00:22:20,880 --> 00:22:25,360
+disappointment getting the npms
+
+701
+00:22:23,039 --> 00:22:27,760
+luckily other people have been very uh
+
+702
+00:22:25,360 --> 00:22:29,760
+other places around the world be very
+
+703
+00:22:27,760 --> 00:22:31,360
+helpful in letting us get access to
+
+704
+00:22:29,760 --> 00:22:34,559
+their npms systems like
+
+705
+00:22:31,360 --> 00:22:36,480
+anu and the irm etc
+
+706
+00:22:34,559 --> 00:22:37,919
+so that the low temperature data is
+
+707
+00:22:36,480 --> 00:22:38,960
+really crucial to try and understand
+
+708
+00:22:37,919 --> 00:22:41,280
+what's going on
+
+709
+00:22:38,960 --> 00:22:43,360
+but as we all know magnetic data doesn't
+
+710
+00:22:41,280 --> 00:22:44,799
+rely on one particular measurement
+
+711
+00:22:43,360 --> 00:22:46,559
+relies on a whole range of different
+
+712
+00:22:44,799 --> 00:22:48,000
+types of measurements so
+
+713
+00:22:46,559 --> 00:22:49,600
+we we do a lot of high temperature
+
+714
+00:22:48,000 --> 00:22:50,799
+measurements high temp receptability
+
+715
+00:22:49,600 --> 00:22:52,159
+measurements which can be
+
+716
+00:22:50,799 --> 00:22:54,320
+difficult to interpret because the
+
+717
+00:22:52,159 --> 00:22:56,320
+minerals are altering as we
+
+718
+00:22:54,320 --> 00:22:58,400
+heat them up we also do a lot of
+
+719
+00:22:56,320 --> 00:23:00,240
+electron microscopy now the
+
+720
+00:22:58,400 --> 00:23:02,720
+the magnetizations are relatively weak
+
+721
+00:23:00,240 --> 00:23:04,400
+they're down at um
+
+722
+00:23:02,720 --> 00:23:05,679
+parts per hundred thousand maybe parts
+
+723
+00:23:04,400 --> 00:23:07,600
+per million so we can't really do
+
+724
+00:23:05,679 --> 00:23:09,200
+electron microscopy work
+
+725
+00:23:07,600 --> 00:23:11,200
+on the samples as they are we have to do
+
+726
+00:23:09,200 --> 00:23:13,520
+a magnetic extraction which obviously
+
+727
+00:23:11,200 --> 00:23:15,039
+potentially leads to issues because you
+
+728
+00:23:13,520 --> 00:23:16,240
+may be not extracting all the magnetic
+
+729
+00:23:15,039 --> 00:23:18,320
+minerals of interest
+
+730
+00:23:16,240 --> 00:23:20,080
+and then we're able to do some electron
+
+731
+00:23:18,320 --> 00:23:22,240
+microscopy and we're able to try and
+
+732
+00:23:20,080 --> 00:23:24,960
+differentiate between greg atom
+
+733
+00:23:22,240 --> 00:23:26,880
+or peritonite and identify minerals like
+
+734
+00:23:24,960 --> 00:23:28,640
+pyrite etc
+
+735
+00:23:26,880 --> 00:23:30,960
+so this is just we've got hundreds of
+
+736
+00:23:28,640 --> 00:23:32,640
+these uh examples of
+
+737
+00:23:30,960 --> 00:23:33,919
+measurements we've also been doing for
+
+738
+00:23:32,640 --> 00:23:35,679
+measurements but as the samples are
+
+739
+00:23:33,919 --> 00:23:36,080
+particularly weak it's quite difficult
+
+740
+00:23:35,679 --> 00:23:38,080
+to get
+
+741
+00:23:36,080 --> 00:23:40,080
+four measurements along with relatively
+
+742
+00:23:38,080 --> 00:23:41,440
+incomplete data sets for the fork data
+
+743
+00:23:40,080 --> 00:23:44,480
+but just to show the kind of typical
+
+744
+00:23:41,440 --> 00:23:44,480
+behavior that we get
+
+745
+00:23:44,799 --> 00:23:48,880
+and for this particular study shopee was
+
+746
+00:23:47,440 --> 00:23:50,720
+able to
+
+747
+00:23:48,880 --> 00:23:51,919
+summarize all the data these are the
+
+748
+00:23:50,720 --> 00:23:55,840
+different minerals that we
+
+749
+00:23:51,919 --> 00:23:57,279
+found um we identified the origins
+
+750
+00:23:55,840 --> 00:23:59,360
+whether they're the trital so
+
+751
+00:23:57,279 --> 00:24:01,600
+they're originally whether they formed
+
+752
+00:23:59,360 --> 00:24:03,760
+in the presence of hydrocarbons
+
+753
+00:24:01,600 --> 00:24:05,120
+um and whether so essentially whether
+
+754
+00:24:03,760 --> 00:24:07,679
+they're a background signal
+
+755
+00:24:05,120 --> 00:24:09,520
+or product of the hydrocarbons we also
+
+756
+00:24:07,679 --> 00:24:11,440
+get quite a lot of machemite
+
+757
+00:24:09,520 --> 00:24:13,760
+as we suspect a lot of the magnemite
+
+758
+00:24:11,440 --> 00:24:14,320
+comes from the cores being stored in air
+
+759
+00:24:13,760 --> 00:24:16,000
+for
+
+760
+00:24:14,320 --> 00:24:17,760
+potentially 30 years so those little
+
+761
+00:24:16,000 --> 00:24:21,279
+magnetite particles
+
+762
+00:24:17,760 --> 00:24:22,640
+get oxidized okay so those are the kind
+
+763
+00:24:21,279 --> 00:24:23,760
+of systems we're looking at so the
+
+764
+00:24:22,640 --> 00:24:24,960
+minerals that are particularly of
+
+765
+00:24:23,760 --> 00:24:27,279
+interest are the
+
+766
+00:24:24,960 --> 00:24:29,279
+cidarite and the gregite as we'll see in
+
+767
+00:24:27,279 --> 00:24:32,000
+the next couple of slides
+
+768
+00:24:29,279 --> 00:24:33,760
+so when we plot them on a map so this is
+
+769
+00:24:32,000 --> 00:24:35,600
+uh the area that we're looking at before
+
+770
+00:24:33,760 --> 00:24:37,679
+the gray area marks the area where we
+
+771
+00:24:35,600 --> 00:24:38,559
+have the 3d seismic data that's just why
+
+772
+00:24:37,679 --> 00:24:42,080
+that's just showing
+
+773
+00:24:38,559 --> 00:24:43,360
+the 3d seismic data area we have the the
+
+774
+00:24:42,080 --> 00:24:45,039
+wells and each of the wells has
+
+775
+00:24:43,360 --> 00:24:47,039
+different colors so the dark red is the
+
+776
+00:24:45,039 --> 00:24:50,080
+hydrocarbon producing wells
+
+777
+00:24:47,039 --> 00:24:51,840
+the the the slightly brighters of ready
+
+778
+00:24:50,080 --> 00:24:53,760
+orange ones here
+
+779
+00:24:51,840 --> 00:24:56,559
+these have got oil in them but maybe not
+
+780
+00:24:53,760 --> 00:24:58,480
+enough to actually go to full production
+
+781
+00:24:56,559 --> 00:24:59,600
+then we have the dry well core we've
+
+782
+00:24:58,480 --> 00:25:01,120
+only got one of these this
+
+783
+00:24:59,600 --> 00:25:03,279
+gives us our background signal this is
+
+784
+00:25:01,120 --> 00:25:05,039
+particularly important
+
+785
+00:25:03,279 --> 00:25:06,799
+because we need to know the background
+
+786
+00:25:05,039 --> 00:25:09,120
+signal of our rocks now
+
+787
+00:25:06,799 --> 00:25:10,400
+unfortunately oil companies don't drill
+
+788
+00:25:09,120 --> 00:25:11,440
+many background
+
+789
+00:25:10,400 --> 00:25:13,039
+cores because they're looking for
+
+790
+00:25:11,440 --> 00:25:14,240
+hydrocarbons so generally speaking you
+
+791
+00:25:13,039 --> 00:25:16,320
+don't get many
+
+792
+00:25:14,240 --> 00:25:18,320
+sort of dry wells we do get these
+
+793
+00:25:16,320 --> 00:25:19,360
+drywall cuttings sometimes like up here
+
+794
+00:25:18,320 --> 00:25:21,760
+this yellow one
+
+795
+00:25:19,360 --> 00:25:23,760
+unfortunately these cuttings tend to be
+
+796
+00:25:21,760 --> 00:25:25,360
+mixed up with drilling modern stuff so
+
+797
+00:25:23,760 --> 00:25:26,640
+it's they're often contaminated so you
+
+798
+00:25:25,360 --> 00:25:28,159
+can't really rely
+
+799
+00:25:26,640 --> 00:25:30,080
+on the drywall cuttings you really have
+
+800
+00:25:28,159 --> 00:25:31,840
+to rely on the drywall core
+
+801
+00:25:30,080 --> 00:25:33,360
+to get a fairly good background so we
+
+802
+00:25:31,840 --> 00:25:35,360
+think our background signal here is
+
+803
+00:25:33,360 --> 00:25:38,320
+magnetite okay so this is
+
+804
+00:25:35,360 --> 00:25:40,000
+then here this is magnetite here so here
+
+805
+00:25:38,320 --> 00:25:41,279
+we have the oil coming upwards and we've
+
+806
+00:25:40,000 --> 00:25:43,440
+kind of got
+
+807
+00:25:41,279 --> 00:25:45,360
+sharpies kind of colored this according
+
+808
+00:25:43,440 --> 00:25:46,159
+to the main mineralogy so this area here
+
+809
+00:25:45,360 --> 00:25:47,840
+is all kind of
+
+810
+00:25:46,159 --> 00:25:50,240
+mostly dark green so this means it's
+
+811
+00:25:47,840 --> 00:25:51,919
+cinderites mostly
+
+812
+00:25:50,240 --> 00:25:53,440
+and as we move along here we kind of
+
+813
+00:25:51,919 --> 00:25:57,440
+start getting so
+
+814
+00:25:53,440 --> 00:26:00,080
+equal numbers of of uh iron sulphides
+
+815
+00:25:57,440 --> 00:26:02,080
+and cellulite and then here we've got
+
+816
+00:26:00,080 --> 00:26:02,799
+much more iron sulfides so that's kind
+
+817
+00:26:02,080 --> 00:26:05,919
+of our
+
+818
+00:26:02,799 --> 00:26:09,200
+our trend now
+
+819
+00:26:05,919 --> 00:26:10,960
+let's just jump back to the 3d model
+
+820
+00:26:09,200 --> 00:26:12,320
+so our 3d model predicted these oil
+
+821
+00:26:10,960 --> 00:26:15,039
+accumulations
+
+822
+00:26:12,320 --> 00:26:16,640
+now it didn't actually match what we see
+
+823
+00:26:15,039 --> 00:26:20,080
+in the real world
+
+824
+00:26:16,640 --> 00:26:22,559
+and there was kind of a problem there so
+
+825
+00:26:20,080 --> 00:26:24,159
+um sharpie was trying so choppy was
+
+826
+00:26:22,559 --> 00:26:25,600
+doing this at the same time so it's kind
+
+827
+00:26:24,159 --> 00:26:26,960
+of iterative process they're not
+
+828
+00:26:25,600 --> 00:26:28,960
+supposed to be done independently but
+
+829
+00:26:26,960 --> 00:26:31,520
+it's done by the same person so clearly
+
+830
+00:26:28,960 --> 00:26:32,559
+the person has got both data sets in
+
+831
+00:26:31,520 --> 00:26:35,520
+their head
+
+832
+00:26:32,559 --> 00:26:37,120
+and what he noticed was that we a lot of
+
+833
+00:26:35,520 --> 00:26:38,640
+pseudoright where we potentially might
+
+834
+00:26:37,120 --> 00:26:42,080
+have
+
+835
+00:26:38,640 --> 00:26:44,240
+vertical migration so he associated
+
+836
+00:26:42,080 --> 00:26:46,880
+the sidorite with this protocol
+
+837
+00:26:44,240 --> 00:26:49,279
+migration so essentially when oil
+
+838
+00:26:46,880 --> 00:26:50,400
+as it rises up you get decompression
+
+839
+00:26:49,279 --> 00:26:53,120
+that releases
+
+840
+00:26:50,400 --> 00:26:54,480
+bicarbonate which has the potential
+
+841
+00:26:53,120 --> 00:26:56,480
+potential to
+
+842
+00:26:54,480 --> 00:26:58,880
+to form then they've got all this extra
+
+843
+00:26:56,480 --> 00:26:59,520
+carbon oxygen potential to form with the
+
+844
+00:26:58,880 --> 00:27:01,360
+iron
+
+845
+00:26:59,520 --> 00:27:03,120
+to form pseudorite you don't get that
+
+846
+00:27:01,360 --> 00:27:04,880
+when you're doing lateral migration so
+
+847
+00:27:03,120 --> 00:27:06,799
+he associated with this with vertical
+
+848
+00:27:04,880 --> 00:27:10,799
+migration and this
+
+849
+00:27:06,799 --> 00:27:11,679
+iron suffers with with um horizontal or
+
+850
+00:27:10,799 --> 00:27:14,640
+lateral
+
+851
+00:27:11,679 --> 00:27:16,159
+migration but there wasn't really in the
+
+852
+00:27:14,640 --> 00:27:16,880
+model itself there wasn't really
+
+853
+00:27:16,159 --> 00:27:19,120
+anywhere
+
+854
+00:27:16,880 --> 00:27:20,559
+for this vertical migration to occur so
+
+855
+00:27:19,120 --> 00:27:22,080
+he went back
+
+856
+00:27:20,559 --> 00:27:24,000
+and at the same time another student
+
+857
+00:27:22,080 --> 00:27:26,559
+mary was just starting her phd
+
+858
+00:27:24,000 --> 00:27:28,320
+and she had in her course in a similar
+
+859
+00:27:26,559 --> 00:27:31,200
+region very close to here
+
+860
+00:27:28,320 --> 00:27:33,120
+she had lots of injections essentially
+
+861
+00:27:31,200 --> 00:27:37,120
+bands of sandstone which are kind of
+
+862
+00:27:33,120 --> 00:27:39,919
+have gone through um the impermeable lab
+
+863
+00:27:37,120 --> 00:27:41,520
+above which allow the oil to migrate now
+
+864
+00:27:39,919 --> 00:27:42,399
+here's a picture of these injectors in
+
+865
+00:27:41,520 --> 00:27:43,840
+the cores
+
+866
+00:27:42,399 --> 00:27:46,240
+okay and you can see the scale here
+
+867
+00:27:43,840 --> 00:27:47,919
+these are 10 centimeters or so
+
+868
+00:27:46,240 --> 00:27:50,320
+right so the scale of this is probably
+
+869
+00:27:47,919 --> 00:27:52,640
+less than a meter or meter or less
+
+870
+00:27:50,320 --> 00:27:54,640
+now the depth of the depth we're working
+
+871
+00:27:52,640 --> 00:27:56,640
+at the seismic resolution is about
+
+872
+00:27:54,640 --> 00:27:58,320
+10 meters so essentially we've got all
+
+873
+00:27:56,640 --> 00:28:00,080
+these little injectites
+
+874
+00:27:58,320 --> 00:28:02,320
+that are too small to be seen with the
+
+875
+00:28:00,080 --> 00:28:04,000
+size mix but you can see them in the
+
+876
+00:28:02,320 --> 00:28:05,679
+cause and the mineral magnetism is
+
+877
+00:28:04,000 --> 00:28:07,440
+suggesting they should be there so
+
+878
+00:28:05,679 --> 00:28:08,799
+there's gonna a link there
+
+879
+00:28:07,440 --> 00:28:10,799
+and choppy went back and he had a look
+
+880
+00:28:08,799 --> 00:28:13,360
+at his seismic data in detail and he got
+
+881
+00:28:10,799 --> 00:28:15,600
+hints of potentially some injectites
+
+882
+00:28:13,360 --> 00:28:17,760
+in his seismic data and that only came
+
+883
+00:28:15,600 --> 00:28:19,520
+about because of the mineral magnetism
+
+884
+00:28:17,760 --> 00:28:20,399
+so the idea of having this independent
+
+885
+00:28:19,520 --> 00:28:22,080
+technique
+
+886
+00:28:20,399 --> 00:28:24,240
+we ended up using the magnetism to help
+
+887
+00:28:22,080 --> 00:28:27,679
+interpret and fully interpret
+
+888
+00:28:24,240 --> 00:28:29,520
+the 3d model so he put the injection
+
+889
+00:28:27,679 --> 00:28:30,960
+built his 3d model so put the injectors
+
+890
+00:28:29,520 --> 00:28:32,720
+into the 3d model
+
+891
+00:28:30,960 --> 00:28:35,600
+and lo behold they got something that
+
+892
+00:28:32,720 --> 00:28:38,159
+matches more what's going on in reality
+
+893
+00:28:35,600 --> 00:28:41,120
+so that was rather than using the 3d
+
+894
+00:28:38,159 --> 00:28:44,559
+basin to test
+
+895
+00:28:41,120 --> 00:28:46,799
+test the the mineral magnetic migrations
+
+896
+00:28:44,559 --> 00:28:49,600
+theory we ended up using them in my
+
+897
+00:28:46,799 --> 00:28:50,880
+mineral magnetic migration sort of ideas
+
+898
+00:28:49,600 --> 00:28:53,919
+to fine-tune
+
+899
+00:28:50,880 --> 00:28:56,640
+the the basin model which was
+
+900
+00:28:53,919 --> 00:28:58,159
+very pleasing for me um so here's kind
+
+901
+00:28:56,640 --> 00:29:01,520
+of a summary of what was going on
+
+902
+00:28:58,159 --> 00:29:03,360
+back to our 2d case so here we have the
+
+903
+00:29:01,520 --> 00:29:06,000
+the injectites over here we have this
+
+904
+00:29:03,360 --> 00:29:08,080
+migration going up here this forms
+
+905
+00:29:06,000 --> 00:29:09,880
+all the side right we saw the
+
+906
+00:29:08,080 --> 00:29:12,640
+predominant magnetic signal
+
+907
+00:29:09,880 --> 00:29:14,080
+signating all these cores and as it
+
+908
+00:29:12,640 --> 00:29:17,120
+transports along
+
+909
+00:29:14,080 --> 00:29:19,840
+we tend to get less sederites more iron
+
+910
+00:29:17,120 --> 00:29:21,360
+sulfide so we get all the way over here
+
+911
+00:29:19,840 --> 00:29:23,760
+the oil creeps through here we end up
+
+912
+00:29:21,360 --> 00:29:24,840
+with a a much more gragate or iron
+
+913
+00:29:23,760 --> 00:29:28,240
+sulfide like
+
+914
+00:29:24,840 --> 00:29:30,640
+signal now
+
+915
+00:29:28,240 --> 00:29:32,720
+you might say lateral migrations purely
+
+916
+00:29:30,640 --> 00:29:34,640
+gives an iron sulfide signal but also
+
+917
+00:29:32,720 --> 00:29:36,159
+we're running into this eye area where
+
+918
+00:29:34,640 --> 00:29:37,440
+it's getting quite shallow so now we
+
+919
+00:29:36,159 --> 00:29:38,960
+need to start thinking of fire
+
+920
+00:29:37,440 --> 00:29:42,320
+degradation
+
+921
+00:29:38,960 --> 00:29:45,440
+so as i said before biodegradation
+
+922
+00:29:42,320 --> 00:29:46,720
+happens due to bacteria at relatively
+
+923
+00:29:45,440 --> 00:29:49,200
+shallow
+
+924
+00:29:46,720 --> 00:29:51,360
+depths so relatively cool temperatures
+
+925
+00:29:49,200 --> 00:29:54,159
+below 80 degrees celsius
+
+926
+00:29:51,360 --> 00:29:55,520
+so over here we've got the oil vertical
+
+927
+00:29:54,159 --> 00:29:57,200
+migration forming
+
+928
+00:29:55,520 --> 00:29:59,600
+our acidorites and as it comes through
+
+929
+00:29:57,200 --> 00:30:00,880
+here it's coming into the zone where
+
+930
+00:29:59,600 --> 00:30:02,640
+we're starting getting lots of iron
+
+931
+00:30:00,880 --> 00:30:05,760
+sulfides but we also
+
+932
+00:30:02,640 --> 00:30:07,919
+this red here is an indication of the
+
+933
+00:30:05,760 --> 00:30:09,279
+so i should mention this this map here
+
+934
+00:30:07,919 --> 00:30:12,159
+is a is a graph
+
+935
+00:30:09,279 --> 00:30:13,840
+is the api gravity and the api gravity
+
+936
+00:30:12,159 --> 00:30:15,600
+is very strongly correlated with the
+
+937
+00:30:13,840 --> 00:30:17,279
+level of biodegradation so here we've
+
+938
+00:30:15,600 --> 00:30:19,279
+over the blue we've got
+
+939
+00:30:17,279 --> 00:30:20,559
+no uh biodegradable very low by
+
+940
+00:30:19,279 --> 00:30:22,080
+degradation and where it's red we've got
+
+941
+00:30:20,559 --> 00:30:23,679
+lots of biodegradation
+
+942
+00:30:22,080 --> 00:30:25,279
+it's a very crude way of getting the
+
+943
+00:30:23,679 --> 00:30:26,799
+biodegradation level
+
+944
+00:30:25,279 --> 00:30:28,320
+and you can see that we've got lots of
+
+945
+00:30:26,799 --> 00:30:29,760
+iron sulfides when it's lots of
+
+946
+00:30:28,320 --> 00:30:31,520
+biodegradation so
+
+947
+00:30:29,760 --> 00:30:33,360
+is it due to lateral migration or is it
+
+948
+00:30:31,520 --> 00:30:35,279
+due to biodegradation
+
+949
+00:30:33,360 --> 00:30:36,399
+now fortunately before that we had
+
+950
+00:30:35,279 --> 00:30:40,080
+another student
+
+951
+00:30:36,399 --> 00:30:42,480
+stacy who looked a lot at by degradation
+
+952
+00:30:40,080 --> 00:30:42,480
+in her
+
+953
+00:30:44,000 --> 00:30:49,679
+in her thesis and
+
+954
+00:30:47,679 --> 00:30:51,360
+she got samples from various places
+
+955
+00:30:49,679 --> 00:30:54,640
+around the world
+
+956
+00:30:51,360 --> 00:30:57,840
+um so we've got the alberta
+
+957
+00:30:54,640 --> 00:31:00,159
+tar sands columbia colombia indonesia
+
+958
+00:30:57,840 --> 00:31:02,080
+and the uk
+
+959
+00:31:00,159 --> 00:31:03,760
+and she did the usual magnetic analysis
+
+960
+00:31:02,080 --> 00:31:04,799
+i know running over time here a little
+
+961
+00:31:03,760 --> 00:31:08,640
+bit
+
+962
+00:31:04,799 --> 00:31:11,760
+uh but she also did a lot of organic
+
+963
+00:31:08,640 --> 00:31:14,159
+uh geochemistry so looking at
+
+964
+00:31:11,760 --> 00:31:15,519
+um fourier transform infrared
+
+965
+00:31:14,159 --> 00:31:17,279
+spectroscopy
+
+966
+00:31:15,519 --> 00:31:19,440
+and gas chromatography to try and
+
+967
+00:31:17,279 --> 00:31:20,760
+quantify the oil in these samples and
+
+968
+00:31:19,440 --> 00:31:22,399
+trying to understand the levels of
+
+969
+00:31:20,760 --> 00:31:24,000
+biodegradation
+
+970
+00:31:22,399 --> 00:31:25,760
+these graphs for some reason never have
+
+971
+00:31:24,000 --> 00:31:27,360
+units on there's always response versus
+
+972
+00:31:25,760 --> 00:31:29,440
+retention time i've asked
+
+973
+00:31:27,360 --> 00:31:30,960
+the the organic geochemist why they
+
+974
+00:31:29,440 --> 00:31:32,559
+never put units on is well there aren't
+
+975
+00:31:30,960 --> 00:31:35,519
+any units and i've never got a
+
+976
+00:31:32,559 --> 00:31:36,960
+clear answer to what the units are but
+
+977
+00:31:35,519 --> 00:31:37,600
+so before anyone criticized me for no
+
+978
+00:31:36,960 --> 00:31:39,039
+units i
+
+979
+00:31:37,600 --> 00:31:41,360
+would also like to know where the units
+
+980
+00:31:39,039 --> 00:31:44,480
+are on this particular graph
+
+981
+00:31:41,360 --> 00:31:47,440
+um this allows us to
+
+982
+00:31:44,480 --> 00:31:49,120
+plot the samples and sort by degradation
+
+983
+00:31:47,440 --> 00:31:49,519
+plot there's various ways of measuring
+
+984
+00:31:49,120 --> 00:31:51,039
+the
+
+985
+00:31:49,519 --> 00:31:53,120
+biodegradation we can see there's
+
+986
+00:31:51,039 --> 00:31:56,399
+various samples from the various
+
+987
+00:31:53,120 --> 00:31:56,799
+localities from over here where there's
+
+988
+00:31:56,399 --> 00:31:58,640
+almost
+
+989
+00:31:56,799 --> 00:32:01,840
+no biodegradation that very high levels
+
+990
+00:31:58,640 --> 00:32:04,559
+of biodegradation
+
+991
+00:32:01,840 --> 00:32:06,159
+uh the analysis uh of so for stacey for
+
+992
+00:32:04,559 --> 00:32:07,840
+her work she did a lot of
+
+993
+00:32:06,159 --> 00:32:09,840
+election microscopy we saw a lot of
+
+994
+00:32:07,840 --> 00:32:13,600
+these fanboys we also saw
+
+995
+00:32:09,840 --> 00:32:15,360
+evidence for microbe activity i mean she
+
+996
+00:32:13,600 --> 00:32:17,279
+associated this with
+
+997
+00:32:15,360 --> 00:32:18,720
+biodegradation and there is is some
+
+998
+00:32:17,279 --> 00:32:20,320
+evidence work but i think the
+
+999
+00:32:18,720 --> 00:32:21,840
+biodegradation is really happening on a
+
+1000
+00:32:20,320 --> 00:32:23,919
+much smaller scale
+
+1001
+00:32:21,840 --> 00:32:25,519
+than we're looking at in this particular
+
+1002
+00:32:23,919 --> 00:32:27,360
+crystal here which is quite a large
+
+1003
+00:32:25,519 --> 00:32:28,960
+crystal
+
+1004
+00:32:27,360 --> 00:32:31,200
+and she was able to come up with a very
+
+1005
+00:32:28,960 --> 00:32:33,760
+nice graph so we've got the two graphs
+
+1006
+00:32:31,200 --> 00:32:35,200
+two independent ways of measuring by the
+
+1007
+00:32:33,760 --> 00:32:36,159
+by degradation and these graphs are
+
+1008
+00:32:35,200 --> 00:32:38,720
+essentially
+
+1009
+00:32:36,159 --> 00:32:39,440
+the same even though they're plotted we
+
+1010
+00:32:38,720 --> 00:32:40,720
+look
+
+1011
+00:32:39,440 --> 00:32:42,559
+contrasting so the levels of
+
+1012
+00:32:40,720 --> 00:32:44,480
+biodegradation on the left
+
+1013
+00:32:42,559 --> 00:32:46,880
+one are going up as we go this way and
+
+1014
+00:32:44,480 --> 00:32:49,039
+on the the right hand side is going down
+
+1015
+00:32:46,880 --> 00:32:50,240
+and along here we have the magnetic
+
+1016
+00:32:49,039 --> 00:32:51,519
+acceptability
+
+1017
+00:32:50,240 --> 00:32:53,840
+so we just look at the one on the left
+
+1018
+00:32:51,519 --> 00:32:55,919
+here so as biodegradation
+
+1019
+00:32:53,840 --> 00:32:57,760
+increases this log because this is minus
+
+1020
+00:32:55,919 --> 00:32:58,399
+is 10 to the minus six ten to the minus
+
+1021
+00:32:57,760 --> 00:33:00,880
+five
+
+1022
+00:32:58,399 --> 00:33:01,600
+the magnetization is decreasing right so
+
+1023
+00:33:00,880 --> 00:33:07,120
+higher
+
+1024
+00:33:01,600 --> 00:33:09,760
+biodegradation um lower magnetization
+
+1025
+00:33:07,120 --> 00:33:10,480
+and she was interested in tying this in
+
+1026
+00:33:09,760 --> 00:33:13,440
+to
+
+1027
+00:33:10,480 --> 00:33:15,679
+the uh to this idea of doing
+
+1028
+00:33:13,440 --> 00:33:18,720
+aeromagnetic surface so
+
+1029
+00:33:15,679 --> 00:33:19,840
+she uh the idea that we came up with as
+
+1030
+00:33:18,720 --> 00:33:21,440
+a biodegradation
+
+1031
+00:33:19,840 --> 00:33:23,360
+leads to preferential removal of the
+
+1032
+00:33:21,440 --> 00:33:24,640
+smaller magnetic particles so what we
+
+1033
+00:33:23,360 --> 00:33:25,760
+found was that the grain size
+
+1034
+00:33:24,640 --> 00:33:27,440
+distribution
+
+1035
+00:33:25,760 --> 00:33:28,799
+also shifts so even though we reduce the
+
+1036
+00:33:27,440 --> 00:33:29,519
+magnetization it's the very small
+
+1037
+00:33:28,799 --> 00:33:31,760
+particles
+
+1038
+00:33:29,519 --> 00:33:33,360
+are the ones that are removed first
+
+1039
+00:33:31,760 --> 00:33:36,559
+preferentially leaving
+
+1040
+00:33:33,360 --> 00:33:38,799
+the larger particles
+
+1041
+00:33:36,559 --> 00:33:40,320
+now in the work that she does she came
+
+1042
+00:33:38,799 --> 00:33:41,679
+up with lots of
+
+1043
+00:33:40,320 --> 00:33:44,320
+all her work suggested that the
+
+1044
+00:33:41,679 --> 00:33:46,320
+particles were left over with magnetite
+
+1045
+00:33:44,320 --> 00:33:48,399
+and in the work that was done by shoppi
+
+1046
+00:33:46,320 --> 00:33:49,919
+it came we came across that we actually
+
+1047
+00:33:48,399 --> 00:33:51,279
+ended with lots of iron sulfide so it
+
+1048
+00:33:49,919 --> 00:33:54,320
+seems to be a little bit of a
+
+1049
+00:33:51,279 --> 00:33:56,240
+contradiction there however i think
+
+1050
+00:33:54,320 --> 00:33:57,919
+this probably depends a lot exactly the
+
+1051
+00:33:56,240 --> 00:33:58,880
+depth of which the biodegradation is
+
+1052
+00:33:57,919 --> 00:34:00,960
+happening
+
+1053
+00:33:58,880 --> 00:34:02,080
+um as you can see here from a paper from
+
+1054
+00:34:00,960 --> 00:34:03,840
+andrew roberts
+
+1055
+00:34:02,080 --> 00:34:05,519
+you can see that depending exactly where
+
+1056
+00:34:03,840 --> 00:34:06,799
+we're on this graph
+
+1057
+00:34:05,519 --> 00:34:08,399
+where they're in the soft sulfide
+
+1058
+00:34:06,799 --> 00:34:10,320
+reductions on the iron reduction zone
+
+1059
+00:34:08,399 --> 00:34:13,200
+we're going to get a different response
+
+1060
+00:34:10,320 --> 00:34:15,359
+so i think with in the light of the work
+
+1061
+00:34:13,200 --> 00:34:17,200
+that of shopee's phd thesis we need to
+
+1062
+00:34:15,359 --> 00:34:18,240
+go back and revisit the biodegradation
+
+1063
+00:34:17,200 --> 00:34:22,320
+work we did
+
+1064
+00:34:18,240 --> 00:34:24,800
+with stacey so many years ago
+
+1065
+00:34:22,320 --> 00:34:26,480
+so to be continued now i realize i kind
+
+1066
+00:34:24,800 --> 00:34:28,720
+of run over time so
+
+1067
+00:34:26,480 --> 00:34:30,560
+um i'm just going to skip this is no
+
+1068
+00:34:28,720 --> 00:34:31,919
+point also quite so important this is
+
+1069
+00:34:30,560 --> 00:34:33,919
+just about some of the micro related
+
+1070
+00:34:31,919 --> 00:34:35,440
+modeling we've done on framboids that we
+
+1071
+00:34:33,919 --> 00:34:40,240
+see
+
+1072
+00:34:35,440 --> 00:34:43,839
+and then i also we also find this at the
+
+1073
+00:34:40,240 --> 00:34:45,919
+fluid water contacts so the oil
+
+1074
+00:34:43,839 --> 00:34:49,119
+water contacts and the gas contacts we
+
+1075
+00:34:45,919 --> 00:34:50,560
+often get the spike in the magnetization
+
+1076
+00:34:49,119 --> 00:34:52,480
+um so you're going down the core you get
+
+1077
+00:34:50,560 --> 00:34:55,520
+these spikes and we're able to identify
+
+1078
+00:34:52,480 --> 00:34:56,960
+the contacts using um
+
+1079
+00:34:55,520 --> 00:34:59,599
+other techniques like looking at things
+
+1080
+00:34:56,960 --> 00:35:00,079
+like porosity and we are still trying to
+
+1081
+00:34:59,599 --> 00:35:02,400
+kind of
+
+1082
+00:35:00,079 --> 00:35:03,760
+come get a coherent method for
+
+1083
+00:35:02,400 --> 00:35:06,960
+explaining how
+
+1084
+00:35:03,760 --> 00:35:10,640
+uh why you get this enhancement
+
+1085
+00:35:06,960 --> 00:35:12,240
+so i'm just gonna go through those so
+
+1086
+00:35:10,640 --> 00:35:13,920
+just to wrap it up so normally i would
+
+1087
+00:35:12,240 --> 00:35:15,280
+leave a slide with conclusions but i
+
+1088
+00:35:13,920 --> 00:35:18,800
+thought i would leave
+
+1089
+00:35:15,280 --> 00:35:20,240
+the finishing slide to talk about
+
+1090
+00:35:18,800 --> 00:35:22,000
+the work that we're currently doing so
+
+1091
+00:35:20,240 --> 00:35:22,480
+still got three phd students i should
+
+1092
+00:35:22,000 --> 00:35:24,720
+still
+
+1093
+00:35:22,480 --> 00:35:27,200
+we've got three phd students working
+
+1094
+00:35:24,720 --> 00:35:29,359
+this area so we're trying to look at can
+
+1095
+00:35:27,200 --> 00:35:30,400
+magnetic migration work the analysis
+
+1096
+00:35:29,359 --> 00:35:32,079
+that we've done does it work on a
+
+1097
+00:35:30,400 --> 00:35:34,320
+reservoir scale so we've kind of
+
+1098
+00:35:32,079 --> 00:35:35,920
+done it on a large scale hydrocarbon
+
+1099
+00:35:34,320 --> 00:35:37,200
+system but can we do it on an individual
+
+1100
+00:35:35,920 --> 00:35:38,640
+reservoir scale that's something
+
+1101
+00:35:37,200 --> 00:35:40,480
+mariam's working on
+
+1102
+00:35:38,640 --> 00:35:42,800
+we have another ph.d student joe and
+
+1103
+00:35:40,480 --> 00:35:44,400
+he's looking at um
+
+1104
+00:35:42,800 --> 00:35:46,000
+in the murray firth and he's got oil
+
+1105
+00:35:44,400 --> 00:35:47,200
+from different sources and can we use
+
+1106
+00:35:46,000 --> 00:35:48,400
+the mineral magnetism to try and
+
+1107
+00:35:47,200 --> 00:35:51,040
+identify
+
+1108
+00:35:48,400 --> 00:35:52,560
+where the oil has come from now we've
+
+1109
+00:35:51,040 --> 00:35:54,720
+done a lot of work
+
+1110
+00:35:52,560 --> 00:35:55,839
+looking at classic systems for
+
+1111
+00:35:54,720 --> 00:35:58,560
+sandstones
+
+1112
+00:35:55,839 --> 00:35:59,760
+and we want to see if we can apply some
+
+1113
+00:35:58,560 --> 00:36:01,040
+of the things we've learned to
+
+1114
+00:35:59,760 --> 00:36:02,480
+carbonates
+
+1115
+00:36:01,040 --> 00:36:04,000
+and then again there's this all water
+
+1116
+00:36:02,480 --> 00:36:04,560
+content thing which i touched on it was
+
+1117
+00:36:04,000 --> 00:36:06,960
+very
+
+1118
+00:36:04,560 --> 00:36:08,160
+and can we use this these are water
+
+1119
+00:36:06,960 --> 00:36:10,320
+contacts
+
+1120
+00:36:08,160 --> 00:36:11,920
+to identify paleo contacts if there's
+
+1121
+00:36:10,320 --> 00:36:12,880
+been tilting of the reservoir and things
+
+1122
+00:36:11,920 --> 00:36:15,760
+like that can we
+
+1123
+00:36:12,880 --> 00:36:18,480
+can we use our knowledge of the magnetic
+
+1124
+00:36:15,760 --> 00:36:21,680
+signal to do that
+
+1125
+00:36:18,480 --> 00:36:22,880
+okay thanks very much for that that's
+
+1126
+00:36:21,680 --> 00:36:23,760
+the end of the talk thank you for
+
+1127
+00:36:22,880 --> 00:36:25,040
+listening
+
+1128
+00:36:23,760 --> 00:36:26,560
+excellent thank you very much adrian
+
+1129
+00:36:25,040 --> 00:36:28,320
+that was a really really interesting
+
+1130
+00:36:26,560 --> 00:36:31,680
+talk and we can all thank adrian
+
+1131
+00:36:28,320 --> 00:36:33,680
+uh via our virtual applause button um
+
+1132
+00:36:31,680 --> 00:36:35,280
+that was really good um i'm sure we
+
+1133
+00:36:33,680 --> 00:36:38,400
+probably have a few
+
+1134
+00:36:35,280 --> 00:36:40,079
+questions um i can actually jump in
+
+1135
+00:36:38,400 --> 00:36:41,520
+uh now with the question that we got in
+
+1136
+00:36:40,079 --> 00:36:43,920
+the chat
+
+1137
+00:36:41,520 --> 00:36:46,160
+while you were talking and this was from
+
+1138
+00:36:43,920 --> 00:36:48,560
+uh william harbit orbit
+
+1139
+00:36:46,160 --> 00:36:50,640
+um who asked how could reactive
+
+1140
+00:36:48,560 --> 00:36:52,160
+geochemical processes including these
+
+1141
+00:36:50,640 --> 00:36:54,720
+magnetic phases
+
+1142
+00:36:52,160 --> 00:36:57,599
+impact and change the formation
+
+1143
+00:36:54,720 --> 00:36:57,599
+permeability
+
+1144
+00:36:58,800 --> 00:37:03,040
+so i think the so the formation
+
+1145
+00:37:02,240 --> 00:37:06,160
+permeability
+
+1146
+00:37:03,040 --> 00:37:06,960
+yes essentially i think i suspect that
+
+1147
+00:37:06,160 --> 00:37:10,079
+most of the
+
+1148
+00:37:06,960 --> 00:37:11,280
+magnetic minerals will not make much
+
+1149
+00:37:10,079 --> 00:37:13,839
+difference to permeability
+
+1150
+00:37:11,280 --> 00:37:15,680
+the only one that might do is is the
+
+1151
+00:37:13,839 --> 00:37:16,960
+cineride because the ciderite tends to
+
+1152
+00:37:15,680 --> 00:37:19,359
+cement and
+
+1153
+00:37:16,960 --> 00:37:20,800
+we're trying to get a handle on how much
+
+1154
+00:37:19,359 --> 00:37:23,119
+soda right there is there so most of the
+
+1155
+00:37:20,800 --> 00:37:25,119
+magnetic minerals that we see
+
+1156
+00:37:23,119 --> 00:37:27,599
+um the concentrations are very low
+
+1157
+00:37:25,119 --> 00:37:28,480
+they're down in parts 100 000 parts per
+
+1158
+00:37:27,599 --> 00:37:31,599
+million
+
+1159
+00:37:28,480 --> 00:37:33,200
+whereas the ciderite is a slightly
+
+1160
+00:37:31,599 --> 00:37:35,040
+higher concentration we think maybe it
+
+1161
+00:37:33,200 --> 00:37:37,040
+may be one or two percent so
+
+1162
+00:37:35,040 --> 00:37:38,800
+that could you're right that could
+
+1163
+00:37:37,040 --> 00:37:39,760
+reduce the permeability of the rocks we
+
+1164
+00:37:38,800 --> 00:37:41,359
+haven't actually something we haven't
+
+1165
+00:37:39,760 --> 00:37:44,960
+really looked into but
+
+1166
+00:37:41,359 --> 00:37:48,000
+yeah that's potentially an effect that
+
+1167
+00:37:44,960 --> 00:37:50,320
+you should consider with the
+
+1168
+00:37:48,000 --> 00:37:51,440
+and how prevalent are the thromboids um
+
+1169
+00:37:50,320 --> 00:37:54,480
+with respect to
+
+1170
+00:37:51,440 --> 00:37:58,560
+the smaller particles
+
+1171
+00:37:54,480 --> 00:37:59,599
+um they are
+
+1172
+00:37:58,560 --> 00:38:01,520
+it's one of those things you look at an
+
+1173
+00:37:59,599 --> 00:38:03,040
+electron microscope and you get drawn to
+
+1174
+00:38:01,520 --> 00:38:04,800
+the big fancy fanboys because they look
+
+1175
+00:38:03,040 --> 00:38:07,119
+nice and a nice picture
+
+1176
+00:38:04,800 --> 00:38:08,480
+but i think and it's hard to do proper
+
+1177
+00:38:07,119 --> 00:38:09,839
+quantities for analysis on
+
+1178
+00:38:08,480 --> 00:38:12,400
+on the electron microscope because the
+
+1179
+00:38:09,839 --> 00:38:15,359
+concentration of the magnetic particles
+
+1180
+00:38:12,400 --> 00:38:16,480
+is so low and we've done a magnetic
+
+1181
+00:38:15,359 --> 00:38:18,079
+extract as well
+
+1182
+00:38:16,480 --> 00:38:19,839
+so it's really hard to quantify them but
+
+1183
+00:38:18,079 --> 00:38:21,359
+i would say they're not particularly
+
+1184
+00:38:19,839 --> 00:38:23,760
+abundant i would say we do
+
+1185
+00:38:21,359 --> 00:38:24,720
+see there's more individual particles
+
+1186
+00:38:23,760 --> 00:38:27,280
+just kind of
+
+1187
+00:38:24,720 --> 00:38:29,200
+dotted around and the framboids though
+
+1188
+00:38:27,280 --> 00:38:33,680
+they are pretty a nice look at
+
+1189
+00:38:29,200 --> 00:38:37,040
+um there's probably less of them um
+
+1190
+00:38:33,680 --> 00:38:38,400
+yeah so they're probably not that common
+
+1191
+00:38:37,040 --> 00:38:39,599
+yeah and one thing we did with the
+
+1192
+00:38:38,400 --> 00:38:40,880
+modeling was to show that you really
+
+1193
+00:38:39,599 --> 00:38:42,320
+need a lot because they
+
+1194
+00:38:40,880 --> 00:38:44,079
+essentially give a multi-domain like
+
+1195
+00:38:42,320 --> 00:38:46,640
+signal they you really need a lot of
+
+1196
+00:38:44,079 --> 00:38:49,920
+framboids to actually
+
+1197
+00:38:46,640 --> 00:38:51,359
+dominate a magnetic signal of a sample
+
+1198
+00:38:49,920 --> 00:38:53,760
+you know you don't need that many single
+
+1199
+00:38:51,359 --> 00:38:55,280
+domain particles or single vortex
+
+1200
+00:38:53,760 --> 00:38:55,839
+particles individual particles to
+
+1201
+00:38:55,280 --> 00:39:00,400
+dominate
+
+1202
+00:38:55,839 --> 00:39:03,920
+the the the response in a fork diagram
+
+1203
+00:39:00,400 --> 00:39:06,400
+cool so we have time for a few more
+
+1204
+00:39:03,920 --> 00:39:06,400
+questions
+
+1205
+00:39:12,640 --> 00:39:18,480
+well i'll write one one more um
+
+1206
+00:39:15,839 --> 00:39:18,960
+on the uh the part where you did have to
+
+1207
+00:39:18,480 --> 00:39:20,720
+go over
+
+1208
+00:39:18,960 --> 00:39:22,320
+a little bit quickly we see this spike
+
+1209
+00:39:20,720 --> 00:39:25,200
+in the magnetization at the
+
+1210
+00:39:22,320 --> 00:39:27,680
+the interfaces um this is the oil water
+
+1211
+00:39:25,200 --> 00:39:29,920
+interface i assume
+
+1212
+00:39:27,680 --> 00:39:32,160
+yeah that's the oil yeah watercolor what
+
+1213
+00:39:29,920 --> 00:39:36,560
+um what do you think is causing that
+
+1214
+00:39:32,160 --> 00:39:43,839
+uh spike well if i just share my screen
+
+1215
+00:39:36,560 --> 00:39:43,839
+again actually we've got a model uh
+
+1216
+00:39:45,920 --> 00:39:54,000
+let me just so
+
+1217
+00:39:49,520 --> 00:39:56,400
+um when we did fork analysis across
+
+1218
+00:39:54,000 --> 00:39:58,079
+that i mean we have a very few samples
+
+1219
+00:39:56,400 --> 00:39:59,200
+and we did pca analysis and if they've
+
+1220
+00:39:58,079 --> 00:40:00,160
+had stocks listing you'll probably tell
+
+1221
+00:39:59,200 --> 00:40:02,720
+me off for
+
+1222
+00:40:00,160 --> 00:40:03,280
+doing pc analysis with so a few points
+
+1223
+00:40:02,720 --> 00:40:05,599
+but
+
+1224
+00:40:03,280 --> 00:40:07,280
+um you can you don't really need to do
+
+1225
+00:40:05,599 --> 00:40:08,960
+pizza you can see quite clearly the fork
+
+1226
+00:40:07,280 --> 00:40:10,400
+diagrams actually at the
+
+1227
+00:40:08,960 --> 00:40:11,839
+contact themselves are very very
+
+1228
+00:40:10,400 --> 00:40:13,520
+different to the sort of background
+
+1229
+00:40:11,839 --> 00:40:14,400
+signal so i know it's not the best fork
+
+1230
+00:40:13,520 --> 00:40:17,680
+diagram but
+
+1231
+00:40:14,400 --> 00:40:20,000
+because the samples are very weak but um
+
+1232
+00:40:17,680 --> 00:40:22,079
+you can see there's a quite distinct
+
+1233
+00:40:20,000 --> 00:40:22,400
+population of slightly larger grains
+
+1234
+00:40:22,079 --> 00:40:25,040
+than
+
+1235
+00:40:22,400 --> 00:40:25,839
+what you see in the sort of general
+
+1236
+00:40:25,040 --> 00:40:28,640
+background
+
+1237
+00:40:25,839 --> 00:40:30,079
+signal and we came up with some models
+
+1238
+00:40:28,640 --> 00:40:31,359
+and one of the models we came up is that
+
+1239
+00:40:30,079 --> 00:40:33,280
+the particles
+
+1240
+00:40:31,359 --> 00:40:34,880
+are formed at the top and then they kind
+
+1241
+00:40:33,280 --> 00:40:38,319
+of drop down and they
+
+1242
+00:40:34,880 --> 00:40:40,640
+drop down and kind of get stuck on the
+
+1243
+00:40:38,319 --> 00:40:42,560
+on the oil water contact layer and it's
+
+1244
+00:40:40,640 --> 00:40:42,960
+not really a sharp contact it's more of
+
+1245
+00:40:42,560 --> 00:40:46,000
+a
+
+1246
+00:40:42,960 --> 00:40:47,200
+zone um another idea that's not actually
+
+1247
+00:40:46,000 --> 00:40:48,960
+in here is i i kind of
+
+1248
+00:40:47,200 --> 00:40:50,560
+i'm quite in favor of the idea that
+
+1249
+00:40:48,960 --> 00:40:51,839
+there's um
+
+1250
+00:40:50,560 --> 00:40:53,200
+at this particular zone you've got lots
+
+1251
+00:40:51,839 --> 00:40:54,960
+of hydrocarbons and you've also got
+
+1252
+00:40:53,200 --> 00:40:56,880
+suddenly mixing with all this water so
+
+1253
+00:40:54,960 --> 00:41:00,240
+you've got a different chemist
+
+1254
+00:40:56,880 --> 00:41:01,680
+from different kind of chemistry and
+
+1255
+00:41:00,240 --> 00:41:03,520
+we're quite keen to do some
+
+1256
+00:41:01,680 --> 00:41:05,040
+thermodynamic modelling of the exact
+
+1257
+00:41:03,520 --> 00:41:06,400
+conditions that you get at this
+
+1258
+00:41:05,040 --> 00:41:08,079
+context i think it's something that's
+
+1259
+00:41:06,400 --> 00:41:09,839
+just being formed
+
+1260
+00:41:08,079 --> 00:41:11,119
+due to you know these optimum conditions
+
+1261
+00:41:09,839 --> 00:41:12,560
+at the particular
+
+1262
+00:41:11,119 --> 00:41:14,400
+at this context or something being
+
+1263
+00:41:12,560 --> 00:41:15,839
+formed in situ rather than
+
+1264
+00:41:14,400 --> 00:41:18,240
+in this model here where we've got these
+
+1265
+00:41:15,839 --> 00:41:21,839
+little particles essentially falling out
+
+1266
+00:41:18,240 --> 00:41:21,839
+onto the contact itself
+
+1267
+00:41:24,880 --> 00:41:30,079
+excellent so we have uh
+
+1268
+00:41:27,920 --> 00:41:31,599
+time for another quick question from
+
+1269
+00:41:30,079 --> 00:41:35,119
+anyone okay well
+
+1270
+00:41:31,599 --> 00:41:38,720
+i've got a quick question uh if i may
+
+1271
+00:41:35,119 --> 00:41:40,480
+yeah richard so um yeah adrian at the
+
+1272
+00:41:38,720 --> 00:41:41,359
+start there was all sorts of nice things
+
+1273
+00:41:40,480 --> 00:41:44,960
+about
+
+1274
+00:41:41,359 --> 00:41:49,920
+how this was going to help in the
+
+1275
+00:41:44,960 --> 00:41:49,920
+utilization of you know
+
+1276
+00:41:50,079 --> 00:41:56,400
+mature oil fields um
+
+1277
+00:41:54,319 --> 00:41:59,200
+so do you think you really have
+
+1278
+00:41:56,400 --> 00:42:03,440
+something to say on that
+
+1279
+00:41:59,200 --> 00:42:05,359
+uh i think so i think um
+
+1280
+00:42:03,440 --> 00:42:06,640
+the stuff on the wall water contacts is
+
+1281
+00:42:05,359 --> 00:42:08,960
+quite new
+
+1282
+00:42:06,640 --> 00:42:10,960
+i think that might help i think this
+
+1283
+00:42:08,960 --> 00:42:11,680
+vertical electric migration is something
+
+1284
+00:42:10,960 --> 00:42:14,400
+that hasn't
+
+1285
+00:42:11,680 --> 00:42:15,760
+really been uh has never been done
+
+1286
+00:42:14,400 --> 00:42:18,000
+before
+
+1287
+00:42:15,760 --> 00:42:19,599
+and if we can use the techniques to do
+
+1288
+00:42:18,000 --> 00:42:22,560
+that
+
+1289
+00:42:19,599 --> 00:42:23,200
+to identify to help the basic modeling
+
+1290
+00:42:22,560 --> 00:42:26,960
+then
+
+1291
+00:42:23,200 --> 00:42:30,800
+um there is a potential to link up
+
+1292
+00:42:26,960 --> 00:42:34,400
+with various companies and we have
+
+1293
+00:42:30,800 --> 00:42:36,400
+given these presentations to
+
+1294
+00:42:34,400 --> 00:42:38,160
+a number of oil companies and they have
+
+1295
+00:42:36,400 --> 00:42:41,359
+shown interest
+
+1296
+00:42:38,160 --> 00:42:44,079
+to a certain degree but it hasn't
+
+1297
+00:42:41,359 --> 00:42:45,440
+been taken up fully but there is an
+
+1298
+00:42:44,079 --> 00:42:46,720
+interest in the sort of work that we're
+
+1299
+00:42:45,440 --> 00:42:49,839
+doing
+
+1300
+00:42:46,720 --> 00:42:51,359
+um so yeah i mean especially in places
+
+1301
+00:42:49,839 --> 00:42:52,800
+like the north sea i think there's a
+
+1302
+00:42:51,359 --> 00:42:54,319
+scope for this yeah because it's a very
+
+1303
+00:42:52,800 --> 00:42:58,560
+mature
+
+1304
+00:42:54,319 --> 00:43:00,800
+um system but yeah we haven't made the
+
+1305
+00:42:58,560 --> 00:43:04,160
+jump yet between what we've been doing
+
+1306
+00:43:00,800 --> 00:43:07,680
+and actually implementing it in
+
+1307
+00:43:04,160 --> 00:43:09,359
+in a commercial sense and
+
+1308
+00:43:07,680 --> 00:43:11,119
+a lot of the stuff that we've just done
+
+1309
+00:43:09,359 --> 00:43:12,319
+with the i think the most exciting thing
+
+1310
+00:43:11,119 --> 00:43:13,520
+is the difference between the vertical
+
+1311
+00:43:12,319 --> 00:43:15,680
+lateral migration
+
+1312
+00:43:13,520 --> 00:43:17,040
+um this work has only really come out
+
+1313
+00:43:15,680 --> 00:43:19,760
+and you know it's not even
+
+1314
+00:43:17,040 --> 00:43:20,319
+published yet it's still accepted or
+
+1315
+00:43:19,760 --> 00:43:23,520
+impressed
+
+1316
+00:43:20,319 --> 00:43:25,040
+so yeah
+
+1317
+00:43:23,520 --> 00:43:26,880
+sounds like an industrial case student
+
+1318
+00:43:25,040 --> 00:43:30,240
+to me
+
+1319
+00:43:26,880 --> 00:43:32,160
+yeah uh well we have we are i mean as i
+
+1320
+00:43:30,240 --> 00:43:33,119
+said um al fraser is one of the guys i
+
+1321
+00:43:32,160 --> 00:43:34,720
+work with
+
+1322
+00:43:33,119 --> 00:43:37,119
+he has been working industry for 30
+
+1323
+00:43:34,720 --> 00:43:40,319
+years so he has a lot of contact so he's
+
+1324
+00:43:37,119 --> 00:43:44,160
+quite he's very well connected and knows
+
+1325
+00:43:40,319 --> 00:43:46,400
+um who to talk to about trying to uh
+
+1326
+00:43:44,160 --> 00:43:47,520
+use what we've learned and actually
+
+1327
+00:43:46,400 --> 00:43:50,319
+apply it rather than
+
+1328
+00:43:47,520 --> 00:43:53,520
+just to you know publish papers well
+
+1329
+00:43:50,319 --> 00:43:56,400
+publishing papers is not bad either but
+
+1330
+00:43:53,520 --> 00:43:57,200
+some of this stuff can actually uh can
+
+1331
+00:43:56,400 --> 00:44:00,319
+eventually
+
+1332
+00:43:57,200 --> 00:44:03,520
+can benefit uh recovery and things
+
+1333
+00:44:00,319 --> 00:44:06,160
+it would be good to get our oil from
+
+1334
+00:44:03,520 --> 00:44:07,520
+um as you said areas which are already
+
+1335
+00:44:06,160 --> 00:44:10,160
+being explored and
+
+1336
+00:44:07,520 --> 00:44:11,280
+not have to go and dig up new places
+
+1337
+00:44:10,160 --> 00:44:13,920
+yeah
+
+1338
+00:44:11,280 --> 00:44:14,319
+as we have one one other last question
+
+1339
+00:44:13,920 --> 00:44:16,560
+that's
+
+1340
+00:44:14,319 --> 00:44:18,079
+in the chat from sue and she was just
+
+1341
+00:44:16,560 --> 00:44:21,040
+asking is there enough magnetite
+
+1342
+00:44:18,079 --> 00:44:22,000
+for a magnetic signature at the surface
+
+1343
+00:44:21,040 --> 00:44:24,640
+and
+
+1344
+00:44:22,000 --> 00:44:25,599
+um is there how does that compare to
+
+1345
+00:44:24,640 --> 00:44:28,560
+this or 4d
+
+1346
+00:44:25,599 --> 00:44:28,560
+gravity surveys
+
+1347
+00:44:28,640 --> 00:44:32,319
+is there enough to get at the surface
+
+1348
+00:44:33,359 --> 00:44:37,920
+signature we would love that to be a
+
+1349
+00:44:35,040 --> 00:44:40,000
+magnetic anomaly but we're talking about
+
+1350
+00:44:37,920 --> 00:44:41,839
+samples that we are struggling to
+
+1351
+00:44:40,000 --> 00:44:45,040
+measure in a squid magnetometer
+
+1352
+00:44:41,839 --> 00:44:48,319
+so the answer is not
+
+1353
+00:44:45,040 --> 00:44:49,760
+really significant levels
+
+1354
+00:44:48,319 --> 00:44:51,119
+you know some of the nuances that we're
+
+1355
+00:44:49,760 --> 00:44:53,040
+seeing not getting these very high
+
+1356
+00:44:51,119 --> 00:44:56,000
+levels that would lead to clear magnetic
+
+1357
+00:44:53,040 --> 00:44:57,599
+anomalies at the surface um there might
+
+1358
+00:44:56,000 --> 00:45:00,880
+be scenarios where you
+
+1359
+00:44:57,599 --> 00:45:01,599
+do have that but in the systems we've
+
+1360
+00:45:00,880 --> 00:45:04,400
+been looking at
+
+1361
+00:45:01,599 --> 00:45:06,720
+the concentrations have been quite low
+
+1362
+00:45:04,400 --> 00:45:06,720
+um
+
+1363
+00:45:14,400 --> 00:45:20,640
+how does this compare with 40 gravity i
+
+1364
+00:45:16,560 --> 00:45:20,640
+could also these seismic surveys um
+
+1365
+00:45:23,200 --> 00:45:26,720
+i don't really have an answer to the
+
+1366
+00:45:25,680 --> 00:45:29,760
+gravity surveys
+
+1367
+00:45:26,720 --> 00:45:31,520
+um as i said the magnetization
+
+1368
+00:45:29,760 --> 00:45:32,560
+the concentrations looking at so small
+
+1369
+00:45:31,520 --> 00:45:34,079
+so even though we've got magnetic
+
+1370
+00:45:32,560 --> 00:45:35,440
+particles there that the concentration
+
+1371
+00:45:34,079 --> 00:45:36,240
+is so small it doesn't probably really
+
+1372
+00:45:35,440 --> 00:45:38,319
+add
+
+1373
+00:45:36,240 --> 00:45:40,000
+significantly to any density that you're
+
+1374
+00:45:38,319 --> 00:45:41,200
+going to pick up in a gravity survey i
+
+1375
+00:45:40,000 --> 00:45:43,440
+wouldn't have thought
+
+1376
+00:45:41,200 --> 00:45:44,400
+um we've been trying to we've you know
+
+1377
+00:45:43,440 --> 00:45:45,760
+we've not been thinking the gravity of
+
+1378
+00:45:44,400 --> 00:45:47,040
+seismic surface we've been thinking of
+
+1379
+00:45:45,760 --> 00:45:49,200
+can we actually
+
+1380
+00:45:47,040 --> 00:45:50,720
+um relate this to you know an
+
+1381
+00:45:49,200 --> 00:45:51,680
+aeromagnetic survey would be the obvious
+
+1382
+00:45:50,720 --> 00:45:53,520
+thing
+
+1383
+00:45:51,680 --> 00:45:55,040
+but then we were thinking more if this
+
+1384
+00:45:53,520 --> 00:45:56,800
+was going to be used
+
+1385
+00:45:55,040 --> 00:45:58,560
+it would be used more at the level of
+
+1386
+00:45:56,800 --> 00:46:00,960
+people collecting um
+
+1387
+00:45:58,560 --> 00:46:02,560
+cores and analyzing cause that's the
+
+1388
+00:46:00,960 --> 00:46:04,240
+soft level we're looking at just because
+
+1389
+00:46:02,560 --> 00:46:07,599
+the concentrations
+
+1390
+00:46:04,240 --> 00:46:10,800
+are quite low i
+
+1391
+00:46:07,599 --> 00:46:13,760
+i'm not sure is my mic working
+
+1392
+00:46:10,800 --> 00:46:14,720
+can you hear me oh okay sorry no i was
+
+1393
+00:46:13,760 --> 00:46:17,040
+talking about the
+
+1394
+00:46:14,720 --> 00:46:18,800
+the 40 gravity surveys where people are
+
+1395
+00:46:17,040 --> 00:46:21,680
+tracking the migration of the
+
+1396
+00:46:18,800 --> 00:46:22,319
+oil interface and i'm just wondering if
+
+1397
+00:46:21,680 --> 00:46:24,880
+that
+
+1398
+00:46:22,319 --> 00:46:26,079
+um has been i guess it hasn't been
+
+1399
+00:46:24,880 --> 00:46:28,240
+looked at with the mag because the
+
+1400
+00:46:26,079 --> 00:46:30,160
+concentration is too low but i'm
+
+1401
+00:46:28,240 --> 00:46:30,640
+thinking of the squid magnetometers that
+
+1402
+00:46:30,160 --> 00:46:32,960
+were
+
+1403
+00:46:30,640 --> 00:46:35,599
+you know we're using in south africa on
+
+1404
+00:46:32,960 --> 00:46:37,920
+airborne flights
+
+1405
+00:46:35,599 --> 00:46:37,920
+um
+
+1406
+00:46:39,200 --> 00:46:43,680
+it's just very speculative so in
+
+1407
+00:46:42,160 --> 00:46:45,200
+imperial we do a lot with big group
+
+1408
+00:46:43,680 --> 00:46:46,720
+working with 40 sizes so i guess it's
+
+1409
+00:46:45,200 --> 00:46:48,800
+very similar to the
+
+1410
+00:46:46,720 --> 00:46:50,319
+4d gravity service and they do see the
+
+1411
+00:46:48,800 --> 00:46:52,880
+migration no we haven't
+
+1412
+00:46:50,319 --> 00:46:54,319
+we haven't tried to link that together
+
+1413
+00:46:52,880 --> 00:46:58,079
+and that's something we probably
+
+1414
+00:46:54,319 --> 00:46:58,720
+could do uh working with people and yeah
+
+1415
+00:46:58,079 --> 00:47:01,280
+who do do
+
+1416
+00:46:58,720 --> 00:47:02,480
+the well do 40 seismic but it's a
+
+1417
+00:47:01,280 --> 00:47:04,400
+similar sort of idea
+
+1418
+00:47:02,480 --> 00:47:06,400
+trying to track migration we haven't
+
+1419
+00:47:04,400 --> 00:47:07,200
+tried to link that together we've been
+
+1420
+00:47:06,400 --> 00:47:10,720
+doing
+
+1421
+00:47:07,200 --> 00:47:13,280
+this 3d data and then using um a suite
+
+1422
+00:47:10,720 --> 00:47:16,480
+of schlamberger
+
+1423
+00:47:13,280 --> 00:47:18,480
+programs to predict the migration path
+
+1424
+00:47:16,480 --> 00:47:19,119
+that's have been our policy but yeah i
+
+1425
+00:47:18,480 --> 00:47:21,200
+think maybe
+
+1426
+00:47:19,119 --> 00:47:22,480
+trying to tie this in with some 4d data
+
+1427
+00:47:21,200 --> 00:47:24,079
+would probably be
+
+1428
+00:47:22,480 --> 00:47:26,160
+a good idea and something we haven't
+
+1429
+00:47:24,079 --> 00:47:29,520
+explored yet but maybe we should
+
+1430
+00:47:26,160 --> 00:47:33,040
+do i still sounds very interesting yeah
+
+1431
+00:47:29,520 --> 00:47:34,880
+yeah i mean i i i yeah i mean i really
+
+1432
+00:47:33,040 --> 00:47:36,079
+would like it to be able to you know use
+
+1433
+00:47:34,880 --> 00:47:39,920
+a squid and
+
+1434
+00:47:36,079 --> 00:47:41,520
+switch magnetometer and fly it behind uh
+
+1435
+00:47:39,920 --> 00:47:43,040
+a plane and pick up the magnetic
+
+1436
+00:47:41,520 --> 00:47:44,880
+anomalies due to this and
+
+1437
+00:47:43,040 --> 00:47:46,160
+maybe on very large scale features you
+
+1438
+00:47:44,880 --> 00:47:48,480
+can see that but there's sort of
+
+1439
+00:47:46,160 --> 00:47:50,000
+the kind of smaller features that we've
+
+1440
+00:47:48,480 --> 00:47:51,359
+been looking at you know there's great
+
+1441
+00:47:50,000 --> 00:47:52,880
+depths looking at features
+
+1442
+00:47:51,359 --> 00:47:55,440
+which you know these inject types which
+
+1443
+00:47:52,880 --> 00:47:58,800
+are you know quite small
+
+1444
+00:47:55,440 --> 00:48:00,000
+um we're not i the magnetization really
+
+1445
+00:47:58,800 --> 00:48:02,480
+is quite low
+
+1446
+00:48:00,000 --> 00:48:04,880
+i think it's going to be difficult to
+
+1447
+00:48:02,480 --> 00:48:07,599
+apply this routinely to
+
+1448
+00:48:04,880 --> 00:48:09,200
+um in in some sort of aeromagnetic
+
+1449
+00:48:07,599 --> 00:48:10,800
+survey or even a
+
+1450
+00:48:09,200 --> 00:48:12,559
+a drone survey which is you know
+
+1451
+00:48:10,800 --> 00:48:14,240
+obviously much closer i think
+
+1452
+00:48:12,559 --> 00:48:16,319
+it obviously depends as well on the
+
+1453
+00:48:14,240 --> 00:48:17,440
+depth of the hydrocarbons of course
+
+1454
+00:48:16,319 --> 00:48:20,240
+a lot of the stuff that we've been
+
+1455
+00:48:17,440 --> 00:48:21,599
+looking at in the north sea is um
+
+1456
+00:48:20,240 --> 00:48:23,280
+you know it's under several kilometers
+
+1457
+00:48:21,599 --> 00:48:24,240
+of water under several kilometers of
+
+1458
+00:48:23,280 --> 00:48:26,720
+rock
+
+1459
+00:48:24,240 --> 00:48:28,000
+so you know we're quite a long way from
+
+1460
+00:48:26,720 --> 00:48:30,319
+the source
+
+1461
+00:48:28,000 --> 00:48:31,680
+if we're you know doing a survey of some
+
+1462
+00:48:30,319 --> 00:48:35,040
+sort of
+
+1463
+00:48:31,680 --> 00:48:37,200
+of some sort of survey excellent
+
+1464
+00:48:35,040 --> 00:48:38,480
+um well thank you very much adrian um
+
+1465
+00:48:37,200 --> 00:48:41,040
+we'll wrap it up
+
+1466
+00:48:38,480 --> 00:48:41,760
+for today so i wanted to uh thank adrian
+
+1467
+00:48:41,040 --> 00:48:45,760
+once again
+
+1468
+00:48:41,760 --> 00:48:49,359
+um for a really interesting talk and
+
+1469
+00:48:45,760 --> 00:48:53,680
+just before we all go just a quick
+
+1470
+00:48:49,359 --> 00:48:56,640
+um a quick reminder
+
+1471
+00:48:53,680 --> 00:48:57,359
+that the seminars um are available
+
+1472
+00:48:56,640 --> 00:48:59,920
+online
+
+1473
+00:48:57,359 --> 00:49:02,880
+um through the youtube channel the magic
+
+1474
+00:48:59,920 --> 00:49:04,880
+youtube channel so thank you again to
+
+1475
+00:49:02,880 --> 00:49:06,160
+earth ref and the magic team for hosting
+
+1476
+00:49:04,880 --> 00:49:08,559
+that for us
+
+1477
+00:49:06,160 --> 00:49:09,520
+um and in the coming weeks and months we
+
+1478
+00:49:08,559 --> 00:49:11,839
+have uh
+
+1479
+00:49:09,520 --> 00:49:13,599
+several several more speakers lined up
+
+1480
+00:49:11,839 --> 00:49:15,839
+so i'm looking forward to
+
+1481
+00:49:13,599 --> 00:49:17,119
+seeing you all again here uh in the
+
+1482
+00:49:15,839 --> 00:49:20,079
+coming weeks
+
+1483
+00:49:17,119 --> 00:49:20,800
+um and as always i want to uh you're
+
+1484
+00:49:20,079 --> 00:49:23,520
+welcome
+
+1485
+00:49:20,800 --> 00:49:25,839
+any feedback uh comments and criticisms
+
+1486
+00:49:23,520 --> 00:49:28,319
+uh please just drop us an email
+
+1487
+00:49:25,839 --> 00:49:29,920
+uh with any thoughts and thank you once
+
+1488
+00:49:28,319 --> 00:49:32,240
+again everybody for
+
+1489
+00:49:29,920 --> 00:49:33,119
+joining us today for another magnet
+
+1490
+00:49:32,240 --> 00:49:38,000
+seminar
+
+1491
+00:49:33,119 --> 00:49:38,000
+thank you thanks
+

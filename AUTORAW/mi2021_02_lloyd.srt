@@ -1,0 +1,1664 @@
+1
+00:00:00,160 --> 00:00:06,319
+um our our next talk is going to be
+
+2
+00:00:03,280 --> 00:00:10,720
+uh from simon on the first
+
+3
+00:00:06,319 --> 00:00:10,720
+intensity data from neoproterozoid
+
+4
+00:00:14,920 --> 00:00:20,080
+implications
+
+5
+00:00:16,240 --> 00:00:23,920
+hi okay can everyone hear me
+
+6
+00:00:20,080 --> 00:00:23,920
+yeah i hope so
+
+7
+00:00:28,400 --> 00:00:32,840
+okay can anyone hear me yes there's no
+
+8
+00:00:30,880 --> 00:00:34,880
+problem
+
+9
+00:00:32,840 --> 00:00:37,040
+[Music]
+
+10
+00:00:34,880 --> 00:00:38,640
+yeah okay thanks so hi i'm simon lloyd
+
+11
+00:00:37,040 --> 00:00:40,320
+from the university of liverpool
+
+12
+00:00:38,640 --> 00:00:42,000
+and i'm presenting the first paleo
+
+13
+00:00:40,320 --> 00:00:42,960
+intensity data to come from the
+
+14
+00:00:42,000 --> 00:00:44,160
+cryogenian
+
+15
+00:00:42,960 --> 00:00:46,480
+and discussing their potential
+
+16
+00:00:44,160 --> 00:00:48,719
+implications for inner core nucleation
+
+17
+00:00:46,480 --> 00:00:48,719
+age
+
+18
+00:00:50,000 --> 00:00:53,360
+and so the aim of the study was to help
+
+19
+00:00:51,520 --> 00:00:54,399
+reduce the large uncertainty in the
+
+20
+00:00:53,360 --> 00:00:57,440
+estimates
+
+21
+00:00:54,399 --> 00:00:58,000
+for inner core nucleation age and we
+
+22
+00:00:57,440 --> 00:01:00,640
+want to do
+
+23
+00:00:58,000 --> 00:01:01,680
+this because not only is the formation
+
+24
+00:01:00,640 --> 00:01:04,400
+of the inner core
+
+25
+00:01:01,680 --> 00:01:06,080
+a significant event in earth history but
+
+26
+00:01:04,400 --> 00:01:08,880
+also knowledge of when it occurred
+
+27
+00:01:06,080 --> 00:01:09,439
+providing valuable constraints on models
+
+28
+00:01:08,880 --> 00:01:13,840
+which
+
+29
+00:01:09,439 --> 00:01:13,840
+aim to solve other deep earth problems
+
+30
+00:01:14,240 --> 00:01:17,600
+and so we can do this with paleo
+
+31
+00:01:15,600 --> 00:01:19,200
+intensity we believe because the
+
+32
+00:01:17,600 --> 00:01:20,880
+formation of the inner core brought
+
+33
+00:01:19,200 --> 00:01:23,119
+about two new power sources
+
+34
+00:01:20,880 --> 00:01:24,880
+to help drive the geodynamo
+
+35
+00:01:23,119 --> 00:01:26,400
+compositional convection
+
+36
+00:01:24,880 --> 00:01:28,799
+and the subsequent release of latent
+
+37
+00:01:26,400 --> 00:01:30,159
+heat and so we'd expect to see an
+
+38
+00:01:28,799 --> 00:01:32,560
+increase in
+
+39
+00:01:30,159 --> 00:01:33,680
+intensity observations at earth's
+
+40
+00:01:32,560 --> 00:01:36,000
+surface
+
+41
+00:01:33,680 --> 00:01:39,119
+and or a change in the time average
+
+42
+00:01:36,000 --> 00:01:40,799
+morphology of the field
+
+43
+00:01:39,119 --> 00:01:42,560
+and so if we look at models the most
+
+44
+00:01:40,799 --> 00:01:45,439
+recent models to
+
+45
+00:01:42,560 --> 00:01:46,880
+predict age estimates we've got
+
+46
+00:01:45,439 --> 00:01:50,320
+observational based models
+
+47
+00:01:46,880 --> 00:01:53,439
+such as those on the left and geodynamo
+
+48
+00:01:50,320 --> 00:01:55,520
+models on the right
+
+49
+00:01:53,439 --> 00:01:59,119
+and we can see that the age estimates
+
+50
+00:01:55,520 --> 00:02:01,240
+here span more than 500 million years
+
+51
+00:01:59,119 --> 00:02:04,640
+but that they all fall in or around the
+
+52
+00:02:01,240 --> 00:02:04,640
+neoproterozoic era
+
+53
+00:02:04,960 --> 00:02:09,440
+and so far it's been difficult to link
+
+54
+00:02:06,840 --> 00:02:11,120
+paleomagnetic observational data
+
+55
+00:02:09,440 --> 00:02:13,599
+and the outputs from geodynamo
+
+56
+00:02:11,120 --> 00:02:14,800
+simulations however this has been a key
+
+57
+00:02:13,599 --> 00:02:17,440
+aim of the deep group
+
+58
+00:02:14,800 --> 00:02:19,440
+at liverpool over the last few years and
+
+59
+00:02:17,440 --> 00:02:22,879
+there's some exciting new papers to come
+
+60
+00:02:19,440 --> 00:02:25,200
+out of this research
+
+61
+00:02:22,879 --> 00:02:26,879
+an important caveat though is that
+
+62
+00:02:25,200 --> 00:02:28,720
+despite significant advances in
+
+63
+00:02:26,879 --> 00:02:30,800
+geodynamo simulations
+
+64
+00:02:28,720 --> 00:02:34,480
+estimates remain based on uncertain
+
+65
+00:02:30,800 --> 00:02:36,160
+parameters such as thermal conductivity
+
+66
+00:02:34,480 --> 00:02:38,319
+and so this is why paleo intensity
+
+67
+00:02:36,160 --> 00:02:42,000
+observations are vital as a constraint
+
+68
+00:02:38,319 --> 00:02:44,800
+on these models and so if we look at the
+
+69
+00:02:42,000 --> 00:02:46,959
+neoproterozoic in more detail
+
+70
+00:02:44,800 --> 00:02:47,840
+this cartoon represents geological
+
+71
+00:02:46,959 --> 00:02:50,720
+history
+
+72
+00:02:47,840 --> 00:02:51,920
+from 4.6 billion years ago clockwise to
+
+73
+00:02:50,720 --> 00:02:54,800
+the present day
+
+74
+00:02:51,920 --> 00:02:56,319
+and we've highlighted the neoproterozoic
+
+75
+00:02:54,800 --> 00:02:58,959
+and if we now populate this with
+
+76
+00:02:56,319 --> 00:03:00,480
+all the current paleo intensity data we
+
+77
+00:02:58,959 --> 00:03:02,080
+have
+
+78
+00:03:00,480 --> 00:03:04,080
+we see that there's just four single
+
+79
+00:03:02,080 --> 00:03:06,640
+data points in almost 500 years
+
+80
+00:03:04,080 --> 00:03:07,760
+million years of earth history and for
+
+81
+00:03:06,640 --> 00:03:10,959
+context these have been
+
+82
+00:03:07,760 --> 00:03:11,680
+plotted in relation to the present air
+
+83
+00:03:10,959 --> 00:03:13,040
+field
+
+84
+00:03:11,680 --> 00:03:15,200
+where the surface of the earth there
+
+85
+00:03:13,040 --> 00:03:16,959
+would be no feel at all
+
+86
+00:03:15,200 --> 00:03:18,560
+but the takeaway message from this is
+
+87
+00:03:16,959 --> 00:03:19,519
+that the most recent age estimates
+
+88
+00:03:18,560 --> 00:03:21,720
+coincide
+
+89
+00:03:19,519 --> 00:03:23,920
+with the severe porosity of data in the
+
+90
+00:03:21,720 --> 00:03:26,159
+neoproterozoic
+
+91
+00:03:23,920 --> 00:03:28,080
+and so that's what this study aims to
+
+92
+00:03:26,159 --> 00:03:29,920
+help with
+
+93
+00:03:28,080 --> 00:03:32,159
+by looking at rocks from high up to
+
+94
+00:03:29,920 --> 00:03:35,680
+canada and greenland
+
+95
+00:03:32,159 --> 00:03:35,680
+so if we zoom in on that area
+
+96
+00:03:35,920 --> 00:03:39,360
+we've been looking at rocks from the
+
+97
+00:03:37,280 --> 00:03:42,000
+franklin large igneous province
+
+98
+00:03:39,360 --> 00:03:43,200
+an event which took place around 720
+
+99
+00:03:42,000 --> 00:03:46,239
+million years ago
+
+100
+00:03:43,200 --> 00:03:47,200
+and covered a vast area almost well over
+
+101
+00:03:46,239 --> 00:03:50,480
+two million
+
+102
+00:03:47,200 --> 00:03:53,200
+square kilometers including dikes sills
+
+103
+00:03:50,480 --> 00:03:54,480
+volcanics and intrusives however we're
+
+104
+00:03:53,200 --> 00:03:56,959
+focused mainly on
+
+105
+00:03:54,480 --> 00:04:00,400
+dikes from elsmere island devon island
+
+106
+00:03:56,959 --> 00:04:02,799
+and greenland
+
+107
+00:04:00,400 --> 00:04:04,959
+and this is based off previous work by
+
+108
+00:04:02,799 --> 00:04:07,360
+denis natal in 2009
+
+109
+00:04:04,959 --> 00:04:08,720
+who sampled almost 30 dollar eight dikes
+
+110
+00:04:07,360 --> 00:04:10,480
+and two sills
+
+111
+00:04:08,720 --> 00:04:12,239
+and they obtained uranium lead aegis
+
+112
+00:04:10,480 --> 00:04:14,879
+from the same rocks as they acquired
+
+113
+00:04:12,239 --> 00:04:17,519
+primary remnants from
+
+114
+00:04:14,879 --> 00:04:19,359
+and the directions of the franklin event
+
+115
+00:04:17,519 --> 00:04:21,040
+are well defined across an expansive
+
+116
+00:04:19,359 --> 00:04:23,280
+area
+
+117
+00:04:21,040 --> 00:04:25,360
+they include reverse polarity directions
+
+118
+00:04:23,280 --> 00:04:26,720
+and a positive bait contact test
+
+119
+00:04:25,360 --> 00:04:28,400
+and so this is all important
+
+120
+00:04:26,720 --> 00:04:31,360
+prerequisites to pay
+
+121
+00:04:28,400 --> 00:04:35,280
+intensity reliability and this study
+
+122
+00:04:31,360 --> 00:04:37,840
+focuses on 16 dollar 8 dikes and 1 sill
+
+123
+00:04:35,280 --> 00:04:38,479
+and we obtained 120 of the original
+
+124
+00:04:37,840 --> 00:04:40,960
+1-inch
+
+125
+00:04:38,479 --> 00:04:45,199
+samples which we then cut in half to
+
+126
+00:04:40,960 --> 00:04:46,880
+produce 240 half inch samples
+
+127
+00:04:45,199 --> 00:04:48,800
+so we started off by measuring the rock
+
+128
+00:04:46,880 --> 00:04:51,040
+magnetic properties of representative
+
+129
+00:04:48,800 --> 00:04:52,880
+samples from each of the sites
+
+130
+00:04:51,040 --> 00:04:54,720
+we measured hysteresis loops high
+
+131
+00:04:52,880 --> 00:04:57,680
+temperature susceptibility
+
+132
+00:04:54,720 --> 00:04:59,280
+magnetization saturation and isothermal
+
+133
+00:04:57,680 --> 00:05:00,960
+remnant magnetization
+
+134
+00:04:59,280 --> 00:05:03,600
+and we also did a viscous remnant
+
+135
+00:05:00,960 --> 00:05:05,840
+magnetization experiment
+
+136
+00:05:03,600 --> 00:05:08,320
+in which we oriented the samples in
+
+137
+00:05:05,840 --> 00:05:09,520
+different positions in the earth's field
+
+138
+00:05:08,320 --> 00:05:11,759
+and from that we were able to measure
+
+139
+00:05:09,520 --> 00:05:14,639
+the viscous component
+
+140
+00:05:11,759 --> 00:05:16,080
+and then we separated our sites
+
+141
+00:05:14,639 --> 00:05:18,320
+according to highly low viscous
+
+142
+00:05:16,080 --> 00:05:20,160
+component
+
+143
+00:05:18,320 --> 00:05:23,440
+we also did some limited scanning
+
+144
+00:05:20,160 --> 00:05:25,120
+electron microscopy
+
+145
+00:05:23,440 --> 00:05:26,560
+and here if we look at the top two
+
+146
+00:05:25,120 --> 00:05:28,800
+images we see
+
+147
+00:05:26,560 --> 00:05:32,479
+very fine low titanium titanium
+
+148
+00:05:28,800 --> 00:05:34,320
+magnetite grains which appear pristine
+
+149
+00:05:32,479 --> 00:05:36,160
+compared to the bottom two images where
+
+150
+00:05:34,320 --> 00:05:38,720
+we see much larger grains
+
+151
+00:05:36,160 --> 00:05:42,400
+with illuminate and low titanomagnetite
+
+152
+00:05:38,720 --> 00:05:42,400
+with evidence of alteration
+
+153
+00:05:42,960 --> 00:05:46,720
+and so if we look at the rock magnetic
+
+154
+00:05:44,400 --> 00:05:48,560
+results in the top left we have a day
+
+155
+00:05:46,720 --> 00:05:49,280
+plot where we can see that most of the
+
+156
+00:05:48,560 --> 00:05:52,080
+sites
+
+157
+00:05:49,280 --> 00:05:52,560
+fall in the psd or vortex above the main
+
+158
+00:05:52,080 --> 00:05:55,759
+state
+
+159
+00:05:52,560 --> 00:05:58,319
+region and next to that we see
+
+160
+00:05:55,759 --> 00:05:59,520
+our mst curves which we separated
+
+161
+00:05:58,319 --> 00:06:01,759
+according to
+
+162
+00:05:59,520 --> 00:06:03,600
+reversibility at room temperature
+
+163
+00:06:01,759 --> 00:06:05,120
+however these tell us that
+
+164
+00:06:03,600 --> 00:06:09,120
+we have a single curry temperature
+
+165
+00:06:05,120 --> 00:06:11,240
+ranging from 550 to 590 degrees celsius
+
+166
+00:06:09,120 --> 00:06:14,080
+which we interpret as low titanium
+
+167
+00:06:11,240 --> 00:06:16,240
+titanomagnetite
+
+168
+00:06:14,080 --> 00:06:17,919
+and we see a range of reversibility in
+
+169
+00:06:16,240 --> 00:06:20,720
+the kt curves
+
+170
+00:06:17,919 --> 00:06:23,120
+so the top row of kt curves are the more
+
+171
+00:06:20,720 --> 00:06:26,000
+reversible
+
+172
+00:06:23,120 --> 00:06:26,720
+and the bottom row are less reversible
+
+173
+00:06:26,000 --> 00:06:28,720
+and we also
+
+174
+00:06:26,720 --> 00:06:34,080
+see evidence of low temperature
+
+175
+00:06:28,720 --> 00:06:35,680
+inflections at around 300 degrees c
+
+176
+00:06:34,080 --> 00:06:38,160
+and so we took a multi-technique
+
+177
+00:06:35,680 --> 00:06:40,639
+approach to gathering paleo intensity
+
+178
+00:06:38,160 --> 00:06:41,919
+results we used three methods the
+
+179
+00:06:40,639 --> 00:06:43,600
+thermal talia method
+
+180
+00:06:41,919 --> 00:06:45,600
+the microwave method and the sure double
+
+181
+00:06:43,600 --> 00:06:48,880
+heating technique with and without
+
+182
+00:06:45,600 --> 00:06:50,720
+low temperature demagnetization and the
+
+183
+00:06:48,880 --> 00:06:52,240
+success rates are next to the methods
+
+184
+00:06:50,720 --> 00:06:54,319
+there and we see that the thermal
+
+185
+00:06:52,240 --> 00:06:56,960
+italian method didn't do so well
+
+186
+00:06:54,319 --> 00:07:00,319
+predominantly due to failure of ptrm
+
+187
+00:06:56,960 --> 00:07:00,319
+checks due to alteration
+
+188
+00:07:01,120 --> 00:07:04,240
+and so the big feature from our results
+
+189
+00:07:03,360 --> 00:07:07,199
+is that the
+
+190
+00:07:04,240 --> 00:07:08,960
+field was extremely weak at this time
+
+191
+00:07:07,199 --> 00:07:10,479
+almost an order of magnitude weaker than
+
+192
+00:07:08,960 --> 00:07:12,800
+today
+
+193
+00:07:10,479 --> 00:07:14,000
+and so we got we used we got results
+
+194
+00:07:12,800 --> 00:07:17,039
+from three methods
+
+195
+00:07:14,000 --> 00:07:19,759
+almost 40 results from 11 sites
+
+196
+00:07:17,039 --> 00:07:22,000
+however four of the sites had less than
+
+197
+00:07:19,759 --> 00:07:24,240
+three years so we don't use these
+
+198
+00:07:22,000 --> 00:07:25,440
+in our calculation of virtual dipole
+
+199
+00:07:24,240 --> 00:07:27,680
+moments
+
+200
+00:07:25,440 --> 00:07:29,680
+you also note we get a low sight mean
+
+201
+00:07:27,680 --> 00:07:32,880
+standard deviation in absolute terms of
+
+202
+00:07:29,680 --> 00:07:34,960
+less than three microteslas
+
+203
+00:07:32,880 --> 00:07:36,639
+and if we look at some of the array
+
+204
+00:07:34,960 --> 00:07:39,199
+plots
+
+205
+00:07:36,639 --> 00:07:39,919
+here each column represents a different
+
+206
+00:07:39,199 --> 00:07:43,039
+method
+
+207
+00:07:39,919 --> 00:07:46,000
+and each row is that is represents
+
+208
+00:07:43,039 --> 00:07:47,199
+uh the same site so in this way we're
+
+209
+00:07:46,000 --> 00:07:49,919
+able to compare
+
+210
+00:07:47,199 --> 00:07:51,520
+sister specimens across method and we
+
+211
+00:07:49,919 --> 00:07:52,960
+can see that we get consistent results
+
+212
+00:07:51,520 --> 00:07:55,360
+in absolute terms
+
+213
+00:07:52,960 --> 00:07:56,479
+within and between sites and from all
+
+214
+00:07:55,360 --> 00:07:59,919
+three methods
+
+215
+00:07:56,479 --> 00:08:03,840
+for example the bottom row site bp
+
+216
+00:07:59,919 --> 00:08:07,840
+we get 5.3 microteslas 6.7
+
+217
+00:08:03,840 --> 00:08:11,039
+and 7.4 each from a different method
+
+218
+00:08:07,840 --> 00:08:12,400
+and we can also see that there are some
+
+219
+00:08:11,039 --> 00:08:15,039
+two slope array plots
+
+220
+00:08:12,400 --> 00:08:16,800
+present however a change in slope
+
+221
+00:08:15,039 --> 00:08:17,759
+usually corresponds to a change in
+
+222
+00:08:16,800 --> 00:08:19,440
+direction
+
+223
+00:08:17,759 --> 00:08:21,520
+and that's most notable in the top
+
+224
+00:08:19,440 --> 00:08:24,160
+middle
+
+225
+00:08:21,520 --> 00:08:24,160
+array plot
+
+226
+00:08:25,360 --> 00:08:29,840
+so we also compare our rock magnetic
+
+227
+00:08:27,440 --> 00:08:32,240
+results on our paleo intensity results
+
+228
+00:08:29,840 --> 00:08:33,919
+and we found these in good agreement
+
+229
+00:08:32,240 --> 00:08:35,680
+because
+
+230
+00:08:33,919 --> 00:08:37,760
+all sites which show high viscous
+
+231
+00:08:35,680 --> 00:08:39,599
+components we get no paleo intensity
+
+232
+00:08:37,760 --> 00:08:43,120
+results for
+
+233
+00:08:39,599 --> 00:08:45,120
+and the less reversible kt caves and or
+
+234
+00:08:43,120 --> 00:08:47,440
+low temperature inflections we also get
+
+235
+00:08:45,120 --> 00:08:49,440
+no paleo intensity results for
+
+236
+00:08:47,440 --> 00:08:51,360
+and so the successful paleo intensity
+
+237
+00:08:49,440 --> 00:08:53,200
+results are associated with
+
+238
+00:08:51,360 --> 00:08:56,480
+sites displaying the highest quality
+
+239
+00:08:53,200 --> 00:08:56,480
+rock magnetic properties
+
+240
+00:08:57,120 --> 00:09:03,440
+we also look at the potential for
+
+241
+00:09:00,720 --> 00:09:05,440
+any bias from multi-domain effects and
+
+242
+00:09:03,440 --> 00:09:06,800
+we do this because of the two slope
+
+243
+00:09:05,440 --> 00:09:09,839
+array plots and also
+
+244
+00:09:06,800 --> 00:09:12,959
+the psd domain
+
+245
+00:09:09,839 --> 00:09:14,519
+state properties and so we do this by
+
+246
+00:09:12,959 --> 00:09:16,800
+comparing sure low temperature
+
+247
+00:09:14,519 --> 00:09:17,519
+demagnetization results with those that
+
+248
+00:09:16,800 --> 00:09:20,800
+did not
+
+249
+00:09:17,519 --> 00:09:22,240
+undergo any ltd and that's because ltd
+
+250
+00:09:20,800 --> 00:09:25,040
+is said to remove
+
+251
+00:09:22,240 --> 00:09:26,959
+preferentially remove md-like remnants
+
+252
+00:09:25,040 --> 00:09:30,320
+so if we look at the plot
+
+253
+00:09:26,959 --> 00:09:32,399
+in the bottom left we've got sister
+
+254
+00:09:30,320 --> 00:09:32,720
+samples from six different sites where
+
+255
+00:09:32,399 --> 00:09:34,800
+the
+
+256
+00:09:32,720 --> 00:09:36,560
+blue columns are the ltd and the orange
+
+257
+00:09:34,800 --> 00:09:38,160
+columns are no ltd
+
+258
+00:09:36,560 --> 00:09:40,320
+and we see that the results are almost
+
+259
+00:09:38,160 --> 00:09:42,399
+equivalent so this suggests that we
+
+260
+00:09:40,320 --> 00:09:46,000
+don't have any bias from md
+
+261
+00:09:42,399 --> 00:09:48,399
+effects we also
+
+262
+00:09:46,000 --> 00:09:49,920
+looked at the two slope array plots uh
+
+263
+00:09:48,399 --> 00:09:51,920
+particularly where a change in direction
+
+264
+00:09:49,920 --> 00:09:54,880
+was less obvious
+
+265
+00:09:51,920 --> 00:09:56,800
+and we changed the best line fit
+
+266
+00:09:54,880 --> 00:09:58,320
+considerably and we found that a large
+
+267
+00:09:56,800 --> 00:10:00,800
+change in slope
+
+268
+00:09:58,320 --> 00:10:02,000
+actually corresponds to a very small
+
+269
+00:10:00,800 --> 00:10:04,800
+absolute change in
+
+270
+00:10:02,000 --> 00:10:08,240
+intensity so if there is any effect from
+
+271
+00:10:04,800 --> 00:10:08,240
+md we think it's minimal
+
+272
+00:10:08,480 --> 00:10:12,560
+we also scored our results using the qpi
+
+273
+00:10:11,200 --> 00:10:16,079
+system
+
+274
+00:10:12,560 --> 00:10:19,839
+from biggin and patterson 2014 and our
+
+275
+00:10:16,079 --> 00:10:19,839
+site score between five and nine
+
+276
+00:10:20,000 --> 00:10:23,279
+and so if we look at our results and
+
+277
+00:10:21,600 --> 00:10:27,040
+compare them with
+
+278
+00:10:23,279 --> 00:10:27,600
+uh current global data our results are
+
+279
+00:10:27,040 --> 00:10:30,560
+in
+
+280
+00:10:27,600 --> 00:10:32,880
+are the uh green squares and we've
+
+281
+00:10:30,560 --> 00:10:33,920
+selected data here with a qpi score of
+
+282
+00:10:32,880 --> 00:10:36,720
+three or more
+
+283
+00:10:33,920 --> 00:10:40,240
+and an n of three or more and some
+
+284
+00:10:36,720 --> 00:10:40,240
+observations we can make from this
+
+285
+00:10:40,640 --> 00:10:44,399
+uh but firstly it's important to note
+
+286
+00:10:42,640 --> 00:10:46,240
+the precambrian studies may not be
+
+287
+00:10:44,399 --> 00:10:47,040
+representative of the very long term
+
+288
+00:10:46,240 --> 00:10:49,200
+average
+
+289
+00:10:47,040 --> 00:10:52,640
+because they may capture a temporarily
+
+290
+00:10:49,200 --> 00:10:56,160
+or spatially limited anomaly
+
+291
+00:10:52,640 --> 00:10:58,160
+however we've produced seven vdms
+
+292
+00:10:56,160 --> 00:10:59,519
+from four to nineteen zero meters
+
+293
+00:10:58,160 --> 00:11:01,200
+squared
+
+294
+00:10:59,519 --> 00:11:02,880
+which are consistent with an inner core
+
+295
+00:11:01,200 --> 00:11:06,399
+that had yet to form
+
+296
+00:11:02,880 --> 00:11:09,839
+however we know that severe porosity of
+
+297
+00:11:06,399 --> 00:11:12,079
+um intensity data remains
+
+298
+00:11:09,839 --> 00:11:13,920
+we can also see that our new data fit
+
+299
+00:11:12,079 --> 00:11:14,959
+well on the polynomial fit provided by
+
+300
+00:11:13,920 --> 00:11:18,000
+bono ital
+
+301
+00:11:14,959 --> 00:11:21,040
+in 2019 which is highlighted as the
+
+302
+00:11:18,000 --> 00:11:21,040
+dashed orange line
+
+303
+00:11:22,240 --> 00:11:27,200
+and we also noted that our data our
+
+304
+00:11:25,040 --> 00:11:29,200
+results support low field observations
+
+305
+00:11:27,200 --> 00:11:30,399
+prior to the onset of three phanerozoic
+
+306
+00:11:29,200 --> 00:11:32,720
+supercroms
+
+307
+00:11:30,399 --> 00:11:34,480
+suggesting a possible quasi periodicity
+
+308
+00:11:32,720 --> 00:11:38,000
+in dipole strength
+
+309
+00:11:34,480 --> 00:11:40,480
+and we can see that in this image
+
+310
+00:11:38,000 --> 00:11:41,440
+where you can you can see that there are
+
+311
+00:11:40,480 --> 00:11:44,720
+there are
+
+312
+00:11:41,440 --> 00:11:47,920
+lows preceding each of the three super
+
+313
+00:11:44,720 --> 00:11:49,600
+cons in the phanerozoic
+
+314
+00:11:47,920 --> 00:11:51,680
+and so in summary we've reported the
+
+315
+00:11:49,600 --> 00:11:54,320
+first paleo intensity results in a mid
+
+316
+00:11:51,680 --> 00:11:57,200
+neoproterosaric 300 million year gap
+
+317
+00:11:54,320 --> 00:11:58,000
+in global records and our results are
+
+318
+00:11:57,200 --> 00:12:00,079
+consistent
+
+319
+00:11:58,000 --> 00:12:03,600
+within and between site and method
+
+320
+00:12:00,079 --> 00:12:05,920
+ranging from one to ten microteslas
+
+321
+00:12:03,600 --> 00:12:08,639
+seven vdms are determined ranging from
+
+322
+00:12:05,920 --> 00:12:10,000
+four to nineteen zero meters squared
+
+323
+00:12:08,639 --> 00:12:12,240
+and that's compared to the presence
+
+324
+00:12:10,000 --> 00:12:12,959
+airfield of around 80 zero meters
+
+325
+00:12:12,240 --> 00:12:14,880
+squared
+
+326
+00:12:12,959 --> 00:12:16,880
+and they're associated with high qpi
+
+327
+00:12:14,880 --> 00:12:19,360
+scores between five and nine
+
+328
+00:12:16,880 --> 00:12:20,480
+and although many more reliable paleo
+
+329
+00:12:19,360 --> 00:12:21,920
+intensity data
+
+330
+00:12:20,480 --> 00:12:24,639
+are needed for a more meaningful
+
+331
+00:12:21,920 --> 00:12:27,760
+analysis these new data are consistent
+
+332
+00:12:24,639 --> 00:12:29,760
+with an inner core that had yet to form
+
+333
+00:12:27,760 --> 00:12:32,079
+that's it thanks it's probably quite
+
+334
+00:12:29,760 --> 00:12:32,079
+short
+
+335
+00:12:35,040 --> 00:12:38,959
+okay uh thanks very much for your talk
+
+336
+00:12:37,440 --> 00:12:43,040
+that was very interesting
+
+337
+00:12:38,959 --> 00:12:45,519
+uh oh my camera's up there there we go
+
+338
+00:12:43,040 --> 00:12:46,560
+um yeah that's great thanks very much uh
+
+339
+00:12:45,519 --> 00:12:48,000
+i i have a quick
+
+340
+00:12:46,560 --> 00:12:49,440
+i haven't seen if anyone else has any
+
+341
+00:12:48,000 --> 00:12:50,959
+questions i'll ask them in a minute but
+
+342
+00:12:49,440 --> 00:12:53,839
+i have a question for you
+
+343
+00:12:50,959 --> 00:12:54,240
+um have you compared the work you've
+
+344
+00:12:53,839 --> 00:12:56,079
+done
+
+345
+00:12:54,240 --> 00:12:57,639
+to or have you come across the work of
+
+346
+00:12:56,079 --> 00:13:00,720
+roman uh
+
+347
+00:12:57,639 --> 00:13:03,279
+velvsky in um
+
+348
+00:13:00,720 --> 00:13:03,920
+he's in moscow state in obviously in
+
+349
+00:13:03,279 --> 00:13:06,000
+russia
+
+350
+00:13:03,920 --> 00:13:08,320
+and he's been working on the on the cola
+
+351
+00:13:06,000 --> 00:13:11,519
+peninsula for the last several years
+
+352
+00:13:08,320 --> 00:13:13,120
+um and i know that the age range of
+
+353
+00:13:11,519 --> 00:13:15,920
+intrusions that he has quite a lot of
+
+354
+00:13:13,120 --> 00:13:19,200
+pmag data collected from covers the
+
+355
+00:13:15,920 --> 00:13:20,320
+interval that you're describing here
+
+356
+00:13:19,200 --> 00:13:22,240
+and it might be an interesting
+
+357
+00:13:20,320 --> 00:13:25,760
+comparison
+
+358
+00:13:22,240 --> 00:13:26,720
+yeah i mean it doesn't ring a bell to me
+
+359
+00:13:25,760 --> 00:13:30,160
+now because
+
+360
+00:13:26,720 --> 00:13:31,519
+the only data i know of that's published
+
+361
+00:13:30,160 --> 00:13:34,720
+is the stuff i've just
+
+362
+00:13:31,519 --> 00:13:36,160
+shown yeah like i'm not sure if it is
+
+363
+00:13:34,720 --> 00:13:37,760
+the exact
+
+364
+00:13:36,160 --> 00:13:39,680
+you know the exact same ages but it
+
+365
+00:13:37,760 --> 00:13:42,480
+certainly is
+
+366
+00:13:39,680 --> 00:13:43,920
+it certainly is flanking or the range
+
+367
+00:13:42,480 --> 00:13:45,839
+that he's working in is
+
+368
+00:13:43,920 --> 00:13:47,519
+beyond the rig you know covers the range
+
+369
+00:13:45,839 --> 00:13:49,519
+that you're in as well
+
+370
+00:13:47,519 --> 00:13:51,839
+so you might be um quite a friendly guy
+
+371
+00:13:49,519 --> 00:13:53,519
+like it might be a good idea to
+
+372
+00:13:51,839 --> 00:13:55,279
+see if you can touch base and i have
+
+373
+00:13:53,519 --> 00:13:56,720
+this presentation from egu
+
+374
+00:13:55,279 --> 00:13:58,880
+uh last year if you want to have a look
+
+375
+00:13:56,720 --> 00:13:59,279
+at it yeah later on i'll send it your
+
+376
+00:13:58,880 --> 00:14:02,880
+way
+
+377
+00:13:59,279 --> 00:14:04,240
+thanks bill um sorry i should have asked
+
+378
+00:14:02,880 --> 00:14:06,720
+does anyone else have any other
+
+379
+00:14:04,240 --> 00:14:06,720
+questions
+
+380
+00:14:09,920 --> 00:14:15,519
+no okay that's that's fair enough
+
+381
+00:14:13,120 --> 00:14:17,120
+um thank you very much ask the question
+
+382
+00:14:15,519 --> 00:14:20,720
+sorry
+
+383
+00:14:17,120 --> 00:14:23,760
+yeah richard go ahead yeah
+
+384
+00:14:20,720 --> 00:14:27,600
+so i was just wondering what the latest
+
+385
+00:14:23,760 --> 00:14:30,079
+uh state of play is on on whether or not
+
+386
+00:14:27,600 --> 00:14:31,440
+the formation of the inner core really
+
+387
+00:14:30,079 --> 00:14:34,560
+does increase the intensity
+
+388
+00:14:31,440 --> 00:14:35,920
+dramatically or does it you know to what
+
+389
+00:14:34,560 --> 00:14:39,279
+extent do we know for sure
+
+390
+00:14:35,920 --> 00:14:40,079
+that you will see a an increase in
+
+391
+00:14:39,279 --> 00:14:42,000
+intensity
+
+392
+00:14:40,079 --> 00:14:43,839
+of the field when the inner core starts
+
+393
+00:14:42,000 --> 00:14:46,720
+to form because i know that
+
+394
+00:14:43,839 --> 00:14:47,040
+you know the model is slightly unsure
+
+395
+00:14:46,720 --> 00:14:48,320
+which
+
+396
+00:14:47,040 --> 00:14:52,320
+you know some modelers say it goes one
+
+397
+00:14:48,320 --> 00:14:56,720
+way some say it goes the other way
+
+398
+00:14:52,320 --> 00:15:00,560
+yeah i i think it's still not um
+
+399
+00:14:56,720 --> 00:15:02,480
+100 certain because
+
+400
+00:15:00,560 --> 00:15:03,920
+i mean i think generally the consensus
+
+401
+00:15:02,480 --> 00:15:05,519
+is that you would see an increase in
+
+402
+00:15:03,920 --> 00:15:07,279
+intensity
+
+403
+00:15:05,519 --> 00:15:09,360
+certainly a change in the morphology of
+
+404
+00:15:07,279 --> 00:15:12,480
+the field um
+
+405
+00:15:09,360 --> 00:15:14,160
+yeah so it's it's not um
+
+406
+00:15:12,480 --> 00:15:16,399
+it's not been decided that one i don't
+
+407
+00:15:14,160 --> 00:15:16,399
+think
+
+408
+00:15:19,199 --> 00:15:23,360
+but you guess it's it's because it is
+
+409
+00:15:21,760 --> 00:15:24,399
+it's more certain is it that you would
+
+410
+00:15:23,360 --> 00:15:28,320
+you would see a low
+
+411
+00:15:24,399 --> 00:15:32,160
+field prior just prior to it is it
+
+412
+00:15:28,320 --> 00:15:34,079
+and that seems yeah yes
+
+413
+00:15:32,160 --> 00:15:35,519
+especially we're performing and in the
+
+414
+00:15:34,079 --> 00:15:39,040
+core form and so late
+
+415
+00:15:35,519 --> 00:15:41,839
+so the thermal strength has decreased so
+
+416
+00:15:39,040 --> 00:15:41,839
+much
+

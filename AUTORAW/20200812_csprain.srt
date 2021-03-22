@@ -1,0 +1,6124 @@
+1
+00:00:00,320 --> 00:00:04,319
+so um thank you everyone for uh joining
+
+2
+00:00:03,280 --> 00:00:07,040
+us for our next
+
+3
+00:00:04,319 --> 00:00:08,160
+uh magnets talk um which is going to be
+
+4
+00:00:07,040 --> 00:00:12,400
+given today by
+
+5
+00:00:08,160 --> 00:00:13,840
+courtney sprain um and before we begin
+
+6
+00:00:12,400 --> 00:00:15,599
+i just want to remind people that we'll
+
+7
+00:00:13,840 --> 00:00:18,880
+be talking for about
+
+8
+00:00:15,599 --> 00:00:19,920
+20 to 25 minutes so please keep your
+
+9
+00:00:18,880 --> 00:00:21,680
+microphones
+
+10
+00:00:19,920 --> 00:00:24,560
+muted during that time so it's not to
+
+11
+00:00:21,680 --> 00:00:28,640
+disturb the speaker
+
+12
+00:00:24,560 --> 00:00:31,039
+at the end we'll have a 10 to 15 minute
+
+13
+00:00:28,640 --> 00:00:31,679
+question and discussion session and so
+
+14
+00:00:31,039 --> 00:00:33,840
+please
+
+15
+00:00:31,679 --> 00:00:34,719
+raise your hands through zoom and we'll
+
+16
+00:00:33,840 --> 00:00:36,719
+invite you to
+
+17
+00:00:34,719 --> 00:00:39,760
+unmute your microphone and ask your
+
+18
+00:00:36,719 --> 00:00:42,239
+question um but if you don't want to
+
+19
+00:00:39,760 --> 00:00:43,440
+ask an oral question we will take
+
+20
+00:00:42,239 --> 00:00:46,079
+questions through the
+
+21
+00:00:43,440 --> 00:00:46,559
+chat window and so please just add a
+
+22
+00:00:46,079 --> 00:00:49,840
+little
+
+23
+00:00:46,559 --> 00:00:51,360
+no mic to your question and either
+
+24
+00:00:49,840 --> 00:00:52,079
+myself or one of the other conveners
+
+25
+00:00:51,360 --> 00:00:54,719
+will
+
+26
+00:00:52,079 --> 00:00:56,160
+read out the question for you um and
+
+27
+00:00:54,719 --> 00:00:57,280
+since these are seminars we're all
+
+28
+00:00:56,160 --> 00:00:59,840
+saying at home
+
+29
+00:00:57,280 --> 00:01:00,640
+uh if you do have to go halfway through
+
+30
+00:00:59,840 --> 00:01:03,520
+it by all means
+
+31
+00:01:00,640 --> 00:01:04,799
+just go it's not an issue at all and at
+
+32
+00:01:03,520 --> 00:01:07,840
+the very end
+
+33
+00:01:04,799 --> 00:01:09,119
+we will have a bit of time to catch up
+
+34
+00:01:07,840 --> 00:01:11,760
+with everybody
+
+35
+00:01:09,119 --> 00:01:13,280
+and just have a bit of socializing which
+
+36
+00:01:11,760 --> 00:01:18,080
+uh will not actually be
+
+37
+00:01:13,280 --> 00:01:21,040
+uh recorded so
+
+38
+00:01:18,080 --> 00:01:22,799
+um without further ado i will pass on to
+
+39
+00:01:21,040 --> 00:01:27,840
+courtney sprain who will be talking
+
+40
+00:01:22,799 --> 00:01:27,840
+uh today about clinkers
+
+41
+00:01:31,200 --> 00:01:36,799
+yeah thanks for that greg can you all
+
+42
+00:01:34,079 --> 00:01:36,799
+see my screen
+
+43
+00:01:39,200 --> 00:01:41,840
+yep
+
+44
+00:01:42,320 --> 00:01:47,280
+pointer options excellent okay
+
+45
+00:01:45,439 --> 00:01:49,200
+um so today i want to talk to you guys
+
+46
+00:01:47,280 --> 00:01:51,280
+about a passion project that i've been
+
+47
+00:01:49,200 --> 00:01:53,680
+working on for the last couple of years
+
+48
+00:01:51,280 --> 00:01:54,640
+and that is trying to magnetically
+
+49
+00:01:53,680 --> 00:01:57,040
+characterize
+
+50
+00:01:54,640 --> 00:01:58,799
+clinker deposits by the end of this
+
+51
+00:01:57,040 --> 00:01:59,200
+presentation i'm hoping that you guys
+
+52
+00:01:58,799 --> 00:02:02,560
+will
+
+53
+00:01:59,200 --> 00:02:04,159
+a learn what a clanker deposit is b
+
+54
+00:02:02,560 --> 00:02:06,240
+believe me that they are reliable
+
+55
+00:02:04,159 --> 00:02:09,920
+recorders of earth's magnetic field
+
+56
+00:02:06,240 --> 00:02:11,840
+and also that they provide a really neat
+
+57
+00:02:09,920 --> 00:02:13,360
+new option for filling in some of the
+
+58
+00:02:11,840 --> 00:02:14,480
+gaps that we have in the paleomagnetic
+
+59
+00:02:13,360 --> 00:02:16,239
+database
+
+60
+00:02:14,480 --> 00:02:17,599
+um and so this work has been in
+
+61
+00:02:16,239 --> 00:02:18,560
+collaboration with a lot of different
+
+62
+00:02:17,599 --> 00:02:20,560
+people
+
+63
+00:02:18,560 --> 00:02:22,560
+andy biggin was kind enough to let me
+
+64
+00:02:20,560 --> 00:02:25,360
+start working on this during my post-doc
+
+65
+00:02:22,560 --> 00:02:26,319
+at the university of liverpool a lot of
+
+66
+00:02:25,360 --> 00:02:28,239
+this work was
+
+67
+00:02:26,319 --> 00:02:30,400
+done through a visiting fellowship to
+
+68
+00:02:28,239 --> 00:02:32,560
+the institute for rock magnetism
+
+69
+00:02:30,400 --> 00:02:33,760
+in addition to having an undergrad there
+
+70
+00:02:32,560 --> 00:02:35,360
+riley lammers
+
+71
+00:02:33,760 --> 00:02:36,879
+who performed a lot of this work for her
+
+72
+00:02:35,360 --> 00:02:38,560
+senior thesis
+
+73
+00:02:36,879 --> 00:02:40,160
+and now this work is continuing at the
+
+74
+00:02:38,560 --> 00:02:42,800
+university of florida which is where i
+
+75
+00:02:40,160 --> 00:02:42,800
+am today
+
+76
+00:02:45,200 --> 00:02:50,720
+so paleomagnetic data and
+
+77
+00:02:48,879 --> 00:02:52,720
+a large spot of paleomagnetic data is
+
+78
+00:02:50,720 --> 00:02:54,720
+necessary to capture
+
+79
+00:02:52,720 --> 00:02:56,640
+long-term variations in earth's magnetic
+
+80
+00:02:54,720 --> 00:02:57,840
+field through geologic history
+
+81
+00:02:56,640 --> 00:02:59,200
+and this can tell us some really
+
+82
+00:02:57,840 --> 00:03:00,640
+important information about the
+
+83
+00:02:59,200 --> 00:03:02,720
+evolution of the earth
+
+84
+00:03:00,640 --> 00:03:04,720
+from magnetohydrodynamic processes that
+
+85
+00:03:02,720 --> 00:03:05,920
+are occurring in the outer core
+
+86
+00:03:04,720 --> 00:03:07,840
+and then it also has important
+
+87
+00:03:05,920 --> 00:03:11,840
+implications for things outside
+
+88
+00:03:07,840 --> 00:03:14,560
+of earth including
+
+89
+00:03:11,840 --> 00:03:16,319
+it deflects the solar wind understanding
+
+90
+00:03:14,560 --> 00:03:19,040
+magnetic field has implications for
+
+91
+00:03:16,319 --> 00:03:20,239
+production rates of cosmogenic nuclides
+
+92
+00:03:19,040 --> 00:03:21,599
+and additionally has important
+
+93
+00:03:20,239 --> 00:03:22,879
+implications for the evolution of
+
+94
+00:03:21,599 --> 00:03:25,920
+earth's deep interior
+
+95
+00:03:22,879 --> 00:03:28,000
+and then also ultimately habitability in
+
+96
+00:03:25,920 --> 00:03:29,920
+my particular research i'm interested in
+
+97
+00:03:28,000 --> 00:03:31,120
+understanding long-term variations in
+
+98
+00:03:29,920 --> 00:03:32,720
+earth's magnetic field these are
+
+99
+00:03:31,120 --> 00:03:34,159
+variations occurring on the order of a
+
+100
+00:03:32,720 --> 00:03:35,920
+million years or longer
+
+101
+00:03:34,159 --> 00:03:37,519
+and how we can tie these long-term
+
+102
+00:03:35,920 --> 00:03:39,200
+variations
+
+103
+00:03:37,519 --> 00:03:40,640
+to processes that are occurring in the
+
+104
+00:03:39,200 --> 00:03:43,680
+deep interior
+
+105
+00:03:40,640 --> 00:03:44,159
+but in order to do this we first need to
+
+106
+00:03:43,680 --> 00:03:46,000
+have
+
+107
+00:03:44,159 --> 00:03:47,680
+a reliable characterization of the
+
+108
+00:03:46,000 --> 00:03:50,319
+recent field where recent here
+
+109
+00:03:47,680 --> 00:03:52,480
+is the past 10 million years and this
+
+110
+00:03:50,319 --> 00:03:54,640
+reliable characterization is necessary
+
+111
+00:03:52,480 --> 00:03:56,640
+because we need something to compare
+
+112
+00:03:54,640 --> 00:03:57,680
+these other data sets too to determine
+
+113
+00:03:56,640 --> 00:03:59,680
+whether or not
+
+114
+00:03:57,680 --> 00:04:02,239
+they're different than kind of this
+
+115
+00:03:59,680 --> 00:04:04,400
+known average
+
+116
+00:04:02,239 --> 00:04:06,159
+and so looking at what we have for
+
+117
+00:04:04,400 --> 00:04:08,400
+recent periods
+
+118
+00:04:06,159 --> 00:04:10,000
+in earth's history of magnetic data it's
+
+119
+00:04:08,400 --> 00:04:12,000
+kind of divided into two
+
+120
+00:04:10,000 --> 00:04:13,920
+two different groups so first we have
+
+121
+00:04:12,000 --> 00:04:15,760
+our global time dependent field models
+
+122
+00:04:13,920 --> 00:04:16,880
+and so these have
+
+123
+00:04:15,760 --> 00:04:18,799
+done a really great job of
+
+124
+00:04:16,880 --> 00:04:20,959
+characterizing the magnetic field for
+
+125
+00:04:18,799 --> 00:04:22,720
+much of the holocene and additionally
+
+126
+00:04:20,959 --> 00:04:24,240
+the study came out a couple of years ago
+
+127
+00:04:22,720 --> 00:04:27,520
+in 2018
+
+128
+00:04:24,240 --> 00:04:29,280
+the ggf-100k model which extends these
+
+129
+00:04:27,520 --> 00:04:30,880
+global time dependent field models
+
+130
+00:04:29,280 --> 00:04:32,960
+back to a hundred thousand years ago
+
+131
+00:04:30,880 --> 00:04:36,800
+this is a really big effort
+
+132
+00:04:32,960 --> 00:04:38,400
+um and really amazing seat by this team
+
+133
+00:04:36,800 --> 00:04:40,000
+and so this record does a really good
+
+134
+00:04:38,400 --> 00:04:41,680
+job of characterizing some important
+
+135
+00:04:40,000 --> 00:04:43,120
+features of earth's magnetic field
+
+136
+00:04:41,680 --> 00:04:45,600
+including excursions
+
+137
+00:04:43,120 --> 00:04:46,479
+but there are many ways in which this
+
+138
+00:04:45,600 --> 00:04:49,120
+record can be
+
+139
+00:04:46,479 --> 00:04:50,560
+improved and so one of them is we can
+
+140
+00:04:49,120 --> 00:04:52,400
+kind of look at this map of where the
+
+141
+00:04:50,560 --> 00:04:55,120
+data distribution is for the data that
+
+142
+00:04:52,400 --> 00:04:56,880
+went into ggf 100k
+
+143
+00:04:55,120 --> 00:04:59,680
+and what we can see here is all these
+
+144
+00:04:56,880 --> 00:05:02,479
+diamonds are sediment cores
+
+145
+00:04:59,680 --> 00:05:02,880
+the green dots are volcanic records and
+
+146
+00:05:02,479 --> 00:05:04,800
+then
+
+147
+00:05:02,880 --> 00:05:06,400
+the red dots are volcanic and
+
+148
+00:05:04,800 --> 00:05:07,919
+archaeological records
+
+149
+00:05:06,400 --> 00:05:09,680
+and so first you'll see there are quite
+
+150
+00:05:07,919 --> 00:05:11,120
+a few data gaps particularly in the
+
+151
+00:05:09,680 --> 00:05:12,720
+middle of continents
+
+152
+00:05:11,120 --> 00:05:14,080
+and then also we see even in the middle
+
+153
+00:05:12,720 --> 00:05:16,160
+continents where we do have data
+
+154
+00:05:14,080 --> 00:05:17,520
+basically beyond 10 000 years a lot of
+
+155
+00:05:16,160 --> 00:05:19,440
+this data is missing
+
+156
+00:05:17,520 --> 00:05:20,639
+once we move beyond the archaeological
+
+157
+00:05:19,440 --> 00:05:23,440
+record
+
+158
+00:05:20,639 --> 00:05:24,000
+this is also important for understanding
+
+159
+00:05:23,440 --> 00:05:27,039
+intensity
+
+160
+00:05:24,000 --> 00:05:29,600
+changes um so a lot of the intensity
+
+161
+00:05:27,039 --> 00:05:31,280
+records that exist in ggf-100k are from
+
+162
+00:05:29,600 --> 00:05:33,199
+these archaeological records
+
+163
+00:05:31,280 --> 00:05:35,440
+over 90 percent of the paleo intensity
+
+164
+00:05:33,199 --> 00:05:37,199
+data that went into this model
+
+165
+00:05:35,440 --> 00:05:39,199
+is from these archaeological records
+
+166
+00:05:37,199 --> 00:05:42,400
+that are less than 10 000 years old
+
+167
+00:05:39,199 --> 00:05:44,479
+and so we're really missing um a
+
+168
+00:05:42,400 --> 00:05:45,520
+big picture of what was going on with
+
+169
+00:05:44,479 --> 00:05:47,520
+intensity
+
+170
+00:05:45,520 --> 00:05:49,520
+um for much of this record because we
+
+171
+00:05:47,520 --> 00:05:50,160
+don't have high quality paleo intensity
+
+172
+00:05:49,520 --> 00:05:53,199
+data
+
+173
+00:05:50,160 --> 00:05:55,919
+from volcanic records um nicely
+
+174
+00:05:53,199 --> 00:05:57,919
+distributed throughout the world
+
+175
+00:05:55,919 --> 00:05:59,520
+now going back further in time we don't
+
+176
+00:05:57,919 --> 00:06:01,759
+have these global time dependent field
+
+177
+00:05:59,520 --> 00:06:04,240
+models instead we have global data sets
+
+178
+00:06:01,759 --> 00:06:05,280
+of time average field and so one
+
+179
+00:06:04,240 --> 00:06:07,680
+particular data set
+
+180
+00:06:05,280 --> 00:06:09,280
+that recently was published is the psv10
+
+181
+00:06:07,680 --> 00:06:10,800
+dataset which is a data set that
+
+182
+00:06:09,280 --> 00:06:12,800
+compiles
+
+183
+00:06:10,800 --> 00:06:15,440
+directional data only from volcanic
+
+184
+00:06:12,800 --> 00:06:18,319
+rocks for the last 10 million years
+
+185
+00:06:15,440 --> 00:06:19,919
+and so this is a map of where the data
+
+186
+00:06:18,319 --> 00:06:20,319
+is distributed and as you can see
+
+187
+00:06:19,919 --> 00:06:22,319
+there's
+
+188
+00:06:20,319 --> 00:06:24,080
+pretty good global coverage but we still
+
+189
+00:06:22,319 --> 00:06:25,440
+do have some gaps in the center of
+
+190
+00:06:24,080 --> 00:06:27,120
+continents
+
+191
+00:06:25,440 --> 00:06:29,120
+and then another important feature of
+
+192
+00:06:27,120 --> 00:06:30,080
+this is this data set is looking at
+
+193
+00:06:29,120 --> 00:06:33,360
+directions
+
+194
+00:06:30,080 --> 00:06:34,000
+only so we're really missing variation
+
+195
+00:06:33,360 --> 00:06:37,120
+in
+
+196
+00:06:34,000 --> 00:06:37,919
+intensity and in many cases or in some
+
+197
+00:06:37,120 --> 00:06:40,240
+cases that can
+
+198
+00:06:37,919 --> 00:06:41,680
+this can ultimately bias our view of
+
+199
+00:06:40,240 --> 00:06:44,160
+what was going on
+
+200
+00:06:41,680 --> 00:06:45,680
+on or for the magnetic field for these
+
+201
+00:06:44,160 --> 00:06:48,560
+time periods because we don't have a
+
+202
+00:06:45,680 --> 00:06:51,199
+full vector record
+
+203
+00:06:48,560 --> 00:06:52,720
+and so ideally we'd like to be able to
+
+204
+00:06:51,199 --> 00:06:54,639
+extend these types of global time
+
+205
+00:06:52,720 --> 00:06:55,199
+dependent field models further back in
+
+206
+00:06:54,639 --> 00:06:56,639
+time
+
+207
+00:06:55,199 --> 00:06:58,880
+we'd like to be able to connect between
+
+208
+00:06:56,639 --> 00:07:00,000
+the two we'd like to be able to fill in
+
+209
+00:06:58,880 --> 00:07:01,520
+these gaps
+
+210
+00:07:00,000 --> 00:07:03,039
+and we like to be able to fill in more
+
+211
+00:07:01,520 --> 00:07:05,199
+intensity data
+
+212
+00:07:03,039 --> 00:07:06,800
+but to do this we need more data i've
+
+213
+00:07:05,199 --> 00:07:08,479
+said this a lot during
+
+214
+00:07:06,800 --> 00:07:10,960
+this introduction there are a lot of
+
+215
+00:07:08,479 --> 00:07:11,599
+data gaps particularly intensity and in
+
+216
+00:07:10,960 --> 00:07:13,599
+order to
+
+217
+00:07:11,599 --> 00:07:14,960
+extend any of these models further back
+
+218
+00:07:13,599 --> 00:07:17,120
+in time
+
+219
+00:07:14,960 --> 00:07:19,280
+we we need more high quality paleo
+
+220
+00:07:17,120 --> 00:07:21,440
+intensity data
+
+221
+00:07:19,280 --> 00:07:22,880
+and so one opportunity to try to fill in
+
+222
+00:07:21,440 --> 00:07:23,919
+some of these gaps in the recent
+
+223
+00:07:22,880 --> 00:07:26,639
+magnetic record
+
+224
+00:07:23,919 --> 00:07:27,680
+is clinker deposits and so you're
+
+225
+00:07:26,639 --> 00:07:31,360
+probably thinking
+
+226
+00:07:27,680 --> 00:07:34,560
+what the heck is a clunker deposit
+
+227
+00:07:31,360 --> 00:07:36,319
+yeah exactly so clanky deposit clinkers
+
+228
+00:07:34,560 --> 00:07:37,520
+are a suite of metamorphic rocks that
+
+229
+00:07:36,319 --> 00:07:39,599
+have been baked
+
+230
+00:07:37,520 --> 00:07:41,280
+welded and or melted by natural burning
+
+231
+00:07:39,599 --> 00:07:43,199
+of underlying coal seams
+
+232
+00:07:41,280 --> 00:07:45,360
+um so there's this they're this special
+
+233
+00:07:43,199 --> 00:07:47,680
+suite of pyro metamorphic rocks
+
+234
+00:07:45,360 --> 00:07:49,360
+meaning they're metamorphosed by fire
+
+235
+00:07:47,680 --> 00:07:51,840
+and so basically what happens
+
+236
+00:07:49,360 --> 00:07:52,720
+is we're in this say here we have a
+
+237
+00:07:51,840 --> 00:07:55,120
+fluvial
+
+238
+00:07:52,720 --> 00:07:57,120
+deposit uh where we have this coal seam
+
+239
+00:07:55,120 --> 00:08:00,080
+that's exposed at the surface
+
+240
+00:07:57,120 --> 00:08:02,000
+this coal seam can ignite at the surface
+
+241
+00:08:00,080 --> 00:08:02,960
+due to processes such as spontaneous
+
+242
+00:08:02,000 --> 00:08:06,319
+combustion
+
+243
+00:08:02,960 --> 00:08:09,039
+lightning wildfires a human activity if
+
+244
+00:08:06,319 --> 00:08:11,759
+you're burning a cornfield for example
+
+245
+00:08:09,039 --> 00:08:13,680
+and then this burning starts basically
+
+246
+00:08:11,759 --> 00:08:14,400
+once it consumes this cold starts moving
+
+247
+00:08:13,680 --> 00:08:17,520
+backwards
+
+248
+00:08:14,400 --> 00:08:19,039
+into the outcrop and as it's moving
+
+249
+00:08:17,520 --> 00:08:20,720
+backwards into the outcrop it's
+
+250
+00:08:19,039 --> 00:08:22,400
+consuming that coal
+
+251
+00:08:20,720 --> 00:08:24,639
+it's reaching really really really high
+
+252
+00:08:22,400 --> 00:08:26,240
+temperatures and it's baking
+
+253
+00:08:24,639 --> 00:08:29,120
+all of the sediment and the material
+
+254
+00:08:26,240 --> 00:08:31,039
+around it and it is this baked material
+
+255
+00:08:29,120 --> 00:08:33,440
+this baked sediment that once was
+
+256
+00:08:31,039 --> 00:08:34,240
+overlying these coal seams that now no
+
+257
+00:08:33,440 --> 00:08:37,200
+longer exist
+
+258
+00:08:34,240 --> 00:08:38,000
+because they've been burnt up that are
+
+259
+00:08:37,200 --> 00:08:41,279
+what makes up
+
+260
+00:08:38,000 --> 00:08:43,599
+clinker deposits
+
+261
+00:08:41,279 --> 00:08:44,640
+and so clinker the term clinker actually
+
+262
+00:08:43,599 --> 00:08:47,680
+refers to
+
+263
+00:08:44,640 --> 00:08:49,600
+all products from this type of reaction
+
+264
+00:08:47,680 --> 00:08:51,680
+and so it's not just referring to a
+
+265
+00:08:49,600 --> 00:08:53,440
+particular clinker lithology
+
+266
+00:08:51,680 --> 00:08:55,440
+and so in general these types of
+
+267
+00:08:53,440 --> 00:08:56,959
+products can be divided into a couple of
+
+268
+00:08:55,440 --> 00:08:59,920
+different groups depending on
+
+269
+00:08:56,959 --> 00:09:01,680
+initial lithology and also depending on
+
+270
+00:08:59,920 --> 00:09:05,519
+things like temperature reached
+
+271
+00:09:01,680 --> 00:09:07,600
+and oxidation state and so
+
+272
+00:09:05,519 --> 00:09:09,600
+broadly there are three categories of
+
+273
+00:09:07,600 --> 00:09:10,640
+clinker lithologies we have our baked
+
+274
+00:09:09,600 --> 00:09:12,240
+sediment
+
+275
+00:09:10,640 --> 00:09:14,000
+these are parts of the planker that have
+
+276
+00:09:12,240 --> 00:09:17,120
+been heated to the lowest temperatures
+
+277
+00:09:14,000 --> 00:09:19,600
+around 300 to 800 degrees c
+
+278
+00:09:17,120 --> 00:09:21,279
+we then have porcelainite these are
+
+279
+00:09:19,600 --> 00:09:23,920
+baked to intermediate temperatures of
+
+280
+00:09:21,279 --> 00:09:26,480
+600 to 1400 degrees c
+
+281
+00:09:23,920 --> 00:09:28,240
+and then finally we have para lavas
+
+282
+00:09:26,480 --> 00:09:31,839
+which are effectively melted
+
+283
+00:09:28,240 --> 00:09:35,200
+rock so these are melts that have been
+
+284
+00:09:31,839 --> 00:09:37,680
+crystallized so these are basically
+
+285
+00:09:35,200 --> 00:09:39,839
+new igneous rocks and these have reached
+
+286
+00:09:37,680 --> 00:09:42,160
+extremely high temperatures of 1500 to
+
+287
+00:09:39,839 --> 00:09:44,959
+2000 degrees celsius
+
+288
+00:09:42,160 --> 00:09:46,240
+and so broadly these differ both by
+
+289
+00:09:44,959 --> 00:09:48,880
+temperature formation
+
+290
+00:09:46,240 --> 00:09:50,880
+but also baked sediment tends to involve
+
+291
+00:09:48,880 --> 00:09:52,720
+lithologies that started as sandstones
+
+292
+00:09:50,880 --> 00:09:53,760
+or siltstones generally these coarser
+
+293
+00:09:52,720 --> 00:09:56,480
+lithologies
+
+294
+00:09:53,760 --> 00:09:58,160
+and porcelainite generally started as
+
+295
+00:09:56,480 --> 00:09:59,519
+things like shtails
+
+296
+00:09:58,160 --> 00:10:01,760
+and within all of these different
+
+297
+00:09:59,519 --> 00:10:02,880
+deposits there's an array of oxidation
+
+298
+00:10:01,760 --> 00:10:04,959
+states
+
+299
+00:10:02,880 --> 00:10:06,560
+so you can either have really oxidizing
+
+300
+00:10:04,959 --> 00:10:09,440
+conditions and get really red
+
+301
+00:10:06,560 --> 00:10:11,120
+really orange deposits and you can also
+
+302
+00:10:09,440 --> 00:10:13,600
+have reducing conditions
+
+303
+00:10:11,120 --> 00:10:15,120
+that produce things like these kind of
+
+304
+00:10:13,600 --> 00:10:18,880
+dark purple to black
+
+305
+00:10:15,120 --> 00:10:20,880
+colored rocks and these parallels really
+
+306
+00:10:18,880 --> 00:10:22,079
+hot temperatures generally form in these
+
+307
+00:10:20,880 --> 00:10:23,920
+chimneys
+
+308
+00:10:22,079 --> 00:10:25,360
+which are regions where these hot gases
+
+309
+00:10:23,920 --> 00:10:26,959
+from the burning of coal are trying to
+
+310
+00:10:25,360 --> 00:10:29,519
+reach the surface and they're convecting
+
+311
+00:10:26,959 --> 00:10:32,880
+within these regions
+
+312
+00:10:29,519 --> 00:10:33,360
+and so why do um why might clinkers be
+
+313
+00:10:32,880 --> 00:10:36,480
+good for
+
+314
+00:10:33,360 --> 00:10:38,160
+for paleomagnetism so first clinkers can
+
+315
+00:10:36,480 --> 00:10:39,920
+be reliably dated
+
+316
+00:10:38,160 --> 00:10:41,519
+and so clinkers are not the same age as
+
+317
+00:10:39,920 --> 00:10:43,200
+the sediments around them you don't
+
+318
+00:10:41,519 --> 00:10:44,640
+normally start getting burning of coal
+
+319
+00:10:43,200 --> 00:10:46,399
+seams until these coal seams have
+
+320
+00:10:44,640 --> 00:10:48,160
+reached earth's surface
+
+321
+00:10:46,399 --> 00:10:50,000
+and so that's many millions of years
+
+322
+00:10:48,160 --> 00:10:51,360
+after the formation of these sedimentary
+
+323
+00:10:50,000 --> 00:10:54,079
+deposits
+
+324
+00:10:51,360 --> 00:10:54,480
+and so clinkers have been reliably dated
+
+325
+00:10:54,079 --> 00:10:56,640
+using
+
+326
+00:10:54,480 --> 00:10:59,680
+fission track also uranium during helium
+
+327
+00:10:56,640 --> 00:11:02,480
+dating and argon argon geochronology
+
+328
+00:10:59,680 --> 00:11:04,560
+and then clinkers also because they
+
+329
+00:11:02,480 --> 00:11:06,000
+don't start burning until
+
+330
+00:11:04,560 --> 00:11:08,880
+they're close to earth's surface these
+
+331
+00:11:06,000 --> 00:11:11,680
+coal seams tend to be
+
+332
+00:11:08,880 --> 00:11:12,640
+recent time and age covering the last 5
+
+333
+00:11:11,680 --> 00:11:14,720
+million years
+
+334
+00:11:12,640 --> 00:11:16,000
+to 10 million years and so in the powder
+
+335
+00:11:14,720 --> 00:11:17,920
+river basin alone
+
+336
+00:11:16,000 --> 00:11:19,040
+this is a basin that's between montana
+
+337
+00:11:17,920 --> 00:11:22,240
+and wyoming in
+
+338
+00:11:19,040 --> 00:11:25,040
+western united states clinkers cover
+
+339
+00:11:22,240 --> 00:11:26,480
+basically the last 4 million years so
+
+340
+00:11:25,040 --> 00:11:28,079
+there are coal seams that are still
+
+341
+00:11:26,480 --> 00:11:29,920
+burning today
+
+342
+00:11:28,079 --> 00:11:31,680
+and actually this whole region is called
+
+343
+00:11:29,920 --> 00:11:32,320
+the powder river basin from the powder
+
+344
+00:11:31,680 --> 00:11:33,760
+river
+
+345
+00:11:32,320 --> 00:11:35,440
+which was called the powder river
+
+346
+00:11:33,760 --> 00:11:36,800
+because when loose and clark came upon
+
+347
+00:11:35,440 --> 00:11:39,680
+this area
+
+348
+00:11:36,800 --> 00:11:40,320
+they thought it smelled like gun powder
+
+349
+00:11:39,680 --> 00:11:41,680
+because
+
+350
+00:11:40,320 --> 00:11:43,760
+of the burning of these coal seam
+
+351
+00:11:41,680 --> 00:11:46,800
+deposits
+
+352
+00:11:43,760 --> 00:11:48,320
+in siberia deposits range from 0 to 1.2
+
+353
+00:11:46,800 --> 00:11:51,440
+million years in age of the deposits
+
+354
+00:11:48,320 --> 00:11:53,519
+have been dated in china we have
+
+355
+00:11:51,440 --> 00:11:55,200
+deposits ranging through the pleistocene
+
+356
+00:11:53,519 --> 00:11:56,000
+and then in israel we have some of our
+
+357
+00:11:55,200 --> 00:11:57,839
+older clinker
+
+358
+00:11:56,000 --> 00:12:00,800
+deposits which are min myosin to
+
+359
+00:11:57,839 --> 00:12:00,800
+plyocene and age
+
+360
+00:12:01,360 --> 00:12:05,279
+and so an additional advantage of
+
+361
+00:12:03,440 --> 00:12:07,120
+studying clinker deposits is they also
+
+362
+00:12:05,279 --> 00:12:09,120
+not only offer an opportunity to kind of
+
+363
+00:12:07,120 --> 00:12:10,000
+study this period of interest this kind
+
+364
+00:12:09,120 --> 00:12:13,120
+of zero to five
+
+365
+00:12:10,000 --> 00:12:14,480
+million years in age um they also offer
+
+366
+00:12:13,120 --> 00:12:17,200
+the opportunity to
+
+367
+00:12:14,480 --> 00:12:19,279
+do this at high resolution so basically
+
+368
+00:12:17,200 --> 00:12:20,720
+a clinker deposit as it
+
+369
+00:12:19,279 --> 00:12:22,639
+is formed will start where coal is
+
+370
+00:12:20,720 --> 00:12:25,120
+burning at the surface and then it will
+
+371
+00:12:22,639 --> 00:12:26,720
+continually form as this fire extends
+
+372
+00:12:25,120 --> 00:12:29,760
+back into the outcrop
+
+373
+00:12:26,720 --> 00:12:32,160
+a single coal seam fire can burn for
+
+374
+00:12:29,760 --> 00:12:34,959
+thousands to tens of thousands of years
+
+375
+00:12:32,160 --> 00:12:37,600
+as is extending back into the outcrop
+
+376
+00:12:34,959 --> 00:12:40,079
+and so if we're able to obtain samples
+
+377
+00:12:37,600 --> 00:12:41,600
+all across this plateau
+
+378
+00:12:40,079 --> 00:12:43,040
+or we might be able to see changes in
+
+379
+00:12:41,600 --> 00:12:44,320
+the magnetic field with really high
+
+380
+00:12:43,040 --> 00:12:48,079
+resolution
+
+381
+00:12:44,320 --> 00:12:48,079
+for periods of about 10 000 years
+
+382
+00:12:48,240 --> 00:12:51,839
+an additional reason why these might be
+
+383
+00:12:49,839 --> 00:12:52,560
+good for paleomagnetism is they're wide
+
+384
+00:12:51,839 --> 00:12:54,720
+spread
+
+385
+00:12:52,560 --> 00:12:56,639
+so this is a map of modern coal seam
+
+386
+00:12:54,720 --> 00:12:58,399
+fires which are shown as red dots and
+
+387
+00:12:56,639 --> 00:13:00,240
+then clinker deposits which are shown as
+
+388
+00:12:58,399 --> 00:13:02,160
+these pink dots
+
+389
+00:13:00,240 --> 00:13:04,000
+and so clinker deposits have been found
+
+390
+00:13:02,160 --> 00:13:05,440
+in continental interiors this is
+
+391
+00:13:04,000 --> 00:13:08,079
+generally where we have these large
+
+392
+00:13:05,440 --> 00:13:09,519
+sedimentary basins which coal seams
+
+393
+00:13:08,079 --> 00:13:11,839
+and they have a wide geographic
+
+394
+00:13:09,519 --> 00:13:14,000
+distribution they've been identified in
+
+395
+00:13:11,839 --> 00:13:17,040
+at least 15 countries
+
+396
+00:13:14,000 --> 00:13:19,040
+and as you can see if we
+
+397
+00:13:17,040 --> 00:13:20,360
+bring back up the maps of where data was
+
+398
+00:13:19,040 --> 00:13:23,839
+distributed in
+
+399
+00:13:20,360 --> 00:13:26,000
+ggf-100k and also psv10 we see that some
+
+400
+00:13:23,839 --> 00:13:28,240
+of the distribution of clinker deposits
+
+401
+00:13:26,000 --> 00:13:29,839
+helps kind of fill in some of these gaps
+
+402
+00:13:28,240 --> 00:13:31,120
+that we have in the interior of these
+
+403
+00:13:29,839 --> 00:13:32,639
+continents
+
+404
+00:13:31,120 --> 00:13:34,399
+additionally providing some high
+
+405
+00:13:32,639 --> 00:13:36,639
+latitude sites
+
+406
+00:13:34,399 --> 00:13:37,600
+and possibly some new sites in south
+
+407
+00:13:36,639 --> 00:13:40,399
+america
+
+408
+00:13:37,600 --> 00:13:40,399
+and australia
+
+409
+00:13:41,600 --> 00:13:45,040
+and so why else might they be good for
+
+410
+00:13:43,600 --> 00:13:47,120
+paleomagnetism
+
+411
+00:13:45,040 --> 00:13:48,720
+and so one of the reasons they might be
+
+412
+00:13:47,120 --> 00:13:50,240
+good for paleomagnetism
+
+413
+00:13:48,720 --> 00:13:52,320
+is the process by which they're formed
+
+414
+00:13:50,240 --> 00:13:54,560
+is really really similar to the process
+
+415
+00:13:52,320 --> 00:13:56,639
+of the formation of archaeological
+
+416
+00:13:54,560 --> 00:13:57,360
+materials or these baked archaeological
+
+417
+00:13:56,639 --> 00:13:59,680
+materials
+
+418
+00:13:57,360 --> 00:14:01,199
+so it's basically the baking of
+
+419
+00:13:59,680 --> 00:14:02,399
+sediments and clays
+
+420
+00:14:01,199 --> 00:14:04,480
+to really really really high
+
+421
+00:14:02,399 --> 00:14:06,079
+temperatures which is basically turning
+
+422
+00:14:04,480 --> 00:14:06,880
+what used to be a detrital remnant
+
+423
+00:14:06,079 --> 00:14:09,040
+magnetization
+
+424
+00:14:06,880 --> 00:14:11,440
+into what should be a thermal or thermal
+
+425
+00:14:09,040 --> 00:14:13,600
+chemical remnant magnetization
+
+426
+00:14:11,440 --> 00:14:15,199
+if we look at the general ranges of
+
+427
+00:14:13,600 --> 00:14:18,000
+formation temperatures for
+
+428
+00:14:15,199 --> 00:14:19,839
+baked sediment to para lavas we see that
+
+429
+00:14:18,000 --> 00:14:23,440
+all of these have been reheated to at
+
+430
+00:14:19,839 --> 00:14:24,959
+least 300 degrees celsius
+
+431
+00:14:23,440 --> 00:14:26,959
+and considering that in a lot of these
+
+432
+00:14:24,959 --> 00:14:29,519
+deposits the primary
+
+433
+00:14:26,959 --> 00:14:31,600
+magnetic mineralogy is intermediate
+
+434
+00:14:29,519 --> 00:14:32,639
+titano hematite with low and blocking
+
+435
+00:14:31,600 --> 00:14:34,240
+temperatures
+
+436
+00:14:32,639 --> 00:14:35,839
+all of these products should be
+
+437
+00:14:34,240 --> 00:14:37,760
+reheating above
+
+438
+00:14:35,839 --> 00:14:39,360
+the curia temperatures of the mineralogy
+
+439
+00:14:37,760 --> 00:14:41,920
+that was originally there
+
+440
+00:14:39,360 --> 00:14:44,959
+and so at least resetting the drm and
+
+441
+00:14:41,920 --> 00:14:46,160
+whether or not it's a trm or a tcrm
+
+442
+00:14:44,959 --> 00:14:48,079
+i hope to show you by the end of this
+
+443
+00:14:46,160 --> 00:14:49,440
+talk
+
+444
+00:14:48,079 --> 00:14:51,519
+and another reason these might be good
+
+445
+00:14:49,440 --> 00:14:53,040
+is there have been past studies
+
+446
+00:14:51,519 --> 00:14:54,880
+looking at clinker deposit past
+
+447
+00:14:53,040 --> 00:14:56,320
+paleomagnetic studies that indicate
+
+448
+00:14:54,880 --> 00:14:58,800
+that they are reliable magnetic
+
+449
+00:14:56,320 --> 00:15:00,800
+recorders so jones at all and then a lot
+
+450
+00:14:58,800 --> 00:15:02,560
+of work done by rob sternberg and the
+
+451
+00:15:00,800 --> 00:15:04,000
+powder river basin and also in the
+
+452
+00:15:02,560 --> 00:15:05,360
+williston basin
+
+453
+00:15:04,000 --> 00:15:07,360
+there's been demagnetization work
+
+454
+00:15:05,360 --> 00:15:10,480
+showing that clinkers preserve
+
+455
+00:15:07,360 --> 00:15:13,519
+these basically univectorial
+
+456
+00:15:10,480 --> 00:15:15,279
+thyroid diagrams yielding really good
+
+457
+00:15:13,519 --> 00:15:17,760
+directional data
+
+458
+00:15:15,279 --> 00:15:20,480
+other work done by deborah in china has
+
+459
+00:15:17,760 --> 00:15:22,160
+shown that some of these products are
+
+460
+00:15:20,480 --> 00:15:24,000
+really thermally stable so in
+
+461
+00:15:22,160 --> 00:15:25,440
+thermo-magnetic experiments they don't
+
+462
+00:15:24,000 --> 00:15:27,839
+alter
+
+463
+00:15:25,440 --> 00:15:29,839
+there's been some work done for paleo
+
+464
+00:15:27,839 --> 00:15:32,800
+intensity on these types of deposits
+
+465
+00:15:29,839 --> 00:15:34,480
+in the czech republic these are
+
+466
+00:15:32,800 --> 00:15:36,079
+generally old studies so it's hard to
+
+467
+00:15:34,480 --> 00:15:37,920
+assess the reliability of the paleo
+
+468
+00:15:36,079 --> 00:15:41,600
+intensity results but looking at
+
+469
+00:15:37,920 --> 00:15:43,600
+this array diagram here we see it looks
+
+470
+00:15:41,600 --> 00:15:44,880
+pretty good this is a straight line
+
+471
+00:15:43,600 --> 00:15:46,480
+fitting these different components
+
+472
+00:15:44,880 --> 00:15:48,320
+whether or not there's alteration
+
+473
+00:15:46,480 --> 00:15:51,360
+will have to be seen because this didn't
+
+474
+00:15:48,320 --> 00:15:53,600
+use ptrm checks but it looks pretty good
+
+475
+00:15:51,360 --> 00:15:55,120
+and then also even in deposits in israel
+
+476
+00:15:53,600 --> 00:15:56,240
+we see that
+
+477
+00:15:55,120 --> 00:15:58,639
+they also found these kind of
+
+478
+00:15:56,240 --> 00:16:00,800
+univectorial directions
+
+479
+00:15:58,639 --> 00:16:03,120
+and they match expected directions for
+
+480
+00:16:00,800 --> 00:16:06,839
+the time of formation of these rocks
+
+481
+00:16:03,120 --> 00:16:08,320
+so these should be good for magnetic
+
+482
+00:16:06,839 --> 00:16:09,839
+studies
+
+483
+00:16:08,320 --> 00:16:12,240
+but one of the things the other studies
+
+484
+00:16:09,839 --> 00:16:14,399
+did not do is
+
+485
+00:16:12,240 --> 00:16:16,079
+look at a broad range of materials
+
+486
+00:16:14,399 --> 00:16:17,839
+within clinker deposits so clinkers are
+
+487
+00:16:16,079 --> 00:16:19,759
+really heterogeneous
+
+488
+00:16:17,839 --> 00:16:22,160
+so there's this wide variety of clinker
+
+489
+00:16:19,759 --> 00:16:22,800
+materials with a variation of oxidation
+
+490
+00:16:22,160 --> 00:16:25,759
+state
+
+491
+00:16:22,800 --> 00:16:27,360
+variation of clinker lithology we also
+
+492
+00:16:25,759 --> 00:16:29,279
+have variations in potential
+
+493
+00:16:27,360 --> 00:16:30,560
+temperatures of formations depending how
+
+494
+00:16:29,279 --> 00:16:32,880
+close you are to the old
+
+495
+00:16:30,560 --> 00:16:34,000
+coal seam um obviously hotter
+
+496
+00:16:32,880 --> 00:16:35,600
+temperatures are going to be closer to
+
+497
+00:16:34,000 --> 00:16:36,399
+the base cooler temperatures further
+
+498
+00:16:35,600 --> 00:16:38,240
+away
+
+499
+00:16:36,399 --> 00:16:39,839
+and so although these previous studies
+
+500
+00:16:38,240 --> 00:16:41,839
+have shown that clinkers have the
+
+501
+00:16:39,839 --> 00:16:43,839
+potential to be reliable recorders
+
+502
+00:16:41,839 --> 00:16:45,360
+it's still unclear which part of a
+
+503
+00:16:43,839 --> 00:16:48,079
+clanker
+
+504
+00:16:45,360 --> 00:16:50,079
+is good for paleomagnetic study and so
+
+505
+00:16:48,079 --> 00:16:52,639
+that's kind of the impetus and objective
+
+506
+00:16:50,079 --> 00:16:55,279
+of our work has been to assess the rock
+
+507
+00:16:52,639 --> 00:16:58,560
+and paleomagnetic behavior of clinkers
+
+508
+00:16:55,279 --> 00:17:00,240
+and this has been basically we've tried
+
+509
+00:16:58,560 --> 00:17:03,120
+to do this as a function of
+
+510
+00:17:00,240 --> 00:17:04,480
+lithology so focusing on variations that
+
+511
+00:17:03,120 --> 00:17:05,600
+we observe between
+
+512
+00:17:04,480 --> 00:17:07,120
+the different types of clinker
+
+513
+00:17:05,600 --> 00:17:09,600
+lithologies from baked sediment
+
+514
+00:17:07,120 --> 00:17:11,360
+porcelain to para lava
+
+515
+00:17:09,600 --> 00:17:12,880
+we also looked at this as a function of
+
+516
+00:17:11,360 --> 00:17:16,160
+distance from the coal seam
+
+517
+00:17:12,880 --> 00:17:18,400
+by collecting a few profiles we looked
+
+518
+00:17:16,160 --> 00:17:20,400
+at this as a function of oxidation state
+
+519
+00:17:18,400 --> 00:17:23,199
+by grouping our results based on color
+
+520
+00:17:20,400 --> 00:17:25,199
+where darker colors tend to
+
+521
+00:17:23,199 --> 00:17:27,039
+be indicative of reducing states and
+
+522
+00:17:25,199 --> 00:17:29,520
+orange and red colors
+
+523
+00:17:27,039 --> 00:17:31,360
+are indicative of oxidizing states and
+
+524
+00:17:29,520 --> 00:17:34,000
+then also of location
+
+525
+00:17:31,360 --> 00:17:36,080
+so where we collected our samples we
+
+526
+00:17:34,000 --> 00:17:36,559
+studied whether or not we saw variations
+
+527
+00:17:36,080 --> 00:17:38,480
+on
+
+528
+00:17:36,559 --> 00:17:40,240
+between our clinker deposits and also
+
+529
+00:17:38,480 --> 00:17:41,039
+between different coal seams that they
+
+530
+00:17:40,240 --> 00:17:45,520
+were
+
+531
+00:17:41,039 --> 00:17:45,520
+burning coal seams that they represented
+
+532
+00:17:45,679 --> 00:17:49,280
+and so where we collected these deposits
+
+533
+00:17:47,440 --> 00:17:49,760
+was from the custer national forest this
+
+534
+00:17:49,280 --> 00:17:51,919
+is in
+
+535
+00:17:49,760 --> 00:17:53,679
+the northeastern powder river basin in
+
+536
+00:17:51,919 --> 00:17:57,200
+eastern montana
+
+537
+00:17:53,679 --> 00:17:59,360
+um and so these were clinker or these
+
+538
+00:17:57,200 --> 00:18:01,200
+clinker deposits had formed in paleocene
+
+539
+00:17:59,360 --> 00:18:03,440
+fluvial sediments
+
+540
+00:18:01,200 --> 00:18:04,240
+we collected 101 samples across this
+
+541
+00:18:03,440 --> 00:18:06,240
+region
+
+542
+00:18:04,240 --> 00:18:07,760
+this is a map here one of the reasons
+
+543
+00:18:06,240 --> 00:18:10,320
+this region was
+
+544
+00:18:07,760 --> 00:18:12,320
+selected is because this is one of the
+
+545
+00:18:10,320 --> 00:18:13,600
+few areas where clinker deposits have
+
+546
+00:18:12,320 --> 00:18:15,679
+actually been mapped
+
+547
+00:18:13,600 --> 00:18:17,280
+so we have these nice reliable maps
+
+548
+00:18:15,679 --> 00:18:19,760
+where we can expect to
+
+549
+00:18:17,280 --> 00:18:21,280
+find clinker deposits and additionally
+
+550
+00:18:19,760 --> 00:18:23,679
+these clinker deposits many of them in
+
+551
+00:18:21,280 --> 00:18:25,520
+this region have been dated already
+
+552
+00:18:23,679 --> 00:18:27,840
+using uranium during helium and also
+
+553
+00:18:25,520 --> 00:18:28,960
+fission track and so we were able to go
+
+554
+00:18:27,840 --> 00:18:31,200
+here
+
+555
+00:18:28,960 --> 00:18:33,440
+and to have this nice framework of where
+
+556
+00:18:31,200 --> 00:18:35,840
+to find the clinkers of known age
+
+557
+00:18:33,440 --> 00:18:37,760
+that really aided our study so we
+
+558
+00:18:35,840 --> 00:18:40,160
+collected 101 samples
+
+559
+00:18:37,760 --> 00:18:41,120
+from four data clinkers and five undated
+
+560
+00:18:40,160 --> 00:18:43,440
+clinkers
+
+561
+00:18:41,120 --> 00:18:44,640
+and we additionally sampled two profiles
+
+562
+00:18:43,440 --> 00:18:47,600
+extending
+
+563
+00:18:44,640 --> 00:18:49,200
+from the top of the clinker down to the
+
+564
+00:18:47,600 --> 00:18:52,559
+unbaked sediment below
+
+565
+00:18:49,200 --> 00:18:56,320
+and then also from the base of a clinker
+
+566
+00:18:52,559 --> 00:18:58,080
+up through unbig sediment above
+
+567
+00:18:56,320 --> 00:19:00,000
+and so to do this type of analysis we
+
+568
+00:18:58,080 --> 00:19:01,120
+performed a range of rock magnetic
+
+569
+00:19:00,000 --> 00:19:04,160
+experiments
+
+570
+00:19:01,120 --> 00:19:07,200
+i'm not going to go list these um
+
+571
+00:19:04,160 --> 00:19:08,880
+you can kind of see them here
+
+572
+00:19:07,200 --> 00:19:11,039
+we're basically we're trying to assess
+
+573
+00:19:08,880 --> 00:19:11,919
+differences in mineralogy but also grain
+
+574
+00:19:11,039 --> 00:19:13,679
+size
+
+575
+00:19:11,919 --> 00:19:16,080
+between all of these different clinker
+
+576
+00:19:13,679 --> 00:19:16,080
+products
+
+577
+00:19:16,160 --> 00:19:19,919
+and so let's start with variations in
+
+578
+00:19:18,799 --> 00:19:21,679
+lithology
+
+579
+00:19:19,919 --> 00:19:23,600
+so to look at variations in clinker
+
+580
+00:19:21,679 --> 00:19:25,440
+lithology we were
+
+581
+00:19:23,600 --> 00:19:27,600
+or divided our clinker deposits and our
+
+582
+00:19:25,440 --> 00:19:29,520
+results into different groups
+
+583
+00:19:27,600 --> 00:19:31,440
+um so we did this into big sediment
+
+584
+00:19:29,520 --> 00:19:34,559
+porcelain and para lava did
+
+585
+00:19:31,440 --> 00:19:36,960
+three main types of clinker lythologies
+
+586
+00:19:34,559 --> 00:19:39,360
+we also divide it into weekly baked one
+
+587
+00:19:36,960 --> 00:19:41,760
+of the profiles we collected
+
+588
+00:19:39,360 --> 00:19:42,960
+was through a recently burned coal seam
+
+589
+00:19:41,760 --> 00:19:45,039
+fire that
+
+590
+00:19:42,960 --> 00:19:46,080
+seemed to have extinguished relatively
+
+591
+00:19:45,039 --> 00:19:49,039
+rapidly
+
+592
+00:19:46,080 --> 00:19:49,600
+we could actually walk out the start of
+
+593
+00:19:49,039 --> 00:19:51,200
+this
+
+594
+00:19:49,600 --> 00:19:53,440
+clinker deposit around the corner to
+
+595
+00:19:51,200 --> 00:19:55,360
+where the coal had not burned
+
+596
+00:19:53,440 --> 00:19:57,280
+whereas these deposits were where the
+
+597
+00:19:55,360 --> 00:19:58,320
+clinker like up here was at the top of
+
+598
+00:19:57,280 --> 00:20:01,039
+the hill
+
+599
+00:19:58,320 --> 00:20:02,320
+it had burned for a long period of time
+
+600
+00:20:01,039 --> 00:20:03,679
+and created these strongly baked
+
+601
+00:20:02,320 --> 00:20:05,919
+equivalents
+
+602
+00:20:03,679 --> 00:20:07,280
+and then we also collected samples from
+
+603
+00:20:05,919 --> 00:20:08,960
+unbaked sediment
+
+604
+00:20:07,280 --> 00:20:10,799
+to kind of provide a baseline of what
+
+605
+00:20:08,960 --> 00:20:14,240
+these things looked like
+
+606
+00:20:10,799 --> 00:20:16,559
+before they were baked and so let's
+
+607
+00:20:14,240 --> 00:20:19,039
+quickly summarize our unbaked sediments
+
+608
+00:20:16,559 --> 00:20:20,880
+so our unbaked sediments had one primary
+
+609
+00:20:19,039 --> 00:20:22,000
+remnants carrier
+
+610
+00:20:20,880 --> 00:20:24,240
+and so we found that this was
+
+611
+00:20:22,000 --> 00:20:25,600
+titanomagnetite or intermediate titanic
+
+612
+00:20:24,240 --> 00:20:27,280
+hematite
+
+613
+00:20:25,600 --> 00:20:30,240
+and you'll understand why i say or
+
+614
+00:20:27,280 --> 00:20:31,760
+intermediate titanohaematate shortly
+
+615
+00:20:30,240 --> 00:20:34,159
+and so this was because they generally
+
+616
+00:20:31,760 --> 00:20:35,440
+had low coercivity ranges less than 100
+
+617
+00:20:34,159 --> 00:20:38,960
+ml tesla
+
+618
+00:20:35,440 --> 00:20:41,280
+and unblocking temperatures below 400
+
+619
+00:20:38,960 --> 00:20:42,320
+degrees around 300 degrees celsius so
+
+620
+00:20:41,280 --> 00:20:45,600
+consistent with
+
+621
+00:20:42,320 --> 00:20:47,679
+a soft mineral
+
+622
+00:20:45,600 --> 00:20:50,159
+with titanium in it to get these lower
+
+623
+00:20:47,679 --> 00:20:51,919
+curie temperatures
+
+624
+00:20:50,159 --> 00:20:53,760
+our weekly baked sediment had two
+
+625
+00:20:51,919 --> 00:20:55,360
+primary remnants carriers
+
+626
+00:20:53,760 --> 00:20:56,960
+so the first was also this titano
+
+627
+00:20:55,360 --> 00:21:00,000
+magnetite phase so we still
+
+628
+00:20:56,960 --> 00:21:02,320
+saw the softer component with low
+
+629
+00:21:00,000 --> 00:21:03,039
+median destructive fields around 32 mil
+
+630
+00:21:02,320 --> 00:21:04,320
+tesla
+
+631
+00:21:03,039 --> 00:21:07,200
+and then also low in blocking
+
+632
+00:21:04,320 --> 00:21:08,720
+temperatures less than 400 degrees
+
+633
+00:21:07,200 --> 00:21:10,720
+and we also saw this new component of
+
+634
+00:21:08,720 --> 00:21:11,440
+hematite as one would expect these rocks
+
+635
+00:21:10,720 --> 00:21:15,039
+are now red
+
+636
+00:21:11,440 --> 00:21:15,039
+when they were not red when we started
+
+637
+00:21:15,280 --> 00:21:19,440
+moving on to our baked sediment we had
+
+638
+00:21:17,200 --> 00:21:21,440
+two primary remnants carriers
+
+639
+00:21:19,440 --> 00:21:23,120
+uh so now one of our remnants carriers
+
+640
+00:21:21,440 --> 00:21:24,080
+is magnetite it's not the titanium
+
+641
+00:21:23,120 --> 00:21:27,280
+magnetite
+
+642
+00:21:24,080 --> 00:21:28,960
+um this had generally both a low
+
+643
+00:21:27,280 --> 00:21:30,720
+and a high correctivity component one
+
+644
+00:21:28,960 --> 00:21:32,720
+that was less than 100 ml tesla and one
+
+645
+00:21:30,720 --> 00:21:34,799
+that was greater than 100 ml of tesla
+
+646
+00:21:32,720 --> 00:21:37,360
+with unblocking temperatures between 400
+
+647
+00:21:34,799 --> 00:21:38,880
+and 590 degrees celsius
+
+648
+00:21:37,360 --> 00:21:42,000
+and we additionally have this high
+
+649
+00:21:38,880 --> 00:21:45,600
+coercivity thermally stable phase
+
+650
+00:21:42,000 --> 00:21:48,480
+this hcslt phase so this phase had
+
+651
+00:21:45,600 --> 00:21:51,039
+coercivities that were above one tesla
+
+652
+00:21:48,480 --> 00:21:52,320
+and had curie temperatures around 220
+
+653
+00:21:51,039 --> 00:21:55,360
+degrees celsius
+
+654
+00:21:52,320 --> 00:21:57,520
+with relatively high magnetizations
+
+655
+00:21:55,360 --> 00:21:59,520
+and then we also had some minor carriers
+
+656
+00:21:57,520 --> 00:22:01,200
+observed in our baked sediment
+
+657
+00:21:59,520 --> 00:22:02,640
+including this intermediate titanium
+
+658
+00:22:01,200 --> 00:22:06,400
+hematite
+
+659
+00:22:02,640 --> 00:22:06,400
+and also regular hematite
+
+660
+00:22:06,799 --> 00:22:10,960
+looking at perselonite we also had two
+
+661
+00:22:08,960 --> 00:22:12,880
+primary remnant carriers
+
+662
+00:22:10,960 --> 00:22:15,600
+again very similar to our bank sediment
+
+663
+00:22:12,880 --> 00:22:18,240
+we had this magnetite with two variants
+
+664
+00:22:15,600 --> 00:22:20,080
+both low and high coercivity we also had
+
+665
+00:22:18,240 --> 00:22:22,320
+this hcslt
+
+666
+00:22:20,080 --> 00:22:23,919
+phase and then we had minor carriers
+
+667
+00:22:22,320 --> 00:22:27,120
+that were intermediate titanic hematite
+
+668
+00:22:23,919 --> 00:22:29,679
+and then also regular hematite
+
+669
+00:22:27,120 --> 00:22:31,440
+now moving on to pear lavas para lavas
+
+670
+00:22:29,679 --> 00:22:33,360
+were quite different they only had one
+
+671
+00:22:31,440 --> 00:22:34,320
+primary remnants carrier and that was
+
+672
+00:22:33,360 --> 00:22:36,400
+magnetite
+
+673
+00:22:34,320 --> 00:22:38,400
+um and so this tended to be our higher
+
+674
+00:22:36,400 --> 00:22:41,679
+coefficient component of magnetite
+
+675
+00:22:38,400 --> 00:22:43,360
+which are with um conversivity levels
+
+676
+00:22:41,679 --> 00:22:45,360
+less than 100 ml tesla
+
+677
+00:22:43,360 --> 00:22:47,440
+and also these had generally pretty
+
+678
+00:22:45,360 --> 00:22:50,080
+distinct unblocking ranges
+
+679
+00:22:47,440 --> 00:22:51,039
+around 575 degrees celsius so very
+
+680
+00:22:50,080 --> 00:22:54,000
+consistent with
+
+681
+00:22:51,039 --> 00:22:55,760
+low titanium magnetite we also observed
+
+682
+00:22:54,000 --> 00:22:59,039
+some minor carriers so we did see
+
+683
+00:22:55,760 --> 00:23:01,039
+evidence for the hcslt phase
+
+684
+00:22:59,039 --> 00:23:02,960
+in some samples that still kind of had
+
+685
+00:23:01,039 --> 00:23:04,159
+these blocks of baked sediment within
+
+686
+00:23:02,960 --> 00:23:06,840
+them
+
+687
+00:23:04,159 --> 00:23:08,159
+and then we also saw evidence for some
+
+688
+00:23:06,840 --> 00:23:10,080
+hematite
+
+689
+00:23:08,159 --> 00:23:11,919
+and we also saw evidence for a phase
+
+690
+00:23:10,080 --> 00:23:14,480
+that had an unblocking temperature above
+
+691
+00:23:11,919 --> 00:23:16,640
+700 degrees celsius
+
+692
+00:23:14,480 --> 00:23:18,880
+and considering the odd nature in which
+
+693
+00:23:16,640 --> 00:23:21,760
+parallels form
+
+694
+00:23:18,880 --> 00:23:24,240
+this could be a really interesting
+
+695
+00:23:21,760 --> 00:23:25,360
+magnetic phase
+
+696
+00:23:24,240 --> 00:23:26,720
+so now i'm going to walk through some of
+
+697
+00:23:25,360 --> 00:23:27,760
+the evidence that led us to these
+
+698
+00:23:26,720 --> 00:23:30,640
+conclusions
+
+699
+00:23:27,760 --> 00:23:32,799
+and some of the it's not all of our data
+
+700
+00:23:30,640 --> 00:23:35,200
+we had a lot of data
+
+701
+00:23:32,799 --> 00:23:37,600
+but these are the results that led us to
+
+702
+00:23:35,200 --> 00:23:40,320
+these conclusions the most strongly
+
+703
+00:23:37,600 --> 00:23:42,080
+and so the first one is we're going to
+
+704
+00:23:40,320 --> 00:23:43,840
+look at hysteresis properties
+
+705
+00:23:42,080 --> 00:23:46,000
+so these are some hysteresis loops for
+
+706
+00:23:43,840 --> 00:23:47,279
+different types of materials that
+
+707
+00:23:46,000 --> 00:23:49,120
+we talked about previously so we have
+
+708
+00:23:47,279 --> 00:23:50,480
+perselonate two examples of big
+
+709
+00:23:49,120 --> 00:23:51,840
+sandstone and then an example of
+
+710
+00:23:50,480 --> 00:23:54,960
+parallel
+
+711
+00:23:51,840 --> 00:23:56,880
+and so what we see is within our baked
+
+712
+00:23:54,960 --> 00:23:58,080
+materials including procellonite and our
+
+713
+00:23:56,880 --> 00:24:00,480
+baked sandstones
+
+714
+00:23:58,080 --> 00:24:01,440
+we kind of have this bimodal coercivity
+
+715
+00:24:00,480 --> 00:24:03,840
+range
+
+716
+00:24:01,440 --> 00:24:05,919
+so we have both evidence for this really
+
+717
+00:24:03,840 --> 00:24:10,159
+high coercivity
+
+718
+00:24:05,919 --> 00:24:13,120
+phase that was really really hard had
+
+719
+00:24:10,159 --> 00:24:15,279
+conversivities above one tesla and then
+
+720
+00:24:13,120 --> 00:24:17,039
+we also see evidence example of the big
+
+721
+00:24:15,279 --> 00:24:18,640
+sandstone that this phase has a very
+
+722
+00:24:17,039 --> 00:24:22,080
+high magnetization
+
+723
+00:24:18,640 --> 00:24:23,760
+which would be too high for hematite
+
+724
+00:24:22,080 --> 00:24:27,039
+in this example the bake sandstone down
+
+725
+00:24:23,760 --> 00:24:28,799
+here we have a really wasp wasted curve
+
+726
+00:24:27,039 --> 00:24:30,640
+which is showing our sharply bimodal
+
+727
+00:24:28,799 --> 00:24:32,880
+distribution between that magnetite
+
+728
+00:24:30,640 --> 00:24:34,159
+phase but also this higher coercivity
+
+729
+00:24:32,880 --> 00:24:36,000
+phase
+
+730
+00:24:34,159 --> 00:24:38,000
+and then in parallavas we don't really
+
+731
+00:24:36,000 --> 00:24:40,640
+see evidence for this hard component
+
+732
+00:24:38,000 --> 00:24:41,440
+we see this dominantly soft curve which
+
+733
+00:24:40,640 --> 00:24:43,520
+is indicative
+
+734
+00:24:41,440 --> 00:24:45,039
+of remnants being carried by mostly
+
+735
+00:24:43,520 --> 00:24:48,159
+magnetite
+
+736
+00:24:45,039 --> 00:24:49,919
+and so this by modality that we saw
+
+737
+00:24:48,159 --> 00:24:51,520
+in our baked materials both a big
+
+738
+00:24:49,919 --> 00:24:53,520
+sandstone and porcelain
+
+739
+00:24:51,520 --> 00:24:55,919
+can also be recognized by looking at
+
+740
+00:24:53,520 --> 00:24:57,760
+sigma values
+
+741
+00:24:55,919 --> 00:25:00,240
+where the high values are indicating a
+
+742
+00:24:57,760 --> 00:25:01,919
+more wasted curve
+
+743
+00:25:00,240 --> 00:25:03,679
+and so we say our pair of lavas are
+
+744
+00:25:01,919 --> 00:25:06,720
+dominantly kind of ranging around
+
+745
+00:25:03,679 --> 00:25:07,840
+zero indicative of having basically this
+
+746
+00:25:06,720 --> 00:25:09,840
+one phase
+
+747
+00:25:07,840 --> 00:25:11,520
+where baked sediment and our perselonite
+
+748
+00:25:09,840 --> 00:25:13,440
+have higher sigma values
+
+749
+00:25:11,520 --> 00:25:14,799
+indicative of this bimodality of
+
+750
+00:25:13,440 --> 00:25:16,159
+coercivity
+
+751
+00:25:14,799 --> 00:25:20,320
+of the minerals that are within these
+
+752
+00:25:16,159 --> 00:25:24,640
+samples and this kind of wasp wastedness
+
+753
+00:25:20,320 --> 00:25:26,240
+so moving on to looking at the day plot
+
+754
+00:25:24,640 --> 00:25:28,000
+and then also the squareness versus
+
+755
+00:25:26,240 --> 00:25:29,679
+coercivity plot we can see a few more
+
+756
+00:25:28,000 --> 00:25:30,880
+trends by combining all of our data
+
+757
+00:25:29,679 --> 00:25:33,840
+together
+
+758
+00:25:30,880 --> 00:25:35,840
+so on these plots the colors indicate
+
+759
+00:25:33,840 --> 00:25:38,480
+the different type of lithology
+
+760
+00:25:35,840 --> 00:25:39,360
+where blue is para lava green is our
+
+761
+00:25:38,480 --> 00:25:41,679
+baked sediment
+
+762
+00:25:39,360 --> 00:25:42,400
+orange is porcelainite and this pink is
+
+763
+00:25:41,679 --> 00:25:44,080
+unbaked
+
+764
+00:25:42,400 --> 00:25:46,000
+and they also have a brettcher component
+
+765
+00:25:44,080 --> 00:25:48,640
+which is we didn't collect enough of it
+
+766
+00:25:46,000 --> 00:25:50,400
+to indicate it as its own category
+
+767
+00:25:48,640 --> 00:25:52,080
+but we did sample one of them so we
+
+768
+00:25:50,400 --> 00:25:53,440
+included it on this plot
+
+769
+00:25:52,080 --> 00:25:55,279
+and so basically what we can see from
+
+770
+00:25:53,440 --> 00:25:57,360
+these plots is
+
+771
+00:25:55,279 --> 00:25:58,880
+first of all our bake sediment and our
+
+772
+00:25:57,360 --> 00:26:01,360
+porcelain generally have
+
+773
+00:25:58,880 --> 00:26:02,559
+really high mr versus miss ratios and
+
+774
+00:26:01,360 --> 00:26:05,440
+also
+
+775
+00:26:02,559 --> 00:26:07,200
+bcr versus bc so this really high
+
+776
+00:26:05,440 --> 00:26:09,520
+coercivity range they're extending
+
+777
+00:26:07,200 --> 00:26:11,120
+really far in this direction
+
+778
+00:26:09,520 --> 00:26:13,039
+and then also really far in this
+
+779
+00:26:11,120 --> 00:26:13,440
+direction and they're the furthest away
+
+780
+00:26:13,039 --> 00:26:16,400
+from
+
+781
+00:26:13,440 --> 00:26:17,919
+our magnetite mixing curves we see the
+
+782
+00:26:16,400 --> 00:26:19,679
+same thing looking at the squareness
+
+783
+00:26:17,919 --> 00:26:21,840
+versus coercivity plot
+
+784
+00:26:19,679 --> 00:26:23,200
+where we do have some falling in between
+
+785
+00:26:21,840 --> 00:26:26,640
+these
+
+786
+00:26:23,200 --> 00:26:28,960
+tm-60 and magnetite curves but a lot of
+
+787
+00:26:26,640 --> 00:26:32,080
+the data is actually plotting to
+
+788
+00:26:28,960 --> 00:26:34,480
+the right at higher coercivity values
+
+789
+00:26:32,080 --> 00:26:36,240
+our para lavas and our unbaked sediment
+
+790
+00:26:34,480 --> 00:26:37,360
+are plotting closest to these mixing
+
+791
+00:26:36,240 --> 00:26:39,679
+lines
+
+792
+00:26:37,360 --> 00:26:41,279
+not quite on top of them but more
+
+793
+00:26:39,679 --> 00:26:44,240
+indicative basically that these two
+
+794
+00:26:41,279 --> 00:26:45,840
+phases have more magnetite
+
+795
+00:26:44,240 --> 00:26:49,120
+that one would traditionally expect if
+
+796
+00:26:45,840 --> 00:26:49,120
+it's falling along these lines
+
+797
+00:26:49,679 --> 00:26:54,080
+so now looking at our results from the
+
+798
+00:26:51,360 --> 00:26:54,960
+arm acquisition and demagnetization
+
+799
+00:26:54,080 --> 00:26:56,480
+experiments
+
+800
+00:26:54,960 --> 00:26:58,640
+because we had this high coercivity
+
+801
+00:26:56,480 --> 00:27:01,600
+phase we could not treat
+
+802
+00:26:58,640 --> 00:27:03,440
+the arm data on its own and so instead
+
+803
+00:27:01,600 --> 00:27:04,159
+in order to calculate median destructive
+
+804
+00:27:03,440 --> 00:27:06,320
+fields
+
+805
+00:27:04,159 --> 00:27:07,679
+we calculated the vector difference sum
+
+806
+00:27:06,320 --> 00:27:09,279
+or difference
+
+807
+00:27:07,679 --> 00:27:11,360
+vector difference on the magnetization
+
+808
+00:27:09,279 --> 00:27:11,679
+vector for each sample and then from
+
+809
+00:27:11,360 --> 00:27:13,840
+this
+
+810
+00:27:11,679 --> 00:27:15,760
+calculated the median destructive field
+
+811
+00:27:13,840 --> 00:27:17,440
+and so this effectively was able to kind
+
+812
+00:27:15,760 --> 00:27:19,039
+of mask out the remaining high
+
+813
+00:27:17,440 --> 00:27:20,640
+coercivity component that did not
+
+814
+00:27:19,039 --> 00:27:21,960
+acquire an arm
+
+815
+00:27:20,640 --> 00:27:24,320
+and that was remaining after
+
+816
+00:27:21,960 --> 00:27:26,480
+demagnetization and then we also
+
+817
+00:27:24,320 --> 00:27:27,440
+calculated percent hc or percent high
+
+818
+00:27:26,480 --> 00:27:28,720
+coercivity
+
+819
+00:27:27,440 --> 00:27:31,600
+which is the percent of remnants that
+
+820
+00:27:28,720 --> 00:27:32,960
+was remaining after the 170 ml tesla af
+
+821
+00:27:31,600 --> 00:27:35,039
+step
+
+822
+00:27:32,960 --> 00:27:36,880
+and so looking at our plots uh this is
+
+823
+00:27:35,039 --> 00:27:38,240
+median destructive field versus this is
+
+824
+00:27:36,880 --> 00:27:42,000
+the
+
+825
+00:27:38,240 --> 00:27:43,039
+arm of the component that's already been
+
+826
+00:27:42,000 --> 00:27:45,919
+filtered out
+
+827
+00:27:43,039 --> 00:27:47,919
+for this high coercivity step um and
+
+828
+00:27:45,919 --> 00:27:50,080
+then we have over here percent hc versus
+
+829
+00:27:47,919 --> 00:27:51,679
+that same arm component
+
+830
+00:27:50,080 --> 00:27:53,360
+and so by looking at these plots again
+
+831
+00:27:51,679 --> 00:27:54,880
+the colors indicate the same differences
+
+832
+00:27:53,360 --> 00:27:57,120
+in lithology
+
+833
+00:27:54,880 --> 00:27:59,039
+we can see that the lowest median
+
+834
+00:27:57,120 --> 00:28:01,279
+destructive fields
+
+835
+00:27:59,039 --> 00:28:02,320
+are in our unbaked and weakly baked
+
+836
+00:28:01,279 --> 00:28:04,559
+samples
+
+837
+00:28:02,320 --> 00:28:06,559
+and also that these unbaked and weekly
+
+838
+00:28:04,559 --> 00:28:09,679
+baked samples had the lowest arms
+
+839
+00:28:06,559 --> 00:28:12,000
+so the lowest magnetizations whereas
+
+840
+00:28:09,679 --> 00:28:14,159
+our baked samples as we're moving into
+
+841
+00:28:12,000 --> 00:28:16,000
+baked sediment and porcelain
+
+842
+00:28:14,159 --> 00:28:17,279
+we start increasing our median
+
+843
+00:28:16,000 --> 00:28:19,760
+destructive fields
+
+844
+00:28:17,279 --> 00:28:21,440
+and increasing our arms so increasing
+
+845
+00:28:19,760 --> 00:28:23,600
+our magnetizations
+
+846
+00:28:21,440 --> 00:28:25,279
+looking at percent hc we also see that
+
+847
+00:28:23,600 --> 00:28:25,679
+our unbaked and weekly baked samples
+
+848
+00:28:25,279 --> 00:28:28,000
+have
+
+849
+00:28:25,679 --> 00:28:30,480
+really low percent hc so they don't have
+
+850
+00:28:28,000 --> 00:28:32,159
+this high coercivity phase and we start
+
+851
+00:28:30,480 --> 00:28:33,600
+seeing this increase in high coercivity
+
+852
+00:28:32,159 --> 00:28:35,120
+phase again
+
+853
+00:28:33,600 --> 00:28:36,960
+when we're looking at our big sediment
+
+854
+00:28:35,120 --> 00:28:40,240
+barcelonite samples
+
+855
+00:28:36,960 --> 00:28:43,120
+para lavas kind of plot in different
+
+856
+00:28:40,240 --> 00:28:44,640
+areas with both low and high median
+
+857
+00:28:43,120 --> 00:28:48,399
+destructive fields
+
+858
+00:28:44,640 --> 00:28:50,080
+and moderate to low percent hcs
+
+859
+00:28:48,399 --> 00:28:51,760
+and some of these moderate ones may be
+
+860
+00:28:50,080 --> 00:28:55,039
+biased by having some chunks of baked
+
+861
+00:28:51,760 --> 00:28:55,039
+material within them as well
+
+862
+00:28:55,679 --> 00:28:58,799
+and so in order to get a better
+
+863
+00:28:58,080 --> 00:29:00,640
+constraint
+
+864
+00:28:58,799 --> 00:29:03,360
+on what was actually carrying this high
+
+865
+00:29:00,640 --> 00:29:04,640
+coercivity phase we performed a modified
+
+866
+00:29:03,360 --> 00:29:06,559
+lowry test
+
+867
+00:29:04,640 --> 00:29:09,840
+and so what do i mean by modified lowry
+
+868
+00:29:06,559 --> 00:29:12,960
+test well by modified lowry test i mean
+
+869
+00:29:09,840 --> 00:29:12,960
+that instead of applying
+
+870
+00:29:13,840 --> 00:29:17,360
+that basically instead of doing a
+
+871
+00:29:15,679 --> 00:29:21,919
+thermal demagnetization of
+
+872
+00:29:17,360 --> 00:29:24,640
+arms we did an afd magnetization of trms
+
+873
+00:29:21,919 --> 00:29:26,240
+and so we applied three different trms
+
+874
+00:29:24,640 --> 00:29:29,360
+one at 700 degrees
+
+875
+00:29:26,240 --> 00:29:32,640
+uh one at 600 and one at 300 and then
+
+876
+00:29:29,360 --> 00:29:34,320
+af demagnetize them up to 170 ml tesla
+
+877
+00:29:32,640 --> 00:29:36,880
+and so in this way we were better able
+
+878
+00:29:34,320 --> 00:29:38,240
+to capture um
+
+879
+00:29:36,880 --> 00:29:40,320
+this this behavior between our
+
+880
+00:29:38,240 --> 00:29:42,000
+coercivity and also on blocking
+
+881
+00:29:40,320 --> 00:29:43,440
+and so by looking at the results from
+
+882
+00:29:42,000 --> 00:29:47,919
+this plot we can see that
+
+883
+00:29:43,440 --> 00:29:51,360
+our baked sediment we both have
+
+884
+00:29:47,919 --> 00:29:54,480
+dominant phases being this three
+
+885
+00:29:51,360 --> 00:29:56,159
+anything less than 300 degrees in some
+
+886
+00:29:54,480 --> 00:29:58,080
+samples it's
+
+887
+00:29:56,159 --> 00:29:59,840
+samples with remnants between three are
+
+888
+00:29:58,080 --> 00:30:01,520
+unblocking temperatures between 300 and
+
+889
+00:29:59,840 --> 00:30:02,880
+600 degrees c
+
+890
+00:30:01,520 --> 00:30:04,960
+so this would be indicative of kind of
+
+891
+00:30:02,880 --> 00:30:09,520
+our magnetite phase this would be
+
+892
+00:30:04,960 --> 00:30:11,200
+our hcslt phase
+
+893
+00:30:09,520 --> 00:30:12,960
+and then in the sample here this orange
+
+894
+00:30:11,200 --> 00:30:14,960
+baked salt stone we kind of see a mix in
+
+895
+00:30:12,960 --> 00:30:17,679
+between where we have both
+
+896
+00:30:14,960 --> 00:30:19,360
+remnants held in this intermediate and
+
+897
+00:30:17,679 --> 00:30:20,480
+blocking range and also this higher in
+
+898
+00:30:19,360 --> 00:30:21,919
+blocking range
+
+899
+00:30:20,480 --> 00:30:23,840
+and none of our samples did we see a
+
+900
+00:30:21,919 --> 00:30:26,320
+strong component of magnetization held
+
+901
+00:30:23,840 --> 00:30:27,600
+greater in the 700 phase so not a strong
+
+902
+00:30:26,320 --> 00:30:28,799
+component of magnetization held by
+
+903
+00:30:27,600 --> 00:30:30,640
+hematite
+
+904
+00:30:28,799 --> 00:30:32,080
+um and then in our baked para lava we
+
+905
+00:30:30,640 --> 00:30:33,760
+see that most of the remnants is being
+
+906
+00:30:32,080 --> 00:30:36,159
+held by this
+
+907
+00:30:33,760 --> 00:30:37,840
+greater than or the 600 phase so between
+
+908
+00:30:36,159 --> 00:30:39,440
+300 600 so this would be
+
+909
+00:30:37,840 --> 00:30:41,200
+indicative of most of the remnants being
+
+910
+00:30:39,440 --> 00:30:43,840
+held by magnetite
+
+911
+00:30:41,200 --> 00:30:45,360
+um and another observation that we can
+
+912
+00:30:43,840 --> 00:30:48,559
+make looking at this plot
+
+913
+00:30:45,360 --> 00:30:51,039
+is that this 300 phase does not fully
+
+914
+00:30:48,559 --> 00:30:54,600
+demagnetize by 170 ml of tesla
+
+915
+00:30:51,039 --> 00:30:58,559
+so this is indeed holding on to our
+
+916
+00:30:54,600 --> 00:31:00,159
+hgslt phase another odd observation of
+
+917
+00:30:58,559 --> 00:31:03,120
+these plots is we have this little
+
+918
+00:31:00,159 --> 00:31:04,720
+dip here where we start losing remnants
+
+919
+00:31:03,120 --> 00:31:07,600
+and then gaining it again
+
+920
+00:31:04,720 --> 00:31:09,039
+indicative of something acquiring a
+
+921
+00:31:07,600 --> 00:31:11,600
+field during these experiments in the
+
+922
+00:31:09,039 --> 00:31:13,679
+opposite direction of what was applied
+
+923
+00:31:11,600 --> 00:31:15,679
+and so this might be indicative of
+
+924
+00:31:13,679 --> 00:31:17,600
+intermediate titanium hematite
+
+925
+00:31:15,679 --> 00:31:19,360
+this mineral has been found in similar
+
+926
+00:31:17,600 --> 00:31:21,840
+age sedimentary deposits
+
+927
+00:31:19,360 --> 00:31:23,919
+in northeastern montana and so it's
+
+928
+00:31:21,840 --> 00:31:24,640
+possible that it's in these deposits as
+
+929
+00:31:23,919 --> 00:31:26,880
+well
+
+930
+00:31:24,640 --> 00:31:27,919
+and then was accumulated and acquired
+
+931
+00:31:26,880 --> 00:31:31,039
+into
+
+932
+00:31:27,919 --> 00:31:33,360
+these clinker deposits
+
+933
+00:31:31,039 --> 00:31:35,039
+and so i'm kind of going to brush over
+
+934
+00:31:33,360 --> 00:31:35,919
+some of the hot or the susceptibility
+
+935
+00:31:35,039 --> 00:31:38,320
+results
+
+936
+00:31:35,919 --> 00:31:40,399
+um but basically the things i want you
+
+937
+00:31:38,320 --> 00:31:42,720
+to take away from these results
+
+938
+00:31:40,399 --> 00:31:44,559
+are as with heating so we have unbaked
+
+939
+00:31:42,720 --> 00:31:47,760
+here weekly baked
+
+940
+00:31:44,559 --> 00:31:49,840
+baked perselonite para lava para lava
+
+941
+00:31:47,760 --> 00:31:52,080
+as we move with increasing temperatures
+
+942
+00:31:49,840 --> 00:31:54,000
+increasing degree of being baked
+
+943
+00:31:52,080 --> 00:31:55,519
+we start having curves that once weren't
+
+944
+00:31:54,000 --> 00:31:58,159
+reversible and altered
+
+945
+00:31:55,519 --> 00:31:59,440
+becoming more reversible indicating that
+
+946
+00:31:58,159 --> 00:32:02,640
+these are becoming more
+
+947
+00:31:59,440 --> 00:32:04,480
+thermally stable what we're also seeing
+
+948
+00:32:02,640 --> 00:32:06,240
+is we have some evidence here for this
+
+949
+00:32:04,480 --> 00:32:08,960
+low and blocking phase this is probably
+
+950
+00:32:06,240 --> 00:32:10,399
+alteration
+
+951
+00:32:08,960 --> 00:32:12,080
+and then as we move into our baked
+
+952
+00:32:10,399 --> 00:32:13,440
+materials we see evidence for this
+
+953
+00:32:12,080 --> 00:32:15,200
+magnetite phase
+
+954
+00:32:13,440 --> 00:32:16,960
+but we don't really see evidence for the
+
+955
+00:32:15,200 --> 00:32:19,120
+hcslt phase
+
+956
+00:32:16,960 --> 00:32:22,240
+where we'd expect to see so we don't see
+
+957
+00:32:19,120 --> 00:32:23,519
+this on blocking around 200 degrees
+
+958
+00:32:22,240 --> 00:32:26,000
+and then this is the example of that
+
+959
+00:32:23,519 --> 00:32:29,919
+parallava sample where we have
+
+960
+00:32:26,000 --> 00:32:31,760
+this weird high temperature phase
+
+961
+00:32:29,919 --> 00:32:34,320
+that still has remnants above 700
+
+962
+00:32:31,760 --> 00:32:36,320
+degrees celsius
+
+963
+00:32:34,320 --> 00:32:37,919
+and so in order to better understand
+
+964
+00:32:36,320 --> 00:32:41,360
+where we are losing our
+
+965
+00:32:37,919 --> 00:32:42,159
+remnants we performed high temperature
+
+966
+00:32:41,360 --> 00:32:44,720
+hysteresis
+
+967
+00:32:42,159 --> 00:32:45,279
+experiments where we measured hysteresis
+
+968
+00:32:44,720 --> 00:32:47,039
+loops
+
+969
+00:32:45,279 --> 00:32:49,279
+with increasing temperatures from room
+
+970
+00:32:47,039 --> 00:32:52,159
+temperature up to 600
+
+971
+00:32:49,279 --> 00:32:54,240
+or 700 degrees celsius and so what we
+
+972
+00:32:52,159 --> 00:32:55,039
+can see is first we have this transition
+
+973
+00:32:54,240 --> 00:32:57,840
+from these
+
+974
+00:32:55,039 --> 00:32:58,960
+wasted curves down to kind of these soft
+
+975
+00:32:57,840 --> 00:33:01,360
+curves
+
+976
+00:32:58,960 --> 00:33:02,640
+and then finally into more harder curves
+
+977
+00:33:01,360 --> 00:33:04,399
+which are hard to see here but you can
+
+978
+00:33:02,640 --> 00:33:06,559
+see it really here in the transition
+
+979
+00:33:04,399 --> 00:33:08,080
+of looking at coercivity we have
+
+980
+00:33:06,559 --> 00:33:10,960
+coercivity decreasing
+
+981
+00:33:08,080 --> 00:33:12,640
+through this 220 degree phase further
+
+982
+00:33:10,960 --> 00:33:14,159
+decreasing through the magnetite carry
+
+983
+00:33:12,640 --> 00:33:16,480
+temperature but then after we remove
+
+984
+00:33:14,159 --> 00:33:19,200
+magnetite it's steeply increasing again
+
+985
+00:33:16,480 --> 00:33:20,960
+which is indicative of hemotype we also
+
+986
+00:33:19,200 --> 00:33:25,120
+see here looking at this plot
+
+987
+00:33:20,960 --> 00:33:25,679
+looking at magnetization we do have this
+
+988
+00:33:25,120 --> 00:33:28,799
+nice
+
+989
+00:33:25,679 --> 00:33:31,600
+decrease in magnetization uh that
+
+990
+00:33:28,799 --> 00:33:32,720
+has this abrupt kind of change at 220
+
+991
+00:33:31,600 --> 00:33:36,320
+degrees celsius
+
+992
+00:33:32,720 --> 00:33:37,840
+and so this is our hcslt phase
+
+993
+00:33:36,320 --> 00:33:40,240
+and looking at the same thing and
+
+994
+00:33:37,840 --> 00:33:43,200
+susceptibility we don't see it here
+
+995
+00:33:40,240 --> 00:33:44,559
+indicating that whatever is causing this
+
+996
+00:33:43,200 --> 00:33:46,559
+change
+
+997
+00:33:44,559 --> 00:33:48,640
+um doesn't have a large susceptibility
+
+998
+00:33:46,559 --> 00:33:49,919
+change
+
+999
+00:33:48,640 --> 00:33:52,399
+and so the next thing we wanted to do
+
+1000
+00:33:49,919 --> 00:33:55,760
+was constrain the um
+
+1001
+00:33:52,399 --> 00:33:56,640
+grain size of these samples and so we
+
+1002
+00:33:55,760 --> 00:34:00,080
+did this by
+
+1003
+00:33:56,640 --> 00:34:01,679
+performing fork analyses and so we saw
+
+1004
+00:34:00,080 --> 00:34:03,279
+these broad ranges of behavior of our
+
+1005
+00:34:01,679 --> 00:34:05,200
+fork analyses so these are both baked
+
+1006
+00:34:03,279 --> 00:34:06,320
+sediment this is porcelain this is para
+
+1007
+00:34:05,200 --> 00:34:07,440
+lava
+
+1008
+00:34:06,320 --> 00:34:09,359
+in our baked sediment and our
+
+1009
+00:34:07,440 --> 00:34:11,119
+purcellinate we saw kind of two
+
+1010
+00:34:09,359 --> 00:34:14,000
+different groupings
+
+1011
+00:34:11,119 --> 00:34:15,359
+of behaviors so one was this kind of
+
+1012
+00:34:14,000 --> 00:34:17,599
+grouping where we had these strong
+
+1013
+00:34:15,359 --> 00:34:18,960
+coercivity peaks extending out to 5 to
+
+1014
+00:34:17,599 --> 00:34:21,599
+40 ml of tesla
+
+1015
+00:34:18,960 --> 00:34:22,720
+and then also these kind of inner weak
+
+1016
+00:34:21,599 --> 00:34:25,440
+interacting
+
+1017
+00:34:22,720 --> 00:34:27,359
+or interaction uh fields extending out
+
+1018
+00:34:25,440 --> 00:34:29,760
+plus minus 20 ml of tesla
+
+1019
+00:34:27,359 --> 00:34:31,359
+similar here in this perspective sample
+
+1020
+00:34:29,760 --> 00:34:34,240
+but then we also had this other grouping
+
+1021
+00:34:31,359 --> 00:34:37,599
+which had this huge high coverage detail
+
+1022
+00:34:34,240 --> 00:34:39,599
+which is indicative of our hcslt phase
+
+1023
+00:34:37,599 --> 00:34:41,359
+in the para lavas we also saw the strong
+
+1024
+00:34:39,599 --> 00:34:42,240
+coercivity peak between 5 and 20
+
+1025
+00:34:41,359 --> 00:34:44,480
+millitessa
+
+1026
+00:34:42,240 --> 00:34:45,599
+but we also saw much larger interaction
+
+1027
+00:34:44,480 --> 00:34:48,800
+fields
+
+1028
+00:34:45,599 --> 00:34:50,320
+and so in general this kind of looks psd
+
+1029
+00:34:48,800 --> 00:34:52,399
+like
+
+1030
+00:34:50,320 --> 00:34:53,520
+probably slightly larger grain sizes in
+
+1031
+00:34:52,399 --> 00:34:55,119
+these components
+
+1032
+00:34:53,520 --> 00:34:57,599
+but it's kind of hard to tell whether or
+
+1033
+00:34:55,119 --> 00:34:59,680
+not these are
+
+1034
+00:34:57,599 --> 00:35:01,680
+the real behavior considering they are
+
+1035
+00:34:59,680 --> 00:35:03,440
+generally this one is definitely masked
+
+1036
+00:35:01,680 --> 00:35:05,119
+by this high coaster detail
+
+1037
+00:35:03,440 --> 00:35:08,079
+and these ones might be biased by it as
+
+1038
+00:35:05,119 --> 00:35:10,240
+well because we know that phase exists
+
+1039
+00:35:08,079 --> 00:35:11,440
+and so to get a clearer picture of this
+
+1040
+00:35:10,240 --> 00:35:14,720
+we decided to
+
+1041
+00:35:11,440 --> 00:35:17,040
+run high temperature forks and so
+
+1042
+00:35:14,720 --> 00:35:18,720
+what we did is we ran a fork analysis
+
+1043
+00:35:17,040 --> 00:35:21,119
+preheating at room temperature
+
+1044
+00:35:18,720 --> 00:35:23,680
+a standard fork analysis we ran another
+
+1045
+00:35:21,119 --> 00:35:25,119
+fork analysis at 250 degrees c
+
+1046
+00:35:23,680 --> 00:35:26,960
+and then we ran another one again at
+
+1047
+00:35:25,119 --> 00:35:29,119
+room temperature post heating
+
+1048
+00:35:26,960 --> 00:35:31,680
+and so what we can see here is after
+
+1049
+00:35:29,119 --> 00:35:34,480
+this 250 degree temperature step
+
+1050
+00:35:31,680 --> 00:35:34,880
+this high coercivity phase is lost and
+
+1051
+00:35:34,480 --> 00:35:36,720
+so
+
+1052
+00:35:34,880 --> 00:35:38,400
+so now we're basically seeing through
+
+1053
+00:35:36,720 --> 00:35:40,880
+that high coercivity phase
+
+1054
+00:35:38,400 --> 00:35:42,880
+and we can see evidence of what the
+
+1055
+00:35:40,880 --> 00:35:46,160
+grain size population is
+
+1056
+00:35:42,880 --> 00:35:48,079
+for this softer phase and so it's kind
+
+1057
+00:35:46,160 --> 00:35:49,440
+of it's psd like
+
+1058
+00:35:48,079 --> 00:35:51,359
+and then what we can also see is the
+
+1059
+00:35:49,440 --> 00:35:52,079
+comparison between preheating and post
+
+1060
+00:35:51,359 --> 00:35:54,240
+heating
+
+1061
+00:35:52,079 --> 00:35:55,440
+and generally the fork diagrams look the
+
+1062
+00:35:54,240 --> 00:35:58,320
+same there's
+
+1063
+00:35:55,440 --> 00:35:59,760
+some shifting in this direction so it
+
+1064
+00:35:58,320 --> 00:36:02,960
+might be slightly altering
+
+1065
+00:35:59,760 --> 00:36:06,160
+but generally they're magnetically
+
+1066
+00:36:02,960 --> 00:36:07,599
+thermal thermally stable so we did this
+
+1067
+00:36:06,160 --> 00:36:10,640
+for a couple more samples
+
+1068
+00:36:07,599 --> 00:36:12,320
+very similar behavior this 250 degree
+
+1069
+00:36:10,640 --> 00:36:14,960
+temperature step is removing this high
+
+1070
+00:36:12,320 --> 00:36:17,520
+coercivity phase
+
+1071
+00:36:14,960 --> 00:36:18,079
+and so jumping into changes in color i'm
+
+1072
+00:36:17,520 --> 00:36:20,400
+just going to
+
+1073
+00:36:18,079 --> 00:36:21,920
+quickly run through this we broadly
+
+1074
+00:36:20,400 --> 00:36:23,680
+divided our stuff into whether it was
+
+1075
+00:36:21,920 --> 00:36:25,520
+red and orange oxidizing
+
+1076
+00:36:23,680 --> 00:36:27,359
+black and purple reducing and yellow was
+
+1077
+00:36:25,520 --> 00:36:29,040
+unbaked
+
+1078
+00:36:27,359 --> 00:36:30,960
+and so looking at these results for
+
+1079
+00:36:29,040 --> 00:36:32,640
+colors indicating the color
+
+1080
+00:36:30,960 --> 00:36:35,119
+we can see our red and orange samples
+
+1081
+00:36:32,640 --> 00:36:37,119
+have the higher mr versus miss and vcr
+
+1082
+00:36:35,119 --> 00:36:39,839
+versus bc ratios
+
+1083
+00:36:37,119 --> 00:36:42,839
+and also higher coercivity values
+
+1084
+00:36:39,839 --> 00:36:47,119
+indicating that this hls
+
+1085
+00:36:42,839 --> 00:36:48,640
+hcslt phase is in oxidizing conditions
+
+1086
+00:36:47,119 --> 00:36:50,320
+we also have this black purple and
+
+1087
+00:36:48,640 --> 00:36:51,920
+yellow samples plotting closer to these
+
+1088
+00:36:50,320 --> 00:36:55,359
+expected mixing lines
+
+1089
+00:36:51,920 --> 00:36:57,040
+suggesting they have more magnetite
+
+1090
+00:36:55,359 --> 00:36:59,520
+this corroborated by looking at our
+
+1091
+00:36:57,040 --> 00:37:01,520
+sigma values our black samples tend to
+
+1092
+00:36:59,520 --> 00:37:03,040
+have the lower sigma values and our red
+
+1093
+00:37:01,520 --> 00:37:05,680
+and orange tend to have the highest
+
+1094
+00:37:03,040 --> 00:37:08,640
+indicating that they have mixtures of
+
+1095
+00:37:05,680 --> 00:37:10,480
+different coercivity components
+
+1096
+00:37:08,640 --> 00:37:12,320
+and then looking at our percent hc we
+
+1097
+00:37:10,480 --> 00:37:14,480
+see our red and our orange samples have
+
+1098
+00:37:12,320 --> 00:37:16,160
+the highest percent hc and the highest
+
+1099
+00:37:14,480 --> 00:37:19,599
+amount of this hcslt
+
+1100
+00:37:16,160 --> 00:37:20,800
+phase and also of hematite and then our
+
+1101
+00:37:19,599 --> 00:37:23,119
+orange
+
+1102
+00:37:20,800 --> 00:37:24,079
+samples have the highest so maybe orange
+
+1103
+00:37:23,119 --> 00:37:27,280
+is
+
+1104
+00:37:24,079 --> 00:37:29,040
+indicating the color of the space and so
+
+1105
+00:37:27,280 --> 00:37:30,880
+to summarize our orange and red have
+
+1106
+00:37:29,040 --> 00:37:31,599
+more abundance of this high coarsivity
+
+1107
+00:37:30,880 --> 00:37:33,599
+phase
+
+1108
+00:37:31,599 --> 00:37:35,599
+and purple and black are more abundant
+
+1109
+00:37:33,599 --> 00:37:37,680
+in magnetite
+
+1110
+00:37:35,599 --> 00:37:39,920
+so now looking at comparisons by
+
+1111
+00:37:37,680 --> 00:37:41,680
+distance from the coal seam fire
+
+1112
+00:37:39,920 --> 00:37:43,680
+um so what we did is basically we
+
+1113
+00:37:41,680 --> 00:37:44,240
+collected two profiles one this is
+
+1114
+00:37:43,680 --> 00:37:47,920
+through a
+
+1115
+00:37:44,240 --> 00:37:49,440
+or weekly baked profile starting at
+
+1116
+00:37:47,920 --> 00:37:51,040
+the base of where the coal seam was and
+
+1117
+00:37:49,440 --> 00:37:52,960
+then extending multiple meters
+
+1118
+00:37:51,040 --> 00:37:54,240
+up and this one we did the opposite
+
+1119
+00:37:52,960 --> 00:37:55,760
+where we started at the top of the
+
+1120
+00:37:54,240 --> 00:37:56,400
+plateau that had a strongly baked
+
+1121
+00:37:55,760 --> 00:37:58,079
+clinker
+
+1122
+00:37:56,400 --> 00:37:59,839
+and we worked down into the unbaked
+
+1123
+00:37:58,079 --> 00:38:01,119
+sediments below
+
+1124
+00:37:59,839 --> 00:38:03,040
+and so some of the things that we can
+
+1125
+00:38:01,119 --> 00:38:06,960
+see looking at these
+
+1126
+00:38:03,040 --> 00:38:09,040
+curves is first within
+
+1127
+00:38:06,960 --> 00:38:10,160
+a clinker there does not appear to be
+
+1128
+00:38:09,040 --> 00:38:11,760
+any
+
+1129
+00:38:10,160 --> 00:38:13,520
+observable variation of magnetic
+
+1130
+00:38:11,760 --> 00:38:17,280
+properties with distance
+
+1131
+00:38:13,520 --> 00:38:19,119
+so we do see our percent hc
+
+1132
+00:38:17,280 --> 00:38:21,119
+changing but it's relatively high
+
+1133
+00:38:19,119 --> 00:38:22,800
+throughout uh same with our median
+
+1134
+00:38:21,119 --> 00:38:26,320
+destructive field
+
+1135
+00:38:22,800 --> 00:38:28,800
+um we do see however large variations in
+
+1136
+00:38:26,320 --> 00:38:30,400
+unbaked coal or sediment below the coal
+
+1137
+00:38:28,800 --> 00:38:32,720
+seam immediately below
+
+1138
+00:38:30,400 --> 00:38:34,560
+we see these stark changes immediately
+
+1139
+00:38:32,720 --> 00:38:36,320
+in percent hc and also in medium
+
+1140
+00:38:34,560 --> 00:38:37,920
+destructive field
+
+1141
+00:38:36,320 --> 00:38:39,839
+and we see a slight difference also
+
+1142
+00:38:37,920 --> 00:38:42,480
+between weakly baked and
+
+1143
+00:38:39,839 --> 00:38:43,280
+unbaked sediment as well but it's not as
+
+1144
+00:38:42,480 --> 00:38:46,160
+strong
+
+1145
+00:38:43,280 --> 00:38:49,359
+a slight shift in medium destructive
+
+1146
+00:38:46,160 --> 00:38:52,000
+fields but it's not as well developed
+
+1147
+00:38:49,359 --> 00:38:53,040
+and so moving on to location we broadly
+
+1148
+00:38:52,000 --> 00:38:55,119
+grouped it into
+
+1149
+00:38:53,040 --> 00:38:56,880
+just locality and then also different
+
+1150
+00:38:55,119 --> 00:38:57,760
+types of coal seams so these clinkers
+
+1151
+00:38:56,880 --> 00:39:00,800
+are formed and
+
+1152
+00:38:57,760 --> 00:39:03,359
+mapped cool seams that broadly represent
+
+1153
+00:39:00,800 --> 00:39:04,640
+primary sediments of a different age and
+
+1154
+00:39:03,359 --> 00:39:05,839
+so first just looking at all of our
+
+1155
+00:39:04,640 --> 00:39:08,480
+different sites
+
+1156
+00:39:05,839 --> 00:39:09,920
+we don't see a broad difference in
+
+1157
+00:39:08,480 --> 00:39:12,480
+magnetic properties as a function of
+
+1158
+00:39:09,920 --> 00:39:14,720
+locality that's not already described by
+
+1159
+00:39:12,480 --> 00:39:17,520
+clinker lithologies very similar ranges
+
+1160
+00:39:14,720 --> 00:39:19,040
+in each deposit we collected
+
+1161
+00:39:17,520 --> 00:39:20,880
+and then same for the different coal
+
+1162
+00:39:19,040 --> 00:39:22,400
+zones we don't really see a variation in
+
+1163
+00:39:20,880 --> 00:39:24,640
+magnetic properties between the coal
+
+1164
+00:39:22,400 --> 00:39:27,440
+zones as well
+
+1165
+00:39:24,640 --> 00:39:29,200
+and so to summarize our primary controls
+
+1166
+00:39:27,440 --> 00:39:30,880
+on magnetic properties appear to be
+
+1167
+00:39:29,200 --> 00:39:32,960
+clinker lithology
+
+1168
+00:39:30,880 --> 00:39:34,560
+um so if it's para lava versus baked
+
+1169
+00:39:32,960 --> 00:39:36,800
+material
+
+1170
+00:39:34,560 --> 00:39:39,520
+and also oxidation state where it's more
+
+1171
+00:39:36,800 --> 00:39:41,359
+reduced there's more magnetite
+
+1172
+00:39:39,520 --> 00:39:43,599
+we don't see magnetic properties being a
+
+1173
+00:39:41,359 --> 00:39:45,839
+function of primary lithology
+
+1174
+00:39:43,599 --> 00:39:47,760
+so whether or not it was a mudstone or a
+
+1175
+00:39:45,839 --> 00:39:49,119
+sandstone that you were making
+
+1176
+00:39:47,760 --> 00:39:53,440
+distance from the coal seam which is
+
+1177
+00:39:49,119 --> 00:39:53,440
+kind of shocking and then also location
+
+1178
+00:39:53,520 --> 00:39:57,599
+and so one thing that we needed to
+
+1179
+00:39:54,800 --> 00:39:59,839
+figure out was what is this hcslt
+
+1180
+00:39:57,599 --> 00:40:00,800
+phase and we believe that it is epsilon
+
+1181
+00:39:59,839 --> 00:40:02,960
+hematite
+
+1182
+00:40:00,800 --> 00:40:05,680
+or lugo fungite which i am totally
+
+1183
+00:40:02,960 --> 00:40:08,000
+butchering the name of
+
+1184
+00:40:05,680 --> 00:40:09,520
+and so why is this so the observed
+
+1185
+00:40:08,000 --> 00:40:11,040
+characteristics of the phase that we
+
+1186
+00:40:09,520 --> 00:40:12,160
+identified on our deposits is they have
+
+1187
+00:40:11,040 --> 00:40:14,480
+high coercivity
+
+1188
+00:40:12,160 --> 00:40:17,680
+so above one tesla they have low on
+
+1189
+00:40:14,480 --> 00:40:19,359
+blocking between 180 and 220 degrees c
+
+1190
+00:40:17,680 --> 00:40:21,359
+they have high magnetization higher than
+
+1191
+00:40:19,359 --> 00:40:24,560
+one would expect for hemotype
+
+1192
+00:40:21,359 --> 00:40:26,240
+they are thermally stable and it's
+
+1193
+00:40:24,560 --> 00:40:28,000
+really similar in properties to the
+
+1194
+00:40:26,240 --> 00:40:29,280
+epsilon hematite phase that was observed
+
+1195
+00:40:28,000 --> 00:40:32,079
+in baked archaeological
+
+1196
+00:40:29,280 --> 00:40:32,800
+materials first identified by mcintosh
+
+1197
+00:40:32,079 --> 00:40:34,560
+and then
+
+1198
+00:40:32,800 --> 00:40:35,920
+later confirmed by lopez sanchez in
+
+1199
+00:40:34,560 --> 00:40:37,520
+2016.
+
+1200
+00:40:35,920 --> 00:40:39,760
+and so as we can see all of these
+
+1201
+00:40:37,520 --> 00:40:43,440
+different properties nicely match this
+
+1202
+00:40:39,760 --> 00:40:43,440
+epsilon hematite phase down here
+
+1203
+00:40:44,400 --> 00:40:49,680
+just a reminder of time courtney yep no
+
+1204
+00:40:47,280 --> 00:40:52,560
+i'm watching i'll be done in two minutes
+
+1205
+00:40:49,680 --> 00:40:54,319
+but thank you and so we can kind of
+
+1206
+00:40:52,560 --> 00:40:57,680
+summarize how do clinkers
+
+1207
+00:40:54,319 --> 00:41:01,359
+get their magnetization so first we have
+
+1208
+00:40:57,680 --> 00:41:04,720
+this change of drm into either a tcrm
+
+1209
+00:41:01,359 --> 00:41:06,720
+or a trm due to heating we also see an
+
+1210
+00:41:04,720 --> 00:41:09,359
+ingrowth of pneumatic materials that's
+
+1211
+00:41:06,720 --> 00:41:11,040
+either going to be a trm or a serum
+
+1212
+00:41:09,359 --> 00:41:12,640
+in our weekly baked clinker deposits we
+
+1213
+00:41:11,040 --> 00:41:14,400
+have an ingrowth of magnetite
+
+1214
+00:41:12,640 --> 00:41:16,240
+which is causing enhanced magnetization
+
+1215
+00:41:14,400 --> 00:41:18,000
+this is possibly a trm but it could be a
+
+1216
+00:41:16,240 --> 00:41:19,680
+tcrm
+
+1217
+00:41:18,000 --> 00:41:22,400
+in our strongly baked deposits we have
+
+1218
+00:41:19,680 --> 00:41:24,000
+more magnetite uh we start forming this
+
+1219
+00:41:22,400 --> 00:41:26,400
+epsilon hematite phase
+
+1220
+00:41:24,000 --> 00:41:28,079
+this epsilon hematite phase in both
+
+1221
+00:41:26,400 --> 00:41:29,440
+laboratory experiments and also in
+
+1222
+00:41:28,079 --> 00:41:31,359
+experiments forming this phase and
+
+1223
+00:41:29,440 --> 00:41:33,599
+archaeological materials only forms at
+
+1224
+00:41:31,359 --> 00:41:36,400
+high temperatures above 600 c
+
+1225
+00:41:33,599 --> 00:41:38,079
+so this is likely holding a trm and
+
+1226
+00:41:36,400 --> 00:41:40,000
+because we don't see
+
+1227
+00:41:38,079 --> 00:41:41,920
+really any variation in where we're
+
+1228
+00:41:40,000 --> 00:41:43,359
+finding this epsilon hematite phase from
+
+1229
+00:41:41,920 --> 00:41:45,440
+distance from the coal seam
+
+1230
+00:41:43,359 --> 00:41:47,520
+we find it as much as eight meters away
+
+1231
+00:41:45,440 --> 00:41:48,000
+it suggests that basically this entire
+
+1232
+00:41:47,520 --> 00:41:51,119
+thickness
+
+1233
+00:41:48,000 --> 00:41:52,560
+of a clinker could have a trm
+
+1234
+00:41:51,119 --> 00:41:53,839
+and then finally our para lavas these
+
+1235
+00:41:52,560 --> 00:41:54,960
+are melted rocks they're mostly
+
+1236
+00:41:53,839 --> 00:41:56,880
+magnetite
+
+1237
+00:41:54,960 --> 00:41:58,160
+um because they're melted and we're
+
+1238
+00:41:56,880 --> 00:42:00,960
+heated to 1000 c
+
+1239
+00:41:58,160 --> 00:42:02,720
+they likely hold the tierra and so to
+
+1240
+00:42:00,960 --> 00:42:04,640
+summarize what this means for future
+
+1241
+00:42:02,720 --> 00:42:06,720
+studies on paleo directions
+
+1242
+00:42:04,640 --> 00:42:08,560
+uh the primary drm should be reset for
+
+1243
+00:42:06,720 --> 00:42:09,839
+paleo directions mineralogy and grain
+
+1244
+00:42:08,560 --> 00:42:12,319
+size are amenable to
+
+1245
+00:42:09,839 --> 00:42:14,560
+long relaxation times so they should
+
+1246
+00:42:12,319 --> 00:42:16,640
+record the field from when they formed
+
+1247
+00:42:14,560 --> 00:42:18,880
+her paleo intensity or grain size is in
+
+1248
+00:42:16,640 --> 00:42:20,480
+this nice psd like range which is ideal
+
+1249
+00:42:18,880 --> 00:42:22,400
+for paleo intensity
+
+1250
+00:42:20,480 --> 00:42:24,079
+they're highly thermal or her thermally
+
+1251
+00:42:22,400 --> 00:42:25,359
+stable and they're most likely holding a
+
+1252
+00:42:24,079 --> 00:42:26,960
+trm
+
+1253
+00:42:25,359 --> 00:42:28,800
+and so based on magnetic properties
+
+1254
+00:42:26,960 --> 00:42:31,359
+clinkers should be reliable full vector
+
+1255
+00:42:28,800 --> 00:42:32,000
+paleomagnetic recorders but we still
+
+1256
+00:42:31,359 --> 00:42:33,599
+needed
+
+1257
+00:42:32,000 --> 00:42:35,359
+or we still need to assess possible
+
+1258
+00:42:33,599 --> 00:42:37,920
+complexities such as cooling rate
+
+1259
+00:42:35,359 --> 00:42:38,480
+and anisotropy and so that is ongoing
+
+1260
+00:42:37,920 --> 00:42:40,079
+work
+
+1261
+00:42:38,480 --> 00:42:42,400
+that's occurring today we are running
+
+1262
+00:42:40,079 --> 00:42:45,119
+these experiments i can tell you
+
+1263
+00:42:42,400 --> 00:42:46,880
+um that they look really really good and
+
+1264
+00:42:45,119 --> 00:42:47,680
+so more work will be coming out on that
+
+1265
+00:42:46,880 --> 00:42:51,440
+soon
+
+1266
+00:42:47,680 --> 00:42:51,440
+so thank you and i will stop there
+
+1267
+00:42:52,960 --> 00:42:56,800
+wonderful thank you very much courtney
+
+1268
+00:42:54,720 --> 00:42:58,560
+um you can all show our
+
+1269
+00:42:56,800 --> 00:42:59,920
+round of applause with uh the zoom
+
+1270
+00:42:58,560 --> 00:43:03,599
+little applause button
+
+1271
+00:42:59,920 --> 00:43:05,839
+and that was really interesting um
+
+1272
+00:43:03,599 --> 00:43:06,640
+so i apologize for the background i i
+
+1273
+00:43:05,839 --> 00:43:09,359
+can open up
+
+1274
+00:43:06,640 --> 00:43:09,760
+uh the the floor to questions and i see
+
+1275
+00:43:09,359 --> 00:43:13,680
+uh
+
+1276
+00:43:09,760 --> 00:43:16,240
+andrew kosteroff you have your honda
+
+1277
+00:43:13,680 --> 00:43:19,359
+and if you'd like to on your microphone
+
+1278
+00:43:16,240 --> 00:43:19,359
+you can ask the question
+
+1279
+00:43:20,079 --> 00:43:28,480
+okay okay uh thank you courtney for uh
+
+1280
+00:43:24,560 --> 00:43:30,880
+for this very very interesting talk
+
+1281
+00:43:28,480 --> 00:43:32,640
+you mentioned the low temperature
+
+1282
+00:43:30,880 --> 00:43:37,520
+magnetometer as a method
+
+1283
+00:43:32,640 --> 00:43:40,880
+but it didn't show any pictures
+
+1284
+00:43:37,520 --> 00:43:41,599
+so so basically two questions concerning
+
+1285
+00:43:40,880 --> 00:43:44,640
+that
+
+1286
+00:43:41,599 --> 00:43:47,599
+have you ever seen very transition in
+
+1287
+00:43:44,640 --> 00:43:48,480
+any of your samples you did okay great
+
+1288
+00:43:47,599 --> 00:43:51,920
+yeah
+
+1289
+00:43:48,480 --> 00:43:55,040
+and uh did you compare
+
+1290
+00:43:51,920 --> 00:43:58,079
+okay yeah oh
+
+1291
+00:43:55,040 --> 00:44:01,040
+wow so so yeah
+
+1292
+00:43:58,079 --> 00:44:03,599
+i would say yeah so we we have some
+
+1293
+00:44:01,040 --> 00:44:06,720
+evidence of potentially
+
+1294
+00:44:03,599 --> 00:44:07,760
+yeah this last this last figure looks
+
+1295
+00:44:06,720 --> 00:44:11,280
+like a
+
+1296
+00:44:07,760 --> 00:44:15,280
+very but i i don't i don't agree
+
+1297
+00:44:11,280 --> 00:44:17,520
+with the left the left uh
+
+1298
+00:44:15,280 --> 00:44:19,200
+it's only to do with this no no no
+
+1299
+00:44:17,520 --> 00:44:20,079
+there's a separation it's probably not
+
+1300
+00:44:19,200 --> 00:44:22,560
+the fur way
+
+1301
+00:44:20,079 --> 00:44:23,920
+um but it's some sort of it's a traffic
+
+1302
+00:44:22,560 --> 00:44:26,800
+point we need to
+
+1303
+00:44:23,920 --> 00:44:28,319
+we need to discuss it but most important
+
+1304
+00:44:26,800 --> 00:44:32,480
+most important
+
+1305
+00:44:28,319 --> 00:44:35,440
+uh well from this data i i uh
+
+1306
+00:44:32,480 --> 00:44:37,119
+maybe you also have the data where you
+
+1307
+00:44:35,440 --> 00:44:41,040
+suspect this hc
+
+1308
+00:44:37,119 --> 00:44:44,319
+slt phase yeah so it's in
+
+1309
+00:44:41,040 --> 00:44:47,359
+these three samples okay but
+
+1310
+00:44:44,319 --> 00:44:47,359
+the problem is that
+
+1311
+00:44:48,400 --> 00:44:53,920
+you may know we started the the projects
+
+1312
+00:44:51,040 --> 00:44:56,560
+concerning the archaeomagnetic
+
+1313
+00:44:53,920 --> 00:44:58,720
+electromagnetic archaeological samples
+
+1314
+00:44:56,560 --> 00:45:01,839
+with colleagues from sofia
+
+1315
+00:44:58,720 --> 00:45:03,520
+recently and my
+
+1316
+00:45:01,839 --> 00:45:04,880
+my impression concerning this
+
+1317
+00:45:03,520 --> 00:45:09,040
+interpretation
+
+1318
+00:45:04,880 --> 00:45:11,839
+of hclps epsilon is
+
+1319
+00:45:09,040 --> 00:45:13,599
+we do have problems with this because
+
+1320
+00:45:11,839 --> 00:45:16,160
+synthetic epsilon
+
+1321
+00:45:13,599 --> 00:45:17,359
+iron oxide has a very distinctive low
+
+1322
+00:45:16,160 --> 00:45:20,800
+temperature properties
+
+1323
+00:45:17,359 --> 00:45:23,760
+and no nobody has it
+
+1324
+00:45:20,800 --> 00:45:26,319
+has ever seen that in either
+
+1325
+00:45:23,760 --> 00:45:29,520
+archaeological material
+
+1326
+00:45:26,319 --> 00:45:31,359
+or in your data so no i agree yep that
+
+1327
+00:45:29,520 --> 00:45:34,400
+is a problem with it
+
+1328
+00:45:31,359 --> 00:45:37,040
+and if i may one last
+
+1329
+00:45:34,400 --> 00:45:40,000
+uh short questions what is the range of
+
+1330
+00:45:37,040 --> 00:45:41,760
+curious temperatures of your hclt
+
+1331
+00:45:40,000 --> 00:45:44,160
+yes i was just going to mention that so
+
+1332
+00:45:41,760 --> 00:45:44,720
+our range of curie temperatures for that
+
+1333
+00:45:44,160 --> 00:45:48,480
+phase
+
+1334
+00:45:44,720 --> 00:45:49,839
+are it's not distinctly at 220 or 222
+
+1335
+00:45:48,480 --> 00:45:53,680
+which one would expect for
+
+1336
+00:45:49,839 --> 00:45:57,119
+pure uh the pure phase um it actually
+
+1337
+00:45:53,680 --> 00:45:59,280
+ranges from about 180 to 220
+
+1338
+00:45:57,119 --> 00:46:02,000
+and so it's possible like the
+
+1339
+00:45:59,280 --> 00:46:03,839
+conclusions of lopez sanchez that
+
+1340
+00:46:02,000 --> 00:46:06,240
+their phase had some titanium
+
+1341
+00:46:03,839 --> 00:46:08,319
+substitution
+
+1342
+00:46:06,240 --> 00:46:09,359
+the other issue is at least in
+
+1343
+00:46:08,319 --> 00:46:11,040
+laboratories
+
+1344
+00:46:09,359 --> 00:46:13,440
+the grain sizes that they were able to
+
+1345
+00:46:11,040 --> 00:46:16,480
+produce of this phase are very very very
+
+1346
+00:46:13,440 --> 00:46:18,480
+small and the grain sizes that are
+
+1347
+00:46:16,480 --> 00:46:18,960
+observed and archaeological materials
+
+1348
+00:46:18,480 --> 00:46:22,720
+are much
+
+1349
+00:46:18,960 --> 00:46:26,000
+larger and so if this
+
+1350
+00:46:22,720 --> 00:46:28,480
+is that phase um it suggests that maybe
+
+1351
+00:46:26,000 --> 00:46:30,800
+titanium substitution is making it
+
+1352
+00:46:28,480 --> 00:46:32,160
+not ideal but it could also be something
+
+1353
+00:46:30,800 --> 00:46:34,319
+else um
+
+1354
+00:46:32,160 --> 00:46:36,560
+but whatever we have is very similar to
+
+1355
+00:46:34,319 --> 00:46:40,000
+what's in the archaeological samples
+
+1356
+00:46:36,560 --> 00:46:42,480
+um forming from
+
+1357
+00:46:40,000 --> 00:46:43,280
+high temperature alteration yes yeah
+
+1358
+00:46:42,480 --> 00:46:46,400
+exactly
+
+1359
+00:46:43,280 --> 00:46:49,599
+okay and one more comment if if if greg
+
+1360
+00:46:46,400 --> 00:46:51,839
+would follow us in in our
+
+1361
+00:46:49,599 --> 00:46:52,640
+in our work with archaeological samples
+
+1362
+00:46:51,839 --> 00:46:55,920
+we have
+
+1363
+00:46:52,640 --> 00:46:57,359
+we had the unblocking temperatures down
+
+1364
+00:46:55,920 --> 00:47:00,640
+to 120
+
+1365
+00:46:57,359 --> 00:47:04,079
+for this phase so it's maybe even larger
+
+1366
+00:47:00,640 --> 00:47:05,200
+larger range yeah okay thank you very
+
+1367
+00:47:04,079 --> 00:47:07,920
+much courtney
+
+1368
+00:47:05,200 --> 00:47:09,599
+again thank you thank you thank you so
+
+1369
+00:47:07,920 --> 00:47:12,160
+we've got a couple of questions from
+
+1370
+00:47:09,599 --> 00:47:13,200
+the chat so gunther is wanting to know
+
+1371
+00:47:12,160 --> 00:47:15,200
+what is the
+
+1372
+00:47:13,200 --> 00:47:17,359
+highest uh temperature recorded in
+
+1373
+00:47:15,200 --> 00:47:19,680
+clinton deposits
+
+1374
+00:47:17,359 --> 00:47:20,480
+oh so the highest temperature recorded
+
+1375
+00:47:19,680 --> 00:47:24,000
+is around
+
+1376
+00:47:20,480 --> 00:47:25,760
+1500 degrees celsius um
+
+1377
+00:47:24,000 --> 00:47:27,760
+and so that's going to be within your
+
+1378
+00:47:25,760 --> 00:47:30,400
+chimney deposit so that's where you have
+
+1379
+00:47:27,760 --> 00:47:32,240
+hot gas that's being convected up
+
+1380
+00:47:30,400 --> 00:47:33,839
+there has been quite a bit of thermal
+
+1381
+00:47:32,240 --> 00:47:35,920
+modeling done on clinker
+
+1382
+00:47:33,839 --> 00:47:37,040
+deposits because or at least on coal
+
+1383
+00:47:35,920 --> 00:47:39,520
+seam fires
+
+1384
+00:47:37,040 --> 00:47:41,040
+because they are a a pretty big hazard
+
+1385
+00:47:39,520 --> 00:47:43,119
+because they raise a lot of gas
+
+1386
+00:47:41,040 --> 00:47:44,640
+and then b are a problem for people who
+
+1387
+00:47:43,119 --> 00:47:46,559
+want to mine coal
+
+1388
+00:47:44,640 --> 00:47:48,640
+and so they are monitoring these and so
+
+1389
+00:47:46,559 --> 00:47:50,160
+thermal models of basically temperature
+
+1390
+00:47:48,640 --> 00:47:52,240
+profiles at the surface
+
+1391
+00:47:50,160 --> 00:47:54,400
+do suggest that at the coal seam not
+
+1392
+00:47:52,240 --> 00:47:56,079
+necessarily within these chimneys
+
+1393
+00:47:54,400 --> 00:47:59,040
+you are still reaching temperatures of
+
+1394
+00:47:56,079 --> 00:48:01,440
+at least 800 degrees celsius if not
+
+1395
+00:47:59,040 --> 00:48:01,440
+higher
+
+1396
+00:48:02,960 --> 00:48:06,880
+i have another question um from uh
+
+1397
+00:48:05,920 --> 00:48:08,800
+quentin simon
+
+1398
+00:48:06,880 --> 00:48:10,960
+and he's wondering if you've already
+
+1399
+00:48:08,800 --> 00:48:14,160
+have some paleo intensity data
+
+1400
+00:48:10,960 --> 00:48:17,440
+uh and what would you say about that i i
+
+1401
+00:48:14,160 --> 00:48:19,440
+do um yeah so we've already collected
+
+1402
+00:48:17,440 --> 00:48:23,119
+some paleo intensity results
+
+1403
+00:48:19,440 --> 00:48:26,319
+and so this is them um
+
+1404
+00:48:23,119 --> 00:48:28,880
+and this is kind of my slide on that uh
+
+1405
+00:48:26,319 --> 00:48:32,559
+but yeah so we did thermal and microwave
+
+1406
+00:48:28,880 --> 00:48:35,520
+izzy experiments uh and a few dht shaw
+
+1407
+00:48:32,559 --> 00:48:36,079
+and basically what we're seeing is
+
+1408
+00:48:35,520 --> 00:48:38,960
+really
+
+1409
+00:48:36,079 --> 00:48:40,559
+nice straight arrived lots uh we're not
+
+1410
+00:48:38,960 --> 00:48:41,599
+observing a difference in some of our
+
+1411
+00:48:40,559 --> 00:48:43,280
+samples between
+
+1412
+00:48:41,599 --> 00:48:45,680
+the epsilon phase and the magnetite
+
+1413
+00:48:43,280 --> 00:48:48,079
+phase which one might observe
+
+1414
+00:48:45,680 --> 00:48:49,839
+because they have different cooling
+
+1415
+00:48:48,079 --> 00:48:51,599
+times
+
+1416
+00:48:49,839 --> 00:48:53,680
+so really consistent throughout also
+
+1417
+00:48:51,599 --> 00:48:56,000
+this is all from the same sample
+
+1418
+00:48:53,680 --> 00:48:57,920
+and so we're seeing really nice highly
+
+1419
+00:48:56,000 --> 00:49:02,319
+reproducible results
+
+1420
+00:48:57,920 --> 00:49:04,800
+within the same site and then
+
+1421
+00:49:02,319 --> 00:49:06,400
+these are consistent with univectorial
+
+1422
+00:49:04,800 --> 00:49:09,040
+decaying
+
+1423
+00:49:06,400 --> 00:49:09,839
+cider build plots um we do have some
+
+1424
+00:49:09,040 --> 00:49:12,480
+that are showing
+
+1425
+00:49:09,839 --> 00:49:13,119
+two different components and this could
+
+1426
+00:49:12,480 --> 00:49:15,040
+be
+
+1427
+00:49:13,119 --> 00:49:17,359
+because of grain size we don't really
+
+1428
+00:49:15,040 --> 00:49:19,119
+know the grain size of the epsilon phase
+
+1429
+00:49:17,359 --> 00:49:20,640
+but it could also be actually recording
+
+1430
+00:49:19,119 --> 00:49:22,880
+differences in the magnetic field during
+
+1431
+00:49:20,640 --> 00:49:26,000
+this time period and so this is kind of
+
+1432
+00:49:22,880 --> 00:49:27,839
+also a direction of future work good
+
+1433
+00:49:26,000 --> 00:49:30,000
+question
+
+1434
+00:49:27,839 --> 00:49:32,240
+thanks very much and we have time for
+
+1435
+00:49:30,000 --> 00:49:34,480
+one more quick question if anybody has
+
+1436
+00:49:32,240 --> 00:49:34,480
+one
+
+1437
+00:49:36,640 --> 00:49:40,160
+so i will i will throw it either to you
+
+1438
+00:49:38,400 --> 00:49:42,079
+you flash past your
+
+1439
+00:49:40,160 --> 00:49:43,440
+map uh showing the distribution of
+
+1440
+00:49:42,079 --> 00:49:46,160
+klingon
+
+1441
+00:49:43,440 --> 00:49:48,240
+and i mean at first glance it does kind
+
+1442
+00:49:46,160 --> 00:49:51,040
+of look as though there's a bit of a
+
+1443
+00:49:48,240 --> 00:49:52,559
+latitudinal band across north america
+
+1444
+00:49:51,040 --> 00:49:55,280
+and europe
+
+1445
+00:49:52,559 --> 00:49:57,280
+is that due to the distribution of the
+
+1446
+00:49:55,280 --> 00:50:01,040
+clinkers or just the distribution
+
+1447
+00:49:57,280 --> 00:50:05,440
+of clinkers that have been reported
+
+1448
+00:50:01,040 --> 00:50:05,440
+uh let me go to that map
+
+1449
+00:50:05,760 --> 00:50:08,960
+i should have gone the other direction
+
+1450
+00:50:09,839 --> 00:50:13,040
+so i believe it has to do with the
+
+1451
+00:50:11,200 --> 00:50:14,000
+distribution of clinkers that have been
+
+1452
+00:50:13,040 --> 00:50:17,040
+studied
+
+1453
+00:50:14,000 --> 00:50:20,000
+um so if you actually look at
+
+1454
+00:50:17,040 --> 00:50:22,240
+the distribution of coal seam fires uh
+
+1455
+00:50:20,000 --> 00:50:25,359
+it's a bit more spread out
+
+1456
+00:50:22,240 --> 00:50:27,680
+there we go um so yeah so distribution
+
+1457
+00:50:25,359 --> 00:50:31,200
+of coal seam fires
+
+1458
+00:50:27,680 --> 00:50:34,400
+tends to be a little bit more broad um
+
+1459
+00:50:31,200 --> 00:50:36,559
+where all the clinker deposits that are
+
+1460
+00:50:34,400 --> 00:50:38,240
+on this map are ones that have been
+
+1461
+00:50:36,559 --> 00:50:40,240
+studied
+
+1462
+00:50:38,240 --> 00:50:41,760
+it's likely they exist everywhere their
+
+1463
+00:50:40,240 --> 00:50:44,720
+coal seam fires
+
+1464
+00:50:41,760 --> 00:50:45,680
+um and people just haven't studied them
+
+1465
+00:50:44,720 --> 00:50:47,359
+uh because we know
+
+1466
+00:50:45,680 --> 00:50:48,880
+these processes if there's been a coal
+
+1467
+00:50:47,359 --> 00:50:51,040
+seam there have been occurring for at
+
+1468
+00:50:48,880 --> 00:50:52,960
+least thousands of years
+
+1469
+00:50:51,040 --> 00:50:55,200
+so i think this yeah this broad
+
+1470
+00:50:52,960 --> 00:50:56,640
+latitudinal band is probably just where
+
+1471
+00:50:55,200 --> 00:50:59,920
+people have studied
+
+1472
+00:50:56,640 --> 00:51:02,720
+also my bad um like
+
+1473
+00:50:59,920 --> 00:51:04,160
+movement of points onto a map might be
+
+1474
+00:51:02,720 --> 00:51:08,800
+part of it as well
+
+1475
+00:51:04,160 --> 00:51:11,040
+so plotting of data problems
+
+1476
+00:51:08,800 --> 00:51:12,720
+well thank you very much courtney um so
+
+1477
+00:51:11,040 --> 00:51:14,000
+i think at that point we'll
+
+1478
+00:51:12,720 --> 00:51:15,920
+we'll wrap it up and i want to thank
+
+1479
+00:51:14,000 --> 00:51:17,520
+courtney again for giving uh
+
+1480
+00:51:15,920 --> 00:51:19,200
+a really good presentation and
+
+1481
+00:51:17,520 --> 00:51:19,760
+discussing something that not a lot of
+
+1482
+00:51:19,200 --> 00:51:21,359
+people know
+
+1483
+00:51:19,760 --> 00:51:24,800
+a lot about so thank you very much
+
+1484
+00:51:21,359 --> 00:51:24,800
+courtney thank you
+
+1485
+00:51:25,839 --> 00:51:29,760
+oh you could all see me opening that oh
+
+1486
+00:51:27,520 --> 00:51:29,760
+well
+
+1487
+00:51:30,160 --> 00:51:35,119
+um before we all uh finish up i just
+
+1488
+00:51:33,280 --> 00:51:38,160
+want to
+
+1489
+00:51:35,119 --> 00:51:42,480
+make a couple of quick uh
+
+1490
+00:51:38,160 --> 00:51:44,160
+mentions um before we move on the um
+
+1491
+00:51:42,480 --> 00:51:46,400
+presentations are now being recorded and
+
+1492
+00:51:44,160 --> 00:51:49,520
+we're making them available online
+
+1493
+00:51:46,400 --> 00:51:51,760
+and through the magic
+
+1494
+00:51:49,520 --> 00:51:53,200
+youtube channel and that's a link there
+
+1495
+00:51:51,760 --> 00:51:54,240
+it's a very cumbersome and lovely
+
+1496
+00:51:53,200 --> 00:51:57,520
+looking thing
+
+1497
+00:51:54,240 --> 00:52:00,240
+but if you um just search
+
+1498
+00:51:57,520 --> 00:52:01,040
+for a magic consortium um you'll be able
+
+1499
+00:52:00,240 --> 00:52:03,839
+to find it
+
+1500
+00:52:01,040 --> 00:52:04,800
+so i want to thank earthref and the
+
+1501
+00:52:03,839 --> 00:52:08,240
+magic team
+
+1502
+00:52:04,800 --> 00:52:09,359
+for supporting that um the videos are
+
+1503
+00:52:08,240 --> 00:52:13,119
+actually going to be uploaded
+
+1504
+00:52:09,359 --> 00:52:16,160
+also through the earthref um database
+
+1505
+00:52:13,119 --> 00:52:18,880
+um and they're being assigned dois
+
+1506
+00:52:16,160 --> 00:52:20,960
+so they're going to be uh citable
+
+1507
+00:52:18,880 --> 00:52:22,960
+objects so if you do find
+
+1508
+00:52:20,960 --> 00:52:24,559
+um anything interesting and useful in
+
+1509
+00:52:22,960 --> 00:52:27,359
+the seminars that we present
+
+1510
+00:52:24,559 --> 00:52:28,480
+uh you can cite them and give give the
+
+1511
+00:52:27,359 --> 00:52:30,240
+authors credit for
+
+1512
+00:52:28,480 --> 00:52:32,160
+for for all their hard work and their
+
+1513
+00:52:30,240 --> 00:52:35,599
+interest in science
+
+1514
+00:52:32,160 --> 00:52:39,040
+um and lastly we have a number of slots
+
+1515
+00:52:35,599 --> 00:52:41,599
+um still to to fill um so if anybody is
+
+1516
+00:52:39,040 --> 00:52:44,800
+interested in giving a seminar
+
+1517
+00:52:41,599 --> 00:52:48,160
+um please just get in touch with us
+
+1518
+00:52:44,800 --> 00:52:49,200
+and as always uh any feedback ideas and
+
+1519
+00:52:48,160 --> 00:52:51,440
+criticisms
+
+1520
+00:52:49,200 --> 00:52:52,559
+are always welcome so just uh drop us an
+
+1521
+00:52:51,440 --> 00:52:55,040
+email um
+
+1522
+00:52:52,559 --> 00:52:57,359
+and thank you all very much for coming
+
+1523
+00:52:55,040 --> 00:52:59,200
+to uh the magnet seminar
+
+1524
+00:52:57,359 --> 00:53:01,280
+and i hope to see you all in a couple of
+
+1525
+00:52:59,200 --> 00:53:03,440
+weeks and i should say
+
+1526
+00:53:01,280 --> 00:53:05,040
+say that we have a catch-up at the end
+
+1527
+00:53:03,440 --> 00:53:06,400
+as well um which
+
+1528
+00:53:05,040 --> 00:53:08,800
+we won't be recording so if you want to
+
+1529
+00:53:06,400 --> 00:53:12,000
+catch up with everybody uh and have good
+
+1530
+00:53:08,800 --> 00:53:14,880
+uh chin wag please hang on afterwards
+
+1531
+00:53:12,000 --> 00:53:14,880
+thank you
+
