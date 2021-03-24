@@ -1,0 +1,4036 @@
+1
+00:00:00,399 --> 00:00:06,080
+welcome to the magnet seminars
+
+2
+00:00:03,120 --> 00:00:08,320
+uh these magnets are hosted by myself
+
+3
+00:00:06,080 --> 00:00:10,880
+anita dicker and greg patterson
+
+4
+00:00:08,320 --> 00:00:12,240
+with the help of um uh michael grafoni
+
+5
+00:00:10,880 --> 00:00:15,759
+and nick
+
+6
+00:00:12,240 --> 00:00:17,920
+nick van der bon and richard bono and
+
+7
+00:00:15,759 --> 00:00:19,279
+that we think and the logo is by simon
+
+8
+00:00:17,920 --> 00:00:21,840
+lloyd
+
+9
+00:00:19,279 --> 00:00:24,000
+the seminal format is as usual uh it's
+
+10
+00:00:21,840 --> 00:00:26,000
+25 minutes presentation
+
+11
+00:00:24,000 --> 00:00:27,039
+uh where everybody's invited to keep
+
+12
+00:00:26,000 --> 00:00:30,720
+microphone
+
+13
+00:00:27,039 --> 00:00:33,760
+off and then after that would be
+
+14
+00:00:30,720 --> 00:00:36,000
+10 15 minutes question discussion uh
+
+15
+00:00:33,760 --> 00:00:37,360
+text questions always welcome and we
+
+16
+00:00:36,000 --> 00:00:40,000
+will leave time
+
+17
+00:00:37,360 --> 00:00:41,600
+uh to answer to the speaker and you're
+
+18
+00:00:40,000 --> 00:00:43,760
+invited to have um
+
+19
+00:00:41,600 --> 00:00:44,719
+to write in the chat nomic if you want
+
+20
+00:00:43,760 --> 00:00:47,760
+to
+
+21
+00:00:44,719 --> 00:00:49,440
+to read your question up it's an
+
+22
+00:00:47,760 --> 00:00:49,840
+informal environment so if you need to
+
+23
+00:00:49,440 --> 00:00:51,840
+go
+
+24
+00:00:49,840 --> 00:00:52,960
+don't worry about it the semis are
+
+25
+00:00:51,840 --> 00:00:55,280
+recorded
+
+26
+00:00:52,960 --> 00:00:57,600
+and there is gonna be time to catch up
+
+27
+00:00:55,280 --> 00:01:00,320
+as usual after the seminar and that's
+
+28
+00:00:57,600 --> 00:01:04,400
+not going to be recorded
+
+29
+00:01:00,320 --> 00:01:06,720
+so um joining me in welcoming today's
+
+30
+00:01:04,400 --> 00:01:08,000
+speaker is andrey coster from saint
+
+31
+00:01:06,720 --> 00:01:11,200
+peter's book
+
+32
+00:01:08,000 --> 00:01:12,560
+some petersburg state university and
+
+33
+00:01:11,200 --> 00:01:15,040
+and andre is going to talk about
+
+34
+00:01:12,560 --> 00:01:16,159
+magnetic minerals in archaeological
+
+35
+00:01:15,040 --> 00:01:20,159
+ceramics
+
+36
+00:01:16,159 --> 00:01:24,479
+old wine skins and new wine
+
+37
+00:01:20,159 --> 00:01:25,520
+okay you're welcome to share your screen
+
+38
+00:01:24,479 --> 00:01:29,280
+i will myself
+
+39
+00:01:25,520 --> 00:01:29,280
+all right right moment
+
+40
+00:01:31,600 --> 00:01:40,240
+does it work now can you see my screen
+
+41
+00:01:35,680 --> 00:01:40,880
+yes thank you great thank you i needed
+
+42
+00:01:40,240 --> 00:01:43,280
+wakes
+
+43
+00:01:40,880 --> 00:01:43,920
+thank you very much for having me here
+
+44
+00:01:43,280 --> 00:01:46,799
+for making
+
+45
+00:01:43,920 --> 00:01:47,840
+the seminar and i would like to
+
+46
+00:01:46,799 --> 00:01:50,320
+acknowledge my
+
+47
+00:01:47,840 --> 00:01:51,119
+uh collaborators on this project from
+
+48
+00:01:50,320 --> 00:01:54,399
+sofia
+
+49
+00:01:51,119 --> 00:01:56,240
+maria castadine and maria
+
+50
+00:01:54,399 --> 00:01:57,920
+and my also my colleagues from saint
+
+51
+00:01:56,240 --> 00:02:00,399
+peter's
+
+52
+00:01:57,920 --> 00:02:02,320
+institute in saint petersburg and
+
+53
+00:02:00,399 --> 00:02:07,119
+through moscow
+
+54
+00:02:02,320 --> 00:02:10,560
+and as you as we all know the
+
+55
+00:02:07,119 --> 00:02:15,120
+empty electromagnetism is a
+
+56
+00:02:10,560 --> 00:02:18,800
+subject of geomagnetism with long and
+
+57
+00:02:15,120 --> 00:02:23,760
+distinguished history so
+
+58
+00:02:18,800 --> 00:02:28,719
+okay next slide yeah
+
+59
+00:02:23,760 --> 00:02:28,719
+[Music]
+
+60
+00:02:36,400 --> 00:02:40,000
+and the field
+
+61
+00:02:37,870 --> 00:02:44,319
+[Music]
+
+62
+00:02:40,000 --> 00:02:48,400
+and the field is uh alive and vibrant
+
+63
+00:02:44,319 --> 00:02:50,640
+uh these days and very recently
+
+64
+00:02:48,400 --> 00:02:52,000
+recently this month a feature article
+
+65
+00:02:50,640 --> 00:02:55,120
+has been published in
+
+66
+00:02:52,000 --> 00:02:58,879
+physics world which is a newsletter for
+
+67
+00:02:55,120 --> 00:03:00,400
+institute of physics uk which got very
+
+68
+00:02:58,879 --> 00:03:03,440
+appropriately digging up
+
+69
+00:03:00,400 --> 00:03:04,159
+magnetic clues and those clues um of
+
+70
+00:03:03,440 --> 00:03:08,840
+course the
+
+71
+00:03:04,159 --> 00:03:10,080
+behavior of the magnetic field of the
+
+72
+00:03:08,840 --> 00:03:13,040
+[Music]
+
+73
+00:03:10,080 --> 00:03:14,800
+centennial and millennial scale which is
+
+74
+00:03:13,040 --> 00:03:18,000
+of so much interest to
+
+75
+00:03:14,800 --> 00:03:21,120
+geodynamo model models but
+
+76
+00:03:18,000 --> 00:03:24,480
+one phrase in this otherwise very
+
+77
+00:03:21,120 --> 00:03:27,760
+very good readable account has
+
+78
+00:03:24,480 --> 00:03:31,040
+stopped my attention i read it
+
+79
+00:03:27,760 --> 00:03:32,159
+i know the field of archaeomagnetism
+
+80
+00:03:31,040 --> 00:03:35,840
+relies on the fact
+
+81
+00:03:32,159 --> 00:03:38,560
+that clay so uh
+
+82
+00:03:35,840 --> 00:03:39,120
+other materials containing magnetic
+
+83
+00:03:38,560 --> 00:03:43,040
+mirrors
+
+84
+00:03:39,120 --> 00:03:45,920
+usually magnetites and so forth and i
+
+85
+00:03:43,040 --> 00:03:47,120
+highlighted two words here which i don't
+
+86
+00:03:45,920 --> 00:03:48,580
+agree with
+
+87
+00:03:47,120 --> 00:03:50,480
+because
+
+88
+00:03:48,580 --> 00:03:54,560
+[Music]
+
+89
+00:03:50,480 --> 00:03:54,560
+definitely the materials that
+
+90
+00:03:54,879 --> 00:04:00,000
+conceited our artifacts do contain the
+
+91
+00:03:57,280 --> 00:04:02,720
+magnetic mirrors but uh
+
+92
+00:04:00,000 --> 00:04:03,920
+but but it's not always the case for for
+
+93
+00:04:02,720 --> 00:04:07,120
+the starting material
+
+94
+00:04:03,920 --> 00:04:08,640
+if we understand it this way and that's
+
+95
+00:04:07,120 --> 00:04:10,799
+the second and most serious
+
+96
+00:04:08,640 --> 00:04:13,040
+misconception is that
+
+97
+00:04:10,799 --> 00:04:14,640
+the this magnetic mirror is claimed to
+
+98
+00:04:13,040 --> 00:04:17,919
+be magnetite which is
+
+99
+00:04:14,640 --> 00:04:21,680
+which which is simply
+
+100
+00:04:17,919 --> 00:04:25,919
+not true in most in most cases
+
+101
+00:04:21,680 --> 00:04:29,120
+not in all cases i would i will see
+
+102
+00:04:25,919 --> 00:04:31,919
+come to it later but in most cases it's
+
+103
+00:04:29,120 --> 00:04:31,919
+true and so
+
+104
+00:04:32,240 --> 00:04:36,880
+this brings us back to the
+
+105
+00:04:35,460 --> 00:04:40,400
+[Music]
+
+106
+00:04:36,880 --> 00:04:43,600
+to the medium that keeps our records
+
+107
+00:04:40,400 --> 00:04:45,120
+and without which we could not have this
+
+108
+00:04:43,600 --> 00:04:47,120
+record at all
+
+109
+00:04:45,120 --> 00:04:48,720
+this brings up to the magnetic
+
+110
+00:04:47,120 --> 00:04:52,400
+meterology of the
+
+111
+00:04:48,720 --> 00:04:57,919
+archaeological artifacts and it's a bit
+
+112
+00:04:52,400 --> 00:05:00,400
+it came to me as a bit of surprise that
+
+113
+00:04:57,919 --> 00:05:02,240
+when i started working on this topic
+
+114
+00:05:00,400 --> 00:05:04,960
+that
+
+115
+00:05:02,240 --> 00:05:08,000
+the serious attention to the magnetic
+
+116
+00:05:04,960 --> 00:05:08,000
+meteorology has
+
+117
+00:05:08,400 --> 00:05:15,919
+has not begun until near approximately
+
+118
+00:05:12,000 --> 00:05:19,919
+mid 90s when these three papers
+
+119
+00:05:15,919 --> 00:05:19,919
+with this
+
+120
+00:05:20,720 --> 00:05:29,600
+italian titles have been published and
+
+121
+00:05:25,120 --> 00:05:34,960
+at that time and even the first
+
+122
+00:05:29,600 --> 00:05:34,960
+experiments has shown that
+
+123
+00:05:35,440 --> 00:05:39,680
+something very very different from what
+
+124
+00:05:39,039 --> 00:05:42,240
+we
+
+125
+00:05:39,680 --> 00:05:44,720
+normally expect in environment examples
+
+126
+00:05:42,240 --> 00:05:48,400
+is often observed in
+
+127
+00:05:44,720 --> 00:05:51,440
+artifacts in this figure you can see the
+
+128
+00:05:48,400 --> 00:05:54,479
+one of the samples from huge
+
+129
+00:05:51,440 --> 00:05:57,600
+collection kept in sofia
+
+130
+00:05:54,479 --> 00:06:00,880
+and the three axis lower
+
+131
+00:05:57,600 --> 00:06:02,990
+test shows a very uh
+
+132
+00:06:00,880 --> 00:06:04,720
+tremendous drop of heart
+
+133
+00:06:02,990 --> 00:06:08,560
+[Music]
+
+134
+00:06:04,720 --> 00:06:11,199
+to tesla component of monetization below
+
+135
+00:06:08,560 --> 00:06:12,319
+below something like 240 degrees
+
+136
+00:06:11,199 --> 00:06:15,600
+centigrade
+
+137
+00:06:12,319 --> 00:06:21,840
+and if then if you look at the
+
+138
+00:06:15,600 --> 00:06:21,840
+irm acquisition curve we see that um
+
+139
+00:06:24,319 --> 00:06:26,960
+we see that
+
+140
+00:06:27,360 --> 00:06:32,000
+at least half of the monetization is
+
+141
+00:06:31,280 --> 00:06:35,039
+acquired
+
+142
+00:06:32,000 --> 00:06:38,400
+above 300 milli test
+
+143
+00:06:35,039 --> 00:06:39,759
+at that time the authors
+
+144
+00:06:38,400 --> 00:06:42,880
+[Music]
+
+145
+00:06:39,759 --> 00:06:44,400
+preferred the preferred to call this
+
+146
+00:06:42,880 --> 00:06:46,160
+phase geotight
+
+147
+00:06:44,400 --> 00:06:48,080
+which is of course cannot be true
+
+148
+00:06:46,160 --> 00:06:51,199
+because since
+
+149
+00:06:48,080 --> 00:06:52,319
+then this brick would consist 50 percent
+
+150
+00:06:51,199 --> 00:06:55,360
+of good height
+
+151
+00:06:52,319 --> 00:06:58,639
+which is which
+
+152
+00:06:55,360 --> 00:07:02,639
+which is not possible of course and
+
+153
+00:06:58,639 --> 00:07:06,319
+so we have to seek for um
+
+154
+00:07:02,639 --> 00:07:09,360
+alternative explanations so that
+
+155
+00:07:06,319 --> 00:07:13,120
+that's it for it and it took another
+
+156
+00:07:09,360 --> 00:07:16,080
+roughly 10 years that this phase
+
+157
+00:07:13,120 --> 00:07:18,400
+demagnetizing below 200 degree
+
+158
+00:07:16,080 --> 00:07:20,800
+centigrade it has
+
+159
+00:07:18,400 --> 00:07:23,520
+has been recognized as a separate entity
+
+160
+00:07:20,800 --> 00:07:25,199
+and called high conservative
+
+161
+00:07:23,520 --> 00:07:27,440
+thermally stable low and working
+
+162
+00:07:25,199 --> 00:07:31,759
+temperature magnetic phase by
+
+163
+00:07:27,440 --> 00:07:34,880
+making persian dollars and
+
+164
+00:07:31,759 --> 00:07:39,039
+more recent studies has shown that this
+
+165
+00:07:34,880 --> 00:07:42,400
+this phase is uh very often seen in
+
+166
+00:07:39,039 --> 00:07:46,319
+in bricks tiles portraits
+
+167
+00:07:42,400 --> 00:07:50,560
+and so forth from
+
+168
+00:07:46,319 --> 00:07:53,840
+many locations around even more recently
+
+169
+00:07:50,560 --> 00:07:57,120
+spanish groups joined with america
+
+170
+00:07:53,840 --> 00:08:01,039
+again they has suggested they
+
+171
+00:07:57,120 --> 00:08:05,919
+have suggested that this
+
+172
+00:08:01,039 --> 00:08:07,680
+h acslt phase could be
+
+173
+00:08:05,919 --> 00:08:10,240
+it could be related to a particular
+
+174
+00:08:07,680 --> 00:08:10,960
+polymorphic form of iron three oxide
+
+175
+00:08:10,240 --> 00:08:14,639
+which is called
+
+176
+00:08:10,960 --> 00:08:17,120
+epsilon iron three oxide
+
+177
+00:08:14,639 --> 00:08:18,400
+okay just uh to summarize this
+
+178
+00:08:17,120 --> 00:08:21,680
+introduction
+
+179
+00:08:18,400 --> 00:08:23,680
+um what do we know from
+
+180
+00:08:21,680 --> 00:08:26,240
+about the magnetic neurology of
+
+181
+00:08:23,680 --> 00:08:30,080
+archaeological artifacts
+
+182
+00:08:26,240 --> 00:08:33,200
+they all they always contain a soft
+
+183
+00:08:30,080 --> 00:08:37,279
+magnetically soft face and uh
+
+184
+00:08:33,200 --> 00:08:41,839
+very often one or two magnetically hard
+
+185
+00:08:37,279 --> 00:08:41,839
+phrases for magnetic
+
+186
+00:08:45,870 --> 00:08:49,039
+[Music]
+
+187
+00:08:53,200 --> 00:08:59,920
+magnetic analysis normally a yoga yield
+
+188
+00:08:57,040 --> 00:09:00,640
+yields security temperatures around
+
+189
+00:08:59,920 --> 00:09:02,560
+above
+
+190
+00:09:00,640 --> 00:09:04,560
+500 degrees centigrade which is
+
+191
+00:09:02,560 --> 00:09:09,279
+compatible with many type of
+
+192
+00:09:04,560 --> 00:09:11,839
+she might but on the other hand
+
+193
+00:09:09,279 --> 00:09:14,320
+the very transition which is would be
+
+194
+00:09:11,839 --> 00:09:17,360
+indicative of stopping
+
+195
+00:09:14,320 --> 00:09:21,360
+has been seldom reported
+
+196
+00:09:17,360 --> 00:09:23,680
+never reported from ceramics and finally
+
+197
+00:09:21,360 --> 00:09:24,800
+they allow three exercise and tests to
+
+198
+00:09:23,680 --> 00:09:28,080
+reduce
+
+199
+00:09:24,800 --> 00:09:28,480
+the quite often reveals the magnetic in
+
+200
+00:09:28,080 --> 00:09:30,959
+the
+
+201
+00:09:28,480 --> 00:09:34,000
+heart face without walking temperatures
+
+202
+00:09:30,959 --> 00:09:37,680
+around two below 200 degrees centigrade
+
+203
+00:09:34,000 --> 00:09:41,580
+sometimes like
+
+204
+00:09:37,680 --> 00:09:43,360
+so instead of
+
+205
+00:09:41,580 --> 00:09:47,040
+[Music]
+
+206
+00:09:43,360 --> 00:09:50,080
+sometimes single minerals examples we
+
+207
+00:09:47,040 --> 00:09:52,000
+have to deal with at least three
+
+208
+00:09:50,080 --> 00:09:55,200
+magnetic phases which uh
+
+209
+00:09:52,000 --> 00:09:58,959
+magnetic maximize hematite and
+
+210
+00:09:55,200 --> 00:10:01,120
+also a this hc slt phase
+
+211
+00:09:58,959 --> 00:10:02,560
+all mixed in various proportions
+
+212
+00:10:01,120 --> 00:10:05,680
+depending on
+
+213
+00:10:02,560 --> 00:10:08,720
+and so um on the
+
+214
+00:10:05,680 --> 00:10:11,680
+uh yet another consideration is that
+
+215
+00:10:08,720 --> 00:10:12,720
+uh starting material for making ceramics
+
+216
+00:10:11,680 --> 00:10:18,320
+doesn't contain
+
+217
+00:10:12,720 --> 00:10:18,320
+those minerals nobody well nobody knows
+
+218
+00:10:23,140 --> 00:10:28,480
+[Music]
+
+219
+00:10:25,680 --> 00:10:29,440
+and so those magnetic phases has has to
+
+220
+00:10:28,480 --> 00:10:32,880
+be produced
+
+221
+00:10:29,440 --> 00:10:36,000
+during the firing process
+
+222
+00:10:32,880 --> 00:10:39,440
+uh whether it was intentional or not
+
+223
+00:10:36,000 --> 00:10:42,959
+and so we can hope that uh
+
+224
+00:10:39,440 --> 00:10:45,680
+by by investigating the language
+
+225
+00:10:42,959 --> 00:10:47,920
+we can learn something about the making
+
+226
+00:10:45,680 --> 00:10:51,040
+of the manufacturing
+
+227
+00:10:47,920 --> 00:10:53,200
+process as well so
+
+228
+00:10:51,040 --> 00:10:55,920
+this was a background of our project
+
+229
+00:10:53,200 --> 00:10:58,800
+that's used to
+
+230
+00:10:55,920 --> 00:11:00,079
+the samples back wait wait for a break
+
+231
+00:10:58,800 --> 00:11:04,560
+from archaeological
+
+232
+00:11:00,079 --> 00:11:08,399
+sites in bulgaria very rich
+
+233
+00:11:04,560 --> 00:11:11,839
+they have very rich selection
+
+234
+00:11:08,399 --> 00:11:14,930
+in there and also some breaks from
+
+235
+00:11:11,839 --> 00:11:16,240
+more recent times in russia
+
+236
+00:11:14,930 --> 00:11:19,519
+[Music]
+
+237
+00:11:16,240 --> 00:11:21,839
+mostly the second meeting in bc
+
+238
+00:11:19,519 --> 00:11:23,360
+andre i apologize for interrupting but
+
+239
+00:11:21,839 --> 00:11:25,360
+um could you talk just
+
+240
+00:11:23,360 --> 00:11:29,839
+um facing forward to the microphone it's
+
+241
+00:11:25,360 --> 00:11:29,839
+just it's yeah
+
+242
+00:11:32,880 --> 00:11:37,120
+yeah the hearing is a bit problematic
+
+243
+00:11:34,880 --> 00:11:40,399
+yeah okay i'll try
+
+244
+00:11:37,120 --> 00:11:41,600
+yeah and the methods we we used apart
+
+245
+00:11:40,399 --> 00:11:45,120
+from the standard
+
+246
+00:11:41,600 --> 00:11:48,480
+error magnesium method both the irm
+
+247
+00:11:45,120 --> 00:11:51,120
+acquisition and dc demagnetization
+
+248
+00:11:48,480 --> 00:11:52,320
+curves measured at high temperatures up
+
+249
+00:11:51,120 --> 00:11:55,600
+to
+
+250
+00:11:52,320 --> 00:11:58,000
+well up to above 600 but actually it
+
+251
+00:11:55,600 --> 00:12:01,839
+depends on the sample of course
+
+252
+00:11:58,000 --> 00:12:04,399
+also we measured some magnetic curves
+
+253
+00:12:01,839 --> 00:12:05,839
+in the cryogenic temperature range from
+
+254
+00:12:04,399 --> 00:12:08,000
+two kelvin to
+
+255
+00:12:05,839 --> 00:12:10,639
+room temperature and also acquired the
+
+256
+00:12:08,000 --> 00:12:13,839
+hysteresis loops and dcd curves
+
+257
+00:12:10,639 --> 00:12:14,639
+will filter the several tesla fields
+
+258
+00:12:13,839 --> 00:12:18,160
+which is
+
+259
+00:12:14,639 --> 00:12:21,600
+which is essential uh when i'm working
+
+260
+00:12:18,160 --> 00:12:25,040
+with syrix now
+
+261
+00:12:21,600 --> 00:12:28,720
+briefly to the results and here
+
+262
+00:12:25,040 --> 00:12:31,360
+you can see the room temperature uh
+
+263
+00:12:28,720 --> 00:12:31,760
+seven tesla heights with this loops so
+
+264
+00:12:31,360 --> 00:12:34,800
+uh
+
+265
+00:12:31,760 --> 00:12:39,040
+roll side black correct uh
+
+266
+00:12:34,800 --> 00:12:39,040
+corrected for hyphen slope i
+
+267
+00:12:40,000 --> 00:12:44,959
+immediately see that uh this hot face is
+
+268
+00:12:43,440 --> 00:12:48,160
+really hard
+
+269
+00:12:44,959 --> 00:12:50,320
+we we don't saturate the monetization
+
+270
+00:12:48,160 --> 00:12:50,720
+even in seven tesla fields and the loops
+
+271
+00:12:50,320 --> 00:12:54,480
+are
+
+272
+00:12:50,720 --> 00:12:57,680
+open until until three or four tesla
+
+273
+00:12:54,480 --> 00:13:00,880
+and of course uh just comparing
+
+274
+00:12:57,680 --> 00:13:04,880
+the comparing the figurative
+
+275
+00:13:00,880 --> 00:13:07,200
+points that they plot from
+
+276
+00:13:04,880 --> 00:13:07,920
+seven tesla loops and from one point
+
+277
+00:13:07,200 --> 00:13:10,560
+eight test
+
+278
+00:13:07,920 --> 00:13:11,600
+loops we can see that the name for uh
+
+279
+00:13:10,560 --> 00:13:15,519
+for the same
+
+280
+00:13:11,600 --> 00:13:18,320
+for the same specimen they could uh
+
+281
+00:13:15,519 --> 00:13:19,279
+plot in quite different parts of the
+
+282
+00:13:18,320 --> 00:13:22,480
+diet
+
+283
+00:13:19,279 --> 00:13:25,279
+and about the only
+
+284
+00:13:22,480 --> 00:13:25,839
+thing about the only thing in common is
+
+285
+00:13:25,279 --> 00:13:29,120
+that
+
+286
+00:13:25,839 --> 00:13:31,800
+we have relatively high mls over
+
+287
+00:13:29,120 --> 00:13:34,639
+medication and relatively high
+
+288
+00:13:31,800 --> 00:13:37,760
+acidity we should expect
+
+289
+00:13:34,639 --> 00:13:41,120
+from a mixture of soft and hard faces
+
+290
+00:13:37,760 --> 00:13:43,440
+so now
+
+291
+00:13:41,120 --> 00:13:43,440
+more
+
+292
+00:13:44,240 --> 00:13:49,839
+more advances
+
+293
+00:13:50,560 --> 00:13:59,040
+monetization versus temperature here
+
+294
+00:13:55,279 --> 00:14:00,250
+here i plot srm and higher which is the
+
+295
+00:13:59,040 --> 00:14:01,680
+simpler
+
+296
+00:14:00,250 --> 00:14:03,839
+[Music]
+
+297
+00:14:01,680 --> 00:14:03,839
+part
+
+298
+00:14:07,390 --> 00:14:10,460
+[Music]
+
+299
+00:14:15,199 --> 00:14:23,199
+are their ratio and we can see that the
+
+300
+00:14:20,079 --> 00:14:25,120
+in this uh
+
+301
+00:14:23,199 --> 00:14:27,199
+those samples those samples from
+
+302
+00:14:25,120 --> 00:14:30,800
+bulgaria were selected specifically
+
+303
+00:14:27,199 --> 00:14:33,600
+to contain the hcs phase
+
+304
+00:14:30,800 --> 00:14:34,800
+but still we can see that they behave
+
+305
+00:14:33,600 --> 00:14:38,240
+they all
+
+306
+00:14:34,800 --> 00:14:41,920
+have this decrease of uh
+
+307
+00:14:38,240 --> 00:14:44,720
+hrms elimination towards
+
+308
+00:14:41,920 --> 00:14:46,079
+200 centigrade but afterwards the
+
+309
+00:14:44,720 --> 00:14:49,839
+behavior could be
+
+310
+00:14:46,079 --> 00:14:51,120
+quite different and in at least three of
+
+311
+00:14:49,839 --> 00:14:54,320
+these samples
+
+312
+00:14:51,120 --> 00:14:58,320
+we also have a significant
+
+313
+00:14:54,320 --> 00:15:01,440
+hematite phase about the same in
+
+314
+00:14:58,320 --> 00:15:04,480
+in two out of four samples from
+
+315
+00:15:01,440 --> 00:15:07,920
+uh russia sampled in uh
+
+316
+00:15:04,480 --> 00:15:11,120
+near yara's level but
+
+317
+00:15:07,920 --> 00:15:12,000
+there are also other samples that's that
+
+318
+00:15:11,120 --> 00:15:14,480
+are magnetic
+
+319
+00:15:12,000 --> 00:15:15,360
+also magnetically hard but still they
+
+320
+00:15:14,480 --> 00:15:18,399
+don't have
+
+321
+00:15:15,360 --> 00:15:22,079
+much of the hcl something okay
+
+322
+00:15:18,399 --> 00:15:26,800
+and have something like substituted
+
+323
+00:15:22,079 --> 00:15:26,800
+quite strongly substituted hematite
+
+324
+00:15:32,320 --> 00:15:38,639
+up to about maybe 300 or
+
+325
+00:15:35,440 --> 00:15:41,759
+400 degrees centigrade and then it
+
+326
+00:15:38,639 --> 00:15:44,880
+goes steadily down so it should
+
+327
+00:15:41,759 --> 00:15:46,000
+must be some form of some form of hammer
+
+328
+00:15:44,880 --> 00:15:49,120
+effect
+
+329
+00:15:46,000 --> 00:15:52,880
+now just with the
+
+330
+00:15:49,120 --> 00:15:53,440
+if we look at the temperature dependence
+
+331
+00:15:52,880 --> 00:15:57,360
+of the
+
+332
+00:15:53,440 --> 00:15:59,519
+caustivity uh we know in the hcs
+
+333
+00:15:57,360 --> 00:16:00,720
+anti-phases where a phase which is the
+
+334
+00:15:59,519 --> 00:16:03,519
+way it is
+
+335
+00:16:00,720 --> 00:16:04,959
+the most interesting we can say we can
+
+336
+00:16:03,519 --> 00:16:07,440
+typically observe
+
+337
+00:16:04,959 --> 00:16:08,160
+we typically observe the behavior that's
+
+338
+00:16:07,440 --> 00:16:10,959
+the
+
+339
+00:16:08,160 --> 00:16:12,639
+cause of force drops quite sharply
+
+340
+00:16:10,959 --> 00:16:16,160
+between
+
+341
+00:16:12,639 --> 00:16:19,360
+uh 40 degree centigrade and 160 and then
+
+342
+00:16:16,160 --> 00:16:22,560
+a little little sound and the
+
+343
+00:16:19,360 --> 00:16:25,759
+anatomy of these behaviors that is
+
+344
+00:16:22,560 --> 00:16:27,839
+is very straightforward in at room
+
+345
+00:16:25,759 --> 00:16:31,279
+temperature and
+
+346
+00:16:27,839 --> 00:16:34,160
+slightly above where the
+
+347
+00:16:31,279 --> 00:16:35,360
+zero magnetization axis is caused in the
+
+348
+00:16:34,160 --> 00:16:39,759
+heart phase
+
+349
+00:16:35,360 --> 00:16:44,320
+but starting at approximately
+
+350
+00:16:39,759 --> 00:16:48,720
+probably at 180 which is shown there is
+
+351
+00:16:44,320 --> 00:16:51,120
+a bold yellow yellow curve
+
+352
+00:16:48,720 --> 00:16:52,639
+the the crossing occurs already in the
+
+353
+00:16:51,120 --> 00:16:56,000
+soft phase
+
+354
+00:16:52,639 --> 00:16:58,800
+and uh so the costs
+
+355
+00:16:56,000 --> 00:17:01,040
+above 1 180 are more almost
+
+356
+00:16:58,800 --> 00:17:04,319
+indistinguishable
+
+357
+00:17:01,040 --> 00:17:08,079
+so my uh my favorite
+
+358
+00:17:04,319 --> 00:17:08,319
+my otherwise favorite uh technique they
+
+359
+00:17:08,079 --> 00:17:12,160
+will
+
+360
+00:17:08,319 --> 00:17:13,199
+tell them unfortunately for ceramics it
+
+361
+00:17:12,160 --> 00:17:18,880
+does not produce
+
+362
+00:17:13,199 --> 00:17:21,919
+anything uh
+
+363
+00:17:18,880 --> 00:17:25,439
+evidence for what these phases are
+
+364
+00:17:21,919 --> 00:17:28,959
+apart from maybe the uh
+
+365
+00:17:25,439 --> 00:17:28,959
+from hematite
+
+366
+00:17:29,120 --> 00:17:36,799
+maybe hematite in 2020
+
+367
+00:17:33,280 --> 00:17:41,919
+and to sum up
+
+368
+00:17:36,799 --> 00:17:44,080
+we do have acslt phase and
+
+369
+00:17:41,919 --> 00:17:46,230
+another the second part of the talk
+
+370
+00:17:44,080 --> 00:17:49,279
+would be
+
+371
+00:17:46,230 --> 00:17:49,279
+[Music]
+
+372
+00:17:51,840 --> 00:17:59,600
+and so just
+
+373
+00:17:56,480 --> 00:18:02,880
+epsilon iron oxide as i've known
+
+374
+00:17:59,600 --> 00:18:06,400
+the material science
+
+375
+00:18:02,880 --> 00:18:09,679
+is a peculiar uh polymorphic
+
+376
+00:18:06,400 --> 00:18:12,880
+form of iron three oxide
+
+377
+00:18:09,679 --> 00:18:15,039
+which crystallizes in the earth often on
+
+378
+00:18:12,880 --> 00:18:15,039
+the
+
+379
+00:18:19,630 --> 00:18:25,930
+[Music]
+
+380
+00:18:26,960 --> 00:18:33,280
+at room temperature exceeding one
+
+381
+00:18:30,640 --> 00:18:34,400
+exceeding two teslas in most perfect
+
+382
+00:18:33,280 --> 00:18:38,559
+cells
+
+383
+00:18:34,400 --> 00:18:41,200
+and in this very carefully orchestrated
+
+384
+00:18:38,559 --> 00:18:41,200
+synthesis
+
+385
+00:18:46,170 --> 00:18:49,209
+[Music]
+
+386
+00:18:50,720 --> 00:18:57,360
+one can obtain uh four
+
+387
+00:18:53,919 --> 00:19:00,960
+uh four polymorphic forms of iron iii or
+
+388
+00:18:57,360 --> 00:19:03,360
+oxide depending on the uh
+
+389
+00:19:00,960 --> 00:19:04,240
+calcination temperature which is which
+
+390
+00:19:03,360 --> 00:19:08,000
+shows
+
+391
+00:19:04,240 --> 00:19:11,039
+here which is shown here with
+
+392
+00:19:08,000 --> 00:19:14,640
+numbers and another
+
+393
+00:19:11,039 --> 00:19:16,460
+important uh takeaway from this
+
+394
+00:19:14,640 --> 00:19:18,880
+from this study is that
+
+395
+00:19:16,460 --> 00:19:21,919
+[Music]
+
+396
+00:19:18,880 --> 00:19:25,760
+epsilon iron oxide has a very narrow
+
+397
+00:19:21,919 --> 00:19:27,840
+stability uh stability field in terms of
+
+398
+00:19:25,760 --> 00:19:32,240
+grain size
+
+399
+00:19:27,840 --> 00:19:35,360
+after the particles larger than
+
+400
+00:19:32,240 --> 00:19:39,280
+30 nanometers again
+
+401
+00:19:35,360 --> 00:19:42,799
+once again in this highly perfect
+
+402
+00:19:39,280 --> 00:19:45,919
+highly very perfect perfect
+
+403
+00:19:42,799 --> 00:19:49,600
+synthetic root particles
+
+404
+00:19:45,919 --> 00:19:52,880
+larger than 30 nanometers had become
+
+405
+00:19:49,600 --> 00:19:55,840
+unstable and transformed first
+
+406
+00:19:52,880 --> 00:19:58,160
+bitter iron outside and finally to
+
+407
+00:19:55,840 --> 00:19:58,160
+hammer
+
+408
+00:20:00,799 --> 00:20:07,440
+what is and
+
+409
+00:20:04,080 --> 00:20:08,080
+also the at that time to the temperature
+
+410
+00:20:07,440 --> 00:20:10,480
+of the
+
+411
+00:20:08,080 --> 00:20:12,000
+epson phase was believed to have to be
+
+412
+00:20:10,480 --> 00:20:15,919
+around 500
+
+413
+00:20:12,000 --> 00:20:15,919
+kelvin but it all um
+
+414
+00:20:16,240 --> 00:20:19,200
+it was cast
+
+415
+00:20:22,559 --> 00:20:25,840
+with this paper by garcia muniz and the
+
+416
+00:20:24,799 --> 00:20:28,240
+others who
+
+417
+00:20:25,840 --> 00:20:29,360
+who showed that in fact this feature is
+
+418
+00:20:28,240 --> 00:20:32,840
+not uh
+
+419
+00:20:29,360 --> 00:20:34,720
+is not a real curry temperature but
+
+420
+00:20:32,840 --> 00:20:37,360
+rather
+
+421
+00:20:34,720 --> 00:20:38,080
+the temperature which shows where the
+
+422
+00:20:37,360 --> 00:20:42,000
+transition
+
+423
+00:20:38,080 --> 00:20:44,559
+comes from between two phases
+
+424
+00:20:42,000 --> 00:20:45,919
+which which are both ordered very
+
+425
+00:20:44,559 --> 00:20:48,480
+magnetically but
+
+426
+00:20:45,919 --> 00:20:48,960
+in a different way and the absolute what
+
+427
+00:20:48,480 --> 00:20:52,000
+we
+
+428
+00:20:48,960 --> 00:20:55,600
+what is known as epsilon 3
+
+429
+00:20:52,000 --> 00:20:56,480
+absolute hard phrase it has much higher
+
+430
+00:20:55,600 --> 00:20:59,679
+magnetization
+
+431
+00:20:56,480 --> 00:21:01,840
+and much higher core series than the
+
+432
+00:20:59,679 --> 00:21:04,640
+high temperatures but still the high
+
+433
+00:21:01,840 --> 00:21:09,360
+temperature phase has according to
+
+434
+00:21:04,640 --> 00:21:09,360
+up to 40 million
+
+435
+00:21:10,320 --> 00:21:16,480
+and not not non-negligible
+
+436
+00:21:13,600 --> 00:21:17,440
+uh magnetization which might maybe of
+
+437
+00:21:16,480 --> 00:21:19,760
+importance in
+
+438
+00:21:17,440 --> 00:21:21,440
+in the context of archaeomagnetism of
+
+439
+00:21:19,760 --> 00:21:25,600
+course
+
+440
+00:21:21,440 --> 00:21:29,840
+so uh a bit more a bit more
+
+441
+00:21:25,600 --> 00:21:33,600
+from the literature at cryogenic
+
+442
+00:21:29,840 --> 00:21:37,520
+it's in a very straight strange way
+
+443
+00:21:33,600 --> 00:21:40,799
+it has a quite
+
+444
+00:21:37,520 --> 00:21:44,080
+decent coarsivity at 4 kelvin
+
+445
+00:21:40,799 --> 00:21:46,640
+about 700 milli tesla then
+
+446
+00:21:44,080 --> 00:21:47,520
+the hysteresis nearly collapses at
+
+447
+00:21:46,640 --> 00:21:51,360
+between
+
+448
+00:21:47,520 --> 00:21:52,159
+85 and 100 kelvin and then develops in
+
+449
+00:21:51,360 --> 00:21:54,120
+the
+
+450
+00:21:52,159 --> 00:21:56,080
+group which is
+
+451
+00:21:54,120 --> 00:21:59,360
+[Music]
+
+452
+00:21:56,080 --> 00:22:01,440
+which is a trademark of this
+
+453
+00:21:59,360 --> 00:22:02,799
+iron oxide at room temperature the
+
+454
+00:22:01,440 --> 00:22:07,440
+facilities
+
+455
+00:22:02,799 --> 00:22:10,870
+as i talked about to test the
+
+456
+00:22:07,440 --> 00:22:13,960
+susceptibility versus temperature of the
+
+457
+00:22:10,870 --> 00:22:13,960
+[Music]
+
+458
+00:22:25,360 --> 00:22:28,880
+temperature depends it would be
+
+459
+00:22:29,540 --> 00:22:37,280
+[Music]
+
+460
+00:22:32,400 --> 00:22:37,280
+could probably serve as a uh
+
+461
+00:22:37,760 --> 00:22:40,960
+as a discriminant for
+
+462
+00:22:52,480 --> 00:22:58,799
+started with a
+
+463
+00:22:55,919 --> 00:22:59,200
+highest resistance measurement and it
+
+464
+00:22:58,799 --> 00:23:01,679
+has
+
+465
+00:22:59,200 --> 00:23:03,120
+much smaller cursivity but still the
+
+466
+00:23:01,679 --> 00:23:06,840
+corset is
+
+467
+00:23:03,120 --> 00:23:08,159
+above 100 milli tesla apart apart from
+
+468
+00:23:06,840 --> 00:23:11,600
+this
+
+469
+00:23:08,159 --> 00:23:14,640
+range around 100k and
+
+470
+00:23:11,600 --> 00:23:17,919
+so even so that means that
+
+471
+00:23:14,640 --> 00:23:20,320
+even the smallest epsilon particles
+
+472
+00:23:17,919 --> 00:23:20,320
+could be
+
+473
+00:23:20,480 --> 00:23:24,640
+it could carry the magnetic signal at
+
+474
+00:23:22,480 --> 00:23:28,880
+room temperature
+
+475
+00:23:24,640 --> 00:23:31,120
+so all this
+
+476
+00:23:28,880 --> 00:23:34,720
+all these previous measurements have
+
+477
+00:23:31,120 --> 00:23:37,440
+been done at highly perfect
+
+478
+00:23:34,720 --> 00:23:39,039
+highly perfect material using the
+
+479
+00:23:37,440 --> 00:23:41,919
+approaches that are
+
+480
+00:23:39,039 --> 00:23:43,520
+common in magnetic material sense and so
+
+481
+00:23:41,919 --> 00:23:46,880
+we decided to
+
+482
+00:23:43,520 --> 00:23:50,880
+perhaps that perhaps we could produce
+
+483
+00:23:46,880 --> 00:23:54,000
+less perfect and
+
+484
+00:23:50,880 --> 00:23:55,200
+the less perfect material that would
+
+485
+00:23:54,000 --> 00:23:58,720
+resemble
+
+486
+00:23:55,200 --> 00:24:01,200
+the archaeomagnetic sample a bit more
+
+487
+00:23:58,720 --> 00:24:02,080
+and so we did we did that using the
+
+488
+00:24:01,200 --> 00:24:04,960
+quick and
+
+489
+00:24:02,080 --> 00:24:06,320
+dirty method so in which where the
+
+490
+00:24:04,960 --> 00:24:08,720
+silica gels were
+
+491
+00:24:06,320 --> 00:24:11,200
+impregnated two different silica gels
+
+492
+00:24:08,720 --> 00:24:13,919
+were impregnated with a precursor
+
+493
+00:24:11,200 --> 00:24:14,320
+on the precursor and then they cosined
+
+494
+00:24:13,919 --> 00:24:18,240
+at
+
+495
+00:24:14,320 --> 00:24:22,080
+900 degrees centigrade for four hours
+
+496
+00:24:18,240 --> 00:24:22,480
+there you can see that depending on the
+
+497
+00:24:22,080 --> 00:24:26,080
+gel
+
+498
+00:24:22,480 --> 00:24:29,039
+you used the samples uh
+
+499
+00:24:26,080 --> 00:24:30,720
+different color but that one contains
+
+500
+00:24:29,039 --> 00:24:33,360
+obviously more hematite
+
+501
+00:24:30,720 --> 00:24:34,480
+as you can see in the thermo magnetic
+
+502
+00:24:33,360 --> 00:24:37,840
+curve
+
+503
+00:24:34,480 --> 00:24:41,039
+as well and that one contains uh
+
+504
+00:24:37,840 --> 00:24:44,159
+obviously less temperature and
+
+505
+00:24:41,039 --> 00:24:46,080
+we also we also see
+
+506
+00:24:44,159 --> 00:24:48,559
+that the transition temperature of
+
+507
+00:24:46,080 --> 00:24:52,880
+epsilon phase is a bit different
+
+508
+00:24:48,559 --> 00:24:55,679
+in these two cases but
+
+509
+00:24:52,880 --> 00:24:57,360
+the on the other hand they have to be
+
+510
+00:24:55,679 --> 00:25:00,960
+this properties
+
+511
+00:24:57,360 --> 00:25:03,120
+at room temperature has shown something
+
+512
+00:25:00,960 --> 00:25:04,480
+something really very very strange
+
+513
+00:25:03,120 --> 00:25:08,640
+particularly for this
+
+514
+00:25:04,480 --> 00:25:11,840
+bronzer for example it's well it's
+
+515
+00:25:08,640 --> 00:25:12,799
+more or less similar to what we would
+
+516
+00:25:11,840 --> 00:25:17,840
+expect
+
+517
+00:25:12,799 --> 00:25:21,200
+in serene in some ceramics at least
+
+518
+00:25:17,840 --> 00:25:25,200
+consider it is high but
+
+519
+00:25:21,200 --> 00:25:29,039
+but not as high as you as you would
+
+520
+00:25:25,200 --> 00:25:31,520
+expect for perfect synthetic capsule
+
+521
+00:25:29,039 --> 00:25:32,080
+epsilon phase conservative remnants is
+
+522
+00:25:31,520 --> 00:25:35,279
+also
+
+523
+00:25:32,080 --> 00:25:36,159
+quite high and higher than we normally
+
+524
+00:25:35,279 --> 00:25:39,679
+see
+
+525
+00:25:36,159 --> 00:25:41,120
+but otherwise this sample resembles a
+
+526
+00:25:39,679 --> 00:25:43,200
+little bit
+
+527
+00:25:41,120 --> 00:25:45,440
+a little bit the behavior we saw in
+
+528
+00:25:43,200 --> 00:25:45,440
+there
+
+529
+00:25:45,679 --> 00:25:48,720
+in the surrounding circles but the brown
+
+530
+00:25:48,159 --> 00:25:51,919
+sample
+
+531
+00:25:48,720 --> 00:25:52,799
+is a is an enigma for for us at the
+
+532
+00:25:51,919 --> 00:25:56,000
+moment
+
+533
+00:25:52,799 --> 00:25:59,919
+and uh i i plotted it here just
+
+534
+00:25:56,000 --> 00:26:03,120
+uh just to show what could happen
+
+535
+00:25:59,919 --> 00:26:05,520
+uh and obviously
+
+536
+00:26:03,120 --> 00:26:05,520
+it has
+
+537
+00:26:06,559 --> 00:26:12,000
+we can see here the result of uh
+
+538
+00:26:12,320 --> 00:26:18,480
+coexistence of uh
+
+539
+00:26:15,679 --> 00:26:21,200
+two phases with extremely contrasting
+
+540
+00:26:18,480 --> 00:26:24,240
+coercivity the recursive force
+
+541
+00:26:21,200 --> 00:26:27,919
+on the major loop is about
+
+542
+00:26:24,240 --> 00:26:31,600
+four marker tesla but the loop is
+
+543
+00:26:27,919 --> 00:26:34,159
+uh remains open up to four uh
+
+544
+00:26:31,600 --> 00:26:35,360
+sorry milli tesla of course the military
+
+545
+00:26:34,159 --> 00:26:39,039
+but the loop itself
+
+546
+00:26:35,360 --> 00:26:43,440
+remains open uh
+
+547
+00:26:39,039 --> 00:26:46,960
+up to four tests and
+
+548
+00:26:43,440 --> 00:26:47,840
+on the other hand okay from here we
+
+549
+00:26:46,960 --> 00:26:51,840
+could
+
+550
+00:26:47,840 --> 00:26:54,799
+we could hope that red sample could be
+
+551
+00:26:51,840 --> 00:26:56,000
+some kind of analog to archaeological
+
+552
+00:26:54,799 --> 00:26:59,679
+samples
+
+553
+00:26:56,000 --> 00:27:03,039
+brown sample problem is probably
+
+554
+00:26:59,679 --> 00:27:07,039
+uh not so good and i like because
+
+555
+00:27:03,039 --> 00:27:07,039
+no and nobody would see we
+
+556
+00:27:08,300 --> 00:27:11,859
+[Music]
+
+557
+00:27:15,200 --> 00:27:21,000
+temperature the measurement
+
+558
+00:27:19,200 --> 00:27:22,880
+graduating temperature
+
+559
+00:27:21,000 --> 00:27:26,080
+[Music]
+
+560
+00:27:22,880 --> 00:27:29,440
+shows that uh red sample shows both
+
+561
+00:27:26,080 --> 00:27:32,640
+more in tradition what would expect
+
+562
+00:27:29,440 --> 00:27:36,159
+and also this this maximum at
+
+563
+00:27:32,640 --> 00:27:37,760
+around 100 cannon could be related to
+
+564
+00:27:36,159 --> 00:27:39,919
+absolute phase
+
+565
+00:27:37,760 --> 00:27:40,799
+on the other hand low temperature curves
+
+566
+00:27:39,919 --> 00:27:43,050
+are
+
+567
+00:27:40,799 --> 00:27:44,799
+nearly featureless so if you
+
+568
+00:27:43,050 --> 00:27:46,960
+[Applause]
+
+569
+00:27:44,799 --> 00:27:50,480
+inspect them closely you'll see some
+
+570
+00:27:46,960 --> 00:27:53,679
+plateau around 100 and some kind of
+
+571
+00:27:50,480 --> 00:27:54,559
+transition signal some kind of signature
+
+572
+00:27:53,679 --> 00:27:57,760
+for
+
+573
+00:27:54,559 --> 00:27:58,480
+transition but nothing else brown sample
+
+574
+00:27:57,760 --> 00:28:01,760
+is
+
+575
+00:27:58,480 --> 00:28:02,880
+absolutely crazy and i don't i still
+
+576
+00:28:01,760 --> 00:28:05,520
+don't know if it's
+
+577
+00:28:02,880 --> 00:28:06,399
+the instrumental artifact or not but
+
+578
+00:28:05,520 --> 00:28:11,200
+just to
+
+579
+00:28:06,399 --> 00:28:15,360
+i'm showing just to for uh
+
+580
+00:28:11,200 --> 00:28:19,360
+to account for this to account for this
+
+581
+00:28:15,360 --> 00:28:24,559
+for this particular experiment okay
+
+582
+00:28:19,360 --> 00:28:28,840
+now uh we can also compare the
+
+583
+00:28:24,559 --> 00:28:30,880
+results of our archaeology magnetic
+
+584
+00:28:28,840 --> 00:28:34,159
+samples
+
+585
+00:28:30,880 --> 00:28:37,360
+directly with no with known
+
+586
+00:28:34,159 --> 00:28:39,279
+data for for statistics using the
+
+587
+00:28:37,360 --> 00:28:41,840
+hysteresis measurements at graduate
+
+588
+00:28:39,279 --> 00:28:46,799
+temperature we did that for uh
+
+589
+00:28:41,840 --> 00:28:50,000
+for a few samples and for all of them
+
+590
+00:28:46,799 --> 00:28:52,159
+we see just a monotonous decrease of
+
+591
+00:28:50,000 --> 00:28:55,120
+coarsivity between five kelvin and true
+
+592
+00:28:52,159 --> 00:28:55,120
+temperature nothing
+
+593
+00:28:55,200 --> 00:29:03,600
+no collapse of high speed and also the
+
+594
+00:28:59,919 --> 00:29:06,960
+the remnants uh deduced from
+
+595
+00:29:03,600 --> 00:29:09,760
+customers slope follows very closely the
+
+596
+00:29:06,960 --> 00:29:10,840
+dk curves of the of the raman is given
+
+597
+00:29:09,760 --> 00:29:16,080
+at
+
+598
+00:29:10,840 --> 00:29:16,080
+1.8 tesla so
+
+599
+00:29:17,840 --> 00:29:22,159
+there there seem to be quite a
+
+600
+00:29:20,640 --> 00:29:25,360
+discordance between
+
+601
+00:29:22,159 --> 00:29:26,399
+the observations done on synthetic
+
+602
+00:29:25,360 --> 00:29:30,080
+epsilon
+
+603
+00:29:26,399 --> 00:29:34,399
+epsilon iron oxide and on
+
+604
+00:29:30,080 --> 00:29:35,780
+ceramic ceramic samples respectively
+
+605
+00:29:34,399 --> 00:29:37,520
+one possible way to
+
+606
+00:29:35,780 --> 00:29:41,840
+[Music]
+
+607
+00:29:37,520 --> 00:29:41,840
+resolve it to to
+
+608
+00:29:44,320 --> 00:29:50,399
+bring this this data to close
+
+609
+00:29:47,440 --> 00:29:52,640
+to closer agreement is to suppose that
+
+610
+00:29:50,399 --> 00:29:52,640
+uh
+
+611
+00:29:53,520 --> 00:29:59,520
+epsilon facing the
+
+612
+00:29:56,640 --> 00:30:00,720
+archaeological samples is i finally
+
+613
+00:29:59,520 --> 00:30:03,279
+substituted
+
+614
+00:30:00,720 --> 00:30:04,559
+this battle but this of course needs
+
+615
+00:30:03,279 --> 00:30:08,720
+further
+
+616
+00:30:04,559 --> 00:30:09,919
+investigation now much look for epsilon
+
+617
+00:30:08,720 --> 00:30:13,760
+phase and
+
+618
+00:30:09,919 --> 00:30:17,039
+we are getting back to magnetite and um
+
+619
+00:30:13,760 --> 00:30:19,919
+just maybe one month ago i would i would
+
+620
+00:30:17,039 --> 00:30:22,000
+say magnetite is never observed in
+
+621
+00:30:19,919 --> 00:30:26,000
+archaeological circles but
+
+622
+00:30:22,000 --> 00:30:29,679
+never say never recently they started a
+
+623
+00:30:26,000 --> 00:30:32,559
+few a few samples from
+
+624
+00:30:29,679 --> 00:30:33,679
+ireland page sites in bulgaria and they
+
+625
+00:30:32,559 --> 00:30:37,840
+are
+
+626
+00:30:33,679 --> 00:30:40,559
+they showed quite nice the retransition
+
+627
+00:30:37,840 --> 00:30:41,840
+the doubled one even in this case and
+
+628
+00:30:40,559 --> 00:30:44,399
+also
+
+629
+00:30:41,840 --> 00:30:45,360
+interesting thing about this to say
+
+630
+00:30:44,399 --> 00:30:49,200
+these two samples
+
+631
+00:30:45,360 --> 00:30:51,840
+is that gca curve runs
+
+632
+00:30:49,200 --> 00:30:54,399
+higher than fc which is a which is
+
+633
+00:30:51,840 --> 00:30:54,399
+obviously
+
+634
+00:30:54,480 --> 00:30:58,640
+an indicator of a rather large grain
+
+635
+00:30:56,720 --> 00:30:59,600
+size of magnetite in this particular
+
+636
+00:30:58,640 --> 00:31:02,840
+cell
+
+637
+00:30:59,600 --> 00:31:04,940
+this particular sample and that that
+
+638
+00:31:02,840 --> 00:31:07,440
+magnetite
+
+639
+00:31:04,940 --> 00:31:09,760
+[Music]
+
+640
+00:31:07,440 --> 00:31:11,279
+to me it's not very likely that it could
+
+641
+00:31:09,760 --> 00:31:15,440
+fall in city and
+
+642
+00:31:11,279 --> 00:31:15,440
+it could be inherited from
+
+643
+00:31:15,519 --> 00:31:22,240
+from the starting the
+
+644
+00:31:19,200 --> 00:31:26,720
+starting material for this source right
+
+645
+00:31:22,240 --> 00:31:30,080
+so i i would conclude also on the
+
+646
+00:31:26,720 --> 00:31:34,640
+few takeaways as a
+
+647
+00:31:30,080 --> 00:31:38,080
+just following the following this stream
+
+648
+00:31:34,640 --> 00:31:41,840
+and um the main the major problem about
+
+649
+00:31:38,080 --> 00:31:44,880
+the the magnetic meteorology of
+
+650
+00:31:41,840 --> 00:31:49,000
+archaeological artifacts is either
+
+651
+00:31:44,880 --> 00:31:53,120
+origin is the identity of the
+
+652
+00:31:49,000 --> 00:31:53,679
+hcslt phase and the comparison between
+
+653
+00:31:53,120 --> 00:31:57,039
+the
+
+654
+00:31:53,679 --> 00:31:58,799
+properties of archaeological samples and
+
+655
+00:31:57,039 --> 00:32:01,840
+the properties of synthetic epsilon
+
+656
+00:31:58,799 --> 00:32:05,440
+oxide shows that
+
+657
+00:32:01,840 --> 00:32:08,080
+these properties are quite dissimilar
+
+658
+00:32:05,440 --> 00:32:10,080
+and particularly particularly cryogenic
+
+659
+00:32:08,080 --> 00:32:14,640
+temperatures
+
+660
+00:32:10,080 --> 00:32:18,960
+and um
+
+661
+00:32:14,640 --> 00:32:22,000
+probably one possible
+
+662
+00:32:18,960 --> 00:32:26,080
+possible explanation would be to
+
+663
+00:32:22,000 --> 00:32:30,240
+allow for some metal substitution
+
+664
+00:32:26,080 --> 00:32:34,240
+in natural samples but but again
+
+665
+00:32:30,240 --> 00:32:36,399
+that has to be studied experimentally
+
+666
+00:32:34,240 --> 00:32:38,240
+this absolutely has to be studied
+
+667
+00:32:36,399 --> 00:32:42,320
+experiment
+
+668
+00:32:38,240 --> 00:32:45,360
+uh second uh
+
+669
+00:32:42,320 --> 00:32:48,399
+related to this hcs
+
+670
+00:32:45,360 --> 00:32:51,360
+is that in the light of uh
+
+671
+00:32:48,399 --> 00:32:52,640
+discovery of uh garcia muniz and others
+
+672
+00:32:51,360 --> 00:32:55,200
+can it carry
+
+673
+00:32:52,640 --> 00:32:57,360
+remains above the temperature of its
+
+674
+00:32:55,200 --> 00:33:00,399
+airplane disappears from the record
+
+675
+00:32:57,360 --> 00:33:03,320
+and does it really disappear
+
+676
+00:33:00,399 --> 00:33:05,200
+that shall also need to be
+
+677
+00:33:03,320 --> 00:33:07,840
+[Music]
+
+678
+00:33:05,200 --> 00:33:09,440
+that does also need to be seen in the
+
+679
+00:33:07,840 --> 00:33:11,760
+future
+
+680
+00:33:09,440 --> 00:33:14,159
+and uh i still insist that
+
+681
+00:33:11,760 --> 00:33:14,640
+stoichiometric magnetite seldom because
+
+682
+00:33:14,159 --> 00:33:18,399
+in
+
+683
+00:33:14,640 --> 00:33:22,960
+syringes and baked clay
+
+684
+00:33:18,399 --> 00:33:25,360
+and on the other hand if it's still
+
+685
+00:33:22,960 --> 00:33:26,159
+if it's still found in some samples it
+
+686
+00:33:25,360 --> 00:33:29,039
+can be
+
+687
+00:33:26,159 --> 00:33:31,150
+can be used this is an inference for
+
+688
+00:33:29,039 --> 00:33:32,480
+some particular conditions of
+
+689
+00:33:31,150 --> 00:33:35,360
+[Music]
+
+690
+00:33:32,480 --> 00:33:35,360
+these samples and
+
+691
+00:33:36,000 --> 00:33:40,159
+have seen in the past so thank you very
+
+692
+00:33:38,799 --> 00:33:43,279
+much for your attention
+
+693
+00:33:40,159 --> 00:33:45,760
+yep i think i'll stop here
+
+694
+00:33:43,279 --> 00:33:46,640
+thank you very much thank you very much
+
+695
+00:33:45,760 --> 00:33:50,960
+thank you
+
+696
+00:33:46,640 --> 00:33:55,279
+uh let's give a big round of applause
+
+697
+00:33:50,960 --> 00:33:59,039
+to andre thank you very much um
+
+698
+00:33:55,279 --> 00:33:59,039
+we are now open for questions
+
+699
+00:33:59,600 --> 00:34:07,840
+um if you want you can drop a question
+
+700
+00:34:03,519 --> 00:34:07,840
+in the chat or you can ask yourself
+
+701
+00:34:08,300 --> 00:34:11,419
+[Music]
+
+702
+00:34:11,760 --> 00:34:14,639
+some questions
+
+703
+00:34:16,000 --> 00:34:19,440
+so i guess the i will i will start with
+
+704
+00:34:18,960 --> 00:34:23,280
+the
+
+705
+00:34:19,440 --> 00:34:25,919
+with the curiosity oh so
+
+706
+00:34:23,280 --> 00:34:27,839
+that the late the last slide was really
+
+707
+00:34:25,919 --> 00:34:30,879
+interesting because it summed up
+
+708
+00:34:27,839 --> 00:34:32,079
+really what what you did so far do you
+
+709
+00:34:30,879 --> 00:34:35,119
+plan to
+
+710
+00:34:32,079 --> 00:34:38,079
+uh to to
+
+711
+00:34:35,119 --> 00:34:40,720
+uh deepen the study of this epsilon
+
+712
+00:34:38,079 --> 00:34:40,720
+magnetite
+
+713
+00:34:44,399 --> 00:34:48,190
+you cannot mute yourself yes yeah yeah i
+
+714
+00:34:46,839 --> 00:34:49,359
+do
+
+715
+00:34:48,190 --> 00:34:53,040
+[Music]
+
+716
+00:34:49,359 --> 00:34:54,639
+well this uh this synthetic samples are
+
+717
+00:34:53,040 --> 00:34:58,320
+shown
+
+718
+00:34:54,639 --> 00:35:01,680
+obtained just within last few weeks
+
+719
+00:34:58,320 --> 00:35:05,760
+and so of course we well
+
+720
+00:35:01,680 --> 00:35:08,160
+one idea is to start to add some
+
+721
+00:35:05,760 --> 00:35:10,160
+metals apart from iron to this uh
+
+722
+00:35:08,160 --> 00:35:13,280
+synthesis
+
+723
+00:35:10,160 --> 00:35:16,400
+and i didn't tell i didn't tell that
+
+724
+00:35:13,280 --> 00:35:20,240
+in the presentation but this um
+
+725
+00:35:16,400 --> 00:35:23,680
+in the material science they add some
+
+726
+00:35:20,240 --> 00:35:28,079
+alkali earth to earth
+
+727
+00:35:23,680 --> 00:35:31,440
+most often barium just to
+
+728
+00:35:28,079 --> 00:35:33,359
+produce the
+
+729
+00:35:31,440 --> 00:35:35,920
+pausing this pause in the situation
+
+730
+00:35:33,359 --> 00:35:38,800
+which are exactly of the
+
+731
+00:35:35,920 --> 00:35:39,359
+size of the stability of epsilon phase
+
+732
+00:35:38,800 --> 00:35:43,599
+and
+
+733
+00:35:39,359 --> 00:35:46,880
+by this and it's by this method they
+
+734
+00:35:43,599 --> 00:35:50,000
+obtain the particles that are very
+
+735
+00:35:46,880 --> 00:35:52,079
+perfect in shape and you have the
+
+736
+00:35:50,000 --> 00:35:53,520
+course evidence in excess of two tests
+
+737
+00:35:52,079 --> 00:35:57,040
+now good test
+
+738
+00:35:53,520 --> 00:36:00,320
+but in natural samples i think that
+
+739
+00:35:57,040 --> 00:36:01,599
+we can we cannot exclude that uh we have
+
+740
+00:36:00,320 --> 00:36:04,720
+we could have some
+
+741
+00:36:01,599 --> 00:36:07,839
+cancer or magnesium
+
+742
+00:36:04,720 --> 00:36:09,200
+you know in our rocks and uh i'm
+
+743
+00:36:07,839 --> 00:36:13,520
+wondering if
+
+744
+00:36:09,200 --> 00:36:16,480
+this this light outer layers
+
+745
+00:36:13,520 --> 00:36:17,920
+methods metals could uh work in the
+
+746
+00:36:16,480 --> 00:36:22,560
+similar way
+
+747
+00:36:17,920 --> 00:36:22,560
+another thing is that just
+
+748
+00:36:24,320 --> 00:36:31,520
+we have we have several uh candidates
+
+749
+00:36:28,240 --> 00:36:34,720
+mental candidates for uh
+
+750
+00:36:31,520 --> 00:36:38,560
+which could substitute irons and
+
+751
+00:36:34,720 --> 00:36:40,800
+it's as yet it's
+
+752
+00:36:38,560 --> 00:36:42,240
+not known what would happen with these
+
+753
+00:36:40,800 --> 00:36:45,680
+particular metals
+
+754
+00:36:42,240 --> 00:36:49,440
+there are once again in materials
+
+755
+00:36:45,680 --> 00:36:53,200
+they they use the substitutions for
+
+756
+00:36:49,440 --> 00:36:56,400
+completely different purposes
+
+757
+00:36:53,200 --> 00:36:58,800
+and not with matters we would like to
+
+758
+00:36:56,400 --> 00:37:00,400
+them to study particularly not with
+
+759
+00:36:58,800 --> 00:37:03,440
+titanium
+
+760
+00:37:00,400 --> 00:37:08,320
+and but but in the recent study
+
+761
+00:37:03,440 --> 00:37:13,040
+the in the recent study
+
+762
+00:37:08,320 --> 00:37:13,040
+team for a team spanish team that
+
+763
+00:37:13,280 --> 00:37:16,480
+discovered the high temperature phase of
+
+764
+00:37:15,440 --> 00:37:19,520
+epsilon oxide
+
+765
+00:37:16,480 --> 00:37:20,320
+did they did the same using the chromium
+
+766
+00:37:19,520 --> 00:37:23,200
+substitute
+
+767
+00:37:20,320 --> 00:37:23,920
+the epsilon phase and the transition
+
+768
+00:37:23,200 --> 00:37:27,680
+temperature
+
+769
+00:37:23,920 --> 00:37:30,400
+unexpectedly goes down which is
+
+770
+00:37:27,680 --> 00:37:30,400
+which is fine
+
+771
+00:37:32,000 --> 00:37:35,520
+which we would have hoped for and also
+
+772
+00:37:34,720 --> 00:37:38,079
+but the
+
+773
+00:37:35,520 --> 00:37:40,240
+but the high temperature phase also
+
+774
+00:37:38,079 --> 00:37:44,240
+exists in this substitute that
+
+775
+00:37:40,240 --> 00:37:48,480
+absolute oxide as well so it's um
+
+776
+00:37:44,240 --> 00:37:52,160
+so it's a quite
+
+777
+00:37:48,480 --> 00:37:54,800
+rich field for further study yes
+
+778
+00:37:52,160 --> 00:37:55,520
+yeah with important implications for
+
+779
+00:37:54,800 --> 00:37:58,320
+sure
+
+780
+00:37:55,520 --> 00:37:59,040
+greg here the question i do have a
+
+781
+00:37:58,320 --> 00:38:01,680
+question but
+
+782
+00:37:59,040 --> 00:38:03,680
+uh despina has has one as well so we'll
+
+783
+00:38:01,680 --> 00:38:05,680
+let we'll let her ask first
+
+784
+00:38:03,680 --> 00:38:07,200
+sorry i didn't see the hand raised i
+
+785
+00:38:05,680 --> 00:38:10,160
+apologize the spinner
+
+786
+00:38:07,200 --> 00:38:10,880
+uh and don't apologize because i'm very
+
+787
+00:38:10,160 --> 00:38:13,920
+bad in
+
+788
+00:38:10,880 --> 00:38:17,040
+uh in all this stuff so um
+
+789
+00:38:13,920 --> 00:38:18,000
+my question to andre is first only this
+
+790
+00:38:17,040 --> 00:38:19,839
+research is very
+
+791
+00:38:18,000 --> 00:38:21,599
+interesting and i read your paper
+
+792
+00:38:19,839 --> 00:38:23,839
+yesterday so i have a
+
+793
+00:38:21,599 --> 00:38:25,359
+let's say an overall view but what i
+
+794
+00:38:23,839 --> 00:38:28,560
+would like to ask you
+
+795
+00:38:25,359 --> 00:38:29,280
+is uh very elementary about the choice
+
+796
+00:38:28,560 --> 00:38:32,320
+of your
+
+797
+00:38:29,280 --> 00:38:34,560
+uh collections i mean you choose one
+
+798
+00:38:32,320 --> 00:38:36,960
+collection from bulgaria
+
+799
+00:38:34,560 --> 00:38:37,760
+and one from russia the first one is
+
+800
+00:38:36,960 --> 00:38:40,160
+mostly
+
+801
+00:38:37,760 --> 00:38:40,800
+uh neolithic with a couple of roman
+
+802
+00:38:40,160 --> 00:38:43,280
+bricks
+
+803
+00:38:40,800 --> 00:38:44,640
+the second one is medieval bricks from
+
+804
+00:38:43,280 --> 00:38:46,560
+russia
+
+805
+00:38:44,640 --> 00:38:49,200
+and then it seems that there are
+
+806
+00:38:46,560 --> 00:38:52,000
+differences between these groups
+
+807
+00:38:49,200 --> 00:38:52,880
+can can you tell us a few words uh i
+
+808
+00:38:52,000 --> 00:38:55,760
+mean this is a
+
+809
+00:38:52,880 --> 00:38:56,320
+difference it cannot be geographical so
+
+810
+00:38:55,760 --> 00:38:58,400
+the
+
+811
+00:38:56,320 --> 00:39:01,040
+is the environment from where these
+
+812
+00:38:58,400 --> 00:39:04,079
+collections come which is different
+
+813
+00:39:01,040 --> 00:39:06,320
+or what i would very much like to
+
+814
+00:39:04,079 --> 00:39:08,240
+to have an answer to that maybe through
+
+815
+00:39:06,320 --> 00:39:11,680
+an email i mean you don't need to
+
+816
+00:39:08,240 --> 00:39:15,200
+reply now yeah well that's
+
+817
+00:39:11,680 --> 00:39:17,760
+a very good question yeah and
+
+818
+00:39:15,200 --> 00:39:17,760
+but uh
+
+819
+00:39:18,880 --> 00:39:26,240
+well we uh yeah we worked primarily
+
+820
+00:39:22,800 --> 00:39:30,079
+with bulgarian samples just because they
+
+821
+00:39:26,240 --> 00:39:33,119
+they were this is probably the
+
+822
+00:39:30,079 --> 00:39:35,599
+best collection around the world
+
+823
+00:39:33,119 --> 00:39:36,480
+i cannot hear you andre i cannot wait
+
+824
+00:39:35,599 --> 00:39:40,240
+i'm so i'm
+
+825
+00:39:36,480 --> 00:39:43,200
+i'm so i'm sorry i'm trying to suggest
+
+826
+00:39:40,240 --> 00:39:44,880
+much better it's better yeah great okay
+
+827
+00:39:43,200 --> 00:39:50,160
+the bulgarian collection is
+
+828
+00:39:44,880 --> 00:39:50,160
+uh obviously one uh probably the
+
+829
+00:39:50,320 --> 00:39:55,200
+the the best available collection yes
+
+830
+00:40:06,720 --> 00:40:13,599
+10 years old 20 years or 50 years yes
+
+831
+00:40:10,240 --> 00:40:15,760
+yeah and just uh
+
+832
+00:40:13,599 --> 00:40:18,079
+russian samples were included because
+
+833
+00:40:15,760 --> 00:40:21,599
+they we did see
+
+834
+00:40:18,079 --> 00:40:24,400
+some interesting interesting difference
+
+835
+00:40:21,599 --> 00:40:25,760
+between the burger and russian samples
+
+836
+00:40:24,400 --> 00:40:29,839
+particularly
+
+837
+00:40:25,760 --> 00:40:34,160
+those two that have uh those two that
+
+838
+00:40:29,839 --> 00:40:36,480
+have the this hc salty place have it
+
+839
+00:40:34,160 --> 00:40:38,160
+the properties is a little bit different
+
+840
+00:40:36,480 --> 00:40:41,040
+that temperature at which
+
+841
+00:40:38,160 --> 00:40:42,250
+that this phase disappears from the okay
+
+842
+00:40:41,040 --> 00:40:45,280
+the disappearance is
+
+843
+00:40:42,250 --> 00:40:48,000
+[Music]
+
+844
+00:40:45,280 --> 00:40:49,599
+maybe as low as 120 or 140 degrees
+
+845
+00:40:48,000 --> 00:40:51,839
+centigrade which is lower than in
+
+846
+00:40:49,599 --> 00:40:55,200
+bulgarian samples
+
+847
+00:40:51,839 --> 00:40:56,640
+there was also some few samples from
+
+848
+00:40:55,200 --> 00:41:01,520
+novgorod which
+
+849
+00:40:56,640 --> 00:41:02,880
+did which have seen when we saw them
+
+850
+00:41:01,520 --> 00:41:06,880
+[Music]
+
+851
+00:41:02,880 --> 00:41:09,680
+both epsilon was hclp base
+
+852
+00:41:06,880 --> 00:41:12,079
+and domina but they were dominately
+
+853
+00:41:09,680 --> 00:41:14,780
+dominated by hematite
+
+854
+00:41:12,079 --> 00:41:16,480
+so so we tried to
+
+855
+00:41:14,780 --> 00:41:21,040
+[Music]
+
+856
+00:41:16,480 --> 00:41:22,560
+find more as much as different samples
+
+857
+00:41:21,040 --> 00:41:25,680
+as we could simply
+
+858
+00:41:22,560 --> 00:41:26,880
+because well i think one two 120 is
+
+859
+00:41:25,680 --> 00:41:29,440
+probably the lowest
+
+860
+00:41:26,880 --> 00:41:30,240
+temperature the lowest temperature at
+
+861
+00:41:29,440 --> 00:41:33,280
+which this
+
+862
+00:41:30,240 --> 00:41:36,560
+uh slt
+
+863
+00:41:33,280 --> 00:41:39,440
+acs ultra phase disappears
+
+864
+00:41:36,560 --> 00:41:40,480
+ever reported so basically the reason
+
+865
+00:41:39,440 --> 00:41:45,200
+was that
+
+866
+00:41:40,480 --> 00:41:48,240
+yeah thank you why why there are so much
+
+867
+00:41:45,200 --> 00:41:50,319
+and to me the difference those
+
+868
+00:41:48,240 --> 00:41:53,760
+differences are quite big
+
+869
+00:41:50,319 --> 00:41:56,480
+and but we still don't have clear
+
+870
+00:41:53,760 --> 00:41:58,400
+answer or why maybe i will contact you
+
+871
+00:41:56,480 --> 00:42:00,640
+through an email because i have maybe
+
+872
+00:41:58,400 --> 00:42:01,440
+a couple of other questions but not now
+
+873
+00:42:00,640 --> 00:42:04,400
+thank you andrei
+
+874
+00:42:01,440 --> 00:42:05,839
+thanks a lot thanks magnet for starting
+
+875
+00:42:04,400 --> 00:42:07,920
+collaborations
+
+876
+00:42:05,839 --> 00:42:09,680
+we see that coming yeah that would be
+
+877
+00:42:07,920 --> 00:42:12,480
+great yeah
+
+878
+00:42:09,680 --> 00:42:13,920
+so um thank you thank you so bruce has a
+
+879
+00:42:12,480 --> 00:42:19,040
+question as well
+
+880
+00:42:13,920 --> 00:42:22,160
+raised hand andre uh interesting
+
+881
+00:42:19,040 --> 00:42:23,760
+interesting talk you know that epsilon
+
+882
+00:42:22,160 --> 00:42:26,160
+phase
+
+883
+00:42:23,760 --> 00:42:27,200
+must be related to the actual clay
+
+884
+00:42:26,160 --> 00:42:30,720
+composition
+
+885
+00:42:27,200 --> 00:42:32,640
+in the original pot that got fired
+
+886
+00:42:30,720 --> 00:42:35,599
+and that epsilon phase seems to form
+
+887
+00:42:32,640 --> 00:42:38,400
+from iron rich smectite clays
+
+888
+00:42:35,599 --> 00:42:41,040
+for the dehydration of those clays at
+
+889
+00:42:38,400 --> 00:42:41,040
+high temperature
+
+890
+00:42:41,760 --> 00:42:46,160
+where probably not titania but aluminum
+
+891
+00:42:44,480 --> 00:42:50,400
+calcium
+
+892
+00:42:46,160 --> 00:42:54,319
+uh might be more important
+
+893
+00:42:50,400 --> 00:42:59,040
+iron substitution of that yeah
+
+894
+00:42:54,319 --> 00:43:02,720
+yeah we have to look into it
+
+895
+00:42:59,040 --> 00:43:06,079
+yeah because unfortunately
+
+896
+00:43:02,720 --> 00:43:07,280
+the problem is that the claims also are
+
+897
+00:43:06,079 --> 00:43:10,560
+not always known
+
+898
+00:43:07,280 --> 00:43:12,960
+for archaeological uh
+
+899
+00:43:10,560 --> 00:43:14,160
+artifact particularly for more ancient
+
+900
+00:43:12,960 --> 00:43:18,160
+ones so
+
+901
+00:43:14,160 --> 00:43:18,160
+right it might be a problem
+
+902
+00:43:18,800 --> 00:43:25,520
+that's uh that could be uh that was
+
+903
+00:43:22,400 --> 00:43:27,520
+that is what you could look into using
+
+904
+00:43:25,520 --> 00:43:29,040
+this russian collection because
+
+905
+00:43:27,520 --> 00:43:30,800
+particularly this year's level
+
+906
+00:43:29,040 --> 00:43:32,240
+collection it comes from
+
+907
+00:43:30,800 --> 00:43:36,480
+[Music]
+
+908
+00:43:32,240 --> 00:43:39,760
+churches which were erected between
+
+909
+00:43:36,480 --> 00:43:40,000
+in 18th century mostly and so in the in
+
+910
+00:43:39,760 --> 00:43:43,599
+this
+
+911
+00:43:40,000 --> 00:43:48,880
+case we can try to track the
+
+912
+00:43:43,599 --> 00:43:48,880
+sources from docking so it might be
+
+913
+00:43:49,359 --> 00:43:53,520
+it's good it's a good idea good thing to
+
+914
+00:43:53,040 --> 00:43:56,720
+do
+
+915
+00:43:53,520 --> 00:43:59,760
+and we'll try to we'll try that yeah
+
+916
+00:43:56,720 --> 00:44:01,040
+i know your paper there that you you hit
+
+917
+00:43:59,760 --> 00:44:05,359
+the non-tonight
+
+918
+00:44:01,040 --> 00:44:08,720
+and uh ended up with something similar
+
+919
+00:44:05,359 --> 00:44:11,839
+yeah yeah that yeah that was 35 years
+
+920
+00:44:08,720 --> 00:44:15,680
+back we saw progress i know that but
+
+921
+00:44:11,839 --> 00:44:17,680
+well and uh yet another
+
+922
+00:44:15,680 --> 00:44:18,880
+there was yet another study in materials
+
+923
+00:44:17,680 --> 00:44:21,940
+that also he
+
+924
+00:44:18,880 --> 00:44:23,359
+known tonight and ended up and
+
+925
+00:44:21,940 --> 00:44:26,640
+[Music]
+
+926
+00:44:23,359 --> 00:44:29,040
+obtained also absolute like phrase
+
+927
+00:44:26,640 --> 00:44:29,839
+but unfortunately no magnetics was done
+
+928
+00:44:29,040 --> 00:44:32,800
+on that
+
+929
+00:44:29,839 --> 00:44:33,520
+but uh that that has to be investigated
+
+930
+00:44:32,800 --> 00:44:37,119
+yes
+
+931
+00:44:33,520 --> 00:44:37,119
+yeah thanks you
+
+932
+00:44:37,599 --> 00:44:41,440
+thank you thank you anybody else with a
+
+933
+00:44:39,520 --> 00:44:43,200
+question i can't see all
+
+934
+00:44:41,440 --> 00:44:50,880
+all of you but uh you cannot mute
+
+935
+00:44:43,200 --> 00:44:54,000
+yourself you you do have a question
+
+936
+00:44:50,880 --> 00:44:54,000
+greg do you have a question
+
+937
+00:44:55,200 --> 00:44:58,319
+um yeah so i guess my kind of question
+
+938
+00:44:57,520 --> 00:45:00,720
+is is how
+
+939
+00:44:58,319 --> 00:45:02,480
+might you expect this so you describe
+
+940
+00:45:00,720 --> 00:45:04,240
+the epsilon phase as having
+
+941
+00:45:02,480 --> 00:45:05,680
+an apparent curing temperature which is
+
+942
+00:45:04,240 --> 00:45:09,359
+maybe related to to
+
+943
+00:45:05,680 --> 00:45:12,880
+a change in the phase um how
+
+944
+00:45:09,359 --> 00:45:14,720
+might you expect that to manifest in
+
+945
+00:45:12,880 --> 00:45:18,160
+a remnants experiment like a paleo
+
+946
+00:45:14,720 --> 00:45:21,359
+intensity experiment for example
+
+947
+00:45:18,160 --> 00:45:24,480
+well i would rather hope
+
+948
+00:45:21,359 --> 00:45:27,280
+it would not have a great effect because
+
+949
+00:45:24,480 --> 00:45:28,480
+the high temperature phase of high
+
+950
+00:45:27,280 --> 00:45:31,359
+temperature epsilon
+
+951
+00:45:28,480 --> 00:45:31,680
+is much weaker than the low temperature
+
+952
+00:45:31,359 --> 00:45:35,359
+and
+
+953
+00:45:31,680 --> 00:45:35,359
+hopefully it wouldn't be
+
+954
+00:45:35,440 --> 00:45:40,880
+in the reals in the real samples i
+
+955
+00:45:38,880 --> 00:45:42,160
+i would believe it would not be
+
+956
+00:45:40,880 --> 00:45:45,280
+distinguishable from
+
+957
+00:45:42,160 --> 00:45:47,839
+make hematite or hematite
+
+958
+00:45:45,280 --> 00:45:49,520
+because the conservative range would be
+
+959
+00:45:47,839 --> 00:45:52,240
+approximately the same
+
+960
+00:45:49,520 --> 00:45:54,960
+but it would be it would be curious to
+
+961
+00:45:52,240 --> 00:45:58,400
+investigate that in
+
+962
+00:45:54,960 --> 00:46:02,160
+in synthetics well there was a
+
+963
+00:45:58,400 --> 00:46:02,160
+recently the uh
+
+964
+00:46:02,240 --> 00:46:06,240
+the same spanish group that that i
+
+965
+00:46:05,520 --> 00:46:08,110
+mentioned
+
+966
+00:46:06,240 --> 00:46:09,359
+published the paper
+
+967
+00:46:08,110 --> 00:46:13,119
+[Music]
+
+968
+00:46:09,359 --> 00:46:15,920
+where they tried their tried to do that
+
+969
+00:46:13,119 --> 00:46:17,839
+silly experiment on the highly highly
+
+970
+00:46:15,920 --> 00:46:20,240
+perfect synthetic sample
+
+971
+00:46:17,839 --> 00:46:21,240
+this is uh this is the lopez sanchez and
+
+972
+00:46:20,240 --> 00:46:24,640
+dallas
+
+973
+00:46:21,240 --> 00:46:25,070
+2020 but unfortunately the their partner
+
+974
+00:46:24,640 --> 00:46:26,319
+was
+
+975
+00:46:25,070 --> 00:46:28,720
+[Music]
+
+976
+00:46:26,319 --> 00:46:31,280
+dispersed in epoxy which could not be
+
+977
+00:46:28,720 --> 00:46:36,240
+heated above
+
+978
+00:46:31,280 --> 00:46:40,079
+235 and 235 degrees centigrade so
+
+979
+00:46:36,240 --> 00:46:41,760
+we we still don't know what would happen
+
+980
+00:46:40,079 --> 00:46:43,680
+we still don't know what would happen in
+
+981
+00:46:41,760 --> 00:46:45,040
+highlighter for example we still don't
+
+982
+00:46:43,680 --> 00:46:49,520
+know what would happen in
+
+983
+00:46:45,040 --> 00:46:51,680
+sample like all right but yeah we can
+
+984
+00:46:49,520 --> 00:46:54,079
+it's something that we have in mind to
+
+985
+00:46:51,680 --> 00:46:56,160
+try
+
+986
+00:46:54,079 --> 00:46:57,920
+thank you very much i guess this was the
+
+987
+00:46:56,160 --> 00:47:01,359
+last question because we don't have
+
+988
+00:46:57,920 --> 00:47:05,680
+much uh uh space for another one but you
+
+989
+00:47:01,359 --> 00:47:09,520
+you you can share email after that
+
+990
+00:47:05,680 --> 00:47:12,240
+yes yes so um so the
+
+991
+00:47:09,520 --> 00:47:13,359
+and we have some uh schedule already
+
+992
+00:47:12,240 --> 00:47:16,400
+line up
+
+993
+00:47:13,359 --> 00:47:18,000
+uh the next um the next seminar is going
+
+994
+00:47:16,400 --> 00:47:20,480
+to be with jay
+
+995
+00:47:18,000 --> 00:47:21,359
+shah taking us into space somewhere
+
+996
+00:47:20,480 --> 00:47:23,280
+again
+
+997
+00:47:21,359 --> 00:47:25,200
+and then the 14th of april we're gonna
+
+998
+00:47:23,280 --> 00:47:26,720
+have andrea biedermann
+
+999
+00:47:25,200 --> 00:47:29,200
+and then we're gonna take a break for
+
+1000
+00:47:26,720 --> 00:47:32,559
+the egu and we hope to do
+
+1001
+00:47:29,200 --> 00:47:34,480
+and eastern hemisphere time slot uh
+
+1002
+00:47:32,559 --> 00:47:36,079
+in in the same month together with the
+
+1003
+00:47:34,480 --> 00:47:39,280
+eu
+
+1004
+00:47:36,079 --> 00:47:40,559
+so we we are working on that and if you
+
+1005
+00:47:39,280 --> 00:47:43,119
+have any suggestion
+
+1006
+00:47:40,559 --> 00:47:44,640
+uh comments if you want to give a talk
+
+1007
+00:47:43,119 --> 00:47:46,400
+with us you can
+
+1008
+00:47:44,640 --> 00:47:50,160
+feel free to contact us thank you very
+
+1009
+00:47:46,400 --> 00:47:50,160
+much all for coming
+
