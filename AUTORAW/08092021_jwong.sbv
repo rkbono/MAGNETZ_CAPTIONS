@@ -1,0 +1,1207 @@
+0:00:00.960,0:00:09.520
+you um the format is about 20 to 30 minutes and we 
+will have some time for discussion later after the
+
+0:00:09.520,0:00:17.360
+after the talk and it's an informal environment 
+so if you need to go please go and i hope to see
+
+0:00:17.360,0:00:26.000
+you in the time for catch up later after the the 
+talk itself so for today's seminar i'm really
+
+0:00:26.000,0:00:33.600
+excited to have here jenny wong from university 
+of grenoble presenting us dynamo simulation with
+
+0:00:33.600,0:00:40.640
+established stratified f layer at the base 
+of earth's outer core thank you jenny okay
+
+0:00:43.200,0:00:45.520
+uh i will share my stream
+
+0:00:48.720,0:00:56.400
+great so is everything okay yes it is thank you 
+okay thank you for the nice introduction anita
+
+0:00:56.400,0:01:03.840
+um so yeah um i'm jenny i'm a post-doctoral 
+researcher at easter in grenoble and so as amita
+
+0:01:03.840,0:01:09.040
+said i'll be talking about dynamo simulations with 
+a stably stratified flare at the base of earth's
+
+0:01:09.040,0:01:16.560
+outer core and this work was mostly done um at 
+my postdoc at ipg paris uh in conjunction with uh
+
+0:01:17.200,0:01:25.520
+julian ober so um this is uh just a nice picture 
+of our wonderful earth our beautiful planet
+
+0:01:25.520,0:01:32.160
+and if i took a giant sized knife and cut it in 
+half and take you on a journey into the earth's
+
+0:01:32.160,0:01:37.040
+deep interior you'll see these distinct 
+layers so at the surface we have the crust
+
+0:01:37.040,0:01:43.920
+and then beneath that we have the rocky silicon 
+mantle um alloyed with uh like oh sorry uh a
+
+0:01:43.920,0:01:52.320
+rocky silicate mantle and then we have the uh 
+liquid outer core uh oh no sorry my slides just
+
+0:01:52.320,0:02:03.040
+skipped sorry then we have the liquid article 
+which is um made of a metallic uh ion uh
+
+0:02:03.040,0:02:07.040
+alloyed with light elements and it's 
+liquid it's vigorously convecting
+
+0:02:07.040,0:02:16.000
+um and it's enclosing the central uh solid 
+inner core sorry my keyboard input's not working
+
+0:02:18.480,0:02:23.840
+why can't i click okay and then we have the 
+uh inner core here sorry for the technical
+
+0:02:23.840,0:02:34.240
+problems just said um so so we have um so 
+yeah we have this um convecting um metallic uh
+
+0:02:34.240,0:02:41.920
+liquid outer cot and this is mostly driven by 
+heat left over from the formation of the planet
+
+0:02:41.920,0:02:48.080
+so this is known as secular cooling which 
+is uh the main uh thermal energy source for
+
+0:02:48.080,0:02:55.200
+thermal convection in the liquid book however 
+because we have a uh metallic alloy which is
+
+0:02:55.200,0:03:01.840
+allowed with um light elements uh we have 
+some uh solidification of the inner core
+
+0:03:02.560,0:03:10.640
+which releases some latent heat into um into the 
+system to drive convection and we also know that
+
+0:03:10.640,0:03:16.080
+the light elements preferentially partition 
+into the liquid as well so this gives us also
+
+0:03:16.080,0:03:23.600
+a chemical source of buoyancy in order to drive 
+convection in this liquid region so we have all
+
+0:03:23.600,0:03:30.800
+this vigorous um convection occurring and this 
+leads to a reference date in the liquid article
+
+0:03:30.800,0:03:38.160
+which is really well mixed and homogeneous and 
+its temperature profile is close to adiabatic
+
+0:03:40.720,0:03:46.080
+so all of this convection drives a process 
+called the geodynamo which generates a magnetic
+
+0:03:46.080,0:03:50.880
+field and protects us from solar winds and is 
+responsible for lovely things like the northern
+
+0:03:50.880,0:03:58.080
+lights and in terms of its spatial structure its 
+field is uh mainly dipole like barbecue and over
+
+0:03:58.080,0:04:04.800
+time we know that this field has persisted um 
+for um about four billion years through analyzing
+
+0:04:04.800,0:04:12.640
+singles aircon crystals so this time scale is uh 
+very long and vast and it's much longer than the
+
+0:04:12.640,0:04:17.600
+time scale that we know for the magnetic field to 
+dissipate away naturally which is estimated to be
+
+0:04:17.600,0:04:23.120
+on the order of 10 000 years so this discrepancy 
+in the time scales supports the idea that the
+
+0:04:23.120,0:04:28.480
+field is being continually regenerated and 
+sustained by this process called a geodynamo
+
+0:04:30.720,0:04:34.400
+so the question i'd like to 
+focus on today inside the core
+
+0:04:34.400,0:04:40.080
+is this region called the so-called uh 
+efflair at the base of the liquid article
+
+0:04:40.880,0:04:48.800
+so this is a seismically slow region which is um 
+first which was first observed by syrian pupille
+
+0:04:49.360,0:04:58.960
+back in 1991 and this is a puzzling and anomalous 
+layer because compared with what we might would
+
+0:05:00.080,0:05:07.680
+we might expect from a model such as prem which 
+assumes that we have a adiabatic core throughout
+
+0:05:08.240,0:05:15.600
+this seismically slow observation in comparison 
+with that infers a stably stratified layer at
+
+0:05:15.600,0:05:21.200
+the bottom of the arthritic core that can't be 
+explained by adiabatic compression alone so um
+
+0:05:21.200,0:05:26.640
+the goal of my ph oh sorry the goal of my phd was 
+actually to explain the dynamics of maintaining
+
+0:05:26.640,0:05:32.880
+such an f layer against convection using a slurry 
+iron snow model but what i'd like to focus on more
+
+0:05:32.880,0:05:39.040
+today is actually looking at how the presence of 
+the f-ware can impact core dynamics in general in
+
+0:05:39.040,0:05:48.160
+the bulk of the core so in order to probe this um 
+there is a sort of a well-established mathematical
+
+0:05:48.160,0:05:55.840
+framework for investigating this so um first 
+of all um we have the navier-stokes equation
+
+0:05:56.640,0:06:02.560
+so we're assuming we have an incompressible fluid 
+and um this is the navier-stokes equation with um
+
+0:06:03.200,0:06:08.960
+inertia on the left-hand side here we have the 
+pressure gradient this is the coriolis force
+
+0:06:08.960,0:06:16.720
+uh this is the viscous force the lorentz force 
+and finally a thermochemical buoyancy so it's
+
+0:06:16.720,0:06:20.400
+not like your classic thermal buoyancy that 
+you might find in really been our convection
+
+0:06:20.960,0:06:30.800
+this is um c parameter or this c um field is 
+actually a combination of thermal and chemical
+
+0:06:32.400,0:06:38.480
+variations uh this prime donates the 
+fluctuations away from the reference state
+
+0:06:39.200,0:06:45.840
+uh and this field itself is um so this code entity 
+field is also given by its own transport equation
+
+0:06:46.720,0:06:53.200
+uh so this is the equation of state for this code 
+entity field so this kind of explicitly says that
+
+0:06:53.200,0:07:02.000
+it's composed of thermal and um chemical 
+uh fluctuations and the transport equation
+
+0:07:02.000,0:07:07.280
+is here so it describes how the code density 
+field can change over time due to infection
+
+0:07:07.280,0:07:11.840
+and um diffusion as well we also 
+have a sink source term because we're
+
+0:07:11.840,0:07:16.400
+continually partitioning light elements 
+into the liquid bulk so in order to conserve
+
+0:07:16.400,0:07:24.880
+this quantity we introduce a numerical sink in 
+order to yeah to pull this law of conservation
+
+0:07:26.560,0:07:33.920
+and then finally we have a magnetic induction 
+equation so this means that we have no magnetic
+
+0:07:33.920,0:07:41.760
+monopoles and this is um basically describing 
+how the magnetic field changes over time due to
+
+0:07:41.760,0:07:48.560
+the electromotive force so there's a feedback 
+between the fluid flow and the magnetic field
+
+0:07:49.280,0:07:55.440
+which is incorporated into this force and this 
+includes things like advection of magnetic field
+
+0:07:55.440,0:08:02.320
+and magnetic stretching by the flow and this is 
+the diffusion term so this system of equations
+
+0:08:02.320,0:08:09.040
+that i've just presented are in a dimensionless 
+form so you can see these there's these uh
+
+0:08:09.040,0:08:17.040
+dimensionless control parameters um in this 
+presentation and um they're defined as follows
+
+0:08:17.040,0:08:22.160
+so here we have a flux based rayleigh number 
+so compared to the classical rayleigh number
+
+0:08:22.160,0:08:30.640
+um this takes into account um buoyancy driven by 
+thermochemical sources which is denoted by this f
+
+0:08:30.640,0:08:37.680
+value here which is the code entity flux and 
+this is a ratio between that flux and rotation
+
+0:08:38.560,0:08:44.800
+in the system here is the ecma number which is the 
+ratio between the viscous forces and the coriolis
+
+0:08:44.800,0:08:50.960
+force this is the prandtl number which is the 
+viscous over um the diffusivity of the co-density
+
+0:08:51.680,0:08:58.320
+and this is the magnetic pencil number 
+uh which is the ratio between viscous and
+
+0:09:00.560,0:09:08.560
+the magnetic diffusivity um so this is kind 
+of the sort of the frame the framework that
+
+0:09:08.560,0:09:16.880
+we use to probe card dynamics that's used very 
+commonly in dynamo calculations and in order to
+
+0:09:16.880,0:09:22.400
+solve those equations we need to impose some 
+boundary conditions as well so the velocity
+
+0:09:22.400,0:09:29.040
+is subject to uh stress-free conditions at the 
+unicorn boundary and at the cornman's boundary
+
+0:09:30.880,0:09:37.680
+and then also we have a coupled system in 
+which the inner core is free to rotate so
+
+0:09:37.680,0:09:42.160
+it's electrically conducting in its 
+rigid body that can super rotate
+
+0:09:42.160,0:09:48.720
+subject to electromagnetic and gravitational 
+talks with the rest of the system and we also have
+
+0:09:49.840,0:09:59.040
+assume electrically insulating mental because we 
+have a silica rocky medium there and we implement
+
+0:09:59.040,0:10:07.360
+this coupling between the core and the mantle 
+because it's able to reproduce well-known features
+
+0:10:07.360,0:10:13.040
+of a magnetic field that we can observe at the 
+surface of the earth known as secular variation
+
+0:10:13.840,0:10:20.480
+so one such feature is the observed westward 
+drift of the magnetic field uh seen from uh
+
+0:10:21.920,0:10:24.960
+you know ground observatories 
+and satellite observations
+
+0:10:27.200,0:10:36.240
+so onto sort of the more novel bit this is how 
+the f layer is invoked through imposing boundary
+
+0:10:36.240,0:10:49.920
+conditions on the code entity so we have um 
+we impose a gradient on we we impose a sorry
+
+0:10:50.480,0:10:55.200
+a condition on the gradient of the variations in 
+the code entity field at the inner core boundary
+
+0:10:55.760,0:11:05.280
+uh given by this value here and this introduces 
+a parameter uh called f i and this is
+
+0:11:05.280,0:11:11.360
+in this instance which is the ratio between 
+the total uh code density flux at the inner
+
+0:11:11.360,0:11:15.840
+core boundary and the total code 
+density flux at the aflare radius
+
+0:11:17.200,0:11:21.680
+and this essentially control controls 
+the strength of stratification
+
+0:11:21.680,0:11:26.960
+um within the f layer and you can um sort 
+of relate this to something more well known
+
+0:11:26.960,0:11:32.560
+such as the buoyancy frequency or the visalus 
+frequency uh through this relationship here
+
+0:11:34.000,0:11:40.320
+and so this is the boundary condition at 
+the f layer radius uh given by so and since
+
+0:11:40.320,0:11:47.520
+we are assuming that we have a purely adiabatic 
+heat flux at the cmb we say that the variations
+
+0:11:48.560,0:11:55.840
+in the co-density gradient at 
+this boundary is equal to zero
+
+0:11:57.200,0:12:03.600
+so in order to solve these equations and perform 
+dynamic simulations we're using a code called
+
+0:12:03.600,0:12:11.200
+parity which was originally uh written by emanuel 
+domi and further developed by julian ober and this
+
+0:12:11.200,0:12:15.680
+uses spherical harmonic extensions in the 
+theta in five directions uh with the second
+
+0:12:15.680,0:12:22.000
+order finite difference method in the radial 
+direction and we have an increase uh sorry a
+
+0:12:22.000,0:12:27.520
+decrease in the spacing uh in between the radial 
+grid points towards the boundaries in order to
+
+0:12:28.240,0:12:33.600
+try and capture more small scale effects 
+there and we time step through the code um
+
+0:12:33.600,0:12:38.080
+using a current nicholson scheme for the diffusion 
+terms and adding specifics for the other terms
+
+0:12:38.800,0:12:42.080
+and uh we fixed the dimensions 
+in those parameters as follows
+
+0:12:42.880,0:12:48.320
+so uh for the flux based rayleigh number we have 
+2.7 times 10 to the minus 5. and on the right hand
+
+0:12:48.320,0:12:55.200
+side of this column is what we would expect um in 
+the earth's regime and for the eckman number we
+
+0:12:55.200,0:13:01.840
+choose uh 3 times 10 to the minus 5 for the earth 
+it's 10 to the minus 15. so again we have this uh
+
+0:13:01.840,0:13:07.280
+big discrepancy between what we fix in this model 
+and what we might expect in the earth and this is
+
+0:13:07.280,0:13:13.600
+because we are really limited by the computational 
+power needed and in order to resolve uh resolve um
+
+0:13:14.640,0:13:20.720
+sort of uh small scale features if we went 
+to the earth's ratio however in the dynamo
+
+0:13:20.720,0:13:26.400
+community there's been a lot of effort to 
+develop robust scaling analyses in order to
+
+0:13:27.360,0:13:32.800
+allow extrapolation to the earth's regime um 
+so even though we choose these conservative
+
+0:13:32.800,0:13:40.400
+values it um still is indicative of what 
+we might expect in the real earth um and
+
+0:13:40.960,0:13:47.120
+also we fixed the prandtl number one uh for 
+anything much less than that the magnetic field is
+
+0:13:47.120,0:13:53.920
+not so much dipole dominated anymore which is um 
+not representative of what we know about the earth
+
+0:13:53.920,0:14:00.800
+and this is the magnetic parental number we 
+choose and um it should be noted that the
+
+0:14:00.800,0:14:06.480
+ecma number and the parental magnetic principal 
+number should be decreased together because at
+
+0:14:06.480,0:14:10.720
+some point there's not enough energy to maintain 
+the magnetic field against aromatic dissipation
+
+0:14:11.360,0:14:17.920
+um so that they're kind of you have to 
+decrease them both together for the f
+
+0:14:17.920,0:14:25.200
+layer radius um we choose a dimensionless radius 
+of 0.7 which corresponds to about 350 kilometers
+
+0:14:26.160,0:14:33.280
+in dimensional units from size mixed studies uh 
+we actually see in the literature that the f layer
+
+0:14:33.920,0:14:39.440
+thickness can be anywhere between 
+150 and maybe up to 400 kilometers
+
+0:14:41.120,0:14:44.800
+and then finally we have the uh buoyancy frequency
+
+0:14:46.000,0:14:52.800
+um to control the strength of stratification 
+within the earth layer so in this model um we've
+
+0:14:52.800,0:15:00.480
+implemented 14.7 um and then there's not really 
+any estimates in the literature for the earth but
+
+0:15:00.480,0:15:06.880
+just using a really crude estimate um from prem in 
+the airflow it might be expected to be around 13.
+
+0:15:11.120,0:15:21.040
+so here are some uh 3d uh videos of the um phi 
+velocity on the left hand side the radial magnetic
+
+0:15:21.040,0:15:26.880
+field in the middle and the co-density field 
+on the right hand side so from the blue color
+
+0:15:26.880,0:15:32.480
+you can see immediately that there's very strong 
+retrograde flows everywhere due to this uh coupled
+
+0:15:33.040,0:15:39.840
+uh coupled model uh between the core and the 
+mantle and we have this super rotating inner core
+
+0:15:40.640,0:15:47.280
+and given by the red colors here and the dynamics 
+of the flow are quite distinctive inside the
+
+0:15:48.160,0:15:53.280
+this region compared to the outside and this 
+imaginary region is called the tangent cylinder
+
+0:15:53.280,0:16:01.120
+so this is a basically an imaginary volume that 
+is um just touching the inner core boundary that
+
+0:16:01.120,0:16:08.320
+extends in the z direction but you could imagine 
+that with an f layer the effective tangent
+
+0:16:08.320,0:16:15.120
+cylinder region would be increased due 
+to um uh the presence of a stable region
+
+0:16:15.120,0:16:22.160
+at the bottom of the earth's outer core um so 
+within the tangent cylinder region we have more
+
+0:16:22.160,0:16:28.640
+plume-like and large upwellings occurring whereas 
+outside the tangent cylinder we have columnar
+
+0:16:28.640,0:16:35.280
+structures due to the influence of rotation um 
+in the magnetic field there are intense regions
+
+0:16:35.920,0:16:43.040
+that break up the klemner structure of the flow 
+and the scale of the magnetic field um we have
+
+0:16:43.040,0:16:49.360
+some large scale structures in the bulk and more 
+smaller scale folk features and at the f layer
+
+0:16:49.360,0:16:54.480
+radius which is also reflected in the small-scale 
+plumes that you can see in the code entity field
+
+0:16:55.360,0:17:00.320
+um and this is through the buoyancy 
+generated from the latent heat and
+
+0:17:00.320,0:17:05.280
+light element release here which results in 
+bottom driven and convection you can also see
+
+0:17:05.280,0:17:10.240
+that light elements tend to pile up within the 
+tangent cylinder given by the yellow area here
+
+0:17:12.560,0:17:20.160
+so i'm just looking at some time average fields 
+and spatially average fields this is a meridional
+
+0:17:20.160,0:17:27.360
+section uh through the core with uh no f layer so 
+on the left hand side again we see the velocity
+
+0:17:27.360,0:17:32.320
+uh in the middle it's the magnetic field and 
+on the right hand side it's cure density and
+
+0:17:32.320,0:17:37.280
+the colours denote the fire direction and 
+the line contours and the other meridional
+
+0:17:37.920,0:17:45.280
+components so from a fluid dynamical perspective 
+what i've done is um sort of artificially
+
+0:17:45.280,0:17:51.280
+increased the radius of the inner core to 
+the um a flare radius that i'm comparing to
+
+0:17:51.280,0:17:55.840
+because this makes sure that um i'm 
+comparing the same convective volume
+
+0:17:55.840,0:18:04.960
+between the two so that there's a similar um 
+overall buoyancy uh power in order and yeah
+
+0:18:04.960,0:18:10.640
+so uh this reference case again yeah 
+has an artificially inflated inner core
+
+0:18:12.160,0:18:18.960
+uh you can see that um immediately you a first 
+order observation would be that the amplitude of
+
+0:18:18.960,0:18:26.160
+the uh zonal velocity is much stronger with an f 
+flare at the equator beneath the cmb compared with
+
+0:18:26.160,0:18:34.000
+the reference case um and this is mainly because 
+the convective shear in the system and that's
+
+0:18:34.000,0:18:43.360
+being partitioned um between the local share at 
+the cmb and the share close to the icb so what
+
+0:18:43.360,0:18:49.280
+sorry what's essentially happening is that f layer 
+of reducing the shear between the liquid and solid
+
+0:18:49.280,0:18:56.960
+um at the icb which therefore contributes to the 
+remote electromagnetic magnetic torques and also
+
+0:18:57.760,0:19:04.880
+enhances the westwood flow beneath cmb in order to 
+conserve the total angular momentum of the system
+
+0:19:06.560,0:19:11.680
+we also can see from the meridional contours that 
+are dwellings in the tangent cylinder diverge
+
+0:19:11.680,0:19:19.120
+under the cmb and converge towards the tangent 
+cylinder edge in this twisting polar vortex
+
+0:19:19.120,0:19:24.480
+which produ produces a local minimum in the 
+magnetic field at the poles since the field
+
+0:19:24.480,0:19:30.960
+lines are infected away with a diverging flow 
+under the core surface and amplified here at the
+
+0:19:30.960,0:19:42.960
+tangent cylinder edge due to field line stretching 
+um so this uh describes uh the dynamics that um
+
+0:19:43.600,0:19:49.040
+it results in these polar magnetic minima and 
+actually between the two cases the magnetic
+
+0:19:49.040,0:19:55.680
+energy content is 1.3 times stronger with a flare 
+uh just from looking at the alsacer number and
+
+0:19:55.680,0:20:01.040
+um as i said light elements pilot within 
+the tangent cylinder and here we have weaker
+
+0:20:01.040,0:20:07.040
+lateral gradients in the co density field and 
+we believe this alters the thermal wind balance
+
+0:20:07.040,0:20:17.200
+which is the balance between coriolis uh coriolis 
+forces uh buoyancy and the lorentz force so this
+
+0:20:17.200,0:20:23.440
+uh this results in the rearrangement of 
+the um five velocity in which you can see
+
+0:20:24.160,0:20:29.200
+um so yeah we have you can see the relationship 
+between how the changes in the co-density field
+
+0:20:29.200,0:20:38.160
+can influence the um call flow structures through 
+this thermal wind balance and then looking at more
+
+0:20:38.160,0:20:42.560
+of an observational perspective rather than 
+a fluid dynamical one it'd be interesting
+
+0:20:42.560,0:20:48.240
+to see how the magnetic field morphology 
+the core surface um can be compared um
+
+0:20:49.920,0:20:58.720
+to the observations that we might see from 
+satellite data so in our simulations um here
+
+0:20:58.720,0:21:04.240
+for our reference case we have a regular 
+size in a core with no airflare and on
+
+0:21:04.240,0:21:08.640
+the left-hand side we have the full resolution 
+and on the right-hand side we've truncated the
+
+0:21:08.640,0:21:14.400
+radial magnetic field here that we're seeing 
+at the core surface to degree 13 which is
+
+0:21:15.200,0:21:22.240
+consistent with what we might see from 
+the observations um and with the efflair
+
+0:21:23.600,0:21:31.280
+we have images like so and you can see that the 
+colour barrel range uh tells us that we have uh
+
+0:21:31.280,0:21:38.800
+more surface field uh exiting the shell here in 
+the f layer case than than without and um you can
+
+0:21:38.800,0:21:45.200
+also see uh yeah we have a stronger surface 
+field about the same elsa number because of
+
+0:21:45.200,0:21:51.280
+um more field exiting the shell and also 
+in these pictures you can see these patches
+
+0:21:51.840,0:21:58.000
+of weaker field which are the polar magnetic 
+minima that i mentioned in the previous
+
+0:21:58.000,0:22:04.480
+slide and you can see this sharp gradient that 
+is coincident with the tangent cylinder radius
+
+0:22:05.520,0:22:09.120
+and so be interesting to know whether 
+this signature could be observed
+
+0:22:10.720,0:22:17.440
+from the observations and maybe perhaps like it's 
+it's it's kind you could probably hypothesize that
+
+0:22:17.440,0:22:25.440
+tangent cylinder radius has has an influence 
+on the envelope of the polar magnetic minima um
+
+0:22:25.440,0:22:36.240
+in this case the latitude is uh shifted by about 
+10 degrees uh with a a flare radius of 0.7 so
+
+0:22:37.840,0:22:47.600
+in varying the f layer radius um i've taken 
+a range of radii like so and here are the
+
+0:22:47.600,0:22:56.240
+corresponding dimensional values and what i've 
+looked at is a phi averaged and time averaged um
+
+0:22:57.840,0:23:04.560
+radial field at the cost surface as a function 
+of latitude so this is the reference case again
+
+0:23:04.560,0:23:10.640
+which corresponds to what we saw on the previous 
+slide and and here is the the peak at which you
+
+0:23:10.640,0:23:16.800
+see the envelope of the polar magnetic minimum so 
+there's one here and one here for for both poles
+
+0:23:18.400,0:23:25.680
+and uh the reference case at this peak is 
+coincident uh with the tangent cylinder radius
+
+0:23:25.680,0:23:37.280
+at 69 degrees and with the increasing layer 
+thicknesses you can see how this peak shifts
+
+0:23:38.080,0:23:45.200
+as a function of the flare radius so that this 
+location um increases by about two degrees uh
+
+0:23:45.200,0:23:53.280
+for every 100 kilometers in uh and it'll be 
+really interesting to make a comparison to
+
+0:23:53.280,0:23:59.120
+current geomagnetic models such as 
+gfm chaos and cover-ups in order to
+
+0:23:59.680,0:24:06.880
+see if we can detect such a signature and provide 
+some kind of independent constraint on the eflair
+
+0:24:06.880,0:24:14.800
+radius in addition to what we can 
+see in seismology so uh in summary um
+
+0:24:16.160,0:24:20.720
+we've looked at um how a stably stratified 
+f layer might affect core dynamics
+
+0:24:21.280,0:24:27.120
+and what we see is um strong westward azimuthal 
+flows that are particularly enhanced close to
+
+0:24:27.120,0:24:33.120
+the cmv and acquainter due to the re arrangement 
+of thermal winds and this is caused by the lack
+
+0:24:33.120,0:24:41.040
+of local shear between the inner core and the 
+effluent um this then through angular momentum
+
+0:24:41.040,0:24:48.400
+conservation changes the local shear at the cmb 
+which means that more field can exit the future
+
+0:24:49.440,0:24:55.600
+and uh would it be possible to see a signature 
+of f of the f layer in geomagnetic observations
+
+0:24:56.400,0:25:03.840
+well i've tried to probe this by changing the f 
+way of thickness and see its effect on um well
+
+0:25:03.840,0:25:09.120
+which effectively changes the tangent cylinder 
+radius and then therefore trying to see if there's
+
+0:25:09.120,0:25:15.120
+a corresponding change in the latitude of the 
+polar magnetic minimum so um i think i'd like to
+
+0:25:16.320,0:25:21.520
+wrap up here and thank you for your attention 
+and i'd be happy to answer any questions
+
+0:25:24.880,0:25:29.520
+thank you jenny great presentation 
+let's give a big round of applause
+
+0:25:32.000,0:25:37.040
+and it is time now for questions 
+if everybody in the audience
+
+0:25:39.040,0:25:49.280
+has one uh you can unmute yourself andy you're 
+ready hi hi andy hi anita hi jenny um thanks for
+
+0:25:49.280,0:25:56.560
+really great talk some very very interesting stuff 
+there um so a question and um first of all then is
+
+0:25:57.440,0:26:03.200
+uh how long did you run these models for how many 
+magnetic diffusion times or what fraction of a
+
+0:26:03.200,0:26:14.320
+magnetic fusion time yeah um so in these models 
+it's at least two um so i've not had time to run
+
+0:26:14.320,0:26:18.560
+them for much longer because obviously you know 
+they take a long time uh but yeah there's been a
+
+0:26:18.560,0:26:25.120
+lot of checks to see whether uh the especially 
+with the rotation involved whether things have
+
+0:26:25.120,0:26:31.680
+equilibrated so making sure that everything's 
+you know statistically steady um so
+
+0:26:32.480,0:26:39.200
+yeah that was kind of one of the most 
+important checks to make due to how sort of the
+
+0:26:39.200,0:26:45.360
+tops the talks in the system establish themselves 
+uh yeah and checking that's that's all good yeah
+
+0:26:46.080,0:26:51.200
+yeah so that that's an impressive amount of 
+time that must have chewed up some series i'm
+
+0:26:58.960,0:27:04.000
+no hyper diffusion no um which is kind of like 
+one of the motivations for choosing you know
+
+0:27:04.000,0:27:11.360
+like stress-free velocity boundary conditions 
+um just to so we don't have any uh artificial
+
+0:27:11.360,0:27:16.960
+sort of viscous talks entering the 
+system sure um okay so then i guess
+
+0:27:17.840,0:27:21.120
+my other point is is a comment 
+then really which is you know
+
+0:27:21.120,0:27:28.240
+you're talking about looking at comparing you 
+know these fields to um to satellite observations
+
+0:27:28.240,0:27:36.400
+and so on yeah yeah that's of course only you know 
+only a single you know time step right yeah yeah
+
+0:27:36.960,0:27:43.840
+yeah you know decades um and even you know kind 
+of looking at a decent role you know like gotham
+
+0:27:43.840,0:27:49.680
+or something still only looking at centuries um so 
+you know we're not sure quite how representative
+
+0:27:49.680,0:27:54.080
+that is of the the you know the time average 
+fields which you're looking at which you know
+
+0:27:54.960,0:27:58.160
+hundreds of thousands of years potentially 
+right that you're averaging over
+
+0:27:58.720,0:28:05.760
+um yeah yeah i'll be encouraging you to to 
+compare it to the paleomagnetic field as well
+
+0:28:06.320,0:28:13.600
+and there are these you know these new qpm 
+criteria um okay which are out there which which
+
+0:28:13.600,0:28:21.280
+i would i would be very interested to uh run 
+past these these models and yeah um i would
+
+0:28:21.280,0:28:25.920
+be wondering um i guess you're the person to ask 
+like with these paleomagnetic models um is there
+
+0:28:25.920,0:28:31.840
+enough spatial coverage in order to like sort of 
+say if i wanted to define this to find this peak
+
+0:28:36.640,0:28:41.680
+so that would be yeah a good investigation 
+on its own to see if we've got that
+
+0:28:41.680,0:28:46.800
+richard bono is probably the best qualified person 
+in the world to answer that question actually
+
+0:28:46.800,0:28:52.560
+um for the last few million million 
+years um i don't know myself um but
+
+0:28:53.440,0:29:00.720
+i i mean i'm yeah more broadly you know we're 
+kind of you know we don't have um have full you
+
+0:29:00.720,0:29:05.120
+know spiral harmonic models but we've been looking 
+at things like secular variation and the variance
+
+0:29:05.120,0:29:14.400
+and the in the dipole moment and the inclination 
+anomaly um so just looking you know that those
+
+0:29:14.400,0:29:20.480
+are indicating characteristics of the field 
+okay yeah and say something on whether that
+
+0:29:20.480,0:29:26.560
+peak and the highlight gp could be spotted or 
+not yeah it's nice to have like some indications
+
+0:29:26.560,0:29:31.760
+from the simulations you know just just yeah 
+it's nice to have them there anyway in case
+
+0:29:34.480,0:29:40.080
+okay nice to see you again andy
+
+0:29:40.080,0:29:45.440
+you for your question and thanks uh jenny for 
+answer them does anybody else has a question
+
+0:29:51.360,0:30:01.360
+uh oops yes richard susan well susan susan okay 
+all right i was just wondering if anyone's working
+
+0:30:01.360,0:30:08.720
+on defining the f layer from the seismology 
+side are you aware of any ongoing work on that
+
+0:30:08.720,0:30:13.760
+better yeah yeah yeah because that was kind 
+of the primary way in which you would uh go
+
+0:30:13.760,0:30:19.760
+about this and so yeah um i didn't talk about it 
+much in this presentation because it wasn't um
+
+0:30:19.760,0:30:26.880
+really the focus but um it was more um yeah 
+in seismology there are uh i would say pretty
+
+0:30:27.440,0:30:32.880
+robust observations so like i think closer to 
+the beginning of my presentation i i talked
+
+0:30:32.880,0:30:39.760
+about this uh seismically slow key wave that 
+was observed by syria and pouping a back in 1991
+
+0:30:39.760,0:30:44.080
+and following that there's been several 
+independent seismic studies that also see
+
+0:30:44.080,0:30:51.200
+this slow down in the key wave velocity compared 
+with prem and prem is the uh reference model
+
+0:30:51.840,0:31:00.480
+uh it's like a 1d reference model that um is 
+i don't know uh it's used it's used widely and
+
+0:31:01.360,0:31:06.800
+i think i said earlier in the presentation that 
+it assumes that you have an adiabatic profile
+
+0:31:06.800,0:31:13.920
+so this seismic slowdown in comparison to prem uh 
+means that you have this infers that you have this
+
+0:31:13.920,0:31:21.600
+f layer this stably stratified region and um so 
+a lot of the variants that has been seen in the
+
+0:31:21.600,0:31:29.280
+seismic um observations is uh the thickness of 
+the flare which is hard to uh really sort of get
+
+0:31:29.280,0:31:38.240
+the resolution to to to to get um but this sort 
+of slowdown is is very very robust so this is
+
+0:31:38.240,0:31:45.840
+definitely uh uh yeah this is a definite feature 
+uh that we can see at the base of the article
+
+0:31:48.800,0:31:54.800
+okay i'll take your word for it it's just 1991 is 
+quite a lot yeah there are other yeah there are
+
+0:31:54.800,0:32:02.640
+other studies that um that are like at dow italian 
+2008 there's also some studies by uh barbara
+
+0:32:02.640,0:32:09.360
+romanovic as well who's also seen this slow 
+down um who else uh so yeah there has been other
+
+0:32:09.360,0:32:20.320
+independent um observations of this slowdown too 
+okay thank you okay you're welcome thank you uh
+
+0:32:20.320,0:32:26.240
+thank you again so any other question maybe rachel 
+you wanted to ask a question yeah oh this is
+
+0:32:26.240,0:32:31.760
+really interesting jenny thank you um i was just 
+curious if you had a chance to explore uh magnetic
+
+0:32:31.760,0:32:37.440
+prandtl numbers and if there's any sensitivity to 
+the the kind of dynamo behavior with an increasing
+
+0:32:38.400,0:32:45.360
+uh magnetic yeah um no unfortunately not i think 
+due to the nature of having quite a short postdoc
+
+0:32:45.360,0:32:53.040
+it wasn't um within like the scope of what i could 
+do uh there and then uh like the basic methodology
+
+0:32:53.040,0:32:59.760
+was to just find a reference good reference model 
+and then change you know the the two parameters
+
+0:32:59.760,0:33:04.480
+that i talked about with in regards to their 
+flare which is the strength of stratification
+
+0:33:04.480,0:33:08.400
+and the thickness of the f flare it'd be 
+really interesting to of course vary the
+
+0:33:08.400,0:33:15.200
+parameters but then it's uh you know it's like 
+changing my reference case and so um in order to
+
+0:33:15.200,0:33:20.880
+just really focus on the effects of the f layer 
+um i've just stuck with this single value but
+
+0:33:20.880,0:33:27.680
+yeah of course yeah it would be interesting to 
+see yeah sure great thank you you're welcome
+
+0:33:29.760,0:33:32.560
+okay thank you anybody else's questions
+
+0:33:36.400,0:33:43.120
+okay hi hello hello everyone uh yeah 
+i have a question i was wondering um
+
+0:33:43.120,0:33:50.960
+do we have any idea about the origin of this uh f 
+layer how how why why we have where do we have a
+
+0:33:53.040,0:34:00.720
+yeah yeah um so that was kind of what i tried 
+to address in my phd work um i don't think i
+
+0:34:00.720,0:34:05.840
+could go far as far back as to sort of tell 
+you about the time evolution of the layer but
+
+0:34:06.800,0:34:14.800
+to actually have an f layer is um is quite 
+complicated to explain um mainly because
+
+0:34:15.840,0:34:21.920
+it's very difficult to have a stably 
+stratified region and also have light
+
+0:34:21.920,0:34:26.880
+elements pass through this stably stratified 
+layer because you would think that the
+
+0:34:27.520,0:34:32.400
+chemical effects from the light elements would 
+actually stir it up again and you won't have a
+
+0:34:32.400,0:34:38.720
+stable region anymore so the goal of my phd was to 
+actually develop a model in which to explain this
+
+0:34:38.720,0:34:45.680
+which is actually invoking a two-phase system so 
+um what i developed was a slurry model of the efla
+
+0:34:46.480,0:34:52.640
+in which you have um iron crystals um 
+so precipitating out uh which allows
+
+0:34:52.640,0:34:57.520
+the transport of light elements to pass through 
+whilst also preserving a stable stratification
+
+0:34:58.080,0:35:02.800
+so that is one aspect of the question that 
+i've tried to address but in terms of where
+
+0:35:02.800,0:35:10.960
+it came from in the whole history of the earth 
+that's really an open question and so yeah
+
+0:35:10.960,0:35:18.880
+how it came to be uh would require like more more 
+researches um i think there has been some sort of
+
+0:35:18.880,0:35:23.360
+suggestion from my impact modelling like from the 
+formation of the earth like there could have been
+
+0:35:23.360,0:35:32.480
+some like thermally stable region in in the 
+center um but yeah it's not uh that's not
+
+0:35:32.480,0:35:40.720
+yeah i'm not so familiar with that side of 
+things though okay thank you thank you guys

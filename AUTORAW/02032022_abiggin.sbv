@@ -1,0 +1,1781 @@
+0:00:00.320,0:00:07.680
+okay thank you very much uh thank you everyone for 
+joining us today to the magnets i'm anita dijiara
+
+0:00:07.680,0:00:13.600
+and together with the magnet scene we want to 
+welcome you all for the first talk of the 2022
+
+0:00:14.160,0:00:21.200
+um so we will have uh about 20 to 25 minutes 
+presentation you're invited to keep your
+
+0:00:21.200,0:00:27.680
+microphone muted um and then after that we'll 
+have some time for question and answers you can
+
+0:00:27.680,0:00:34.080
+text you can you can write in the text chat but i 
+can ring that the your question out loud for you
+
+0:00:34.640,0:00:39.680
+and and then there's going to be a time for 
+informal catch up at the end which is not
+
+0:00:39.680,0:00:47.920
+going to be recorded and for today i'm really i'm 
+really excited uh to welcome here andy biggin from
+
+0:00:47.920,0:00:53.600
+university of liverpool who will be talking on 
+potential sources of variability and stability
+
+0:00:53.600,0:00:58.320
+in the poly magnetic field thank you 
+andy please share your screen thank you
+
+0:01:07.040,0:01:15.520
+okay hopefully that's nice and clear that's fine 
+thank you andy okay so thanks very much for the
+
+0:01:15.520,0:01:19.280
+uh the introduction thanks to all the 
+organizers for for inviting me and laying
+
+0:01:19.280,0:01:26.240
+on this this great uh seminars uh series um 
+so i'm going to be uh well the aim of this
+
+0:01:26.240,0:01:30.880
+talk is to bring you up to date with um some 
+stuff that's been going on at the liverpool um
+
+0:01:31.760,0:01:35.360
+uh some of the stuff that's been 
+going on the liverpool group um
+
+0:01:35.360,0:01:39.840
+starting off with with dipole moment 
+then if there's time we'll move on to the
+
+0:01:41.680,0:01:48.000
+paleocecular variation and the theme 
+running through this talk will be um using
+
+0:01:48.800,0:01:54.880
+uh dying the outputs of dynamo simulations 
+and comparing those two to magnetic fields
+
+0:01:55.440,0:01:59.920
+it's paleomagnetic records okay and 
+that's only possible through the help of
+
+0:02:00.640,0:02:08.320
+a whole bunch of collaborators 
+some of whom i've named here
+
+0:02:08.320,0:02:15.120
+so um i like to categorize uh causes of 
+paleomagnetic variability into sort of three
+
+0:02:15.760,0:02:22.320
+um different processes so on the shortest time 
+scale i've got what i'm referring to is non-linear
+
+0:02:22.320,0:02:28.080
+geodynamo processes so this is things like secular 
+variation and then when that gets a little bit out
+
+0:02:28.080,0:02:32.240
+of hand we call that an excursion and then when 
+that gets really out of hand the field collapses
+
+0:02:32.240,0:02:38.160
+and then when it grows back it's got the opposite 
+polarity we call that um a reversal um but i guess
+
+0:02:38.160,0:02:44.880
+the key thing about this uh cause of paleomic 
+variability is that it's the geodynamo doing its
+
+0:02:44.880,0:02:51.280
+own thing it doesn't need forcing from the outside 
+at all on a slightly longer time scale overlapping
+
+0:02:51.280,0:02:58.080
+then we have uh potential uh forcing for mantle 
+convection so the mantle is the ultimate heatsink
+
+0:02:58.720,0:03:06.800
+for the outer core and it uh as such it's 
+the ultimate provider of convective power
+
+0:03:06.800,0:03:13.840
+uh for driving um the dynamo and therefore 
+things like uh changes in the magnitude and
+
+0:03:13.840,0:03:21.360
+the pattern of the of the commental boundary 
+uh heat flux um may be expected to affect the
+
+0:03:21.360,0:03:28.000
+the geodynamo and the magnetic field that results 
+from it so that could be you know any true polar
+
+0:03:28.000,0:03:34.080
+wonder will rotate that pattern um globally in the 
+reference frame of the geodynamo and then you've
+
+0:03:34.080,0:03:40.400
+got changes in uh subduction flux uh resulting 
+from the things related to wilson cycles and
+
+0:03:40.400,0:03:47.200
+supercontinental cycles and so on and then on 
+even longer time scale have what we've referred
+
+0:03:47.200,0:03:54.400
+to as core mental um evolution so this is things 
+like the secular cooling of the the entire entire
+
+0:03:54.400,0:04:00.960
+planet and at some point the uh core grew so cold 
+that is able to mutate um solid inner core at its
+
+0:04:00.960,0:04:07.600
+center and that was a game changer for the the 
+dynamo as we'll get to and then there's various
+
+0:04:07.600,0:04:13.120
+uh exotic processes that have been um hypothesized 
+in recent years and sort of things like exsolution
+
+0:04:13.120,0:04:19.680
+of silicates within within the core that would 
+also cause very long time scale uh changes um
+
+0:04:19.680,0:04:25.600
+so i think it's fair to say that that my research 
+interests for a long time uh and those of others
+
+0:04:25.600,0:04:31.520
+as well i've worked with have been associated with 
+trying to use paleomagnetism magnetism as a tool
+
+0:04:31.520,0:04:38.000
+for getting at uh understanding deep earth and 
+its evolution so really modes uh processes two
+
+0:04:38.000,0:04:45.200
+and three on here um but you've got to be very 
+careful i want to recognize the the danger uh for
+
+0:04:45.200,0:04:50.640
+misidentification of which one of these processes 
+you're actually seeing in in paleomagnetic
+
+0:04:50.640,0:05:00.000
+records so i'll illustrate that by just talking 
+quickly about um some dynamo simulation output so
+
+0:05:00.720,0:05:07.600
+this is a simulation a very special one because 
+out of the 154 simulations we have on catalog
+
+0:05:07.600,0:05:16.960
+at liverpool and this is the very best at meeting 
+the criteria of spraying a tile 2019 qpm criteria
+
+0:05:16.960,0:05:24.160
+for showing similar magnetic field behavior in 
+a statistical sense um to that observed from
+
+0:05:24.160,0:05:32.480
+paleomagnetic records over the last uh 10 million 
+years okay so there are five criteria uh matching
+
+0:05:32.480,0:05:40.800
+um referenced here so two of them relate to what 
+we call model g um for paleocecular variation
+
+0:05:41.440,0:05:48.160
+where we plot the um bgp angular dispersions 
+essentially at angular standard deviation
+
+0:05:49.040,0:05:54.880
+against the latitude or paleomagnetic latitude 
+the sampling site it's been known for a long
+
+0:05:54.880,0:06:00.800
+time that that increases with with latitude away 
+from the equator and it's fit reasonably well by
+
+0:06:00.800,0:06:08.800
+this model g simple two parameter model where a 
+is the um refers to the the vgp dispersion of the
+
+0:06:08.800,0:06:15.280
+equator and b um records the tendency of this 
+dispersion to increase with latitude so those
+
+0:06:15.280,0:06:20.800
+are the first two parameters and what we're after 
+misfit values of less than one so so we're in good
+
+0:06:20.800,0:06:27.440
+good shape there we've got maximum inclination 
+anomalies so that's a deviation of an inclination
+
+0:06:28.480,0:06:33.120
+from that expected from gad and that's very good 
+in line with observations for the last 10 million
+
+0:06:33.120,0:06:40.960
+years these are all taken from from cromwell 2018 
+we've got the vdm uh variance relative variance um
+
+0:06:40.960,0:06:46.800
+and this is also in line with what we extract 
+from uh from pint and it's only the only one
+
+0:06:46.800,0:06:55.040
+that marginally fails these five criteria is this 
+proportion transitional um one which is basically
+
+0:06:55.040,0:07:02.400
+saying that this simulation does not reverse 
+quite as often as uh we would expect it to um
+
+0:07:02.400,0:07:08.640
+for the given um reversal record for the last 
+10 million years okay so it's been kind of well
+
+0:07:08.640,0:07:13.680
+known for a while that if you increase the rating 
+but you drive a geodynamo simulation a bit harder
+
+0:07:13.680,0:07:20.240
+then that can increase the reversal frequency so 
+that's what we tried in this incidence in this
+
+0:07:20.240,0:07:27.600
+instance and we so a modest rayleigh number 
+increased from 1.6 1.8 times 10 to the 7
+
+0:07:28.240,0:07:36.480
+did indeed give us uh more reversals um as we 
+expected but it also had other detrimental effects
+
+0:07:36.480,0:07:42.960
+so this one is a worse one sort of misfit that's a 
+total misfit that's nearly doubled um we fixed the
+
+0:07:42.960,0:07:48.000
+proportion transitional that's now good um but 
+now we've got a higher model ga we've got more
+
+0:07:48.000,0:07:54.880
+vgp dispersion than we see in the record and our 
+variance in a relative variance of bdms normalized
+
+0:07:54.880,0:08:01.600
+failure intensities have also gone up out of out 
+of the range so this is fairly fairly typical
+
+0:08:01.600,0:08:05.680
+of what you see with these dyno simulations 
+you fix one thing and then you break others
+
+0:08:07.200,0:08:14.640
+okay but i also want to look at the what happened 
+to the overall bdm distribution as well because by
+
+0:08:14.640,0:08:21.200
+increasing the rayleigh number um for the second 
+simulation we also decreased quite substantially
+
+0:08:21.200,0:08:28.320
+on the 40 percent the the median bdm as well so we 
+made it rico made the distribution skewed to low
+
+0:08:28.320,0:08:39.840
+values okay um now this difference is a result of 
+increasing the rayleigh number so this is the sort
+
+0:08:39.840,0:08:46.240
+of signal that would be you know we're hoping um 
+to try and interpret from the paleomagnetic record
+
+0:08:46.240,0:08:50.560
+that the fields got weaker because something 
+has changed in the in the forcing perhaps due to
+
+0:08:50.560,0:08:55.760
+mental convection or so on and obviously you know 
+to get a nice distribution here we've got 5000
+
+0:08:55.760,0:09:02.800
+vdm so you don't need that many to be able to tell 
+that the the field has changed so approximately 60
+
+0:09:03.680,0:09:11.200
+would be sufficient to give you a 95 likelihood 
+of detecting this change and actually the global
+
+0:09:11.200,0:09:16.800
+distribution of where those vdms come from is 
+is not as critical as you might think it is um
+
+0:09:16.800,0:09:24.960
+what is really critical in telling and determining 
+whether or not you've had a real change in the vdm
+
+0:09:24.960,0:09:30.880
+distribution is the amount of time that you're 
+sampling okay so i'll show you that in a very
+
+0:09:30.880,0:09:36.720
+dramatic way from this second simulation so what 
+you might have noticed from these time series
+
+0:09:36.720,0:09:44.240
+what i call tilt and vdm here is that um 
+occasionally and most especially in this
+
+0:09:44.240,0:09:50.160
+time period here this simulation collapses into 
+a weak field state the vdm becomes much weaker
+
+0:09:51.120,0:09:56.400
+and the reversal rate goes through the roof it 
+becomes quite multipolar and that's illustrated
+
+0:09:56.400,0:10:04.160
+by this snapshot of the field here okay now if 
+we were to sample only this time period which is
+
+0:10:04.160,0:10:08.400
+we've taken a million years of model time 
+here so quite a substantial amount of time
+
+0:10:08.400,0:10:15.680
+and we'd end up with a bdm distribution 
+that gives you a medium that is 68 lower
+
+0:10:15.680,0:10:19.520
+than the actual value recorded so you 
+record a much more dramatic decrease
+
+0:10:20.080,0:10:24.240
+conversely if you went to the million years 
+subsequent to that you can see that that's the
+
+0:10:24.240,0:10:29.440
+time period where we've got unusual stability 
+for this simulation we're missing any of these
+
+0:10:30.560,0:10:35.200
+hyper reversing periods so then we get a 
+completely different distribution and we get
+
+0:10:35.200,0:10:43.680
+a 71 overestimate um and that's actually more 
+or less indistinguishable from what we saw in
+
+0:10:43.680,0:10:50.400
+the first simulation so then you would miss this 
+change um and the rayleigh number in this case and
+
+0:10:50.400,0:10:57.520
+the really crucial thing to notice here is that 
+if you're just basing the fact of whether you've
+
+0:10:57.520,0:11:04.800
+sampled sufficient time on the directions then 
+you'll end up in big trouble because of course
+
+0:11:04.800,0:11:09.680
+if you sample the full five million years of model 
+time then you end up with something very close to
+
+0:11:09.680,0:11:16.720
+gad which is good but if you sample any of these 
+other smaller shorter time intervals you also
+
+0:11:16.720,0:11:23.600
+end up with with mean vgps very close and within 
+errors of gaps so you would conclude that you had
+
+0:11:23.600,0:11:31.040
+a good time average from the directions but in 
+fact your intensity is is is poorly temporarily
+
+0:11:32.480,0:11:39.840
+representative okay so and just to bring 
+that back to earth um here's pad n2n it's
+
+0:11:39.840,0:11:45.280
+a model of dipole moment over the last 
+two million years and what we see is um
+
+0:11:47.280,0:11:52.320
+not quite as dramatic but still substantial 
+long-term changes so just if you simply just
+
+0:11:52.320,0:11:56.640
+look at the first million years compare it to the 
+second million year you've got a difference of 14
+
+0:11:56.640,0:12:01.360
+there which is which is significant and you could 
+obviously you know restrict yourself just to the
+
+0:12:01.360,0:12:05.760
+brooms and just to periods where you've got many 
+reversals and that that difference would grow
+
+0:12:05.760,0:12:12.240
+larger so i think the implications of this is that 
+yeah intensity time averages much more challenging
+
+0:12:12.960,0:12:18.480
+to observe than than directional time averages in 
+fact you know they may not even exist really in
+
+0:12:18.480,0:12:24.400
+any sense um and what that means is if they want 
+to see you want to detect changes in the dipole
+
+0:12:24.400,0:12:32.240
+moment um that you know we we can be reasonably 
+confident and not just a consequence of non-linear
+
+0:12:32.240,0:12:38.960
+geodynamic processes secular variations on um 
+then we really need a number of studies spanning
+
+0:12:38.960,0:12:45.840
+tens of millions of years ideally to be sure of 
+that okay so armed with that information um i
+
+0:12:45.840,0:12:53.440
+want to now turn uh briefly to uh the biggest and 
+thorniest question i guess the paleo intensities
+
+0:12:53.440,0:12:58.240
+to address in recent years one of those 
+uh which is the the question of when us
+
+0:12:58.240,0:13:06.080
+in accord did nucleate um so here there's been 
+progress in the theoretical side of things so um
+
+0:13:06.080,0:13:11.760
+chris davis and a bunch of other leads in 
+liverpool just published this this paper in ggi
+
+0:13:12.400,0:13:20.240
+um which essentially is saying that 
+independent of the the well at least with these
+
+0:13:20.240,0:13:25.520
+with multiple different thermal evolution models 
+so we've got one where the mental boundary heat
+
+0:13:25.520,0:13:30.000
+flow is diminishing exponentially through time 
+we've got one the dashed line where it's remaining
+
+0:13:30.000,0:13:37.760
+relatively constant both of these are associated 
+with red lines that show a very sharp peak at the
+
+0:13:37.760,0:13:43.520
+moment of inner core nucleation the red line is 
+the power available to drive the geodynamo so
+
+0:13:43.520,0:13:49.440
+inner core nucleation was a game changer in terms 
+of the power available to drive the geodynamo
+
+0:13:49.440,0:13:56.640
+and through a scaling law analysis which i don't 
+have time to do justice to here um it was shown
+
+0:13:56.640,0:14:03.440
+that we would expect such a increase in the power 
+available to drive the geodynamo to be evident
+
+0:14:03.440,0:14:10.480
+as a um as a large increase a sharp 
+increase in um in the dipole moment
+
+0:14:11.120,0:14:16.240
+okay so i guess the answer to the first answer 
+to this question when did a cynical nucleate
+
+0:14:16.240,0:14:22.960
+well it would be sometime after a sharp during at 
+the time of the sharp increase in dipole moment
+
+0:14:24.080,0:14:32.400
+okay so obviously been looking for this but for 
+some time now and this was uh one attempt in 2015
+
+0:14:32.400,0:14:36.800
+and that we published where we suggested that 
+it might be happening in the mesopotamia between
+
+0:14:36.800,0:14:43.840
+about a billion point five billion years ago more 
+recently because uh bonnaretal published this
+
+0:14:44.800,0:14:51.680
+paper suggesting that in fact it happened 
+considerably later than that during or soon
+
+0:14:51.680,0:14:59.840
+after the ediacaran period which terminated 
+540 million years ago so at this juncture i
+
+0:14:59.840,0:15:08.000
+will just give a shout out for a um for the pint 
+database which enables us to to improve on these
+
+0:15:09.120,0:15:16.240
+on these studies so this um has been newly updated 
+and just published online so a huge amount of work
+
+0:15:16.240,0:15:23.200
+from um from a lot of people here at liverpool 
+but note and notably um richard bonner and greg
+
+0:15:23.200,0:15:29.280
+patterson and richard's made this nice website as 
+well that's online now so you can download things
+
+0:15:29.280,0:15:33.840
+this is only presently up to date till the 
+end of 2019 there's a further update coming
+
+0:15:33.840,0:15:40.160
+on but most of the data that i'll just be 
+going over now um is subsequent to that um
+
+0:15:42.160,0:15:48.640
+yeah to to this update so it's not in this present 
+database but i'm totally what we're seeing okay so
+
+0:15:48.640,0:15:53.520
+i guess the first thing we're interested in is 
+was this this you know this result is this time
+
+0:15:53.520,0:16:01.600
+average of um at the set tills low vdm um from 
+the ediacaran uh published by bono atoll was that
+
+0:16:01.600,0:16:09.200
+supported by other data from a similar time period 
+uh so this was very much the phd of dan falmer
+
+0:16:09.200,0:16:15.520
+who's now at uh university of florida with 
+courtney sprain and a bunch of studies here
+
+0:16:16.160,0:16:22.400
+um kind of confirming this original finding 
+so we have the east european craton we've got
+
+0:16:22.400,0:16:30.400
+the grenville dykes and we've got skinner coat 
+lavas and they're all showing similar there's
+
+0:16:30.400,0:16:34.720
+a suggestion that there might be a bit of a 
+step change at the end which you know could
+
+0:16:35.280,0:16:39.760
+be indicative of interconnection i don't really 
+want to go there i guess the the main thing is
+
+0:16:39.760,0:16:46.080
+to to point out that the scale on the y-axis here 
+right so everything all these new data below 2
+
+0:16:47.120,0:16:54.960
+times 10 to the 22 meters squared so given 
+that today's field is uh around about eight and
+
+0:16:54.960,0:17:00.880
+the uh long term average over the last few hundred 
+million years is somewhere between four or five
+
+0:17:00.880,0:17:04.560
+these are really low estimates 
+consistently low estimates spanning
+
+0:17:05.280,0:17:10.400
+tens of millions of years it really does look 
+like the ediacaran was a period of sustained
+
+0:17:11.920,0:17:16.640
+low field for whatever reason 
+going back a bit earlier in time
+
+0:17:16.640,0:17:21.440
+method approach research is a bit of a wasteland 
+for sorry the neoprotectors are wasteland for um
+
+0:17:21.440,0:17:27.920
+for paleo intensity uh results have been trying 
+to fill that um and this is phd of simon lloyd
+
+0:17:28.480,0:17:34.800
+who's still with us at liverpool and he 
+published a study from franklin dykes
+
+0:17:35.440,0:17:43.040
+in the canadian arctic 720 million years and also 
+these bengal sills from northwestern australia
+
+0:17:43.600,0:17:50.160
+and these seem to support the trend shown here 
+by the dashed line of bono metal suggesting a
+
+0:17:50.160,0:17:54.720
+decay through this time but then there's a 
+wild card which is his mundane welt wells
+
+0:17:54.720,0:18:01.200
+spikes 750 million years uh also from northwest 
+australia and they're coming out relatively
+
+0:18:01.200,0:18:08.400
+uh high just 30 million years before the uh 
+the franklin dikes so you know this could be um
+
+0:18:09.120,0:18:14.000
+you know 30 million years that's time in the 
+final resort record for the big shift in dipole
+
+0:18:14.000,0:18:21.200
+moment or it could be simply the um the the 
+nonlinear geodynamic process that i referred to
+
+0:18:21.200,0:18:26.880
+um already um but either way it's looking quite 
+difficult and to be sure that we've got the
+
+0:18:26.880,0:18:34.640
+signature of the minicore nucleation uh happening 
+at the the ediacaran and looking a bit later in
+
+0:18:34.640,0:18:39.920
+time as well i'm sorry i keep on switching the the 
+time axis uh on you by the way but that's gonna
+
+0:18:40.880,0:18:46.080
+be your feet checks for the original uh 
+figures um but yeah a bit later in time
+
+0:18:46.080,0:18:52.320
+now we're looking at the mid um protozoa low and 
+um these are results from the phd louise hawkings
+
+0:18:53.200,0:19:02.800
+and um she established this um paper um proposing 
+mid paleozoic dipole low so this this period
+
+0:19:03.360,0:19:11.200
+um most of the the devonian and the um uh 
+early carboniferous where the fields again
+
+0:19:11.200,0:19:16.720
+seem to be sustained low very low values over 
+tens of millions of years and good quality
+
+0:19:16.720,0:19:23.040
+data um a bit later on we've got um not so 
+good quality data but strongly suggesting
+
+0:19:23.040,0:19:27.920
+that there's a sharp rise in in uh dipole 
+moment then around the cayenne on super crown
+
+0:19:29.120,0:19:36.720
+okay so you know variation like this typically 
+taken to to refer to mental uh force variations
+
+0:19:36.720,0:19:42.480
+uh rather than intercourse negation but we 
+don't know those two signals are overlapping
+
+0:19:43.440,0:19:49.200
+and put all that together uh final time axis 
+switch you can see there's all the new data in
+
+0:19:49.200,0:19:56.560
+red here you see the case for these um low dipole 
+moment periods in the ediacaran the midpoly zurich
+
+0:19:56.560,0:20:03.680
+and really highlighting that we need to address 
+the early paleozoic now we've got a few things
+
+0:20:03.680,0:20:09.280
+in motion 500 million years or so these tending to 
+come out quite low uh actually but we desperately
+
+0:20:09.280,0:20:16.960
+need something particularly from the um autovision 
+super crown to see if that was high um like we see
+
+0:20:16.960,0:20:23.920
+in the in the cayman so did we have a you know 
+a um an evolution like this or more like this
+
+0:20:26.000,0:20:31.760
+okay so um i've still got a little bit of time 
+left so i will move on to talking about the
+
+0:20:31.760,0:20:38.080
+um a little bit about actually how 
+we can use uh secular variation to um
+
+0:20:38.880,0:20:45.280
+rather than being a barrier to determining um deep 
+earth conditions how we can actually use it so
+
+0:20:45.280,0:20:53.040
+this is a study that we published a couple of 
+years ago um arguing that secular variation
+
+0:20:53.040,0:20:59.200
+was actually um a paleo secular variation very 
+powerful tool for telling us about the ancient
+
+0:20:59.200,0:21:06.640
+morphology of the field so this was based on 
+dynamo simulations first and foremost you can see
+
+0:21:06.640,0:21:15.200
+that as this model a parameter decreases as we go 
+along the section of these different dynamo models
+
+0:21:15.200,0:21:22.800
+then also the axial dipole dominance so this is 
+just the power in the axial dynamo axial dipole
+
+0:21:22.800,0:21:30.000
+um divided by the rest of the field truncated to 
+degree order 10 that goes up okay so and we can
+
+0:21:30.000,0:21:37.920
+see the earth using psv10 using um for the last 10 
+million years using ggf100k for the last hundred
+
+0:21:37.920,0:21:44.160
+thousand years that kind of sits somewhere in the 
+middle of this range when we put together a lot of
+
+0:21:44.160,0:21:51.280
+dynamo models and also included uh some various 
+models from earth including ggf100k those are
+
+0:21:51.280,0:21:57.680
+these green dots here and what we found was rather 
+a nice power law okay so the model g a parameter
+
+0:21:57.680,0:22:04.160
+could be used to predict this axial dipole 
+dominance okay and this was this struck as is very
+
+0:22:04.160,0:22:11.520
+um important because this model g is something 
+we can get billion years ago um whereas you know
+
+0:22:11.520,0:22:17.360
+the the shape of the magnetic field is not 
+so easy to estimate um before recent times
+
+0:22:18.400,0:22:23.280
+okay so this is just showing that many models 
+um like there are a few models were much more
+
+0:22:23.280,0:22:29.200
+stable like this blue one than today's field 
+uh some were a little bit more unstable
+
+0:22:29.200,0:22:34.080
+and this one and many were a lot more unstable 
+than what we see in the paleomagnetic records
+
+0:22:35.200,0:22:48.560
+okay so this is a combination compilation of psv 
+estimates vgp dispersion by latitude put together
+
+0:22:48.560,0:22:55.280
+from three recent studies in the last 300 million 
+years and then compared to a slightly older
+
+0:22:55.280,0:22:59.760
+study that looked at the pre-cambrian and the 
+extraordinary thing about these is that when you
+
+0:22:59.760,0:23:06.160
+fit the model g to them their parameters are very 
+very similar so when you average on these that's
+
+0:23:06.160,0:23:11.600
+not to say that secularisation never changes when 
+you look at it on these extremely long time scales
+
+0:23:11.600,0:23:18.000
+it looks very similar it doesn't look like 
+there's been any strong secular change in psv
+
+0:23:20.400,0:23:26.400
+okay and it's actually quite a narrower window 
+that we see so these these red dashed lines these
+
+0:23:26.400,0:23:31.520
+incorporate the error estimates from all three of 
+those composite curves that i just showed you and
+
+0:23:31.520,0:23:36.960
+you can see it's actually quite a narrow window 
+um within this power law so what this is saying
+
+0:23:36.960,0:23:44.000
+is that most dynamo simulations are 
+falling outside the region most of them are
+
+0:23:44.000,0:23:51.920
+just too uh too unstable and um not 
+nipper not axial dipole dominated enough
+
+0:23:55.680,0:24:01.360
+okay and the stability of the shape of the 
+magnetic field over billions of years is
+
+0:24:01.360,0:24:06.080
+you know it's not a new idea it's something that's 
+kind of relied on for tectonic reconstructions
+
+0:24:06.080,0:24:12.400
+paleo geography and so on so i'm just showing here 
+a reference to to dave evans paper from 2006 where
+
+0:24:12.400,0:24:20.160
+he used evaporites to argue that gad was a pretty 
+good assumption all the way back to our keyan
+
+0:24:20.160,0:24:25.440
+times and we've got this quotation from here 
+that consistently axial and dipole geomagnetic
+
+0:24:25.440,0:24:31.040
+reference time and implies stability of geodynamic 
+processes on billion year time scales all right
+
+0:24:31.040,0:24:36.640
+now that's true and that is actually quite 
+surprising and quite important what was telling us
+
+0:24:36.640,0:24:42.240
+that the magnetic field has been so stable and the 
+thing that makes it even more surprising is that
+
+0:24:42.240,0:24:48.000
+these geodynamo simulations are really not stable 
+right so i said already that most of them are too
+
+0:24:48.000,0:24:53.600
+variable okay and i've got this this kind of 
+golden window shown here but now we're plotting
+
+0:24:53.600,0:24:58.800
+model ga parameter against the rayleigh number 
+okay and what you can see is that there's a very
+
+0:24:58.800,0:25:03.760
+clear pattern this isn't whether you're chemically 
+forced or thermally forced whether you have
+
+0:25:03.760,0:25:08.560
+homogeneous boundary conditions or heterogeneous 
+boundary conditions with these parameters what you
+
+0:25:08.560,0:25:14.640
+see is that you increase the radial number 
+you move quite quickly through this region
+
+0:25:14.640,0:25:21.040
+of stability and into into fields that don't look 
+like the long-term average okay now given that the
+
+0:25:21.040,0:25:25.360
+earth has been subject to all sorts of forcings 
+from various things not released in cornucleation
+
+0:25:27.200,0:25:31.120
+uh over its history it's quite surprising 
+then that we can still maintain ourselves in
+
+0:25:31.120,0:25:37.840
+this field so just wanted to highlight them these 
+these new models have just been run um by uh john
+
+0:25:37.840,0:25:42.720
+mound and chris davies at leeds and they gave 
+us the gas coefficient to play around with and
+
+0:25:43.280,0:25:49.760
+saw is that one of these one with homogeneous 
+boundary conditions should say that these are
+
+0:25:49.760,0:25:57.120
+run this e is the ekman number so this is the 
+viscous over the rotation force this one's an
+
+0:25:57.120,0:26:02.800
+order of magnitude lower than the rest it's it's 
+closer to um to earth-like parameters which are
+
+0:26:02.800,0:26:09.360
+which are far beneath there's something like 
+10-16 um but argue to be in the same regime
+
+0:26:09.360,0:26:16.160
+where rotation is dominant or is a is an important 
+force in ordering the flow within the core
+
+0:26:16.160,0:26:22.480
+but also sufficiently high railing number that 
+you get a lot of turbulence as well when you run
+
+0:26:22.480,0:26:27.520
+these simulations if you have homogeneous boundary 
+conditions then you get a similar result to the
+
+0:26:27.520,0:26:34.320
+rest you're very quickly going into the multipolar 
+regime well away from the the earth-like
+
+0:26:35.440,0:26:42.320
+observations okay but a little bit of um 
+actually quite a lot of um heterogeneous thermal
+
+0:26:42.320,0:26:47.520
+heterogeneity at the base of the mantle that seems 
+to have this remarkably remarkable stabilizing
+
+0:26:47.520,0:26:53.520
+effect so the pattern of heterogeneities that was 
+taken from um from seismic uh tomography of the
+
+0:26:53.520,0:27:00.480
+lower base mantle for masters at all uh q star 
+is the magnitude of this of this heterogeneity
+
+0:27:00.480,0:27:04.560
+we can see what's happening here unlike in any 
+of the other cases we've got a factor of three
+
+0:27:04.560,0:27:12.640
+increase in the rating number um but we still 
+have a stable model ga parameter and a stable um
+
+0:27:13.600,0:27:21.600
+dipole-dominated field so this may be significant 
+so just to briefly talk about how that can be um
+
+0:27:23.360,0:27:29.120
+so essentially this is the the flow in in 
+two of these models and what you can see
+
+0:27:29.120,0:27:34.080
+is there's big sort of faded patches 
+in the middle representing the shapes
+
+0:27:35.840,0:27:40.240
+of the llsbps we're just below the 
+coromantic boundary here about 200 kilometers
+
+0:27:40.800,0:27:49.200
+and um we see the flow has been suppressed very 
+heavily and by the the llsvps these are hot
+
+0:27:49.200,0:27:55.760
+they don't suck the heat flux underneath them 
+is very very low and so they are suppressing
+
+0:27:55.760,0:28:01.920
+the flow in the core beneath them and also the 
+magnetic fields at the core mental boundary is
+
+0:28:01.920,0:28:10.480
+therefore heavily um governed particularly at 
+low latitudes by these regions of suppressed
+
+0:28:12.080,0:28:18.640
+flow so essentially we have very little 
+um magnetic flux generated essentially the
+
+0:28:18.640,0:28:25.440
+field's imposing an order on um uh sorry the 
+the lsvp's are imposing a large scale order on
+
+0:28:25.440,0:28:29.280
+the field particularly at low latitudes which 
+sends suppressions like the equatorial dipole
+
+0:28:29.280,0:28:34.880
+which would upset the um the dipole dominant 
+the axial dipole dominance of the field
+
+0:28:36.480,0:28:41.600
+okay and just very quickly to say 
+we also see longitudinal variations
+
+0:28:41.600,0:28:47.520
+uh in these simulations so they vary from model to 
+model but the final one of these looks very much
+
+0:28:47.520,0:28:57.120
+like the variability that we see in um in ggf 
+100 k as well so we've got marginal suppression
+
+0:28:57.120,0:29:06.640
+of vgp angular dispersion um above where the vgp 
+where the yellow sdps are okay i'll skip over this
+
+0:29:08.720,0:29:15.920
+and yeah just make a final final point that this 
+these green points these are the ones that they um
+
+0:29:16.720,0:29:20.320
+that sit nicely in the window that 
+are from these uh heterogeneous
+
+0:29:20.880,0:29:27.760
+um low echelon number simulations that feature 
+these this regional stratification and so the
+
+0:29:27.760,0:29:34.000
+red circle in here is ggf100k so that also sits 
+nicely in the in the middle of this and the fact
+
+0:29:34.000,0:29:39.120
+that this is so stable does it suggest that a 
+lot of our svps are stabilizing the magnetic
+
+0:29:39.120,0:29:45.120
+fields could they be doing so over geological time 
+scales um well i just want to point out here that
+
+0:29:45.120,0:29:51.280
+i'm not saying that these lsvps look exactly the 
+same over billions of years um but you know if
+
+0:29:51.280,0:29:58.560
+we've got a simulation like this one geodynamic 
+mental flow over the last 300 million years
+
+0:29:58.560,0:30:06.480
+you can see that the lsvps represented by these 
+areas of low coronal heat flow have moved around
+
+0:30:06.480,0:30:11.680
+in blue so they've moved around a lot over this 
+time but they're still covering significant
+
+0:30:11.680,0:30:17.920
+amounts of the of the low um of the equatorial 
+parts of the common boundary that might be
+
+0:30:17.920,0:30:25.040
+sufficient to impose this large scale order and 
+stabilizing effect on the magnetic field okay so
+
+0:30:25.040,0:30:32.320
+summary of findings um i guess i've just about 
+stuck to time um there but you can read these
+
+0:30:32.880,0:30:40.320
+for yourself and i'll take any questions thank you 
+thank you andy let's give a big round of applause
+
+0:30:41.200,0:30:48.640
+thank you very much uh very interesting talk 
+um and the floor now is open for questions
+
+0:30:49.280,0:31:03.840
+you can use the chat the chat box or ask 
+them away yes cathy go ahead thank you
+
+0:31:16.960,0:31:25.280
+okay sorry having trouble meeting there no problem 
+point of clarification please um i think i'm maybe
+
+0:31:25.280,0:31:32.480
+i misunderstood this but early on you said that 
+uh when you were talking about the formation of
+
+0:31:32.480,0:31:41.040
+the inner core um did i understand you correctly 
+to say that the increase in power that you get
+
+0:31:41.040,0:31:46.560
+from the formation of the inner core necessarily 
+results in an increase in dipole moment
+
+0:31:47.680,0:31:56.400
+well that's what the scaling law predicts okay so 
+there's a nice gaming law based on the qg mac um
+
+0:31:56.400,0:32:02.400
+force balance which is thought to be appropriate 
+for earth and hundreds of dynamo simulations
+
+0:32:02.400,0:32:10.160
+that that chris collated and found yeah a um a 
+nice scaling law um that predicted that outcome
+
+0:32:10.880,0:32:16.960
+one thing to be to be born in mind with that is 
+that all those simulations were dipole dominated
+
+0:32:17.760,0:32:27.680
+okay so what that um means is actually if that 
+power tricks it over towards the multipolar um uh
+
+0:32:27.680,0:32:34.160
+behavior then actually you might expect the 
+opposite but yes as things stand with the um uh
+
+0:32:34.160,0:32:38.720
+yeah with the current state of the art of 
+dynamo simulations and then the scaling law that
+
+0:32:38.720,0:32:44.800
+applies um from that it does seem as though uh 
+yes we should expect a significant increase in
+
+0:32:44.800,0:32:47.120
+back online as a result thank you
+
+0:32:49.680,0:32:56.480
+thank you er johannes yeah thank 
+you hi andy thanks for the nice talk
+
+0:32:57.120,0:33:03.600
+thank you now i have first first a remark and then 
+a question i guess because to kathy's um question
+
+0:33:03.600,0:33:09.600
+i mean for the scaling you just use the scaling 
+laws right based on dynamo simulations but also
+
+0:33:09.600,0:33:15.280
+some theory which basically tell you that the 
+energy or the magnetic field strength goes with
+
+0:33:15.280,0:33:21.360
+the power to the one-third right so so that's what 
+all it tells you but i think this is not really
+
+0:33:21.360,0:33:28.080
+based on simulations that have no inner core 
+and something that have a core and when you do
+
+0:33:28.080,0:33:33.680
+this you see that basically the increased medical 
+field strength that you could see as an observer
+
+0:33:33.680,0:33:40.240
+is much weaker and this scaling node would predict 
+simply because when you nucleate an inner core
+
+0:33:41.040,0:33:46.880
+the action of dynamic generation moves deeper 
+into the core so what you see at the surface is
+
+0:33:46.880,0:33:53.680
+somewhat less than the power law predict but this 
+was not my question so my question regards these
+
+0:33:53.680,0:33:58.240
+simulations you showed at the end these slow 
+ecma numbers 10 to minus 5 simulations right
+
+0:33:58.960,0:34:04.080
+which looked quite nice actually and had this uh 
+tomographic heat flux at the cone metal boundary
+
+0:34:04.880,0:34:10.880
+so are these simulations also reversing or are 
+they not reversing no they're not reversing
+
+0:34:10.880,0:34:14.400
+they're so they're computationally 
+expensive as you can imagine and so
+
+0:34:15.520,0:34:22.000
+100 000 years of model time so half a diffusion 
+time okay but when you look at the wikipedis
+
+0:34:22.000,0:34:29.600
+person it looks about the correct amount yes which 
+might suggest that they could reverse okay so the
+
+0:34:29.600,0:34:36.240
+final slide that i didn't have time to show you 
+is actually comparing them to to ggf 100k because
+
+0:34:36.240,0:34:43.440
+that's also obviously 100 000 years that doesn't 
+reverse either the le champ does not register as a
+
+0:34:43.440,0:34:52.720
+reversal according to these criteria so therefore 
+they actually um yeah ggf 100k fails the criteria
+
+0:34:52.720,0:34:58.800
+doesn't perform particularly well um and these 
+simulations much better ggf100k than they do the
+
+0:34:58.800,0:35:03.760
+10 million year simulations and that could be just 
+because yeah they're not running long enough for
+
+0:35:04.480,0:35:08.720
+the for reversals happen because that 
+will then indeed knock on impact on the um
+
+0:35:09.760,0:35:16.720
+uh on the bdm variability as well very strongly 
+um yeah so that would be another criteria that's
+
+0:35:16.720,0:35:21.680
+kind of automatically missed just by them 
+being too short to have reversals thank you
+
+0:35:25.200,0:35:29.840
+thank you any other question
+
+0:35:32.400,0:35:43.840
+maybe you can show us the slide you've prepared 
+with the g gfk 100k a model i'm curious now yeah
+
+0:35:50.160,0:35:57.200
+uh okay so i'll just keep this so first of 
+all i show you comparison to the uh the last
+
+0:35:57.200,0:36:03.520
+10 million years um so here it's shown graphically 
+rather than as a table but for the four different
+
+0:36:03.520,0:36:12.800
+models sorry i can't see it sorry oh sorry sorry 
+sorry thank you a lot of questions coming now
+
+0:36:12.800,0:36:19.120
+that's good thank you okay okay i'll keep this 
+brief but yeah so this is it for for um for the
+
+0:36:19.120,0:36:25.360
+qpm criteria shown as a green bar so you can see 
+that for model ga and the inclination normally
+
+0:36:25.360,0:36:31.040
+which is kind of the morphological one that 
+they do pretty well but then model g b not so
+
+0:36:31.040,0:36:37.920
+good and then the bdm variability and reversals 
+yeah not good at all um but then that's also
+
+0:36:38.720,0:36:46.000
+bring on the red bar to show what ggf-100k is 
+like that has the same problem so essentially
+
+0:36:46.000,0:36:52.560
+um yeah it's uh model g b is is it's very flat 
+it's ggf 100k which is kind of interesting i'm
+
+0:36:52.560,0:36:59.680
+not sure what that signifies but it also has way 
+too low bdm variability um and yeah no reverses
+
+0:37:02.240,0:37:11.920
+thank you so uh i will take now carl's 
+question yeah hi andy thank you very
+
+0:37:13.120,0:37:19.760
+very nice talk um i was especially also 
+interested in these very low ecma number
+
+0:37:19.760,0:37:28.800
+models because uh they seem to show that you get 
+a much finer structure in the heat flow but also
+
+0:37:28.800,0:37:37.360
+probably in the general convection patterns in 
+the outer core and as we know the ecma number
+
+0:37:37.360,0:37:44.240
+for the earth is even i think seven orders of 
+magnitudes smaller than what you showed so so we
+
+0:37:44.240,0:37:52.720
+probably have to expect that this fine structure 
+is by far finer even than these models so uh
+
+0:37:53.920,0:38:02.480
+would you say that the reason for the fact that 
+the mental illness also commented boundary in
+
+0:38:02.480,0:38:11.680
+homogeneities become more important is that 
+the frequency or the wavelength of the of the
+
+0:38:11.680,0:38:17.520
+convection patterns is becomes much 
+smaller than the wavelength of the uh
+
+0:38:18.400,0:38:26.000
+of the inhomogeneities at the core mental boundary 
+is that the reason why why this dominates or it
+
+0:38:26.000,0:38:35.600
+could well be so yes i think that's that that 
+makes um yeah good sense so essentially um it's
+
+0:38:36.640,0:38:42.800
+yeah the so these models show exhibit this 
+phenomenon of regional inversion lenses you know
+
+0:38:42.800,0:38:50.240
+which which um mound that are published in 2019 
+nature geoscience but in non-magnetic simulations
+
+0:38:50.800,0:38:58.320
+okay so it's essentially regional stratification 
+of the uppermost core so and what that is is
+
+0:38:58.320,0:39:05.920
+yeah the so and that was robust over you know very 
+large parameter range providing yeah you were at
+
+0:39:05.920,0:39:14.000
+these uh you know these low ecma numbers and yes 
+the reason is essentially that as i understand it
+
+0:39:14.000,0:39:22.160
+um is that you need to be in a regime where 
+the mental large-scale mental in homogeneities
+
+0:39:22.160,0:39:31.200
+set up um a lens of stratified flow or 
+suppressed flow at least and then as you
+
+0:39:31.200,0:39:37.840
+increase the rayleigh number although you know the 
+the flow gets faster it also becomes finer scale
+
+0:39:37.840,0:39:43.200
+and therefore yes it just can't it can't disrupt 
+something that's so so much bigger than it is
+
+0:39:46.000,0:39:51.520
+and yeah the the the lower ecma numbers 
+sorry the higher ecma numbers if you're
+
+0:39:51.520,0:39:56.560
+at two higher numbers then yeah you just 
+the these homogeneities just do completely
+
+0:39:56.560,0:40:02.800
+different things you don't you don't seem to get 
+this this regional stratification at all either
+
+0:40:02.800,0:40:10.080
+you stratify everything um or you end up or 
+you yeah and to very great depths in the core
+
+0:40:10.080,0:40:15.440
+sometimes or you um yeah you just you don't 
+really you have sort of ephemeral effects
+
+0:40:19.520,0:40:23.840
+thank you thank you um andrei
+
+0:40:28.480,0:40:32.400
+thank you andy great talk very clear very
+
+0:40:32.400,0:40:37.840
+clear cut i have a very brief question 
+actually concerning the data you showed
+
+0:40:38.560,0:40:45.280
+well uh what would you think of the this huge 
+dispersion vdm dispersion during the camera
+
+0:40:45.920,0:40:52.720
+and also it seems that there there have not 
+been some so many recent studies of this period
+
+0:40:54.240,0:41:02.080
+i fully agree and i would love yeah to see more 
+so any idea why the dispersion could be so high
+
+0:41:04.160,0:41:07.520
+if it's real if it's real or it's just the data
+
+0:41:10.720,0:41:18.640
+i i i mean the data quality yeah i 
+mean yeah that's another period to look
+
+0:41:19.760,0:41:22.880
+yes it is i don't know i don't want 
+to comment really on whether okay
+
+0:41:23.680,0:41:27.840
+it could be the the quality of the 
+data that's i mean some of the studies
+
+0:41:28.720,0:41:35.120
+are universally high and that kind of you know 
+that could fit with some of the dynamic stations
+
+0:41:35.120,0:41:39.840
+where you where you enter this you know it tends 
+to be low railing numbers you get a very efficient
+
+0:41:40.560,0:41:46.880
+you know um dipole dominated uh behavior 
+where the field doesn't you know never
+
+0:41:46.880,0:41:54.880
+really collapses so you end up with quite a 
+small dispersion but then yeah if um quickly
+
+0:41:54.880,0:42:00.720
+it always has been a temptation to tell okay 
+you have super crown you have high vdm high and
+
+0:42:07.360,0:42:13.040
+because i think you know i think you can a 
+super con is just a time where you haven't
+
+0:42:13.040,0:42:18.720
+quite edged over into the reversing you know 
+regime that collapse and i think that that
+
+0:42:18.720,0:42:23.760
+can be quite a subtle transition to that you 
+know so you know i've heard the argue that
+
+0:42:23.760,0:42:29.200
+maybe the brooms could be like a super con 
+and you know i don't see anything to either
+
+0:42:38.800,0:42:44.000
+thank you well another thing probably not 
+only the quality of the data but also the
+
+0:42:44.000,0:42:49.280
+the uncertainty in the age they usually 
+eye for for all the times we're talking
+
+0:42:49.280,0:42:58.800
+variability they're real or but on which age 
+range sorry i commented um thank you uh gunther
+
+0:43:01.120,0:43:07.920
+hi andy nice effort in putting this talk 
+together like you did for this presentation
+
+0:43:08.560,0:43:18.480
+i i i admit i don't really understand the dynamo 
+and how it works and i always have this uh how
+
+0:43:18.480,0:43:25.840
+how how what's the what's the role of coriolis 
+force when you are generating these dynamos
+
+0:43:27.360,0:43:32.240
+uh okay so i guess i have to be quite careful 
+there's people that are infinitely better
+
+0:43:32.240,0:43:38.880
+qualified than i am to talk about those actual 
+dynamic modelers um but as i mean rotation is
+
+0:43:38.880,0:43:48.800
+is absolutely paramount as a force in the dynamo 
+we think so it organizes um the flow parallel to
+
+0:43:48.800,0:43:56.320
+the rotation axis so it adds kind of almost a 
+rigidity um to the flow structure so it stops
+
+0:43:56.320,0:44:02.000
+it all just got kind of a radial convection and 
+instead forms these you know tends to form these
+
+0:44:02.000,0:44:07.200
+these columns that are aligned um with the 
+rotation axis so but it's it's you know it's
+
+0:44:07.200,0:44:15.440
+as paramount in the force balance on so on so they 
+would be going let's say in clockwise direction in
+
+0:44:15.440,0:44:21.840
+the northern hemisphere and counterclockwise 
+in the southern hemisphere correct
+
+0:44:22.960,0:44:25.920
+yes as far as i understand 
+it janice do you want to
+
+0:44:31.840,0:44:36.000
+oh you have you have this well 
+we tend to think of these columns
+
+0:44:36.000,0:44:41.760
+right and they go through north-south right 
+they go just right through the earth core
+
+0:44:43.200,0:44:49.840
+and you have both types you know counter rotating 
+and clockwise and counter-clockwise rotation both
+
+0:44:49.840,0:44:58.480
+columns exist but they are ordered there so there 
+are columns along the rotation axis as any set but
+
+0:44:58.480,0:45:05.680
+both types exist i mean i think of it as like 
+i guess the um meteorology sound so you get
+
+0:45:06.240,0:45:11.760
+you get depressions and and you get cycling and 
+cycling yeah that's that's a similar origin right
+
+0:45:14.960,0:45:21.440
+but i mean these columns they you see them 
+in in in simple simulations of course when it
+
+0:45:21.440,0:45:25.600
+becomes more complex like these eggman number 
+ten to minus five simulations and you showed
+
+0:45:25.600,0:45:31.520
+you don't really see columns anymore or or only 
+you know hints of it and in a statistical sense
+
+0:45:31.520,0:45:35.440
+you don't see big columns reaching through 
+from north to south that's not possible
+
+0:45:35.440,0:45:39.360
+anymore because everything is so turbulent 
+but in a statistical sense this is still there
+
+0:45:41.920,0:45:44.160
+okay and so now it comes to my question
+
+0:45:45.440,0:45:53.680
+so it looks to me that in order that once you 
+have a certain rotation rate that these columns
+
+0:45:53.680,0:46:00.000
+are forming but there must be a certain rate 
+which probably relates to the viscosity i don't
+
+0:46:00.000,0:46:07.280
+know at which you perturb this column formation 
+and i wonder i mean what i all thought about
+
+0:46:07.280,0:46:16.320
+estimate estimation of this rotation rate which 
+would become critical uh for these columns so
+
+0:46:16.320,0:46:23.440
+my my understanding is that rotation rate is very 
+very much less than the rotation rate of the earth
+
+0:46:26.320,0:46:32.080
+so we are very much into the rotationally 
+dominated or rotationally influenced regime
+
+0:46:34.080,0:46:42.160
+so for example venus would not have that or would 
+it no i think venus as far as i understand i think
+
+0:46:42.160,0:46:47.600
+the problem with venus is not the rotation rate 
+i know that it's much slower um but it's still
+
+0:46:47.600,0:46:56.080
+sufficient to um you know to to allow for a you 
+know for a rotationally dominated dynamo it's
+
+0:46:56.080,0:47:00.640
+just that um yeah probably the heat flow is not 
+enough on venus so that's probably what it was
+
+0:47:03.520,0:47:09.840
+well thank you andy hey thank you um boris
+
+0:47:11.360,0:47:18.480
+hello hello andy thank you for your thank you for 
+your presentation i i have a question about the
+
+0:47:19.120,0:47:25.840
+the influence of the lls vps on the magnetic 
+field and um i was wondering what kind of uh
+
+0:47:26.560,0:47:28.160
+influence it has
+
+0:47:30.560,0:47:37.840
+do do you think that the llsvps would produce 
+a different magnetic field whether you are
+
+0:47:38.640,0:47:45.840
+over the lls vps or 90 degrees or for what kind 
+of um what would be the influence yes of the
+
+0:47:45.840,0:47:54.960
+lsvps on the geometry of the magnetic i assume 
+there's field lot of work to be done in that
+
+0:47:54.960,0:48:02.480
+regard um but what we see in these ones is that 
+yeah they suppress the magnetic field directly
+
+0:48:02.480,0:48:06.720
+beneath them um and then obviously you 
+know that's at the core model boundary
+
+0:48:06.720,0:48:11.760
+then you go all the way up to the surface 
+and you smooth that out quite a bit so it's
+
+0:48:11.760,0:48:20.080
+but it's perhaps um observable the surface you 
+know ggf100k you know seems to seems to show this
+
+0:48:20.080,0:48:26.960
+you know this nice non-zonal signature 
+of um suppressed vgp dispersion above
+
+0:48:27.600,0:48:33.920
+those those lsdps so if you move them if you move 
+the lsvps around you might expect that signature
+
+0:48:33.920,0:48:39.040
+to go around i guess what what is really wide 
+open at the moment is what that does to the
+
+0:48:39.040,0:48:46.400
+sort of you know the next uh stage of the the 
+global field or the you know the the axisometric
+
+0:48:46.400,0:48:52.640
+field whether they were still if you just had one 
+big lsvp at the equator whether that would still
+
+0:48:53.200,0:49:00.240
+um impose a similar stabilizing effect to that 
+which we see at two i suspect it would have a
+
+0:49:00.240,0:49:06.400
+qualitatively similar effect um just because it's 
+going to impose a large scale order on the field
+
+0:49:06.400,0:49:11.760
+it's going to not allow you know the actual 
+the equatorial dipole is the main you know
+
+0:49:14.000,0:49:19.520
+disruptive influence to the axial dipole 
+and you know if you can't have that if you
+
+0:49:19.520,0:49:27.600
+don't if you've got you know quite a strong zonal 
+asymmetry sorry non-zonal symmetry on the equator
+
+0:49:29.120,0:49:35.920
+okay thank you and how i have a second question 
+related to this is um how would you have your
+
+0:49:36.480,0:49:45.600
+equatorial dipole in how the equatorial dipole 
+would be positioned with respect to this uh
+
+0:49:46.640,0:49:55.040
+lls vp uh geometry do you know this or oh yeah i 
+think are you getting at the sort of persistent
+
+0:49:55.040,0:50:02.960
+equatorial dipole idea for the yeah maybe or or 
+maybe the magnetic field could still be dominated
+
+0:50:02.960,0:50:08.000
+by an actual dipole but i guess you could 
+have a combination of the two or i don't know
+
+0:50:09.680,0:50:13.600
+yeah so i don't know this is real speculation
+
+0:50:14.320,0:50:20.720
+so i just don't know but i guess you know if if 
+you didn't have lsvps at the equator at all then
+
+0:50:20.720,0:50:30.080
+maybe that would help an equatorial dipole for me 
+and then it might be rooted you know to perhaps
+
+0:50:32.480,0:50:35.760
+regions of particularly high heat flow okay
+
+0:50:36.480,0:50:43.760
+okay okay thank you very much thank you thank 
+you all unfortunately the time is nearly up
+
+0:50:44.640,0:50:51.760
+so uh we don't have a time for more 
+questions um thanks again andy another
+
+0:50:52.320,0:51:00.720
+big round of applause for you thank you very much 
+let me share my screen for our next uh updates
+
+0:51:01.760,0:51:09.200
+um so the the seminar schedule so far looks like 
+we are gonna have marco mafione from university of
+
+0:51:09.200,0:51:17.120
+birmingham um the 16th of march and then 23rd of 
+march we're gonna have uh uh two two speakers from
+
+0:51:17.120,0:51:25.120
+the royal academy of art in the act and and maybe 
+in april or maybe after the eg we're gonna move to
+
+0:51:25.120,0:51:32.240
+eu eastern hemisphere time slot and we always 
+welcome more speakers and then thank you very
+
+0:51:32.240,0:51:37.440
+much again for coming and i would like to remind 
+you that you can watch and rewatch the videos
+
+0:51:37.440,0:51:47.520
+on the youtube channel and yeah i hope to see 
+you next time thank you very much thank you all

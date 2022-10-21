@@ -1,0 +1,1915 @@
+0:00:00.000,0:00:10.480
+of you who have not joined our seminars before 
+um we have presentations that are uh 20 to 35
+
+0:00:10.480,0:00:16.080
+minutes in length with a bit of flexibility there 
+and we kindly ask that you keep your microphones
+
+0:00:16.080,0:00:20.560
+muted during the presentation so as not to 
+disturb the presenter and if you're struggling
+
+0:00:20.560,0:00:26.640
+with a connection please turn your video off 
+because that can help to improve the connection
+
+0:00:27.360,0:00:32.400
+after the seminar we'll have chance for a 10 
+10-15 minute question and discussion session
+
+0:00:32.400,0:00:37.040
+if you don't want to ask your question uh 
+online um please type it into the chat and
+
+0:00:37.600,0:00:43.520
+i can read it out to the to the presenter and as 
+always we've got life going on around us um so if
+
+0:00:43.520,0:00:48.480
+you have to go please uh get up and go it's not a 
+problem at all um and at the end of the seminars
+
+0:00:48.480,0:00:53.360
+we have a chance uh for a bit of a catch-up if 
+anybody's interested a bit of a social aspect to
+
+0:00:53.360,0:01:01.600
+the seminars uh and this is is is not recorded so 
+it's it's a relaxed environment and so today i'm
+
+0:01:01.600,0:01:07.280
+really pleased that we've got uh gemma richardson 
+from uh the bgs here in the uk and she's going to
+
+0:01:07.280,0:01:14.400
+be talking to us today about uh space weather so 
+i will hand over to you gemma okay thanks greg
+
+0:01:24.880,0:01:31.520
+okay so hi everyone as as greg said i'm here from 
+the british geological survey um i've not put
+
+0:01:31.520,0:01:35.840
+everybody's name on the talk because there's lots 
+of people in the j magnussen team who i'm sure
+
+0:01:35.840,0:01:39.840
+i'm stealing some of their work but i will 
+give them full credit in due course i'm sure
+
+0:01:40.560,0:01:46.160
+um so yeah today i'm going to talk about space 
+weather and its impact on grounded technology
+
+0:01:47.840,0:01:55.360
+um so i thought i'd start by doing a quick kind of 
+introduction to space weather i'm aware that for
+
+0:01:55.360,0:02:00.720
+a lot of you space weather impacts on geomagnetic 
+data i'll probably adjust your noise and you don't
+
+0:02:00.720,0:02:06.000
+care too much so i thought i'd do a quick overview 
+of kind of what space weather is and why it kind
+
+0:02:06.000,0:02:10.800
+of matters to me and then i'll talk a little 
+bit about the research that i've been doing
+
+0:02:10.800,0:02:14.720
+uh into power grids and pipelines 
+and then talk a little bit about
+
+0:02:14.720,0:02:18.320
+some projects that we're involved 
+in and for operational services
+
+0:02:19.760,0:02:25.360
+so space weather it's essentially just a term 
+um to describe the variability of conditions
+
+0:02:25.360,0:02:31.040
+in near earth space environment and specifically 
+here we're using it to refer to conditions that
+
+0:02:31.040,0:02:37.360
+have an impact on technology infrastructure and 
+people either in space or on or near the ground
+
+0:02:39.040,0:02:43.920
+um so this is the kind of classic image from issa 
+that i'm sure you've all come across before which
+
+0:02:43.920,0:02:50.320
+is showing all the different impacts of space 
+whether on different kind of types of technology
+
+0:02:50.320,0:02:55.520
+so the things that are obvious like satellites 
+and astronauts because they're up in space
+
+0:02:55.520,0:03:02.560
+that are affected by space weather um either 
+directly by radiation or degradation sometimes
+
+0:03:02.560,0:03:07.920
+with things like single event upsets which can 
+kind of affect what a satellite is doing and
+
+0:03:07.920,0:03:12.720
+maybe confuse the operators down on the ground 
+because they maybe lose the satellite for a
+
+0:03:12.720,0:03:18.640
+little bit um as we move further down into 
+the ionosphere there's then space where they
+
+0:03:18.640,0:03:23.680
+can cause lots of enhanced currents and 
+other disturbances within the ionosphere
+
+0:03:23.680,0:03:30.000
+that then make it very difficult for satellite 
+signals to pass through so that can lead to um
+
+0:03:31.280,0:03:38.320
+you know errors in satellite communications it 
+can lead to a reduction of accuracy of things like
+
+0:03:38.320,0:03:43.280
+gps which isn't going to affect you and your car 
+with your satellite navigation system because it's
+
+0:03:43.280,0:03:48.000
+not that accurate anyway but there are lots of 
+systems around the world that rely on very precise
+
+0:03:48.640,0:03:54.640
+gps so if your gps signal is getting delayed in 
+the ionosphere that's going to have a an impact
+
+0:03:55.440,0:04:00.960
+and reduce your accuracy which which can be 
+really important and if we move a bit further down
+
+0:04:02.160,0:04:06.000
+again down to the to the ground that's the 
+bit where i'm going to talk about today so
+
+0:04:06.720,0:04:11.360
+space where they can cause these kind of 
+induced geoelectric fields which then can
+
+0:04:11.360,0:04:16.320
+lead to geomagnetically induced currents 
+in things like power lines and of course it
+
+0:04:16.320,0:04:23.120
+can reduce accuracy of directional drilling 
+so if you're not aware of a lot of drilling
+
+0:04:23.120,0:04:30.480
+activities because they're underground gps doesn't 
+really work and having to use um other precision
+
+0:04:31.600,0:04:35.520
+ways of navigating your well path on the 
+ground are quite expensive so they actually
+
+0:04:35.520,0:04:39.520
+use the magnetic field obviously if there's a big 
+geomagnetic storm going on that's going to affect
+
+0:04:40.560,0:04:44.720
+their measurements and therefore where they think 
+their drill puff is going so it's important that
+
+0:04:44.720,0:04:51.520
+they understand um whether there's a storm going 
+to happen or not so in terms of ground effects
+
+0:04:51.520,0:04:56.800
+there's kind of two main causes of space weather 
+impacts of the earth so the first is coronal holes
+
+0:04:58.320,0:05:04.960
+um and these are regions on the sun's surface 
+that appeared darker under lots of different
+
+0:05:04.960,0:05:11.360
+filters um because they're a little bit colder 
+and have a slightly lower density plasma than
+
+0:05:11.360,0:05:17.040
+the average in the corona and they're linked 
+to open magnetic field lines so basically that
+
+0:05:17.040,0:05:23.360
+just means it's easier for things to escape into 
+the solar wind so in the solar wind you get from
+
+0:05:23.360,0:05:29.840
+these corona holes you get these fast patches and 
+because everything's rotating these fast patches
+
+0:05:29.840,0:05:34.480
+hit the slower patches from before and you can 
+get compression regions so when that sweep past
+
+0:05:34.480,0:05:40.560
+the earth you get a kind of a shock um but you 
+can get a shock depending on how fast they are
+
+0:05:42.000,0:05:45.680
+and you can get lots of disturbances in the 
+magnetic field now crown holes don't tend to cause
+
+0:05:46.400,0:05:52.960
+massive gemetic storms but they can be significant 
+the other main one is coronal mass ejections so
+
+0:05:52.960,0:05:58.160
+coronal mass ejections are usually associated 
+with solar flares or occasionally filament
+
+0:05:58.160,0:06:02.720
+eruptions although both of these can be happen 
+independently of coronal mass ejections as well
+
+0:06:03.440,0:06:10.560
+um so solar flares are just these really bright 
+um releases of energy which they're classified
+
+0:06:10.560,0:06:16.960
+in terms of the x-ray flux that they release at 
+the time and then filaments so the filament here
+
+0:06:16.960,0:06:23.200
+is just this dark string above the surface of the 
+sun and if i just play this video you can see it
+
+0:06:23.760,0:06:31.200
+erupting quite spectacularly so they can lead to 
+what we call a coronal mass ejection so what is
+
+0:06:31.200,0:06:37.040
+a coronal mass ejection well um here's 
+one going off here which i think you can
+
+0:06:38.400,0:06:45.600
+i just pause it you can see so there's a 
+nice um big bubble of stuff basically leaving
+
+0:06:46.320,0:06:50.080
+the solar surface so the sun is 
+approximately where the white circle is
+
+0:06:50.640,0:06:55.200
+and the satellite has a what's called an 
+occulting disk so effectively we're looking
+
+0:06:55.200,0:07:00.400
+at an eclipse from space but it's a man-made 
+eclipse because we've just blocked out the sun
+
+0:07:01.200,0:07:06.480
+so this is the sun's corona and you can see 
+there's a big bubble this is the coronal
+
+0:07:06.480,0:07:13.920
+mass ejection heading off the side of the sun in 
+this case um and that's full of lots of charged
+
+0:07:13.920,0:07:20.480
+particles and lots of solar magnetic field that's 
+all jumbled up in this case if it was heading off
+
+0:07:20.480,0:07:25.200
+towards the side it's not such a problem but 
+here's one that was heading towards the earth
+
+0:07:26.240,0:07:31.040
+which went so fast you can barely see it 
+so i'll just slow that down so you can see
+
+0:07:31.040,0:07:36.400
+this is what we'd call a full halo coronal mass 
+ejection it's called a full halo just because it
+
+0:07:36.400,0:07:42.560
+goes all the way around the sun and this one was 
+definitely heading towards us because you could
+
+0:07:42.560,0:07:46.400
+see all this insulation on the camera so this 
+is one of those kind of space weather effects
+
+0:07:46.400,0:07:52.880
+of all those charged particles hitting the camera 
+afterwards and you can see that over time that's
+
+0:07:52.880,0:07:57.680
+gonna that's gonna do some damage but as i said 
+a bit i'm interested in is the actual coronal
+
+0:07:57.680,0:08:03.520
+mass ejection so that can take anywhere between 
+around kind of 14 hours to five days to get to us
+
+0:08:04.240,0:08:10.800
+depending on the speed of that that corona mass 
+ejection and when they get to the earth they cause
+
+0:08:10.800,0:08:16.000
+geomagnetic storms so again as i'm sure you're 
+all very aware this is a kind of nice quiet day
+
+0:08:16.800,0:08:21.280
+um curve from uh from one of our 
+geomagnetic observatories this is esthermia
+
+0:08:21.920,0:08:29.440
+and here's the same observatory but on a 
+stormy day and these you know the storm itself
+
+0:08:31.280,0:08:35.280
+the variations are much larger than they were on 
+a quiet day i mean they're still small compared to
+
+0:08:35.280,0:08:40.480
+the background field but it's this the rapid 
+variations that are really really the issue
+
+0:08:42.320,0:08:48.080
+and that's because it causes electric fields to be 
+reduced in the ground which then causes currents
+
+0:08:48.080,0:08:53.840
+to flow in ground-based infrastructure 
+so power networks pipelines railways etc
+
+0:08:56.000,0:09:01.680
+so in 2012 this was recognized by the uk 
+government as being a genuine risk to the uk
+
+0:09:02.240,0:09:09.600
+and so space weather is circled here as number 19 
+on the risk register in the latest edition saying
+
+0:09:09.600,0:09:15.840
+that there is a relatively high likelihood 
+of a space weather a big space weather event
+
+0:09:17.520,0:09:23.040
+affecting the uk with what they 
+call level c level impact so a
+
+0:09:23.040,0:09:27.760
+kind of relatively high level of impact 
+so just for reference 25 here is at the
+
+0:09:28.320,0:09:35.680
+impact of a global pandemic um so space weather 
+is kind of considered a similar likelihood to
+
+0:09:35.680,0:09:43.680
+that but hopefully not quite as impactful 
+certainly not for as long we would hope um so
+
+0:09:45.920,0:09:49.840
+in terms of mitigating space well then the 
+first thing we can do is to forecast it
+
+0:09:50.800,0:09:55.680
+so there's lots and lots of different um ways 
+of looking at the sun now so there's quite a
+
+0:09:55.680,0:10:02.480
+few satellites or continuously monitoring 
+the sun either looking directly kind of at
+
+0:10:02.480,0:10:07.600
+the sun itself through different filters 
+to so we can see when there's sunspots
+
+0:10:08.720,0:10:13.840
+or you know these images from soho that i just 
+showed you looking for coronal mass ejections
+
+0:10:13.840,0:10:19.440
+and disturbances in the corona and there's 
+also the new discover satellite which is an
+
+0:10:19.440,0:10:26.320
+operational satellite measuring the solar wind 
+at the l1 point at all times and then there are
+
+0:10:26.320,0:10:31.840
+other things like the ghost satellites which 
+measure the x-ray flux so they give you that
+
+0:10:34.400,0:10:42.400
+size of flares that we've seen now there has been 
+an increasing amount of solar monitoring happening
+
+0:10:42.400,0:10:48.000
+over the last few years which is fantastic but for 
+the most part they're all based either at the l1
+
+0:10:48.000,0:10:54.560
+point so between the sun and the earth or actually 
+orbiting the earth so we kind of have quite a
+
+0:10:54.560,0:11:01.040
+one-dimensional view of the sun so this this plot 
+here is just kind of imagine we're looking down
+
+0:11:01.040,0:11:07.200
+on the solar system effectively so pretty much our 
+only viewpoint is from just in front of the earth
+
+0:11:07.200,0:11:15.360
+or at the earth now there is the stereo satellites 
+which so marked here as a and b so they have over
+
+0:11:15.360,0:11:20.800
+time gradually drifted round earth orbit so a head 
+started ahead of the earth that's why it's that's
+
+0:11:20.800,0:11:25.120
+what the a stands for and it's gone all the way 
+around now past the back of the sun and it's now
+
+0:11:25.120,0:11:30.320
+behind the earth effectively and the behind one 
+started the other way and it went all the way
+
+0:11:30.320,0:11:35.760
+around unfortunately we've lost contact with 
+stereo behind uh since it went behind the
+
+0:11:35.760,0:11:40.720
+sun so we're no longer getting data from it but 
+right now stereo a is giving us a brilliant view
+
+0:11:41.360,0:11:48.560
+of the sun because by looking at this kind of 
+different angle you can get much better estimate
+
+0:11:48.560,0:11:54.960
+of the speed of say cmes when they're coming 
+towards the earth and it also measures the solar
+
+0:11:54.960,0:12:01.760
+wind um before it gets to the air so because the 
+sun is obviously rotating if something on the sun
+
+0:12:01.760,0:12:07.120
+here is rotating around it's going to sweep past 
+the head before it gets to earth so that's great
+
+0:12:07.120,0:12:11.520
+but that's a science mission and as i say the 
+whole point of that science mission was that it's
+
+0:12:11.520,0:12:16.800
+continuously moving around earth orbit so it's 
+not always in that position there are plans to
+
+0:12:16.800,0:12:21.280
+launch a new satellite so esa has plans to 
+launch a satellite to the l5 point which is
+
+0:12:22.240,0:12:26.960
+near where stereo head is at the moment um 
+so that will be brilliant when it goes up
+
+0:12:27.600,0:12:31.680
+but in terms of kind of actual data 
+we're maybe a little bit lacking in
+
+0:12:32.880,0:12:39.440
+in what we need for really really good forecasts 
+of space weather and just incidentally that visa
+
+0:12:39.440,0:12:44.720
+mission um is currently looking for a name 
+so if anybody has any ideas of good names
+
+0:12:45.280,0:12:48.640
+for easy missions you can go on and submit 
+it on the esa website at the moment i think
+
+0:12:51.120,0:12:56.480
+as well as uh satellite data there's also a 
+growing suite of other data and models and
+
+0:12:56.480,0:13:01.520
+forecasts um which again is brilliant that we're 
+we're getting so much better and they're all
+
+0:13:02.080,0:13:06.640
+improving but we're still a long way from really 
+being able to forecast base where they're in a
+
+0:13:06.640,0:13:13.600
+kind of prompt and meaningful way so for example 
+this model here is called the enlil model
+
+0:13:14.960,0:13:21.040
+and that's great you can see so these blobs 
+here are two different cmes that launched and
+
+0:13:21.040,0:13:26.400
+it gives you an estimate of arrival time and 
+the velocity of the solar wind when it gets
+
+0:13:26.400,0:13:32.560
+to earth and all that kind of stuff but the 
+problem with models like this at the moment
+
+0:13:33.120,0:13:37.200
+is firstly they need the data to go 
+in so you need to have got the date
+
+0:13:37.200,0:13:42.800
+enough data back from say the satellites to 
+be able to analyze your coronal mass ejection
+
+0:13:43.520,0:13:49.360
+which takes time and then once you've analyzed 
+it you need somebody to have put it into the
+
+0:13:49.360,0:13:53.440
+model and set the model running and then the 
+model itself takes around six hours to run
+
+0:13:55.680,0:14:00.240
+so that takes you know that's quite a big chunk of 
+time you know by the time you're gonna get results
+
+0:14:00.240,0:14:06.560
+it's probably gonna be around 10 hours or so since 
+the launch of the cme and the fastest known cme to
+
+0:14:06.560,0:14:13.360
+ever reach us was around 14 hours so that's not 
+going to give you a huge amount of warning time
+
+0:14:15.680,0:14:22.160
+if we need to do something drastic in terms of 
+a huge cme coming our way um but it's improving
+
+0:14:22.160,0:14:25.520
+all the time and i see the models themselves 
+are improving all time and there's lots of
+
+0:14:26.160,0:14:32.160
+very clever people working on trying to forecast 
+flares and cmes before they even happen which is
+
+0:14:32.160,0:14:37.680
+kind of the ultimate really in terms of being 
+able to to respond to one of these threats
+
+0:14:39.680,0:14:44.480
+and this this on the right hand side this is 
+the european space agency's new space weather
+
+0:14:44.480,0:14:49.360
+service portal which anyone can register 
+to to look at it has lots and lots of new
+
+0:14:50.160,0:14:57.440
+uh products um including things like forecasts of 
+dbdt but they're um yeah they're still very much
+
+0:14:57.440,0:15:03.680
+a kind of work in progress and they're 
+quite large broad scale so at bgs we
+
+0:15:04.560,0:15:12.400
+do do a three day ahead forecast every day um 
+and that goes to our stakeholders so people like
+
+0:15:12.400,0:15:18.320
+national grid who run the power network and people 
+who do directional drilling for the oil industry
+
+0:15:18.320,0:15:23.920
+but it also goes up on our website so you can 
+you know access it publicly at this this link
+
+0:15:24.960,0:15:32.080
+and we tweet it as well and then if 
+there is if we do expect a big storm to
+
+0:15:32.080,0:15:36.240
+come we also have an alert service so you 
+should can subscribe to that our website
+
+0:15:36.960,0:15:41.120
+or we have a separate um twitter account 
+as well because not everybody wants to
+
+0:15:41.840,0:15:46.960
+hear the uh everyone wants to see the space 
+weather forecast every day when it mostly just
+
+0:15:46.960,0:15:54.080
+says quiet although some people apparently find 
+that very soothing um but we have the aurora alert
+
+0:15:54.080,0:15:57.280
+separately for people who just want to know 
+when there's something interesting going on
+
+0:15:58.800,0:16:06.400
+and then other things we do we run a kind 
+of operational um now caste system for
+
+0:16:06.400,0:16:13.840
+geomagnetically induced currents in the grid 
+for national grid um and we also give them
+
+0:16:13.840,0:16:17.200
+other information like what's happening in the 
+magnetic field and the solar wind at any time
+
+0:16:18.800,0:16:23.200
+and then we also run other pages like this so 
+this is for the met office so the met office has
+
+0:16:23.200,0:16:31.840
+the most up-to-date information because they fit 
+um in terms of the government they own the space
+
+0:16:31.840,0:16:37.840
+where the risk for the uk so they need to be well 
+informed about what's happening both on the ground
+
+0:16:37.840,0:16:45.280
+and up in space and then this is our contribution 
+to the the esa portal so there's lots and lots of
+
+0:16:45.280,0:16:50.080
+kind of forecasting operational work going on 
+and they're improving all the time and there's
+
+0:16:50.080,0:16:59.200
+new models and new forecasts being added all 
+the time okay so in terms of our research on um
+
+0:17:00.480,0:17:09.200
+gics um again for anyone who who doesn't know 
+what happens during geomagnetic storm you get
+
+0:17:09.200,0:17:15.280
+this electrical current in the ionosphere 
+which then induces a varying magnetic field
+
+0:17:15.280,0:17:21.840
+perpendicular which then induces an electric 
+field in the ground and electric fields like to
+
+0:17:21.840,0:17:28.400
+find nice easy routes to flow so they find power 
+grids which are by design um as low resistance as
+
+0:17:28.400,0:17:34.080
+possible for electricity to flow along because 
+that's that's their purpose and so gses tend
+
+0:17:34.080,0:17:39.360
+to find these points and they flow into the 
+earthing points of transformers and then through
+
+0:17:39.360,0:17:46.720
+the grid and for the most part they they act like 
+quasi dc currents but the power grid is set up to
+
+0:17:46.720,0:17:52.800
+cope with ac currents so what can happen is that 
+can lead to things like voltage instabilities
+
+0:17:53.920,0:17:59.200
+which can cause problems within the grid itself 
+and the main thing that can do is actually to
+
+0:17:59.200,0:18:05.200
+trip protective relays because generally in you 
+know every other day a voltage instability would
+
+0:18:05.200,0:18:11.040
+suggest that there's some other problem so it 
+will shut down or might switch off something or to
+
+0:18:11.040,0:18:17.440
+shut down a transformer the problem with space 
+weather is if you have glc's in the network
+
+0:18:17.440,0:18:21.040
+they're kind of through the whole network and 
+if you start unplugging bits of that network
+
+0:18:21.040,0:18:26.080
+you then concentrate the gics into specific 
+bits of the network which can then really cause
+
+0:18:26.080,0:18:32.720
+problems um in the absolute worst case 
+scenario gics push transformers out
+
+0:18:32.720,0:18:38.960
+of their normal operating capacity and that 
+means they heat up and in the very worst case
+
+0:18:39.920,0:18:45.840
+that causes some quite significant damage so this 
+is a transformer coil which should be all you
+
+0:18:45.840,0:18:51.200
+know nice and smooth and metallic and you can see 
+here it's it's basically got so hot that it's um
+
+0:18:52.560,0:18:56.880
+sparked and burnt parts of the transform so 
+this transformer had to be completely replaced
+
+0:18:57.520,0:19:04.400
+due to space other event and transformers are 
+not easy things to replace they are very large
+
+0:19:04.400,0:19:13.280
+very expensive and there aren't that many of 
+them surplus at any one time so again another
+
+0:19:13.280,0:19:19.760
+issue of space weather is that it it has quite 
+global impacts so in a really big event there
+
+0:19:19.760,0:19:26.160
+is a a slight worry that if enough power grids 
+lost transformers it would take a very long time
+
+0:19:26.160,0:19:30.720
+to replace them because they just they don't 
+sit around on shelves waiting to be to be used
+
+0:19:32.720,0:19:36.240
+although the awareness around it has 
+improved a lot so i think some people
+
+0:19:37.680,0:19:42.160
+there are there's more resilience being built 
+into systems so there's more transformers at each
+
+0:19:42.160,0:19:49.600
+substation if they're a key very important 
+substation anyway so how do we actually
+
+0:19:49.600,0:19:52.800
+model it well it takes there's kind of 
+three stages so we start with some inputs
+
+0:19:53.600,0:19:58.640
+then we create some models and then we create 
+some some proper outputs the actual gic
+
+0:20:00.960,0:20:04.640
+so we start with data from 
+observatory so here's a whole
+
+0:20:04.640,0:20:09.680
+range of observatories that are kind of vaguely in 
+the region of the uk so some of these are marked
+
+0:20:10.480,0:20:15.920
+on this map as the white triangle some of them 
+are slightly out of shot here and what we do
+
+0:20:15.920,0:20:20.400
+is we take off a quiet time mean because 
+we're not too worried about the main field
+
+0:20:21.280,0:20:30.960
+um what we want to capture is these these rapid 
+variations and then we can take all of this data
+
+0:20:31.600,0:20:36.080
+and then we use what's called the spherical 
+elementary current systems to interpolate
+
+0:20:36.080,0:20:41.040
+the magnetic field across the uk so we can get 
+a picture of what the magnetic field is doing
+
+0:20:42.160,0:20:48.160
+right across the uk in both in the 
+horizontal components so x and x and y
+
+0:20:50.560,0:20:57.680
+we then also need a conductivity model so at the 
+moment we use um a model based on the geological
+
+0:20:57.680,0:21:05.040
+map of the uk so what we've effectively said is 
+we expect each rock unit to have approximately
+
+0:21:05.040,0:21:12.960
+a certain conductivity and that is built into a 
+model um which is meant to represent approximately
+
+0:21:12.960,0:21:21.760
+the top three kilometers of the surface and then 
+underneath that we have a series of 1d models um
+
+0:21:21.760,0:21:30.240
+so they only vary with depth based again very 
+loosely on kind of bedrock geology of the uk
+
+0:21:30.240,0:21:35.680
+um and we call that our kind of thin sheet model 
+so we can use our thin sheet model where you
+
+0:21:35.680,0:21:43.040
+so you effectively use the 1d models to get the 
+electric field due to the magnetic changes and
+
+0:21:43.040,0:21:49.440
+then the thin sheet on top redistributes that 
+current uh to give you where the the highest
+
+0:21:49.440,0:21:54.000
+electric fields on the surface would be which 
+means we can include kind of coastal effects so
+
+0:21:54.000,0:21:59.280
+you can see that sometimes the electric field 
+kind of builds up a little bit along the coast
+
+0:22:00.480,0:22:06.320
+as you might expect so as a slight aside from 
+that one thing we are doing at the moment is
+
+0:22:06.320,0:22:10.320
+to try and improve our electric field 
+model so the thin sheet model is great
+
+0:22:10.960,0:22:14.080
+in terms of its it gives you some of the detail
+
+0:22:14.720,0:22:22.640
+um whilst still being relatively computationally 
+efficient so a 3d model would be great but they're
+
+0:22:22.640,0:22:27.920
+very computationally expensive to run and at 
+the moment we just don't have that level of data
+
+0:22:27.920,0:22:35.200
+for the uk um so there's three main ways to derive 
+ground electric field so first is measurement so
+
+0:22:36.240,0:22:41.600
+we do now have long term measurements of the 
+electric field at our three uk observatories
+
+0:22:42.720,0:22:47.440
+and that's great to have because it gives us 
+something we can validate our models with and
+
+0:22:47.440,0:22:54.080
+to do that we just take some num non-polarizing uh 
+electrodes and we put them in a kind of solution
+
+0:22:54.080,0:23:00.800
+to again help reduce polarization even more 
+and you put them up you know put two nodes
+
+0:23:01.600,0:23:06.720
+um apart in the east-west direction and two in 
+the north south directions this is the setup at
+
+0:23:06.720,0:23:13.200
+heartland and you can measure the electric 
+fields and that's um been really good but
+
+0:23:13.200,0:23:20.320
+there are some problems so the data quality isn't 
+always brilliant because we're definitely learning
+
+0:23:20.320,0:23:27.120
+as we go and it's been improving as we go but 
+there are gaps and problems that we know we need
+
+0:23:27.120,0:23:32.640
+to address and the other thing is of course you're 
+not necessarily just measuring the space weather
+
+0:23:33.360,0:23:39.520
+so here's a plot from heartland on the right so 
+this is a stack plot for june 2013 so each line is
+
+0:23:39.520,0:23:45.520
+a different day just plotted against time and you 
+can really clearly see the tidal effect in there
+
+0:23:45.520,0:23:50.960
+because there's a huge tidal range very close to 
+the observatory so that's again just something
+
+0:23:51.600,0:23:55.760
+a little complication that we need to think about 
+when we're comparing our model to our measurements
+
+0:23:57.200,0:24:02.720
+uh the other way as we've already slightly 
+discussed is that you can derive ground electric
+
+0:24:02.720,0:24:09.920
+field through modelling so as at the moment we 
+use the thin sheet model um and we are trying to
+
+0:24:09.920,0:24:17.520
+work on improving that and then the last one is 
+these empty impedance transfer functions um in
+
+0:24:17.520,0:24:22.320
+combination with magnetic field observations 
+and we're starting to do a little bit more
+
+0:24:23.120,0:24:28.320
+of that so here's an example from um 
+whitehaven in scotland where we've
+
+0:24:28.320,0:24:33.520
+now got some good mt measurements but one of 
+the issues we've had for the uk is there's a
+
+0:24:35.040,0:24:39.840
+the measurements we have are relatively 
+sparse but there's a few programs from a
+
+0:24:39.840,0:24:44.240
+couple of different products um over the last 
+few years and going into the future where
+
+0:24:45.520,0:24:51.200
+we've been trying to firstly find legacy data 
+but also take new measurements so we can really
+
+0:24:51.200,0:24:54.000
+improve that and that's i think probably 
+the way we're headed is to try and
+
+0:24:54.560,0:25:00.160
+really use mt impedance transfer functions 
+a lot more than we do and just as a little
+
+0:25:00.160,0:25:06.080
+example here's an example from a paper we've 
+just released showing some comparisons between
+
+0:25:06.080,0:25:11.920
+the measurements so the blue lines here for 
+lerwick estamia and then heartland at the bottom
+
+0:25:13.680,0:25:19.920
+our measurements of electric field the green is 
+the empty impedance and the red is the thin sheet
+
+0:25:20.720,0:25:24.880
+and you can see in most cases we're kind 
+of we're capturing the essence of the storm
+
+0:25:25.760,0:25:30.800
+but we're maybe slightly underestimating the 
+peaks and missing a little bit of the detail
+
+0:25:30.800,0:25:36.640
+at times the mt from the empty impedances 
+do a lot better uh than the thin sheet we're
+
+0:25:36.640,0:25:41.840
+definitely underestimating with the thin sheet so 
+it's an active area where we're trying to improve
+
+0:25:43.920,0:25:49.760
+okay so the next thing we need once we've got 
+our electric field is our power network model so
+
+0:25:50.560,0:25:53.680
+we construct a power network model using the
+
+0:25:53.680,0:25:56.320
+10-year statement that's published 
+every year by national grid
+
+0:25:59.120,0:26:04.640
+and that has information about the resistance of 
+the lines and the resistance of the transformers
+
+0:26:05.760,0:26:10.880
+we still have to make assumptions about the 
+earthing resistance but it does give us a huge
+
+0:26:10.880,0:26:15.600
+amount of information we're now able to model that 
+to a much better level than we have in the past
+
+0:26:16.560,0:26:20.960
+and at the moment power lines are then 
+just approximated by straight lines
+
+0:26:20.960,0:26:24.800
+between the grids because that's the 
+information in that statement however
+
+0:26:25.600,0:26:32.480
+i am just now working on actually being able to 
+include the full path um between each substation
+
+0:26:33.360,0:26:36.720
+which will make the slight at least a slight 
+difference to our results because it changes
+
+0:26:36.720,0:26:42.000
+the length of the line to start off with and it 
+also changes which bits of the electric field
+
+0:26:42.000,0:26:49.760
+are kind of inducing currents in that particular 
+line and then once we've got all of that we can
+
+0:26:49.760,0:26:55.520
+plug it into our git model and get gic out 
+at the end so here's an example for the march
+
+0:26:55.520,0:27:01.760
+1989 storm you can see some fairly significant 
+gic at certain substations around the uk
+
+0:27:03.680,0:27:08.080
+and you notice this you know mostly red 
+on one side are mostly blue on the other
+
+0:27:08.080,0:27:14.160
+side and that's just because the kind of 
+inducing electric field is mostly east west
+
+0:27:14.160,0:27:19.840
+in this case so the currents flow into the grid 
+on one side and out of the grid on the other side
+
+0:27:21.600,0:27:27.520
+um okay the other thing we've been working on 
+much more recently is um the effect that that
+
+0:27:27.520,0:27:33.680
+has on pipelines so unlike power grids which as i 
+say can kind of catastrophically fail during the
+
+0:27:33.680,0:27:38.800
+storm very quickly the effect on pipelines 
+is a bit more gradual it's more about the
+
+0:27:38.800,0:27:45.680
+corrosion rate so by pipelines are protected steel 
+pipelines particularly protected from corrosion
+
+0:27:45.680,0:27:52.720
+using what's called galvanic protection and it's 
+just about maintaining the potential of the pipe
+
+0:27:52.720,0:28:03.120
+um at a level approximately one volt below that 
+of the ground and so that you protect the pipe
+
+0:28:03.120,0:28:08.560
+from the corrosion and it stops there and it stops 
+you getting currents flowing from one to the other
+
+0:28:10.160,0:28:16.400
+um but during a space weather event or even 
+it doesn't even have to be that big a storm
+
+0:28:18.240,0:28:23.120
+you can quite quickly override that protection so 
+potentially you're then increasing the corrosion
+
+0:28:23.120,0:28:30.720
+rate compared to what you know the pipeline is 
+planned to deal with so that can shorten the life
+
+0:28:30.720,0:28:37.360
+of pipes and in some cases particularly if there's 
+already been a little bit of damage it could then
+
+0:28:37.360,0:28:42.800
+um really exacerbate the situation and make 
+your pipeline fail much more quickly than you
+
+0:28:42.800,0:28:50.240
+expect it to and there is there is a case in new 
+zealand which you may remember was in the news
+
+0:28:50.240,0:28:56.720
+a few years ago that the main fuel pipeline to 
+auckland airport suddenly failed one day and it
+
+0:28:56.720,0:29:04.800
+caused a huge headache for the airport for quite 
+some time um and there is a suggestion that um
+
+0:29:05.600,0:29:11.680
+although the pipeline had already been damaged 
+there was a scratch across it from previous
+
+0:29:11.680,0:29:15.280
+uh construction work i think a digger had 
+at some point managed to scratch the pipe
+
+0:29:16.080,0:29:23.040
+but the failure only happened a few days after a 
+really big storm um geomagnetic storm so there is
+
+0:29:23.040,0:29:27.200
+there has been some suggestion that perhaps 
+the the storm contributed to increasing the
+
+0:29:27.200,0:29:34.400
+corrosion and was kind of the final final 
+straw so here's our new model for the uk so
+
+0:29:35.600,0:29:40.480
+on the left here is just model i've taken 
+again from open source data on national grid
+
+0:29:40.480,0:29:48.400
+gases website uh giving a full pipeline network 
+for the high pressure gas transmission system
+
+0:29:49.200,0:29:53.840
+uh with kind of where we think the different 
+lines end and where they connect to other nodes
+
+0:29:54.560,0:30:00.000
+um and then here on the right is the 
+practical potentials that we've modeled
+
+0:30:01.440,0:30:05.520
+for the grid four fitness was during a 
+storm again and you can see we get some
+
+0:30:05.520,0:30:11.680
+really quite significant you know well well 
+over 40 volt pipe sole potentials in certain
+
+0:30:11.680,0:30:17.520
+places which is much much larger than the the 
+one volt range that the galvanic protection
+
+0:30:18.880,0:30:23.440
+is trying to keep the pipeline at so it's 
+definitely something that we need to do more
+
+0:30:23.440,0:30:27.520
+work on and to understand better as there's lots 
+and lots of assumptions in this pipe but it's
+
+0:30:28.640,0:30:31.600
+it's definitely worth doing and 
+understanding especially as the
+
+0:30:32.800,0:30:38.160
+um gas pipelines in the uk start to get 
+that bit older we need to know that they're
+
+0:30:38.160,0:30:44.480
+not going to suddenly fail um okay so 
+moving on to another little product so
+
+0:30:45.520,0:30:52.000
+we've recently been involved in the swigs project 
+which is a a big um four-year project called um
+
+0:30:52.000,0:30:58.160
+space where the impact on ground-based systems 
+the big nerc funded project um and as part of that
+
+0:30:58.160,0:31:04.240
+we've started making our own gic measurements 
+because we do have some gse measurements from
+
+0:31:04.240,0:31:11.200
+the from scottish power but they're at these 
+only at these four sites in the grid so it's not
+
+0:31:11.200,0:31:16.560
+overly representative of the grid and we 
+do have to remember to ask for the data
+
+0:31:16.560,0:31:20.880
+otherwise it gets deleted after a couple of 
+weeks it's you know far from a continuous
+
+0:31:21.760,0:31:27.600
+set of data that we can just pull into 
+and we don't necessarily fully understand
+
+0:31:30.080,0:31:33.440
+what that data is whether it's for a 
+single transformer or whether it's the
+
+0:31:34.640,0:31:41.520
+the jrc at through the the earthing point or well 
+what so what we've started doing now is making our
+
+0:31:41.520,0:31:46.480
+own measurements that we control and we understand 
+and we do this with the differential magnetometer
+
+0:31:46.480,0:31:54.560
+method um where you basically put one magnetometer 
+under the power line one at a distance away
+
+0:31:57.040,0:32:00.480
+and you align them so you know 
+they're both aligned the same way
+
+0:32:01.440,0:32:04.480
+and you assume that any difference 
+between the two is due to the gic
+
+0:32:04.480,0:32:08.960
+in the line because they should be close 
+enough that they're experiencing the same um
+
+0:32:09.680,0:32:15.120
+external magnetic field but far enough apart that 
+only one of them is being affected by the line
+
+0:32:16.640,0:32:22.960
+um and you can read about that in the 
+paper that um julena recently had published
+
+0:32:24.240,0:32:30.240
+and that has been really useful we started 
+to look at um that compared to our model
+
+0:32:30.240,0:32:35.120
+so whitehaven here is this this cross here 
+and these are the the lines you see for that
+
+0:32:36.400,0:32:43.520
+um under that line so we can do the 
+the measured data using that that dmm
+
+0:32:43.520,0:32:47.520
+system compared to the model and it shows 
+that actually we're not we're not too far
+
+0:32:47.520,0:32:52.240
+off there's still definitely work to do on our 
+model and particularly the input electric field
+
+0:32:53.120,0:33:02.560
+but actually it's a surprisingly good good result 
+really and then we can also compare that um with
+
+0:33:03.840,0:33:10.400
+data at the at the gic site as well so totalness 
+is one of the sites that we've got gic for
+
+0:33:11.520,0:33:17.840
+um okay so just as a kind of final point the um
+
+0:33:20.080,0:33:24.240
+we're also involved in a couple of big 
+projects where we're bringing together
+
+0:33:24.240,0:33:30.720
+all that research and our own expertise 
+of doing operational space weather
+
+0:33:31.520,0:33:42.800
+into a much more kind of large-scale organized 
+system so this swimmer set of activities is set up
+
+0:33:42.800,0:33:52.640
+it's a joint initiative by nerc and stfc but it's 
+also supported by a few government bodies and the
+
+0:33:52.640,0:33:58.960
+met office where the aim is to basically improve 
+the uk's capability at forecasting and now casting
+
+0:33:58.960,0:34:06.400
+space weather um so for the first time we're going 
+to be using so models like uh gorgon which can
+
+0:34:07.200,0:34:16.960
+um is a big complicated mr mhr model to give solar 
+winds uh sorry to give my metospheric uh impacts
+
+0:34:17.920,0:34:24.480
+to then give us the ground magnetic field 
+which then we can uh forecast gics and we've
+
+0:34:24.480,0:34:31.120
+not been able to forecast glc's like that 
+in the in the uk and that's um something
+
+0:34:31.120,0:34:35.040
+that we're working hard on now and hopefully once 
+we can link that all up that will be a really
+
+0:34:35.920,0:34:44.400
+um really fantastically useful system for the uk 
+and the other project is called euphoria so again
+
+0:34:44.400,0:34:48.880
+it's a very kind of similar idea where you've got 
+this kind of sun to earth chain of space weather
+
+0:34:49.680,0:34:55.440
+and this is a big european model so you 
+have these mhd models of the corona and
+
+0:34:55.440,0:34:59.680
+then the solar wind and the magnetosphere 
+which then leads us to gic prediction
+
+0:35:01.120,0:35:08.880
+um so you know here's our kind of first work 
+on that where we've got a conductivity model
+
+0:35:08.880,0:35:12.800
+for europe admittedly much less sophisticated 
+than what i was just talking about for the uk
+
+0:35:13.520,0:35:19.440
+but that can then give us electric field house of 
+maps and then i've also constructed a gic map uh
+
+0:35:20.000,0:35:25.760
+uh jesse power grid model for the whole of 
+europe so we can then get grc out at the end
+
+0:35:25.760,0:35:31.280
+of this project hopefully um and yeah that's a 
+summary and i realized i've talked for slightly
+
+0:35:31.280,0:35:35.520
+longer than i meant to so i'll just leave that 
+there and see if anybody has any questions
+
+0:35:39.520,0:35:44.160
+excellent thank you very much gemma we can 
+all um give jim a virtual round of applause
+
+0:35:44.160,0:35:46.960
+uh through them for actually 
+really really interesting talk
+
+0:35:47.680,0:35:54.320
+um so i'll open uh the floor to questions 
+um so you can raise your hand um
+
+0:35:55.040,0:36:00.800
+via the zoom uh functions there for questions 
+for gemma but we'll kick off with one um
+
+0:36:01.760,0:36:09.680
+in the chat from from gunther um who's asking 
+um are there or alyssa gunther do you want to
+
+0:36:09.680,0:36:16.640
+read out your your question yes first thank you 
+very much for interesting talk i am glad that
+
+0:36:17.360,0:36:22.960
+finally there is also talk from the space physics 
+because it's kind of what's missing in here in
+
+0:36:22.960,0:36:29.280
+this community and my question is more like a 
+little basic one i'm sure it's probably but yeah
+
+0:36:29.280,0:36:37.120
+since you didn't talk too much about it uh i hang 
+on it's uh it's about uh you know the there is a
+
+0:36:37.120,0:36:44.000
+soil cycle and usually every 11 years there's 
+a change of the polarity and i i wonder you
+
+0:36:44.000,0:36:50.400
+know what would be the next topology for the 
+cycle 25 is there any um attempts to predict
+
+0:36:50.400,0:36:58.800
+the you know how the cycle will be intense and 
+i think at least for mars it's very different
+
+0:36:58.800,0:37:06.400
+if the if the if there is like a north the south 
+topology for the events that are happening on the
+
+0:37:06.400,0:37:13.360
+ground of mars and i think it's probably the same 
+case also for the earth that it has to do with the
+
+0:37:13.360,0:37:20.400
+way how the how the magnetic fields reconnect 
+but if you could clarify that please um yeah
+
+0:37:20.400,0:37:27.200
+so in terms of the solar cycle we've we've just 
+entered the latest solar cycle so it's 25. um
+
+0:37:27.760,0:37:35.120
+the consensus opinion so there's a group that 
+all get together each solar cycle to predict
+
+0:37:35.120,0:37:40.960
+the next solar cycle so their their consensus is 
+that we will see a solar cycle that is similar
+
+0:37:40.960,0:37:48.320
+to cycle 24 so the one that's just happened 
+there is one new paper and the name of the
+
+0:37:49.600,0:37:54.000
+the name of which completely escapes me 
+but i'm sure i can find it who have used
+
+0:37:54.000,0:38:00.960
+a new method of forecasting and they're actually 
+predicting a much larger more active cycle um but
+
+0:38:00.960,0:38:06.560
+that's a brand new technique and they're not 
+um i guess we'll have to wait and see whether
+
+0:38:06.560,0:38:10.320
+they're right or not but the kind of consensus 
+opinion is it'll be similar to the previous one
+
+0:38:11.280,0:38:18.240
+uh in terms of the the polarity of the 
+so which part of the cycle we're in
+
+0:38:19.440,0:38:24.720
+that doesn't matter too much so the the polarity 
+of the sun spots on the sun i don't think it has
+
+0:38:24.720,0:38:34.800
+a huge impact on um how effective space weather 
+is what does matter is the angle of the um solar
+
+0:38:34.800,0:38:41.520
+magnetic field at the point that it reaches the 
+earth so any coronal mass ejection can contain
+
+0:38:42.960,0:38:48.880
+that kind of interplanetary magnetic field but 
+if it's strongly southwards then that connects
+
+0:38:48.880,0:38:53.680
+very well to the earth's magnetic field 
+and you get a much bigger storm as a result
+
+0:38:54.800,0:39:01.280
+but it's not necessarily dependent on 
+the solar cycle which whether we're in a
+
+0:39:01.280,0:39:06.480
+solar cycle where it's predominantly norfolk's 
+opportunities hopefully that answers what you
+
+0:39:08.320,0:39:14.000
+thank you i appreciate it i have more questions 
+but i'll wait until someone else asked some
+
+0:39:14.000,0:39:20.240
+questions yes so i assuming richard holm will 
+have a question since he's unmuted and the video
+
+0:39:20.240,0:39:26.880
+is on and you go richard hey gemma um i was really 
+impressed by your modelling of the events and you
+
+0:39:26.880,0:39:33.440
+had your thin sheet and your mt um uh models 
+could you possibly zip back to that briefly
+
+0:39:38.160,0:39:40.880
+there is wasn't he was that him
+
+0:39:42.400,0:39:48.400
+so back so forward one again so see the data 
+oh okay yeah so so looking at those yeah as
+
+0:39:48.400,0:39:53.920
+you're quite right the thin sheet is smaller 
+magnitude but it is you know it's pretty good
+
+0:39:53.920,0:40:01.200
+um so could you try just kind of um data modelling 
+fit where you just scaled and maybe had a
+
+0:40:01.200,0:40:07.840
+scaling as a function of um intensity or scaling 
+as a function of period of the variations
+
+0:40:08.400,0:40:14.000
+and therefore avoid having to be too clever 
+because my brain isn't good enough for mt um as
+
+0:40:14.000,0:40:22.560
+the mt people who talk to me will know um and just 
+just just do a heuristic fit yeah it's definitely
+
+0:40:22.560,0:40:29.760
+definitely an option um we've kind of only just 
+really started to get properly with the data that
+
+0:40:29.760,0:40:35.200
+we've measured and unfortunately as i say that 
+the data are a little bit um gappy and of poor
+
+0:40:35.200,0:40:40.080
+quality at times this is one of the good examples 
+but yeah we could definitely go through and find
+
+0:40:41.600,0:40:46.480
+you know patches that are good and see if we can 
+come up with some kind of scaling yeah that's
+
+0:40:46.480,0:40:51.840
+that's yeah i see student project you may 
+remember being forced to do student projects
+
+0:40:53.920,0:40:59.360
+thank you jim thank you thanks richard um well 
+i'm going to quickly squeeze in with a question
+
+0:40:59.360,0:41:04.560
+of my own before we jump over to anybody else 
+but you know when you're doing your the maps of
+
+0:41:04.560,0:41:10.240
+the the power grid um you know you're doing it 
+in a very good fashion but then you're saying
+
+0:41:10.240,0:41:14.480
+you're you're going down to the detail and 
+mapping out the details of the network i mean
+
+0:41:14.480,0:41:20.560
+how are you actually doing that are there the 
+detailed records available that you can use um
+
+0:41:21.760,0:41:29.600
+yes so on again open source from national grid's 
+website we can get shape files for england and
+
+0:41:29.600,0:41:37.360
+wales which actually do detail the path of 
+the lines um and i have almost managed to get
+
+0:41:38.480,0:41:45.040
+those into our network and there's also other 
+sources so for scotland we can get so open
+
+0:41:45.040,0:41:49.840
+street map there's lots of very dedicated 
+people have mapped the paths of power lines
+
+0:41:50.640,0:41:54.320
+near them um so we're looking 
+at whether we can include those
+
+0:41:55.040,0:42:01.840
+but the first a little bit of crowdsourced data 
+then going into it yeah it's pretty cool yes great
+
+0:42:04.160,0:42:07.280
+uh so so gunther did you have 
+another question you said
+
+0:42:10.080,0:42:17.120
+yes i have a quick question i know that 
+a lot of this space whether events are
+
+0:42:18.080,0:42:24.240
+connected with the process which is not very 
+well known for this fellow magnetic community
+
+0:42:24.240,0:42:30.160
+it's called the reconnection and i know that 
+you know a lot of you know there is some kind
+
+0:42:30.160,0:42:34.960
+almost looks like there's some kind of a magic 
+around it how it's actually happening because
+
+0:42:34.960,0:42:40.800
+suddenly you have a stationary ions near the 
+sun and suddenly there is an acceleration of
+
+0:42:40.800,0:42:47.120
+that ion to the alpha and speed which is i mean 
+probably tens of kilometers per second and if
+
+0:42:47.120,0:42:53.200
+you could clarify it or not to tell how this 
+process is important for this space weather
+
+0:42:55.280,0:43:03.520
+um yeah simplify so yeah 
+i have to admit i'm not as
+
+0:43:04.080,0:43:09.040
+good on reconnection as i'd like to be because as 
+you say it does tend to get presented as as magic
+
+0:43:09.040,0:43:19.280
+a little bit and i'm happy to go with that but um 
+i think a lot of it's around um kind of magnetic
+
+0:43:20.080,0:43:25.680
+tension effectively so the when the solar wind 
+if it's pointing southwards it connects really
+
+0:43:25.680,0:43:32.160
+well to the basically the front of the magnetic 
+field and it essentially kind of opens it up
+
+0:43:33.680,0:43:39.680
+um pulls it to the back and then at some point 
+you know there's a huge amount of energy and that
+
+0:43:39.680,0:43:44.960
+field line wants to reconnect and that's where 
+you throw huge amounts of energy into the system
+
+0:43:46.160,0:43:54.480
+um beyond that i'm not sure i can really give you 
+a much better description it's okay let me give
+
+0:43:54.480,0:44:01.760
+you another question which is a little bit related 
+but not exactly it there's a moon that kind of
+
+0:44:01.760,0:44:08.240
+goes around and i always wonder if for example 
+if the moon is between the earth and the sun
+
+0:44:10.720,0:44:17.360
+i'm sure there must be a plasma sphere 
+because of the moon is like an obstacle to the
+
+0:44:17.360,0:44:24.240
+solar wind and does that plasma sphere 
+affects in any way the space weather
+
+0:44:26.640,0:44:31.760
+that is a good question not that i'm aware of but
+
+0:44:33.920,0:44:36.880
+yeah i guess it might do um
+
+0:44:38.960,0:44:43.040
+to some extent but yeah it's not 
+something i've ever really seen
+
+0:44:43.040,0:44:46.000
+any research on so i can't 
+give you a clear answer on that
+
+0:44:48.640,0:44:56.480
+and then my next question thank you is uh the 
+ulf uh the ultra low frequency waves that are
+
+0:44:56.480,0:45:02.880
+generated in uh uh i always was kind of 
+like wondering what's the power spectrum
+
+0:45:02.880,0:45:10.880
+uh what's where are the frequencies that are you 
+know i i know that there is a the lower longer the
+
+0:45:10.880,0:45:15.120
+frequency of electromagnetic waves 
+the more penetration to the ground
+
+0:45:15.680,0:45:22.240
+uh but if there is any way that you could 
+uh say something about the spectrum how
+
+0:45:22.240,0:45:27.200
+the spectrum look like of these waves 
+that are coming in because of the solar
+
+0:45:27.840,0:45:38.400
+the space weather um so i'm trying to think now 
+definitely got more brain on um yeah the so the
+
+0:45:38.400,0:45:41.680
+kind of space for the effects that we tend 
+to worry about are kind of somewhere between
+
+0:45:43.120,0:45:45.840
+uh
+
+0:45:51.680,0:45:54.640
+a few seconds up to a few hours
+
+0:45:56.960,0:46:03.520
+generally um the stuff that in terms 
+of affecting the gic we're only really
+
+0:46:03.520,0:46:13.840
+interested in the kind of that kind of around 
+one hertz kind of plus or minus a little bit um
+
+0:46:15.840,0:46:22.800
+but yeah again i'm not sure i can give you a much 
+better answer than that right now well uh let me
+
+0:46:24.000,0:46:30.960
+thank you very much we've got we've got time for 
+one last quick question from from uh got here and
+
+0:46:30.960,0:46:36.160
+then i'm conscious of time we'll need to sort 
+of wrap it up so uh gautier would you like to
+
+0:46:36.160,0:46:41.200
+to answer ask your question yeah i'll ask it 
+not answer it yeah thanks a lot thanks a lot
+
+0:46:41.200,0:46:46.720
+for the presentation sorry i was a bit late 
+so maybe some of the information i missed um
+
+0:46:46.720,0:46:52.640
+i i had actually two two quick questions one 
+related to the previous one and and i was
+
+0:46:52.640,0:46:57.760
+just wondering which is the frequency which 
+is most efficient in terms of producing uh
+
+0:46:57.760,0:47:04.560
+problems in other words when you have a geometric 
+event i mean it's it's it has a wide spectrum
+
+0:47:06.160,0:47:10.960
+which other frequency we need to worry most about 
+and perhaps the answer is different for electric
+
+0:47:10.960,0:47:16.640
+grids and pipelines i don't know and the second 
+one was uh one of your slides where you're showing
+
+0:47:16.640,0:47:24.240
+the results of the electric field produced 
+on the pipelines the structure was most uh
+
+0:47:24.240,0:47:30.800
+much less intuitive to me than the one you showed 
+for the electric grids so we have these red dots
+
+0:47:30.800,0:47:37.120
+that come around and i just wanted to ask you what 
+was the reason for this is this because of changes
+
+0:47:37.120,0:47:42.800
+in the resistivity of the pipeline structure or 
+is this related to the geometric field itself
+
+0:47:44.000,0:47:49.760
+uh a little bit of both so it's partly 
+the resistivity of the pipeline itself
+
+0:47:50.560,0:47:59.200
+it's partly the length of a pipeline that are 
+fully connected so the longer the pipeline that is
+
+0:47:59.200,0:48:06.080
+connected then the the larger the currents um that 
+you get and therefore the larger the potentials
+
+0:48:06.080,0:48:11.360
+that you can also get and yeah i think in this 
+case it was also partly related to the electric
+
+0:48:12.080,0:48:16.880
+field in the background as well so i think i think 
+this was from a storm where there was a strong
+
+0:48:16.880,0:48:24.560
+electric field or the strongest electric field is 
+kind of across here in the uk um and the longest
+
+0:48:24.560,0:48:30.480
+pipeline in the network kind of comes right 
+down here so we tend to find the largest psps
+
+0:48:31.440,0:48:39.920
+around that basically in terms of the the kind 
+of periods that matter the jury's still out a
+
+0:48:39.920,0:48:44.640
+little bit and certainly for pipelines it's 
+something that i want to look at is whether
+
+0:48:46.080,0:48:53.600
+some of the kind of i just i suspect the really 
+high frequency things don't really matter to
+
+0:48:53.600,0:48:57.680
+the pipelines because they're kind of on and 
+off so quickly that it's not going to affect
+
+0:48:58.640,0:49:05.920
+um corrosion in terms of gic again we tend to 
+talk about kind of tens of seconds up to a few
+
+0:49:05.920,0:49:12.080
+minutes maybe up to 10 minutes that kind of range 
+being the important range but again there's still
+
+0:49:12.080,0:49:18.400
+a little bit of debate around whether you know 
+you can the really high frequency stuff is just
+
+0:49:18.400,0:49:22.240
+so quick that actually it doesn't have 
+time to produce a response in the system
+
+0:49:23.600,0:49:28.960
+and actually whether it's some of the slightly 
+longer periods fluctuations that that matter
+
+0:49:28.960,0:49:34.960
+but yeah kind of around that kind of as i say 
+10 seconds to a few minutes kind of the bit we
+
+0:49:34.960,0:49:46.560
+tend to be more concerned about and for for power 
+grids excellent thank you very much um so in an
+
+0:49:46.560,0:49:52.000
+interesting time i think we can uh wrap up our uh 
+question in discussion session so thank you very
+
+0:49:52.000,0:49:57.840
+much gemma we can all give her another a virtual 
+round of applause for a really interesting uh a
+
+0:49:57.840,0:50:05.440
+really interesting talk um so just before 
+um we completely uh come to a close today
+
+0:50:06.960,0:50:14.320
+um just a a reminder um that um our next two 
+seminars will be in two weeks and then in another
+
+0:50:14.320,0:50:19.520
+two weeks and our speakers are still too uh still 
+to be confirmed um but we're always looking for
+
+0:50:20.160,0:50:26.160
+uh more speakers um covering all topics uh 
+across uh earth science magnetisms uh and
+
+0:50:26.720,0:50:31.760
+and in particular we encourage uh early career 
+uh scientists so if you're interested in giving
+
+0:50:31.760,0:50:37.120
+a presentation or you know somebody who might 
+be able to give a really good presentation
+
+0:50:37.120,0:50:43.200
+please get in touch with us uh and also just 
+a final reminder that um all of the seminars
+
+0:50:43.200,0:50:48.400
+are recorded and they're available on our youtube 
+channel so if you miss out on any of the seminars
+
+0:50:48.400,0:50:53.920
+in the past you can catch up with them all 
+on youtube and thank you all very much again
+
+0:50:53.920,0:51:00.480
+for for joining this week's magnets and 
+we'll see you see you next time cheers

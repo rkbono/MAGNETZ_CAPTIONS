@@ -1,0 +1,1916 @@
+0:00:00.800,0:00:07.200
+okay so thanks everybody for uh joining us 
+this week um for the magnet seminar uh today
+
+0:00:07.200,0:00:10.480
+i'm very pleased to say or just 
+a sorry reminder actually that
+
+0:00:10.480,0:00:16.800
+our seminars are 20 to 25 minutes uh kindly asks 
+that you uh keep your microphones muted and not
+
+0:00:16.800,0:00:21.440
+to interrupt the speaker if you are having 
+problems with your internet connection please
+
+0:00:21.440,0:00:26.400
+uh turn off your video that can help speed things 
+up and at the end of the presentation we'll have
+
+0:00:26.960,0:00:32.240
+a chance for a 10 to 15 minute uh question and 
+discussion session and you can we'll invite
+
+0:00:32.240,0:00:37.520
+you to mute your microphone to ask your questions 
+but you're welcome to type them into the chat and
+
+0:00:38.160,0:00:43.600
+one of myself or the other conveners will read 
+them out for you and at the end of the seminars
+
+0:00:43.600,0:00:49.040
+and we have chance for uh an informal catch 
+up and a bit of a a chin wag with everybody
+
+0:00:49.040,0:00:57.200
+um and that part of the seminar is is is um 
+not recorded so today i i'm really pleased to
+
+0:00:57.200,0:01:02.640
+win williams from um the university of 
+edinburgh and he will be talking to us about
+
+0:01:02.640,0:01:07.920
+um peter magnetic recording and whether or not i 
+apologize i've got the wrong title on the slide
+
+0:01:09.120,0:01:12.960
+it got me worried then i thought what do i know 
+about that well that's what happens when i don't
+
+0:01:12.960,0:01:18.320
+copy paste properly um so you'll be talking today 
+about micromagnetic models and what they can tell
+
+0:01:18.320,0:01:25.840
+us about uh paleomagnetic recording i'll pass 
+over to you and the proper title then great
+
+0:01:27.200,0:01:39.840
+okay let's hope i keep to time let me just 
+get my laser pointer working and laser pointer
+
+0:01:41.200,0:01:41.700
+okay
+
+0:01:43.840,0:01:49.440
+all right so uh let's start so um this talk is 
+going to describe a new model of thermo-magnetic
+
+0:01:49.440,0:01:55.200
+remnants in pseudoscience domain grains using 
+numerical micromagnetic models and it's been
+
+0:01:55.200,0:02:01.120
+a long time in development working with a whole 
+bunch of people you can see listed here uh
+
+0:02:01.120,0:02:08.240
+particularly with lesnar who has i've been working 
+with on this problem almost on a daily basis
+
+0:02:08.240,0:02:13.200
+and lisa talks who has been pushing us for 
+a long time to put our models to good use
+
+0:02:15.920,0:02:20.480
+so the talk is going to be divided into four 
+sections the first three sections being very
+
+0:02:20.480,0:02:27.600
+quick if i can make it so to get everything 
+finished in time um briefly i'm going to start
+
+0:02:27.600,0:02:33.280
+off by saying why we need numerical models then go 
+on to mention a few attempts of model verification
+
+0:02:33.280,0:02:39.520
+i've cut that section down to the bare minimum 
+uh so but at the end if you have any questions
+
+0:02:39.520,0:02:43.360
+got a whole bunch of dayplus forks and other 
+hysteresis there if you want to look at it
+
+0:02:44.400,0:02:50.080
+i will review our methodology of calculating 
+thermal stability and blocking temperatures
+
+0:02:50.080,0:02:57.280
+in pseudosignal domain grains before developing 
+that into a full trm model and simulating
+
+0:02:57.280,0:03:03.840
+multi-step telepathic intensity experiments in 
+a sample containing single vortex domain states
+
+0:03:05.440,0:03:10.560
+so this is where we're going to start uh it's 
+an important reminder that rocks are not simple
+
+0:03:10.560,0:03:19.280
+structures in terms of magnetic recording when the 
+when many of the magnetic recording models were
+
+0:03:19.280,0:03:24.240
+first put forward in the 1950s by 
+nail stone and woolforth and others
+
+0:03:24.800,0:03:30.160
+they produced a highly successful and for 
+the most part accurate theory that has been
+
+0:03:30.160,0:03:36.480
+verified countless times but in reality of 
+course their theories actually apply more to
+
+0:03:36.480,0:03:42.960
+structures like this these are non-interacting 
+uniformly magnetized very magnetic particles
+
+0:03:42.960,0:03:48.320
+and this particular image just take was 
+from a sample made by david crasser using
+
+0:03:48.960,0:03:54.000
+electron beam lithography some time ago 
+but i think it's pretty clear that these
+
+0:03:54.000,0:04:00.480
+samples to which single main theory applies 
+do not look like rocks rocks look like this
+
+0:04:01.280,0:04:07.280
+so if we can get this other one going oh 
+rotate it's not going to rotate there we go
+
+0:04:09.520,0:04:13.840
+rocks are much more complex with irregular 
+structures wide variety of grain sizes
+
+0:04:13.840,0:04:20.080
+and mineralogies so these are two remarkable 
+images reconstructed by the fib slice and view
+
+0:04:20.080,0:04:27.280
+technique to reveal distributions of iron oxides 
+inside the one on the right is from the work of
+
+0:04:27.280,0:04:32.320
+evan nicholason and on the left is some 
+work i'm doing with allison cowan and
+
+0:04:32.320,0:04:37.600
+adrian marksworthy at imperial college i think 
+what is clear and i think what is generally true
+
+0:04:38.320,0:04:43.600
+is that we do not have arrays of 
+non-interacting non-uniformly magnetized screens
+
+0:04:44.240,0:04:48.400
+and in fact if you take a closer look 
+of some of allison's data which i have
+
+0:04:49.200,0:04:54.160
+access to that she's given to me the last 
+few days we can identify numerous grains
+
+0:04:54.160,0:05:00.560
+of a highly irregular morphology and these 
+grain shapes and sizes have a profound impact
+
+0:05:00.560,0:05:07.280
+on the magnetic recording characteristics as 
+we will see shortly so of course the way to
+
+0:05:07.280,0:05:12.080
+understand these complex particle morphologies 
+and the complex magnetic structures they contain
+
+0:05:12.080,0:05:17.680
+are through micromagnetic modeling and here's 
+my plug for our open source micromagnetic
+
+0:05:18.240,0:05:24.880
+modeling software this was started by phil ridley 
+and myself many many years ago but significantly
+
+0:05:24.880,0:05:32.320
+upgraded by carl fabian paddy o'connor lesnar and 
+others it's a robust and efficient piece of code
+
+0:05:32.320,0:05:38.880
+that runs on anything from a cray to to an old 
+shoebox and those of you who might be interested
+
+0:05:38.880,0:05:43.600
+in playing around with this can download it from 
+rockman.org where there are also some tutorials
+
+0:05:46.800,0:05:51.040
+um so the i'm not going to show you how these
+
+0:05:52.720,0:05:59.840
+models work in detail except to say that it's 
+a finite element model so we start out by
+
+0:05:59.840,0:06:06.800
+creating a 3d model that's filled with tetrahedral 
+elements such as we show here we represent the
+
+0:06:06.800,0:06:11.440
+magnetization by unit vector at every node of 
+each element and then we solve the lowest energy
+
+0:06:11.440,0:06:19.280
+magnetic structures for that grain so here are 
+some local energy minimum solutions here we've
+
+0:06:19.280,0:06:25.920
+colored the magnetization according to uh in 
+this case according to the alignment with the
+
+0:06:25.920,0:06:33.840
+crystalline easy axis and we also often highlight 
+the vorticity by plotting the helicity iso surface
+
+0:06:35.120,0:06:40.800
+as you can see the generally the more complex the 
+shape the more complex is its magnetic structure
+
+0:06:44.160,0:06:49.840
+we've gone to great lengths to try and verify our 
+models and i'll show you just a couple of examples
+
+0:06:49.840,0:06:55.040
+this is a grain of magnetite along with this off 
+axis electron holographic image on the right hand
+
+0:06:55.040,0:07:02.400
+side uh in some work i did with trevor almeida 
+some years ago and on the left-hand side is our
+
+0:07:02.400,0:07:07.600
+reconstruction of the grain and the simulated 
+off-axis electron holographic image i think that
+
+0:07:07.600,0:07:17.120
+shows a remarkable resemblance to that of the real 
+grain uh some other work that i've done here is uh
+
+0:07:17.120,0:07:24.880
+with evenier caprova from the rm in minnesota who 
+produced these amazing magnetic force microscope
+
+0:07:24.880,0:07:31.840
+images of a large tm-54 grain it's about 1.4 
+microns or so in size the micromagnetic models
+
+0:07:31.840,0:07:39.680
+are shown on the right hand uh i'm sorry on the 
+top uh row and on the right hand corner and the
+
+0:07:39.680,0:07:47.040
+simulated mf images mfm images are on the middle 
+row and the experimentally observed mfm images are
+
+0:07:47.040,0:07:54.080
+on the bottom row and again i think there's very 
+good agreement between the simulated mfm images
+
+0:07:54.080,0:07:59.840
+from our predictive micromagnetic structures 
+and that that is observed experimentally
+
+0:08:01.920,0:08:07.680
+now uh at this point it's worth repeating 
+a very nice quote from george box whose
+
+0:08:07.680,0:08:14.640
+famous british statistician who said in one 
+of his papers that all models are wrong but
+
+0:08:14.640,0:08:21.520
+some are useful and i think that definitely 
+applies to this study not because our models
+
+0:08:21.520,0:08:28.160
+are wrong but as a reminder that all models are an 
+approximation and despite what i've just shown you
+
+0:08:28.160,0:08:32.880
+we are not trying to look at every individual 
+grain to reproduce every aspect of reality
+
+0:08:33.680,0:08:38.400
+what we are trying to do is to use numerical 
+models to explore complex magnetic structures
+
+0:08:39.200,0:08:43.200
+to look for general trends and 
+new kinds of magnetic responses
+
+0:08:44.080,0:08:48.720
+so whilst acknowledging the profound effect 
+of grain shape or magnetic properties
+
+0:08:49.360,0:08:52.960
+rather than looking at the very complex 
+shapes that i've just shown you we're
+
+0:08:52.960,0:08:58.400
+going to simplify a model and primarily what 
+that means looking at simpler grain shapes
+
+0:08:59.200,0:09:04.000
+and look at what we might expect the general 
+thermomagnetic behavior of these grains to be
+
+0:09:04.720,0:09:10.240
+and which we might expect or hope at least to 
+be present regardless of the exact grain shape
+
+0:09:14.160,0:09:19.280
+so one of the basic predictions of a micromagnetic 
+models is the critical grain size of magnetite
+
+0:09:19.280,0:09:24.960
+both transition from the single domain stabilizing 
+the main grain size to vortex and from vortex to
+
+0:09:24.960,0:09:31.040
+multi-domain in the results i've shown here we 
+modeled a magnetic grain structure as we grew a
+
+0:09:31.040,0:09:36.160
+grain from about 30 nanometers diameter 
+to just under 3 microns and then shrink
+
+0:09:36.160,0:09:42.320
+it back again to 30 nanometers there is some 
+hysteresis in the main states with grain size
+
+0:09:43.520,0:09:49.120
+which means that various green sizes cannot occupy 
+multiple different domain states but generally the
+
+0:09:49.120,0:09:55.840
+single main critical grain size for magnetite is 
+about 80 nanometers for equidimensional grains
+
+0:09:56.720,0:10:02.480
+and it's possible to nucleate a moth domain grain 
+like structure with well-defined block walls in
+
+0:10:02.480,0:10:09.520
+a grain perhaps as small as three microns if we 
+take the lower super paramagnetic to sink the main
+
+0:10:09.520,0:10:16.160
+grain size at about 40 nanometers then the grain 
+size range for single vortex domain structure
+
+0:10:16.720,0:10:22.880
+is about two orders of magnitude greater than 
+that of the single domain and of course uh the
+
+0:10:22.880,0:10:28.240
+single domain grain size range will increase 
+with elongation but but then of course the
+
+0:10:28.240,0:10:34.640
+single vortex range will increase also the clear 
+implication why i wanted to show you this is
+
+0:10:34.640,0:10:41.360
+that unless your sample has very fine grains or 
+small but highly elongated grains then your rock
+
+0:10:41.360,0:10:47.760
+sample is going to include many psd single board 
+experience and i think there is a fair chance that
+
+0:10:47.760,0:10:53.440
+the magnetization of many periodic samples will 
+be dominated by these single vortex domain states
+
+0:10:55.680,0:10:59.760
+so that said we are going to try and build 
+the single vortex model of thermo-magnetic
+
+0:10:59.760,0:11:05.760
+remnants from our micromagnetic models but 
+before we do that let's remind ourselves
+
+0:11:05.760,0:11:08.160
+of the assumptions of paleomagnetic recording
+
+0:11:10.640,0:11:16.800
+what we assume when a rock cools is that each 
+grain has a magnetic stability or relaxation
+
+0:11:16.800,0:11:24.880
+time towel which rapidly increases as the 
+temperature cools in fact this relaxation time
+
+0:11:24.880,0:11:30.400
+can be of the order of nanoseconds near 
+the temperature and of course by the time
+
+0:11:30.400,0:11:34.960
+you get to room temperature it can be many of 
+orders of magnitude greater than the age of the
+
+0:11:35.520,0:11:40.960
+solar system as the temperature 
+decreases and the relaxation time of the
+
+0:11:40.960,0:11:45.840
+of the grain approaches the observation time we 
+call that temperature the blocking temperature
+
+0:11:47.040,0:11:52.560
+one of the fundamental laws of paleomagnetic 
+observation is that for a grain that becomes
+
+0:11:52.560,0:12:01.040
+blocked at tb on cooling then on heating it 
+must become unblocked at that same temperature
+
+0:12:02.400,0:12:08.720
+this is the principle of reciprocity and it's 
+fundamental to pending magnetism because it
+
+0:12:08.720,0:12:15.440
+implies that we can replace the magnetization 
+lost any temperature into food in any temperature
+
+0:12:15.440,0:12:20.800
+interval as we heat up the sample with 
+a laboratory induced magnetization
+
+0:12:20.800,0:12:25.520
+in the same temperature interval as 
+we cool down and that the ratio of
+
+0:12:25.520,0:12:29.760
+the nrm loss to the peter and gained is 
+proportional then to the ancient field
+
+0:12:31.280,0:12:38.320
+fortunately of course this is exactly 
+what single domain theory predicts
+
+0:12:38.320,0:12:42.400
+uh single domain theory is shown very 
+briefly here it's fairly straightforward
+
+0:12:43.040,0:12:47.280
+but it's worth going through uh even 
+briefly since it in fact is very similar
+
+0:12:47.280,0:12:52.400
+to how we will construct our pseudo single 
+domain model of thermo-magnetic remnants
+
+0:12:54.640,0:13:01.760
+nael's single-domain trm theory assumes that we 
+have a uniaxial single-domain grain shown here so
+
+0:13:01.760,0:13:07.360
+that there are only two stable domain directions 
+of magnetization state one and state two either
+
+0:13:07.920,0:13:14.560
+um in along the long axis in one direction 
+or the other we can calculate the energy
+
+0:13:14.560,0:13:20.000
+barrier between these two states and these 
+energy barriers are shown here is delta
+
+0:13:20.000,0:13:25.280
+e 2 to 1 and delta e 1 to 2 depending whether 
+the state goes from 1 to 2 or from 2 to 1.
+
+0:13:27.920,0:13:34.480
+as from these energy bars then we can determine 
+the switching frequency using arrhenius's thermal
+
+0:13:34.480,0:13:41.920
+activation equation shown here is k1 to 2 
+k2 to 1 that describes the rate at which the
+
+0:13:41.920,0:13:52.320
+main state changes from state 1 to 2 or from 
+state 2 to 1. we can use these rate functions
+
+0:13:52.320,0:13:56.160
+to follow the evolution of the 
+domain states as a function of time
+
+0:13:57.200,0:14:04.240
+temperature and applied field in this red equation 
+here and we can then use that to determine the
+
+0:14:04.240,0:14:13.120
+magnetization for any temperature or time or 
+applied field so from these very simple set of
+
+0:14:13.120,0:14:21.040
+equations we can simulate a cooling in the field 
+and so calculate its thermal magnetic remnants
+
+0:14:22.880,0:14:29.680
+this single domain theory though makes 
+some very harsh assumptions so we
+
+0:14:29.680,0:14:34.800
+assume that all grains are uniformly magnetized 
+that they're uniaxial only two possible domain
+
+0:14:34.800,0:14:40.480
+states each domain state is an equal and 
+opposite magnetization and the energy barriers
+
+0:14:40.480,0:14:45.840
+uh assume coherent rotation of course none of 
+those are satisfied by single vortex screens
+
+0:14:47.520,0:14:53.360
+the predictions it makes of course are that the 
+trm is linearly proportional to the external field
+
+0:14:53.360,0:15:00.720
+thank goodness that the trm can be reconstructed 
+from uh adding a number of partial thermal
+
+0:15:01.440,0:15:08.320
+accusations that's the law of additivity 
+and that the single main grains block
+
+0:15:08.320,0:15:13.040
+and unblock at the same temperature 
+so this is the law of reciprocity
+
+0:15:16.720,0:15:20.400
+whilst we generally find of 
+course that the total trm
+
+0:15:20.400,0:15:24.640
+is indeed linearly proportional to the 
+field strength in which it's magnetized
+
+0:15:24.640,0:15:29.280
+many samples actually probably 
+most do not satisfy the requirement
+
+0:15:29.280,0:15:35.920
+of reciprocity of blocking temperatures so that 
+is illustrated here uh quite clearly this is from
+
+0:15:36.560,0:15:43.280
+data from a 2001 paper i've done up on usda 
+mere where they took magnetite samples of
+
+0:15:43.840,0:15:51.840
+known grain sizes and gave them a partial thermal 
+remnant magnetization between 350 370 and 350
+
+0:15:52.800,0:15:58.240
+and then subjected that partial thermal 
+remnants to a stepwise thermal demagnetization
+
+0:15:59.040,0:16:05.120
+and what they found was that between 50 and 90 
+of the remnants and blocks either below or above
+
+0:16:05.120,0:16:11.920
+that blocking temperature of the ptrm none of 
+the samples that they show here actually obey
+
+0:16:11.920,0:16:18.400
+that reciprocity law even the smallest grains 
+the 600 nanometers or a thousand nanometer grains
+
+0:16:19.120,0:16:27.600
+actually obey that reciprocity law so in uh pin 
+intensity experiments this effect would result
+
+0:16:27.600,0:16:33.200
+in a curvature of the data and the arrived plots 
+shown here on the right hand side with actually no
+
+0:16:33.200,0:16:38.640
+indication of whether the average gradient gives 
+an under or over estimate of the ancient field
+
+0:16:40.880,0:16:47.440
+so most explanations of these effects normally 
+call upon multi-domain behavior where we impose
+
+0:16:47.440,0:16:52.480
+a phenomenological distribution of blocking 
+temperatures such as the very nice work of
+
+0:16:52.480,0:17:00.880
+carl fabian and his 2000 jgi paper but although 
+the figures here demonstrate that reciprocity
+
+0:17:00.880,0:17:07.840
+failure increases with green size it's still 
+very noticeable that in the smaller screen sizes
+
+0:17:07.840,0:17:13.440
+which are clearly in the pseudoscenes of the 
+main grain size range also fail this reciprocity
+
+0:17:15.440,0:17:18.160
+so what i want to do in the rest of this talk uh
+
+0:17:18.960,0:17:25.120
+way behind already is to try and build a model 
+of pseudoscene domain trms and explore what to
+
+0:17:25.120,0:17:30.640
+what extent this can account for the reciprocity 
+failure that is exhibited here and to speculate
+
+0:17:30.640,0:17:37.120
+what this might then mean for our ability to 
+determine the ancient geomagnetic field intensity
+
+0:17:40.160,0:17:46.240
+so as in the single domain trm model to construct 
+our pseudo single domain thermomagnetic model
+
+0:17:46.240,0:17:51.360
+we need to find the available domain states and 
+calculate the energy barriers between these states
+
+0:17:52.240,0:17:58.560
+small pst grains are generally in a single 
+domain sorry a single vortex state as shown here
+
+0:17:59.360,0:18:03.680
+these vortex states carry their 
+remnants in the vortex cores
+
+0:18:03.680,0:18:10.480
+generally and they generally align with the easy 
+and isotropic axes either crystalline or shape
+
+0:18:11.760,0:18:17.200
+we calculate the energy barriers between the 
+different domain states by a technique called the
+
+0:18:17.200,0:18:22.480
+merged elastic band method that attempts to find 
+the minimum energy path between these two states
+
+0:18:24.400,0:18:30.960
+we can do this for all grains of all sizes for 
+all temperatures and then use the energy barriers
+
+0:18:30.960,0:18:37.680
+to determine the relaxation time again from the 
+arrhenius equation um as a function of temperature
+
+0:18:39.680,0:18:41.840
+as as as indicated here
+
+0:18:44.240,0:18:48.560
+exactly the same as we did in the single main 
+theory we defined the blocking temperature
+
+0:18:49.120,0:18:54.640
+where this relaxation time is equal to 
+the observation time and i've stated it
+
+0:18:54.640,0:19:02.240
+to arbitrarily as being 60 seconds so we 
+did this in our 2017 paper vers nagi and
+
+0:19:04.000,0:19:11.280
+user talks and this is what we found we found that 
+in fact single vortex grains were generally very
+
+0:19:11.280,0:19:16.400
+stable more than capable of carrying large 
+thermometic remnants of the time scales of
+
+0:19:16.400,0:19:23.440
+many billions of years we also saw that there 
+was an unstable zone at the transition from
+
+0:19:23.440,0:19:31.360
+the single domain grain size range to the 
+vortex grain size range and that as the grain
+
+0:19:32.000,0:19:39.920
+grows out of that unstable zone there is a range 
+of grain sizes where both hard aligned vortices
+
+0:19:39.920,0:19:46.560
+and the easy line vortices can coexist so we 
+speculate here and what i'm going to use in
+
+0:19:46.560,0:19:51.840
+in our model is that such grains might have 
+a more complex thermal magnetic response
+
+0:19:52.800,0:19:58.000
+and we're going to use an example of 
+such a grain to see what that might
+
+0:19:58.000,0:20:03.040
+mean in terms of a pst trm model kind 
+of a worst case scenario if you like
+
+0:20:05.520,0:20:12.640
+so uh this is the grain that we're going to 
+concentrate on first this uh talk it's a 100
+
+0:20:12.640,0:20:21.840
+nanometer cube octahedral grain 30 elongated 
+along the 100 direction and it has several
+
+0:20:21.840,0:20:26.160
+blocking temperatures but the major blocking 
+temperature is about 200 degrees centigrade or so
+
+0:20:28.320,0:20:34.160
+so it can nucleate a stable vortex domain 
+structure along the one zero zero or minus
+
+0:20:34.160,0:20:39.520
+one zero zero direction that's along the long 
+axis of the grain and there are four other
+
+0:20:39.520,0:20:46.240
+stable vortex states along the short axis 
+and there are four symmetrical short axes
+
+0:20:46.240,0:20:50.160
+as shown here the zero one one uh well you 
+can read them i'm not going to read them out
+
+0:20:52.640,0:20:59.680
+and the lem energies of each of these domain 
+states are pretty much identical for all
+
+0:20:59.680,0:21:05.520
+temperatures so here's a the energies 
+as a function of temperature of course
+
+0:21:05.520,0:21:10.800
+people say well of course this is dominated by 
+ms and we should normalize it by ms which i've
+
+0:21:10.800,0:21:16.720
+tried it doesn't really help very much 
+so uh they're almost equal you can see
+
+0:21:17.280,0:21:23.760
+a change in fact for uh for the lowest 
+energy domain state that transits from
+
+0:21:24.400,0:21:32.400
+the short axis the short axis at room temperatures 
+lowest energy domain state and the long axis is
+
+0:21:32.400,0:21:40.800
+slightly higher this changes at a temperature of 
+160 degrees where for a long period afterwards the
+
+0:21:41.360,0:21:45.920
+long axis is the lowest energy state and 
+the short axis are is the high energy state
+
+0:21:49.200,0:21:55.600
+so we are going to construct a thermal 
+activation model for single vortex grains
+
+0:21:55.600,0:22:03.360
+and we in order to do that we need to calculate 
+the relaxation frequencies given by this equation
+
+0:22:03.360,0:22:10.320
+between every available domain state and 
+in an applied field h this means we need
+
+0:22:10.320,0:22:14.800
+to calculate the energy barriers between 
+each short axis and every other short axis
+
+0:22:16.000,0:22:21.520
+should align states and between each long axis 
+aligned state and every other short axis state
+
+0:22:22.480,0:22:28.400
+all these possible transitions are shown here in 
+this central figure but as we will see on the next
+
+0:22:28.400,0:22:34.160
+slide these are in fact just a combination of a 
+very few different types of the main transitions
+
+0:22:36.000,0:22:44.480
+from the relaxation times you build a complete 
+matrix here of relaxation frequencies between
+
+0:22:44.480,0:22:49.840
+all the different domain states here labeled 
+this q matrix and from this we can determine
+
+0:22:49.840,0:22:55.520
+the relative population of the different domain 
+states at a particular temperature and time using
+
+0:22:55.520,0:23:03.760
+the matrix exponential and a method outlined by 
+fabian and shishobikov in their jgi 218 paper
+
+0:23:05.280,0:23:09.680
+we can then evolve this system through an 
+innovative process where the population of
+
+0:23:09.680,0:23:15.680
+different domain states at a time t plus delta 
+t is simply given by the population of the
+
+0:23:15.680,0:23:22.720
+of the domain states at a time t multiplied 
+by the matrix of transition probabilities
+
+0:23:24.800,0:23:29.120
+since the time and field can change 
+with sorry since the temperature and
+
+0:23:29.120,0:23:33.920
+field can change with time it can evolve 
+the system through any arbitrary sequence
+
+0:23:33.920,0:23:39.200
+of thermal history and in particular we 
+can simulate the acquisition of an nrm
+
+0:23:40.080,0:23:45.920
+plus its subsequent thermal cycling through a 
+multi-step talia type pill intensity experiment
+
+0:23:46.640,0:23:49.840
+and so we're now going to 
+look at some of those results
+
+0:23:52.320,0:23:58.720
+so the matrix of translation frequencies we saw 
+on the previous slide as i said was made up of a
+
+0:23:58.720,0:24:04.960
+number of different symmetrical domain transitions 
+that can be one of three types we can have
+
+0:24:04.960,0:24:15.600
+transitions between a short axis and a long 
+axis or a short axis and another short axis
+
+0:24:15.600,0:24:23.440
+or a long axis and a short axis every other domain 
+state that you see in this grain can be achieved
+
+0:24:24.000,0:24:31.840
+through a hop between one of those different 
+types of transitions so the short line axis
+
+0:24:32.640,0:24:37.200
+the shorter line vortex to the longer line 
+vortex transition curve is given by this red line
+
+0:24:37.920,0:24:44.560
+the long aligned vortex to the shorter line 
+vortex transition is given by the blue line
+
+0:24:45.520,0:24:52.000
+and the short line vortex to this nearest other 
+short line vortex is given by this green line so
+
+0:24:52.000,0:24:59.680
+the three transitions that are possible in this 
+particular grain the other thing that's important
+
+0:24:59.680,0:25:06.000
+to realize at this point is that the domain 
+states have uh different net magnetizations
+
+0:25:10.320,0:25:16.560
+so that the magnetization along let me go back 
+once i missed one uh the magnetization these are
+
+0:25:16.560,0:25:21.120
+the magnetizations as a function of temperature 
+for each of the uh for the long and the short
+
+0:25:21.120,0:25:26.160
+axis aligned vortex state and you can see uh what 
+this is negative here but you can see that the
+
+0:25:26.960,0:25:32.800
+long aligned vortex state has a much 
+larger magnetization than the short and
+
+0:25:32.800,0:25:39.040
+basic the remnants is carried by the core 
+the vortex core is longer in the long axis
+
+0:25:39.040,0:25:43.920
+than it is in the short and so it 
+yields a higher magnetic remnants
+
+0:25:46.640,0:25:47.600
+by about 44
+
+0:25:50.400,0:25:54.880
+so this relaxation phase diagram is 
+very important because it actually
+
+0:25:55.520,0:26:00.240
+defines the complete thermometic behavior of 
+the grain and so it's worth looking at in some
+
+0:26:00.240,0:26:10.800
+detail in the yellow region here for temperatures 
+above about 240 centigrade the only stable state
+
+0:26:11.600,0:26:17.360
+on normal time scales is the vortex state aligned 
+along the long axis so the stability of the state
+
+0:26:18.400,0:26:24.240
+is given by the height above a any 
+particular relaxation type so if we take
+
+0:26:25.040,0:26:30.720
+grains that are stable on time scales of 
+longer than one minute we can see that
+
+0:26:31.840,0:26:38.720
+nothing is stable above about 500 degrees 
+but then the long aligned axis becomes stable
+
+0:26:39.680,0:26:45.600
+so anything that gets into the long axis there's 
+an energy barrier between that and the short axis
+
+0:26:47.440,0:26:53.760
+at the other extreme at lower temperatures 
+up to about 130 degrees centigrade it's green
+
+0:26:53.760,0:27:01.040
+shaded region all the main states are stable 
+and in fact the energy barriers in all these
+
+0:27:01.040,0:27:05.840
+states are so high that's going to be almost 
+impossible to change from one state to the other
+
+0:27:07.600,0:27:15.200
+this blue shaded region is the 
+critical zone and this is where the
+
+0:27:15.200,0:27:19.840
+rate at which the sample is cooled through this 
+zone dramatically affects the room temperature
+
+0:27:20.960,0:27:23.520
+distribution of the blocked domain states
+
+0:27:27.280,0:27:34.080
+uh okay and way over time already so i'll try and 
+speed up so we take two particular examples here
+
+0:27:34.080,0:27:40.640
+fast and slow cooling so this is an example of 
+fast cooling uh shown by this dotted line here
+
+0:27:41.520,0:27:47.840
+and virtually all the main states sorry the first 
+domain state to be blocked this week as we cool
+
+0:27:47.840,0:27:53.840
+from high temperatures is the long aligned domain 
+states and by the time any other domain state
+
+0:27:53.840,0:27:59.440
+becomes possible this energy barrier is too high 
+so we reach room temperature everything is aligned
+
+0:27:59.440,0:28:08.000
+along the long axis we can take another example of 
+fast cooling of sorry slow cooling shown by this
+
+0:28:08.800,0:28:15.920
+relaxation time of a million years a very extreme 
+case and as we see here as we cool down the first
+
+0:28:15.920,0:28:20.960
+domain state to become stable is the barrier 
+between the short and the long so everything
+
+0:28:20.960,0:28:27.360
+likes to be aligned along the short axis and as 
+you could it further when in fact the long axis
+
+0:28:27.360,0:28:33.760
+here never becomes stable so in very slow slowly 
+cooled samples everything is going to be aligned
+
+0:28:33.760,0:28:44.160
+along the short axis in very fast cooled samples 
+everything will be aligned along the long axis
+
+0:28:44.160,0:28:49.760
+so this is completely counter intuitive and 
+opposite to the cooling rate correction i guess
+
+0:28:49.760,0:28:55.360
+we we common we think of in single main grains 
+and of course this is just one grain i'm not
+
+0:28:55.360,0:29:00.320
+suggesting this is true for all pseudosynthetic 
+membranes or even also the vortex domain states
+
+0:29:00.320,0:29:05.120
+but it's a clear demonstration that even in 
+this rather common grain morphology these
+
+0:29:05.120,0:29:10.480
+unexpected magnetic facts can happen and it might 
+well be common enough to account for the observed
+
+0:29:10.480,0:29:17.920
+ptrm tails and curvature and they observed 
+their eye plots it's also illustrative of this
+
+0:29:17.920,0:29:25.680
+previously undocumented effect in psd grains of 
+a temperature and thermal history dependence of
+
+0:29:25.680,0:29:30.240
+magnetic domain structure that controls 
+the preferred alignment of domain states
+
+0:29:33.280,0:29:37.600
+the next step is to continue around to consider 
+a random distribution of such particles and
+
+0:29:37.600,0:29:42.320
+simulate the thermal cycling an italian 
+multi-step type paleo intensity experiment
+
+0:29:43.440,0:29:49.760
+that involves cooling from above the curio 
+parent to generate an nrm and i will show you
+
+0:29:49.760,0:29:56.160
+a couple of examples at different cooling rates 
+and then thermal cycling in a in a multi-step
+
+0:29:56.160,0:30:02.640
+tele experiment which we use a laboratory 
+cooling rate of 40 minutes per temperature step
+
+0:30:05.600,0:30:10.240
+uh one of the first things to check of course 
+is that our nrm is linearly proportional to the
+
+0:30:10.240,0:30:16.720
+applied field so that's what i show here on the 
+left hand side on the right hand side here is the
+
+0:30:16.720,0:30:23.520
+sequence of temperature and fields as a function 
+of time in our simulated multi-step turian
+
+0:30:23.520,0:30:29.520
+experiment this is just one protocol actually 
+the simulations i'll show you will have ptrm
+
+0:30:32.640,0:30:35.840
+checks in it and ptm tail checks in it as well
+
+0:30:37.760,0:30:46.240
+so here's the first simulated arrive plot it's 
+for a slowly cooled nrm over 600 million seconds
+
+0:30:46.240,0:30:52.320
+so that's about 18 years and as already said 
+the laboratory cooling rate of 40 minutes
+
+0:30:53.440,0:30:59.520
+this slow cooling has resulted in domain states 
+predominantly aligned on the short grain axis
+
+0:30:59.520,0:31:06.480
+and the fast laboratory remagnetization realigns 
+the magnetization to the long axis so the large
+
+0:31:06.480,0:31:13.680
+difference in the re-magnetization occupancy 
+of states results in this very large ptrm check
+
+0:31:13.680,0:31:20.480
+failures shown by these red triangles here and 
+of course these ptrm failures are intrinsic to
+
+0:31:20.480,0:31:26.640
+the domain structure of course are nothing 
+to do with chemical alteration and although
+
+0:31:26.640,0:31:34.400
+not often done the ptrm tail check shown 
+here by this green rectangle is also very
+
+0:31:34.400,0:31:39.920
+large and this is an indication of the failure 
+of the reciprocity of the blocking temperatures
+
+0:31:43.120,0:31:46.400
+if we look at a cooling rate 
+much closer to the lobarte rate
+
+0:31:46.400,0:31:53.760
+this one is cooled over 6 000 seconds so that's 
+about uh that's about 1.7 hours we see that
+
+0:31:53.760,0:32:02.400
+the sample now passes the ptrm check from these 
+red triangles but still fails the ptrm tail check
+
+0:32:03.680,0:32:09.600
+and the blocking temperature reciprocity 
+failure indicated by the tail check at 175
+
+0:32:10.240,0:32:14.160
+degrees centigrade then contributes 
+to the curvature of the arrive plot
+
+0:32:18.400,0:32:26.160
+so one thing i would like to explain if i just 
+have a few more minutes is the both the arri plots
+
+0:32:26.160,0:32:33.120
+exhibit high temperature ptrm hooks shown 
+by this green region caused by a peak in
+
+0:32:33.120,0:32:38.960
+the ptm gained between two and 300 degrees 
+centigrade and a decrease at high temperatures
+
+0:32:40.240,0:32:46.320
+subsequently shown by this yellow region the 
+magnetization plot and this can be explained
+
+0:32:46.880,0:32:55.280
+by examining our relaxation phase diagram as 
+we put in ptrms at increasing temperatures
+
+0:32:55.280,0:33:02.080
+we first activate the grains that are aligned 
+on the short axis as we as we heat up from
+
+0:33:02.800,0:33:10.240
+below the first grains that we reactivate 
+that become unstable are the short-lined
+
+0:33:10.240,0:33:17.520
+grains and then these grains will transit to 
+long aligned axes which have larger remnancies
+
+0:33:17.520,0:33:25.040
+and so we get an increase in the ptrm peak at 
+around two to three once we get into regions
+
+0:33:25.040,0:33:30.800
+where the long axis grains can be reactivated 
+then some of those long axis grains will
+
+0:33:31.920,0:33:38.320
+switch to short axes and then we get this 
+decrease of the ptram at large ptrm temperatures
+
+0:33:41.280,0:33:46.320
+so in this instance then this uh 
+difference in blocking temperature
+
+0:33:46.320,0:33:52.960
+from heating from below or cooling from 
+above explains the reciprocity failure
+
+0:33:55.360,0:34:05.440
+and this decrease in the as i said decrease 
+in the ptrm for increasing temperatures then
+
+0:34:05.440,0:34:08.800
+explains this hook that we 
+see at high temperatures
+
+0:34:10.880,0:34:15.200
+so these features of high temperature hooks 
+and peaks in the high temperature ptrms
+
+0:34:15.200,0:34:22.640
+are not so unusual and i've got one 
+example here from a sample of a larva
+
+0:34:23.360,0:34:33.440
+from ohio basaltic lava from hawaii that shows the 
+same high temperature ptrm hook of course this is
+
+0:34:33.440,0:34:39.040
+just one example uh there may be many explorations 
+for such magnetic behavior but it's likely that
+
+0:34:39.040,0:34:45.280
+these fine-grained vessels actually do contain psd 
+grains and at least it is consistent with the uh
+
+0:34:45.840,0:34:51.760
+observations and predictions that we make all 
+right so i've made uh i've covered a lot of ground
+
+0:34:51.760,0:34:56.960
+uh gone way over time which i apologize for i'm 
+just going to summarize the results in four short
+
+0:34:56.960,0:35:05.200
+slides so we've built a thermomagnetic model for 
+psd grains that accounts for any thermal magnetic
+
+0:35:05.200,0:35:10.880
+history it predicts this failure of reciprocity so 
+the blocking and unblocking temperatures are quite
+
+0:35:10.880,0:35:18.800
+different that results in ptrm check failures 
+can result in petrium tails uh it rises when
+
+0:35:18.800,0:35:24.000
+different domain states with similar energy 
+barriers are possible in one particular grain
+
+0:35:26.320,0:35:30.560
+this is unlike multi-domain grains 
+though because the domain states
+
+0:35:30.560,0:35:36.400
+have high remnancies the number of domain states 
+are fewer and behave in a more predictable way
+
+0:35:37.600,0:35:43.520
+the very large ptrm failure and ptm tails in our 
+example are the result of large differences in
+
+0:35:43.520,0:35:49.840
+the remnants of the different allowed domain 
+states and the fact that the energy barriers
+
+0:35:49.840,0:35:58.160
+between the different domain states change as 
+at different rates as a function of temperature
+
+0:35:58.160,0:36:08.320
+extreme reciprocity failure shown in our example 
+um is uh sorry the extreme reciprocity failure
+
+0:36:08.320,0:36:15.280
+shown in our example are seen in single vortex 
+grains that have multiplicity of different
+
+0:36:15.280,0:36:20.880
+domain states i think that i've already said 
+which may be predictable and you might argue
+
+0:36:20.880,0:36:26.080
+that that actually the number of grains that have 
+this multiplicity of the main state is actually
+
+0:36:26.080,0:36:31.760
+very narrow and larger grains are going to be 
+slightly better behaved maybe predominantly
+
+0:36:33.600,0:36:39.840
+vortices aligned with the easy axis however 
+in real grains of course you have lots of
+
+0:36:39.840,0:36:44.880
+highly irregular grain shapes as i showed at the 
+beginning of the talk with multiple grain axes
+
+0:36:44.880,0:36:50.720
+that might in fact then promote the existence of 
+multiple lem states even in these small grains
+
+0:36:51.600,0:36:59.680
+and so might have benefit from the same 
+effects that we've shown in this example today
+
+0:37:02.160,0:37:07.200
+so we know that these combined effects 
+whatever the grain sizes range and whatever
+
+0:37:07.200,0:37:14.320
+grains shapes are affected by the things that 
+i've shown today these cannot be so big that they
+
+0:37:14.320,0:37:21.120
+completely destroy paleomagnetism because we know 
+we can extract failure intensities sometimes and
+
+0:37:22.960,0:37:28.480
+the exciting advance that we've shown today is 
+that actually can now simulate trms in single
+
+0:37:28.480,0:37:35.120
+boarding grains we do still need to map out the 
+relaxation phase diagrams for different grain
+
+0:37:35.120,0:37:42.480
+sizes and shapes and to look at how big an effect 
+this might be which grains are poor recorders
+
+0:37:42.480,0:37:49.440
+and how maybe we can detect them 
+and finally we hope les and i hope
+
+0:37:49.440,0:37:54.000
+together that we're going to build a compact 
+and easily run simulation tool for mixtures of
+
+0:37:54.000,0:38:03.840
+single domain and psd grains to explore these 
+types of magnetic recording characteristics
+
+0:38:04.400,0:38:07.360
+okay it was only roughly twice the time i think so
+
+0:38:08.480,0:38:14.480
+thanks very much you're all only at five minutes 
+over so i think we can uh i'll give when a a round
+
+0:38:14.480,0:38:21.600
+of applause for a really interesting talk with 
+a lot of a lot of profound implications i think
+
+0:38:21.600,0:38:29.920
+for how we understand uh paleomagnetism and 
+paleomagnetic recorders so um i can open the
+
+0:38:29.920,0:38:36.720
+floor to to to questions so you please feel free 
+to raise your hand uh gilder is straight in there
+
+0:38:37.440,0:38:44.480
+and you go sure so thanks for that but i i have 
+a question i don't understand why cooling rate
+
+0:38:45.120,0:38:51.680
+is going to influence which access gets 
+gets magnetized or why it's going to
+
+0:38:51.680,0:38:58.320
+yeah by that would influence but but my more my my 
+really important question there is i would imagine
+
+0:38:58.320,0:39:04.480
+that which axis gets magnetized depends on 
+field strength so does it depend on field
+
+0:39:05.840,0:39:08.800
+yeah it of course it does the field strength uh
+
+0:39:10.080,0:39:17.280
+the field strength produces a bias but you know 
+we had a random assembly of such grains so uh
+
+0:39:17.280,0:39:24.000
+the component of the field uh might equally 
+be aligned along some short axes or long axis
+
+0:39:24.560,0:39:31.520
+so the field produces a bias to alignment 
+of the domain states whether they're
+
+0:39:31.520,0:39:37.920
+along the short or the long so that doesn't uh you 
+know if we had if we had every grain was aligned
+
+0:39:37.920,0:39:42.960
+the particular anisotropy and all the 
+grains were aligned in terms of their shape
+
+0:39:42.960,0:39:49.840
+then that might be the effect but we have these 
+are random completely random distributions so um
+
+0:39:51.360,0:39:56.960
+and in fact i mean i haven't shown you know 
+try to squeeze in as much as i could today
+
+0:39:56.960,0:40:02.800
+you can look at the zydefelt plots and 
+they they perfectly well record paleo
+
+0:40:02.800,0:40:12.640
+in paleomagnetic directions uh so um there's 
+no fabric if you like in these in terms of the
+
+0:40:14.960,0:40:21.840
+cooling rate so your question was that 
+the ability of cooling rate to change the
+
+0:40:22.480,0:40:27.120
+preference of the alignment of the grains i 
+obviously didn't explain that well enough i
+
+0:40:27.120,0:40:36.720
+rushed too much i i can go through it very quickly 
+again uh possibly if i can get back go back from
+
+0:40:36.720,0:40:44.480
+slide 160 to okay let's take the first one here 
+so the the cooling rate dependence uh really is
+
+0:40:44.480,0:40:53.040
+embedded in this phase diagram of the main states 
+because it depends upon as you cool down which um
+
+0:40:55.360,0:41:00.880
+which type of domain state nucleates 
+first and becomes stable first
+
+0:41:00.880,0:41:05.280
+you know so at very high temperatures you 
+can see all these relaxation times are very
+
+0:41:05.280,0:41:12.320
+very small so below about 500 everything is 
+really tiny and everything is unstable as we
+
+0:41:12.320,0:41:19.040
+as we might expect and at fast cooling rates so 
+we can imagine that each of these temperatures are
+
+0:41:19.040,0:41:25.920
+only only sits at each of these temperatures 
+for one minute i mean obviously in our in our
+
+0:41:26.640,0:41:33.840
+simulations of nrm we have a newtonian cooling 
+rate but just a very brutal approximation here
+
+0:41:34.640,0:41:38.400
+if we t imagine each of these temperatures that 
+sits at for one minute then we might we might
+
+0:41:38.400,0:41:46.640
+get the domain states that are indicated where 
+this relaxation time creates uh energy barrier
+
+0:41:46.640,0:41:55.520
+with the domain states so as you cool down um 
+the the first energy barrier for fast cooling
+
+0:41:55.520,0:42:01.200
+i'm calling one minute at each temperature fast 
+cooling the first domain state energy barrier
+
+0:42:01.200,0:42:07.360
+is defined by the transition from the long to 
+the short so any grains that end up being the
+
+0:42:07.360,0:42:16.160
+long aligned along the long axis can't easily 
+move to the short axis and but the time that
+
+0:42:17.840,0:42:25.200
+the short axis remain is available as a stable 
+if you like so that's below about 200 degrees
+
+0:42:25.200,0:42:31.520
+so here we find a shorter long energy barrier so 
+these are now stable the short axis is no stable
+
+0:42:31.520,0:42:34.560
+but the problem is that everything 
+is already locked in the long axis
+
+0:42:36.000,0:42:42.960
+so so that's what happens at fast cooling 
+rates a very long cooling rates then everything
+
+0:42:42.960,0:42:50.320
+is essentially uh unstable on the million 
+year time scale until you get down to
+
+0:42:50.880,0:42:56.720
+whatever this is 140 or 130 degrees and 
+the first energy barrier that it comes
+
+0:42:57.360,0:43:01.040
+that it comes across the first thing that 
+becomes stable are the shorter line grains
+
+0:43:01.920,0:43:09.360
+so anything that finds itself in a short aligned 
+axis can't easily move out into anything else
+
+0:43:10.640,0:43:16.720
+and the longer line actually doesn't become 
+stable until about room temperature so
+
+0:43:17.520,0:43:23.440
+uh that's an extreme example i mean not many 
+things look cool at time scales of millions of
+
+0:43:23.440,0:43:32.400
+years but it's extreme example but this the exact 
+position of these different relaxation curves
+
+0:43:33.120,0:43:40.720
+essentially defines how the proportion or the 
+proportion of the domain states are distributed
+
+0:43:40.720,0:43:46.160
+among the different available domain states 
+depending how quickly they move through this
+
+0:43:50.080,0:43:56.560
+this is decision point if you like of 
+the different uh domain state frequencies
+
+0:43:58.240,0:44:02.240
+did that make any sense cheese dude 
+yeah and so those curves are made
+
+0:44:02.240,0:44:08.640
+with large numbers of grains that are 
+randomly oriented is that these domain
+
+0:44:08.640,0:44:15.680
+these energy barriers refer to just one 
+orientation so uh these are the these
+
+0:44:15.680,0:44:21.840
+are the different allowed domain states 
+so this this doesn't have any field um
+
+0:44:24.160,0:44:31.440
+these energy barriers assume no external field 
+we add that into the model uh in this other
+
+0:44:32.880,0:44:41.760
+part here so that was just the three different 
+types of transitions we can have short to long
+
+0:44:41.760,0:44:47.440
+long to short short to short in terms of the 
+orientation of the domains with respect to the
+
+0:44:47.440,0:44:54.800
+grain axes and then so that's and the 
+different types of transitions are shown here
+
+0:44:54.800,0:44:59.920
+so this is uh this is one particular short 
+axis so there are four different short axes
+
+0:45:00.480,0:45:06.720
+and two different long axes and you can look at 
+all the different transitions of every grain with
+
+0:45:06.720,0:45:12.400
+every one you don't have anti-parallel transitions 
+because they always go very different different
+
+0:45:12.400,0:45:20.400
+domain state but all of these combination of 
+different transitions are incorporated in this
+
+0:45:21.920,0:45:30.240
+relaxation frequency matrix and that includes 
+a bias to the field which is a vector
+
+0:45:31.120,0:45:39.120
+when we look at our district random distribution 
+of grains of course then we in each orientation
+
+0:45:39.120,0:45:44.320
+of that grain we'll see it essentially a 
+different direction of the magnetic field
+
+0:45:44.320,0:45:51.280
+relative to the green axes okay it's the algebra 
+is a bit messy but that's the part i missed
+
+0:45:51.280,0:45:56.640
+yeah thank you yeah thank you very much uh 
+brandon has his hand up as well for a question
+
+0:45:58.720,0:46:06.240
+hi hi brandon um yeah uh i had a question what 
+size is the grain that you're showing here
+
+0:46:06.240,0:46:15.040
+with the rf block so the grain this one uh these 
+arrive plots are for a mono dispersion so they are
+
+0:46:16.000,0:46:23.360
+100 nanometers uh we use this hundred nanometers 
+esvd uh we always like to code things in terms of
+
+0:46:23.360,0:46:27.840
+svds which is the equivalent spherical 
+volume diameter anyways hundred nanometers
+
+0:46:28.720,0:46:37.840
+thirty percent elongated along the um 
+one zero zero axes and um it was chosen
+
+0:46:38.640,0:46:45.360
+because it was just on the boundary as 
+you emerge from this unstable zone that we
+
+0:46:46.080,0:46:55.280
+predict uh from this from our 2017 paper we chose 
+it because we didn't know actually uh how it is
+
+0:46:55.280,0:47:00.000
+going to behave thermometically and we wanted to 
+look for something that was likely to have a large
+
+0:47:00.000,0:47:06.160
+effect uh in the end it has a very large effect 
+much more than we probably um would have liked but
+
+0:47:06.160,0:47:14.000
+um the the principle here is that we 
+have a grain that has a mud that has
+
+0:47:14.880,0:47:21.760
+different domain states of similar energies in 
+it i think that's the principle so this effect
+
+0:47:21.760,0:47:26.880
+although we've we've chosen it because we knew it 
+was going to have two different domain states that
+
+0:47:26.880,0:47:36.160
+were stable in it i think it this the effects that 
+we see should be replicated in any grain that has
+
+0:47:36.160,0:47:41.200
+different domain states of similar energies 
+in it if you have a dominant if you have a
+
+0:47:42.320,0:47:49.600
+a minimum energy state that is uh much lower 
+than other possible domain states through
+
+0:47:49.600,0:47:53.520
+out its temperature range then 
+you won't see these effects
+
+0:47:55.040,0:48:02.960
+so the question is how frequent are these 
+types of domain or grains and as i said we
+
+0:48:03.760,0:48:09.920
+people have got pale intensities including you 
+that we think are reasonably good and but you know
+
+0:48:09.920,0:48:17.600
+we all know that it's not unusual to have 
+pain intensity failure rates high percentages
+
+0:48:17.600,0:48:22.560
+many of those are chemical alteration sometimes 
+chemical alteration is indicated by these ptrm
+
+0:48:22.560,0:48:27.840
+failures we can we've shown here that ptm failures 
+don't have to be because of chemical operation
+
+0:48:29.120,0:48:37.040
+uh but the extent to which this can 
+account for uh the curvature for instance
+
+0:48:37.040,0:48:41.840
+in the arrive plots is something that we 
+hope to determine over the next few years
+
+0:48:43.840,0:48:49.680
+yeah have you tried this at any other sizes yet 
+or you've just got we uh we want to publish this
+
+0:48:49.680,0:48:54.080
+because i'm terrible at publishing i can see 
+we'll be smiling when i say that okay but we're
+
+0:48:54.080,0:48:59.360
+going to publish this soon and then we're 
+going to move on to the other domain states
+
+0:48:59.360,0:49:05.760
+now we you know these what i'm really 
+uh pleased with is these um these
+
+0:49:05.760,0:49:09.680
+uh energy barriers as a function of temperature 
+these are not polynomial fits these are actually
+
+0:49:09.680,0:49:15.120
+individual points of the energy barriers that 
+we've calculated uh you know to calculate
+
+0:49:15.120,0:49:22.960
+so we parameterize these in terms of 
+polynomials it makes our simulations of of uh
+
+0:49:25.200,0:49:30.560
+simulations of thermomagnetic histories much 
+quicker and easier to do and what we'd like
+
+0:49:30.560,0:49:37.600
+to do is suggest is to parametrize a whole 
+bunch of these things which is pretty much
+
+0:49:37.600,0:49:43.360
+donkey work but it needs to be done over the next 
+few months and then produce this nice tool where
+
+0:49:43.360,0:49:50.080
+we can have a simulation of mixtures of single 
+domain and psd uranes non-interactive of course
+
+0:49:51.920,0:49:59.360
+thank you very much brendan um we've got time for 
+one quick more question for when before we there
+
+0:49:59.360,0:50:07.520
+we go there's the inevitable question from rich 
+harrison marriage again yeah this is great win um
+
+0:50:07.520,0:50:14.560
+yeah so i mean how this is going to develop is i 
+mean ultimately what we'd like to be able to do
+
+0:50:14.560,0:50:19.680
+is once you've done all that that sort of what 
+what did you call it donkey work or yeah grand
+
+0:50:19.680,0:50:26.880
+creation to be able to map what you find in the 
+what you showed at the beginning which is the sort
+
+0:50:26.880,0:50:32.160
+of slice and view models right where you have you 
+have your particle size distribution and you know
+
+0:50:33.200,0:50:38.800
+that in great detail to be able to map that onto 
+this model and then and then do the calculation
+
+0:50:38.800,0:50:47.280
+to compare it to an actual real sample so so how 
+far away from that that dream are we i think we
+
+0:50:47.280,0:50:53.440
+are well um you're a potential reviewer richard 
+so uh if we get the grand proposal it'll take
+
+0:50:53.440,0:51:01.280
+about 12 months after that it's one of these new 
+fancy new proposals um but uh i asked a bit uh
+
+0:51:01.280,0:51:07.280
+to get a whole bunch of these done we have a we 
+have a workflow now which is which produces these
+
+0:51:07.280,0:51:15.120
+incredibly nice uh there's a bit noisy at high 
+temperatures but very smooth um energy bars as
+
+0:51:15.120,0:51:20.000
+a function of temperature we have a workflow 
+that allows us to do that pretty easily so
+
+0:51:20.000,0:51:28.320
+we're hoping to get to get this done within uh 12 
+months that's some yeah that's what we're hoping
+
+0:51:30.320,0:51:35.760
+and i guess you have to look closely with like a 
+really broad range of particle sizes and shapes
+
+0:51:35.760,0:51:42.480
+as possible so we would the aim 
+is to do uh to to do grain sizes
+
+0:51:43.040,0:51:48.560
+from from the sort of paramagnetic green size up 
+to about probably a limit is going to be about
+
+0:51:49.520,0:51:58.000
+200 to say 250 nanometers and elongations from 
+eco-dimensional up to maybe 500 elongation
+
+0:52:01.840,0:52:07.840
+that's our hope in fact all the numerical all the 
+micromagnetic models themselves have been done
+
+0:52:08.640,0:52:10.960
+we just need to do the groundwater processing
+
+0:52:15.520,0:52:23.760
+so yeah hopefully so thank you very much for the 
+questions um i think we'll we'll uh draw today's
+
+0:52:23.760,0:52:29.120
+seminar to a close but i want to ask everybody 
+to give uh another uh round of applause for
+
+0:52:29.120,0:52:36.480
+for a really good talk thank you very much gwen 
+thank you and i will just hijack the screen share
+
+0:52:40.080,0:52:44.400
+so um there we go so i i've updated your 
+title i've got it correct this time when
+
+0:52:44.960,0:52:48.560
+i noticed you kind of avoided that 
+question of actually how well can we
+
+0:52:48.560,0:52:52.160
+uh know the entrance your magnetic 
+field maybe in the next magnet seminar
+
+0:52:52.160,0:52:56.800
+uh your answer to that question is 
+going to be very well in a year's time
+
+0:52:58.880,0:53:04.560
+and so just before uh we bring it all to 
+a complete end um just a reminder that
+
+0:53:04.560,0:53:12.000
+um we're gonna have a short break for 
+uh egu and then we'll come back um in in
+
+0:53:12.000,0:53:19.760
+uh mid-june um but we're moving to an eu eastern 
+hemisphere uh time slot so our seminars will be
+
+0:53:20.320,0:53:26.080
+in the mornings in in europe and there'll be sort 
+of late afternoons into the evenings uh in in the
+
+0:53:26.080,0:53:31.120
+eastern hemisphere depending upon where you are um 
+and so uh there'll be more announcements about the
+
+0:53:31.120,0:53:36.560
+exact timing of that and so we've got a couple of 
+speakers lined up already uh and we have some more
+
+0:53:36.560,0:53:43.520
+uh in in in plans but as always we're looking for 
+uh more speakers um for our seminar so if anybody
+
+0:53:43.520,0:53:50.880
+is interested in giving a seminar uh please 
+just um let us know and all of our seminars
+
+0:53:50.880,0:53:56.160
+including the recording for uh winstop today 
+will be made available on our youtube channel
+
+0:53:56.880,0:54:03.280
+and so thank you everybody for joining magnets 
+and we'll see you next month thank you very much

@@ -1,0 +1,1377 @@
+0:00:02.880,0:00:10.720
+so welcome everyone to uh this week magnets uh as 
+usual the seminars are recorded and they will be
+
+0:00:11.280,0:00:16.160
+made public available uh the continued 
+participation seminar after recording
+
+0:00:16.960,0:00:22.800
+from beginning it constitutes agreement for the 
+recording to be disseminated we recommend to mute
+
+0:00:22.800,0:00:32.640
+your mic and turn off your camera for improving 
+the the recording and so we have expanded our team
+
+0:00:32.640,0:00:38.960
+want to welcome anik van der bon and richard 
+bono as well uh that will be helping with the
+
+0:00:40.480,0:00:49.840
+with some part technical part and organizing um 
+so as usual we're gonna have 25 to 30 minutes
+
+0:00:49.840,0:00:55.360
+presentation uh you can drop questions in 
+the chat box we can read them afterwards
+
+0:00:55.360,0:01:01.040
+uh it's an informal um it's informal seminar so 
+if you need to go don't worry you can catch it
+
+0:01:01.040,0:01:06.640
+on youtube later um after the seminar gonna 
+be 15 10 to 15 minutes time for questions
+
+0:01:07.200,0:01:14.400
+uh you're welcome to to ask them and then there 
+will be a catch up at the end uh you can you can
+
+0:01:14.400,0:01:22.000
+stay if you want to catch up with friends 
+and stuff so uh let me welcome uh jay shah
+
+0:01:22.000,0:01:29.680
+from mit that's good he's gonna talk about 
+evidence for an intermittent lunar geodyn dynamo
+
+0:01:31.280,0:01:39.840
+that is that all right so you can share 
+your screen jay okay just one second
+
+0:01:47.040,0:01:55.120
+okay okay fantastic okay great thank you 
+jay so yeah thank you very much anita and
+
+0:01:55.120,0:02:01.120
+greg and the whole magnets team for putting 
+these together uh it's uh one of the positive
+
+0:02:02.080,0:02:07.200
+uh things of the pandemic that's able to bring 
+everyone together for these seminars every month
+
+0:02:07.200,0:02:14.960
+and i'm very appreciative to be a part of it um 
+my name is jay shaw i'm a postdoc at mit uh in
+
+0:02:14.960,0:02:22.320
+the department of earth atmosphere and planetary 
+sciences uh and i'm here to show you some work
+
+0:02:23.040,0:02:28.240
+from a recent uh paleo intensity experiment 
+that we did on some apollo regular thresher
+
+0:02:29.120,0:02:34.480
+to think about the lunar dynamo uh in 
+collaboration with brannan getzin a former
+
+0:02:34.480,0:02:44.160
+research research assistant in our group and our 
+pi ben weiss so let's get to it first i'd like to
+
+0:02:44.160,0:02:49.680
+just uh dwell upon why we look at the moon in the 
+first place from a paleomagnetic perspective um
+
+0:02:49.680,0:02:57.360
+we want to try and understand more about its 
+interior generally and paleomagnetic data have
+
+0:02:57.920,0:03:02.960
+helped us to show how it does have 
+a differentiated interior with its
+
+0:03:02.960,0:03:09.680
+surface crust with a mantle lying below that 
+and then uh conducting liquid core lying over
+
+0:03:09.680,0:03:18.640
+a solid conducting core that has generated these 
+magnetic fields from itself sustaining dynamo
+
+0:03:19.360,0:03:27.200
+throughout the history of the moon pretty much and 
+the data that we have have shown this evidence of
+
+0:03:27.200,0:03:32.480
+dynamic behavior but they've also given us a 
+few conundrums and that's largely i believe to
+
+0:03:32.480,0:03:42.880
+be a limitation of the data that we have itself 
+given that uh we haven't uh used the most will
+
+0:03:42.880,0:03:48.000
+obtain the most accurate paleo intensities and 
+then also kind of have a biased sample selection
+
+0:03:48.720,0:03:57.360
+trying to seek out that uh dynamo behavior so the 
+moon is a natural laboratory for dynamo theory and
+
+0:03:57.360,0:04:02.800
+we believe that there are very complex mechanisms 
+going on given that there is this high field epoch
+
+0:04:02.800,0:04:06.000
+at the beginning of the moon history in 
+the past in that first billion years or so
+
+0:04:06.800,0:04:14.960
+followed by a two billion year period of a low 
+field epoch and a cessation of the dynamo so
+
+0:04:14.960,0:04:19.840
+within the earth's orbit we have the example 
+of a planetary dynamo that's initiated been
+
+0:04:19.840,0:04:28.560
+sustained and then ended for us to look at and 
+we have plenty of samples to look at it with and
+
+0:04:30.800,0:04:36.480
+first and yeah we just need to get some better 
+better data to fully understand the complexities
+
+0:04:36.480,0:04:43.440
+of that dynamo and understand more of what's going 
+on so let's just start out by having a little bit
+
+0:04:43.440,0:04:52.000
+of a recap on luna paleomagnetism and what we know 
+from the data so far um just to take you through
+
+0:04:52.000,0:05:00.480
+this uh little uh plot of the um time scale of 
+lunar paleo intensity history that we have uh
+
+0:05:00.480,0:05:07.040
+based on the data that have been acquired so far 
+by labs around the world where we have constrained
+
+0:05:07.040,0:05:12.400
+this initial high field epoch in that first 
+billion years or so where we have magnetic field
+
+0:05:12.400,0:05:19.680
+strengths of the range of about 100 microtesters 
+being recorded um for that first billion years
+
+0:05:20.240,0:05:30.720
+that uh likely believed to have been driven by a 
+thermally convective dynamo in the interior uh and
+
+0:05:32.800,0:05:40.880
+following this um period of high field strength 
+we have this protracted period of a much lower
+
+0:05:40.880,0:05:45.920
+field strength dynamo activity where we have 
+field intensities in the range of about seven
+
+0:05:46.800,0:05:53.360
+upwards and that goes on for about two billion 
+years before being capped off by the cessation
+
+0:05:53.360,0:05:58.400
+of the dynamo which has recently been shown to 
+have happened about a billion years ago or so
+
+0:05:59.600,0:06:06.720
+so we have this full history of a dynamo 
+being initiated sustained and then ended
+
+0:06:06.720,0:06:12.000
+for us to look at and peace apart and we believe 
+that there are various mechanisms that could have
+
+0:06:12.000,0:06:17.280
+driven it for this long period of time that 
+it has been active for so there's the thermal
+
+0:06:17.280,0:06:22.880
+convection that may have been driving this initial 
+high field intensities and then likely to be
+
+0:06:23.440,0:06:28.720
+some procession going on between the core 
+and the mantle some mechanical stirring of
+
+0:06:28.720,0:06:34.880
+that convection to keep it going for up until 
+about two billion years ago or so where and then
+
+0:06:36.480,0:06:41.440
+to explain the later more recent field 
+intensities that have been observed
+
+0:06:42.320,0:06:49.360
+there may have also been some core crystallization 
+that further driven the dynamo on the moon but
+
+0:06:50.480,0:06:58.080
+these mechanisms uh can't quite explain the 
+intensities that we're seeing so the average
+
+0:06:58.080,0:07:03.280
+field intensities that we're seeing from 
+the data can't really be justified by these
+
+0:07:03.840,0:07:08.400
+mechanisms for generating a dynamic the the 
+field strengths that they would generate and for
+
+0:07:08.400,0:07:14.240
+the time periods that would generate from four so 
+there may well be something missing and that could
+
+0:07:14.240,0:07:19.920
+be in our sampling which may have been biased 
+to actually find dynamos so we've been looking
+
+0:07:19.920,0:07:25.120
+at samples that will have demonstrated remnants 
+properties that would give us really strong paleo
+
+0:07:25.120,0:07:30.320
+intensities whilst overlooking samples that 
+maybe do give much weaker paleo intensities
+
+0:07:30.320,0:07:35.280
+that could potentially suggest that there's 
+been intermittence in this dynamo there's a
+
+0:07:35.280,0:07:42.080
+paper by evans italian 2018 which uh suggested 
+that dynamo intermittence may well explain how
+
+0:07:43.200,0:07:48.880
+uh they were specifically looking at the thermal 
+convective dynamo in that first high field epoch
+
+0:07:48.880,0:07:55.120
+but potentially how such dynamic field behavior 
+which based on the lunar energy budget could only
+
+0:07:55.120,0:08:00.720
+have lasted for such a small period of time could 
+have been stretched out and conserving that energy
+
+0:08:00.720,0:08:08.800
+to be dispensed throughout the history of the moon 
+that may be consistent with also periods of dynamo
+
+0:08:08.800,0:08:13.600
+inactivity amongst these periods dynamo high field 
+strength and resulting in a lower average field
+
+0:08:13.600,0:08:18.560
+than what we've seen with the sample so far so we 
+may have seen these periods of high field strength
+
+0:08:18.560,0:08:21.920
+accompanied by the periods of low field strength 
+which will come out to a lower average field
+
+0:08:21.920,0:08:26.800
+but we just haven't seen the data that would 
+justify these periods of low field strength
+
+0:08:28.160,0:08:32.480
+so these may have been mechanisms 
+that aren't even that exotic
+
+0:08:34.640,0:08:38.160
+we have reversals in the earth and 
+perhaps the moon also underwent such
+
+0:08:38.880,0:08:47.680
+field reversals and we just haven't required the 
+data in order to observe this and the accompanying
+
+0:08:47.680,0:08:54.160
+potentially low period periods of low field 
+strength amidst the reversals there could be
+
+0:08:54.160,0:08:59.200
+some secular variation going on in the moon that 
+we haven't quite observed yet and there could be
+
+0:08:59.200,0:09:04.640
+some sort of a start stop dynamo mechanism where 
+the moon was oscillating between having enough the
+
+0:09:04.640,0:09:12.160
+energy to sustain a dynamo and then falling below 
+that threshold for dynamo activity they could have
+
+0:09:12.160,0:09:19.360
+extended the longevity of the dynamo and conserved 
+work to conserve the energy of the lunar energy
+
+0:09:19.360,0:09:27.440
+budget so there's actually this paper it's cool 
+yeah it's cool study um by le pollard ital uh
+
+0:09:27.440,0:09:36.320
+in 2019 where they took the nrm to susceptibility 
+ratio of 161 samples from the apollo archives and
+
+0:09:37.280,0:09:41.440
+worked out a crude approximation to 
+a paleo intensity for these samples
+
+0:09:41.440,0:09:46.000
+and they did find a distinctly higher 
+average field intensity for this high
+
+0:09:46.000,0:09:50.480
+field epoch in the first billion years for 
+field activity followed by about two billion
+
+0:09:50.480,0:09:55.600
+years of a lower average field intensity but 
+amongst these samples they also found this
+
+0:09:55.600,0:10:01.520
+regime of high field intensities amidst periods of 
+well samples which displayed low field intensities
+
+0:10:02.320,0:10:09.840
+and certainly giving um support to the idea 
+that we just need to sample more of the rocks in
+
+0:10:09.840,0:10:18.160
+order to potentially find these examples which 
+exhibit low field intensity uh recordings so
+
+0:10:20.960,0:10:27.360
+we need more accurate uh paleo intensity 
+protocols in order to actually achieve these uh
+
+0:10:28.000,0:10:32.480
+intensities that we'd like to get and here 
+i'd like to talk to you about uh controlled
+
+0:10:32.480,0:10:37.520
+atmosphere thermodynamics demagnetization 
+which will help us to get to that goal
+
+0:10:38.320,0:10:42.480
+so controlling the atmosphere 
+the aim of the game here is to
+
+0:10:43.280,0:10:48.560
+have the amount of oxygen in your heating 
+environment such that you're not going to oxidize
+
+0:10:48.560,0:10:52.640
+your magnetic carriers and you're not going to 
+reduce your magnetic carriers so the partial
+
+0:10:52.640,0:10:58.240
+pressure of oxygen we'd like to be in our oven 
+to be the same as what the samples experienced
+
+0:10:58.240,0:11:02.880
+in the moon and the literary literature is 
+actually excellent for outlining what the samples
+
+0:11:03.680,0:11:09.760
+the oxygen fugacities the oxygen partial pressure 
+would have been under their formation and trying
+
+0:11:09.760,0:11:15.360
+to do so under vacuum is far too oxidizing argon 
+atmospheres also far too oxidizing and doping that
+
+0:11:15.360,0:11:20.240
+argon atmosphere with hydrogen ends up being 
+too reducing so we achieve the ideal oxygen
+
+0:11:20.240,0:11:26.480
+environment by mixing together hydrogen and carbon 
+dioxide proportions that we can calibrate to be
+
+0:11:27.760,0:11:32.000
+varying over the range of temperatures as 
+you're heating the sample to react to form
+
+0:11:32.000,0:11:39.200
+an equilibrium oxygen composition that will 
+be of the lunar oxygen fugacity so thereby not
+
+0:11:39.200,0:11:45.120
+oxidizing and not reducing our magnetic carriers 
+in our samples and we can actually achieve this
+
+0:11:45.120,0:11:49.600
+for nearly all planetary samples now by making 
+our system slightly more reducing or slightly more
+
+0:11:49.600,0:11:56.640
+oxidizing depending on what the samples would 
+have liked and just to show you a little plot
+
+0:11:57.360,0:12:03.200
+that makes this very evident and this is 
+a lunar basal analog that has been heated
+
+0:12:03.200,0:12:07.760
+in air and we can see that it demagnetizes 
+beautifully with the magnetic curie temperature
+
+0:12:08.880,0:12:14.400
+and if we throw that sample in a controlled 
+atmosphere we see that we don't sacrifice that
+
+0:12:14.400,0:12:20.640
+camosite to magnetite we preserve that campsite 
+magnetization and de-magnetize it with the
+
+0:12:21.360,0:12:27.520
+curie temperature of camosite retaining that 
+magnetic remnants record and we've developed a
+
+0:12:27.520,0:12:33.280
+new system that can actually do this now in 
+thermal cycling uh in less than 25 minutes
+
+0:12:34.160,0:12:39.120
+uh which is a factor of four faster than 
+what we've previously been able to do which
+
+0:12:39.680,0:12:46.400
+further inhibits uh the chemical alteration of the 
+samples by having them at high temperatures for
+
+0:12:46.400,0:12:53.360
+shorter periods of time as well as facilitating a 
+faster greater sample throughput and making these
+
+0:12:53.360,0:12:58.720
+experiments way more feasible because 
+they are time consuming as they are so
+
+0:13:01.680,0:13:07.600
+now we have the experimental protocol 
+down in order to continue to um
+
+0:13:08.560,0:13:13.520
+expand our understanding of this lunar dynamo 
+throughout time we need to look at more sample
+
+0:13:13.520,0:13:19.840
+methodologies that can help us to do that so 
+i'm gonna focus on the apollo regolith fracture
+
+0:13:20.560,0:13:29.680
+if we go back to that plot by le pollard attal 
+2019 and you can see that littered throughout the
+
+0:13:31.200,0:13:35.520
+timeline we have these light blue 
+points which are the regular thresher
+
+0:13:35.520,0:13:43.520
+and they are all throughout the apollo timeline 
+and can help to sample specifically this uh
+
+0:13:43.520,0:13:46.560
+low field epoch where there's just 
+so many of these samples so we can
+
+0:13:47.120,0:13:52.960
+increase our current sparsity of data 
+by looking at these regular furniture
+
+0:13:55.280,0:14:00.560
+and just to focus now a bit more on those 
+i'm going to show you a little schematic on
+
+0:14:00.560,0:14:05.600
+how they form and why they're excellent magnetic 
+recorders so why they're actually well suited
+
+0:14:05.600,0:14:13.520
+to our goals so the regular thresher formed on 
+the surface of the moon from this lunar soil that
+
+0:14:13.520,0:14:20.000
+would have been lying on on the surface due to 
+impacts and just commutation of the materials to
+
+0:14:20.800,0:14:29.360
+have this but maybe it was basaltic materials 
+or even relic luna regolith wretched themselves
+
+0:14:29.360,0:14:35.520
+on the surface of the moon carrying their own 
+ancient nrm lying within the surface ambient field
+
+0:14:35.520,0:14:41.200
+of the moon at that time when an impactor came 
+along and crashed into the surface of the moon
+
+0:14:41.760,0:14:49.760
+resulting in the heating compaction and 
+lithification of a new root lunar regular thresher
+
+0:14:49.760,0:14:56.080
+which has now acquired a new thermal remnant 
+magnetization in its glassy matrix that is
+
+0:14:56.080,0:15:01.520
+binding together these clasts which may well have 
+preserved their own ancient nrm from prior to the
+
+0:15:01.520,0:15:08.880
+impact or have been re-magnetized to that um 
+lunar surface field at the time of the impact
+
+0:15:10.080,0:15:16.880
+with a thermal remnant magnetization and one of 
+the reasons why these samples are so excellent for
+
+0:15:17.840,0:15:22.880
+from a paleomagnetic perspective is that this 
+glassy matrix contains these very fine grained
+
+0:15:22.880,0:15:28.560
+iron nickel grains that are likely of single 
+vortex grain size and as such would have
+
+0:15:28.560,0:15:32.720
+very long relaxation times and capable of 
+retaining that magnetic field information
+
+0:15:32.720,0:15:44.240
+for geologic time scales and being ideal for our 
+analysis so let's look at those samples that um
+
+0:15:45.360,0:15:52.560
+we're working with here we have a young regular 
+thresher 60255 and an ancient regular thresher
+
+0:15:52.560,0:16:03.120
+60019 so i was digging through the uh apollo 16 
+journal to find why they picked up the sample
+
+0:16:03.120,0:16:07.840
+that i've spent so long working on in the 
+first place what what was the guy thinking
+
+0:16:08.400,0:16:13.040
+and what was his intentions and it 
+turned out that he he picked it up
+
+0:16:13.040,0:16:18.480
+because purely because it was the size of half of 
+a grapefruit and he found that very interesting
+
+0:16:19.040,0:16:26.480
+as we can hopefully hear if this works in the 
+little audio uh with him chatting with houston
+
+0:16:29.200,0:16:38.080
+tony do you read over i sure do charlie 
+okay did you copy that about this rock
+
+0:16:38.080,0:16:42.320
+i picked up a half grapefruit size yeah 
+we sure did it sounds very interesting
+
+0:16:44.880,0:16:49.840
+very interesting okay and it's 
+going back 17 okay bag 17.
+
+0:16:52.480,0:17:01.680
+so yeah very interesting and then um our 
+ancient regular fracture 60019 um i think
+
+0:17:01.680,0:17:06.960
+it's a little bigger than half a grapefruit maybe 
+a full grapefruit here it is on the surface um
+
+0:17:08.480,0:17:12.640
+and then just another picture after they picked 
+it up so there's a little before and after
+
+0:17:12.640,0:17:22.560
+that's all they had for that 601.9 but is his what 
+i found most remarkable is the just after picking
+
+0:17:22.560,0:17:30.160
+up these special samples that i've devoted so much 
+of my life to um captured john young one of the
+
+0:17:30.160,0:17:38.480
+greatest moments in history where he captured his 
+co-astronaut charlie duke just after having picked
+
+0:17:38.480,0:17:49.520
+up 60255 and 601.9 and having to relieve himself 
+into a crater right next to the lunar module and
+
+0:17:49.520,0:17:56.800
+sadly or fortunately this uh this moment is 
+um fairly obscured by the glare of the sun
+
+0:17:57.600,0:18:05.280
+but they have one of the greatest moments in 
+history and i just found that quite amusing
+
+0:18:06.720,0:18:14.400
+so this is our little segment of the half 
+grapefruit our young ancient uh our young
+
+0:18:14.400,0:18:22.080
+regular thresher 60255 coming in at about 1.7 
+billion years old uh and we've sent the sample
+
+0:18:22.080,0:18:28.720
+uh for our own radiometric dates to get a tighter 
+constraint on that and you can see that it is um
+
+0:18:30.080,0:18:37.760
+this dark glassy matrix fine grain matrix with 
+these white feldspathic clasps amidst that matrix
+
+0:18:39.360,0:18:42.560
+and here is a picture of
+
+0:18:43.680,0:18:50.560
+our sample of 6019 our ancient regular thresher 
+coming in at about 3.3 billion years old
+
+0:18:51.520,0:18:55.840
+and again we've sent this for our in radiometric 
+dates to get the tighter constraint on that
+
+0:18:56.640,0:19:03.680
+and again it is this fine-grained glassy 
+matrix with these white feldspatic clusts
+
+0:19:05.280,0:19:14.880
+and getting to the data itself uh i just want to 
+show you initially the yeah the zydefelt plot from
+
+0:19:15.760,0:19:22.320
+our young regular thread share 60255 which uh you 
+can see this low temperature component coming off
+
+0:19:22.960,0:19:29.520
+and then it just is completely lost to noise 
+and not really anything that looks beautiful
+
+0:19:29.520,0:19:36.320
+in any way uh which is kind of the behavior oh 
+well as in with regards to the high temperature
+
+0:19:36.320,0:19:42.400
+component there's not really anything that we 
+can see of a distinct component and this is kind
+
+0:19:42.400,0:19:47.280
+of the behavior of all of our samples from 605.55 
+where there's not really a strong high temperature
+
+0:19:47.280,0:19:52.640
+component there's not much unidirectionality 
+and there are very large mad angles so there's
+
+0:19:53.280,0:19:59.120
+not really much of a component there in the high 
+temperature which is consistent with we're finding
+
+0:20:00.080,0:20:08.640
+a zero field paleo intensity having been recorded 
+by the matrix from 60255 uh where our arrive plot
+
+0:20:08.640,0:20:15.120
+in the high temperature portion has a plateau 
+that is of zero field and i just want to draw
+
+0:20:15.120,0:20:19.600
+attention to the scale on the y-axis and the 
+x-axis where you can see that it's about two
+
+0:20:19.600,0:20:24.880
+orders of magnitude lower on the y axis so all 
+these perturbations we can see are actually very
+
+0:20:24.880,0:20:31.200
+small in relation to how much ptrm it's gaining 
+and if we stretch that out onto the same axis
+
+0:20:32.000,0:20:39.520
+uh it's just this one long flat line corresponding 
+to a zero paleon density now if we do the same
+
+0:20:40.320,0:20:45.760
+for 6019 our ancient regular thresher again we 
+can see this low temperature component coming off
+
+0:20:46.400,0:20:51.440
+and then in the high temperatures we're 
+not really seeing anything uh which we see
+
+0:20:51.440,0:20:58.400
+amongst all of our samples from 6w19 matrix uh 
+with large mad angles and not really much of a
+
+0:20:59.440,0:21:06.800
+consistent direction again this we're 
+finding to be consistent with a zero field
+
+0:21:07.520,0:21:13.680
+early intensity being recorded by this ancient 
+regular thresher again the y-axis is much
+
+0:21:13.680,0:21:18.400
+smaller than the x-axis so it's gaining 
+a ton of ptrm with not much nrm to lose
+
+0:21:22.080,0:21:27.760
+so just putting this into the context of 
+the rest of the data that we have so far
+
+0:21:29.280,0:21:36.480
+you can see that we have these new regular 
+thresher that plot within error being
+
+0:21:36.480,0:21:42.400
+a zero field paleo intensity in that low field 
+epoch where we're expecting to see these middling
+
+0:21:42.400,0:21:48.000
+field intensities that would be respective of a 
+procession-driven dynamo or core crystallization
+
+0:21:49.840,0:21:55.680
+just adding to this um a couple of paleo 
+intensities of some regular pressure that
+
+0:21:55.680,0:22:02.560
+are from gazaca his soon to be published work from 
+the high field epoch and from the low field epoch
+
+0:22:02.560,0:22:09.520
+where he is finding paleo intensities using 
+a controlled atmosphere system and so he a
+
+0:22:09.520,0:22:14.800
+thermal paleo intensity so we're not just finding 
+a ton of zero field paleo intensities certainly
+
+0:22:14.800,0:22:21.120
+and what it does seem to be is that we have 
+possibly found first evidence of intermittence
+
+0:22:21.120,0:22:25.120
+of the dynamo so these periods where we're 
+expecting fine field intensities we're finding
+
+0:22:25.760,0:22:29.600
+very low field pale intensity suggesting 
+that perhaps the average field
+
+0:22:30.400,0:22:37.360
+of these epochs may be much lower and there may 
+be some more complex but not necessarily so exotic
+
+0:22:38.480,0:22:42.240
+mechanisms going on with regards to luna 
+dynamo that we should explore further
+
+0:22:45.040,0:22:49.280
+so yeah just in conclusion i feel like we're 
+getting closer to understanding the history of
+
+0:22:49.280,0:22:53.520
+lunardano but there's a ton more work to be 
+done to fill out the sparse record that we
+
+0:22:53.520,0:23:00.160
+have so far from the data which i think oxygen 
+fugacity controlled uh telepathy intensities
+
+0:23:00.160,0:23:06.160
+will help us significantly to do so as well as 
+looking at the regular thresher of which there
+
+0:23:06.160,0:23:13.200
+are so many especially in the low field epoch 
+and we now have the first telepara intensities
+
+0:23:13.200,0:23:18.800
+that support an intermittent lunar dynamo 
+which i feel we should explore further and
+
+0:23:19.760,0:23:24.800
+before i close out i wanted to give a little 
+teaser for something else that we found in this
+
+0:23:24.800,0:23:32.160
+study that we're still working on still trying 
+to figure out fully uh so we got a class from the
+
+0:23:32.160,0:23:39.120
+sample and sub sampled this class this is our 
+young regular stretcher from 1.7 billion years ago
+
+0:23:39.840,0:23:45.280
+and the class itself is showing a paleo 
+intensity as well as some unidirectionality
+
+0:23:45.280,0:23:50.720
+amongst its high temperature component 
+and it's a nonzero appeal intensity and
+
+0:23:52.160,0:23:56.880
+we're trying to explore this it may well be 
+i'm very excited by the prospect of being but
+
+0:23:56.880,0:24:04.160
+i don't know i'm uh keeping some caution there 
+that it has actually retained an ancient nrm
+
+0:24:04.160,0:24:08.080
+from prior to the formation of the regolith 
+which would be really cool but we've sent out
+
+0:24:08.080,0:24:14.560
+the sample of the class 4 dating to see if that 
+fits that theory at all as well as trying to
+
+0:24:15.600,0:24:19.200
+look at the magnetic mineralogy 
+within the clast a little further to
+
+0:24:19.760,0:24:25.520
+see how how reliable recorders they are as well 
+as looking at the magnetic analogy of the the rest
+
+0:24:25.520,0:24:30.080
+of the materials we've been looking at to verify 
+how how great the recorder they are so that that
+
+0:24:30.080,0:24:38.720
+is yet to be done but on the horizon hopefully 
+and yeah that's all leave it there for questions
+
+0:24:38.720,0:24:45.840
+thank you very much well thank you very 
+much let's give jay big round of applause
+
+0:24:47.360,0:24:56.800
+and uh we are open for questions uh there 
+was a question uh from lisa um asking
+
+0:24:56.800,0:25:03.440
+how many of the high field samples were not 
+subjected to high fields on sample return any
+
+0:25:05.280,0:25:08.320
+how many of the high field samples 
+were not subjected to high fields
+
+0:25:08.880,0:25:16.080
+is that during time during yeah so during the 
+mission kind of thing i think so maybe lisa cannon
+
+0:25:17.120,0:25:24.240
+yeah yourself so just um that high field 
+seemed to be associated with samples
+
+0:25:24.240,0:25:30.880
+that had been subjected to a moderate field 
+in the air in the spaceship on the way home
+
+0:25:33.600,0:25:41.360
+and i'm just wondering if any of the samples 
+have not been that's a good question i guess
+
+0:25:41.360,0:25:48.720
+i mean i'm not really sure about the fields that 
+they experienced amongst different missions and
+
+0:25:48.720,0:25:54.000
+that kind of thing but we're seeing low 
+fields from samples that are obtained from
+
+0:25:54.000,0:26:01.040
+the same missions okay well that's good so 
+i think that would potentially suggest that
+
+0:26:03.280,0:26:09.840
+it's not like a you know blanket they've 
+all been zapped on apollo 11 kind of thing
+
+0:26:11.760,0:26:15.280
+maybe i i don't know that's a that's a 
+good thing to explore though certainly i
+
+0:26:15.280,0:26:17.760
+yeah i would never want to 
+rule out contamination but
+
+0:26:20.400,0:26:24.160
+i think uh because all the ones 
+we looked at that was what it was
+
+0:26:24.160,0:26:26.720
+they were irms and it was there was no high field
+
+0:26:30.640,0:26:33.200
+once you've given it an irm you can't recover it
+
+0:26:33.920,0:26:38.160
+yeah of course well i mean 
+even a small iron you just
+
+0:26:42.080,0:26:44.720
+that's interesting and 
+worrying at the same time yeah
+
+0:26:47.680,0:26:57.280
+lisa do you have other questions or i see wind as 
+a rice hen yeah winner hi jay interesting talk um
+
+0:26:58.240,0:27:03.360
+i i'm probably going to expose my ignorance 
+yet again but i just think of the samples
+
+0:27:03.360,0:27:10.000
+you say that they were there's a trm captured 
+by the the this um conglomerate the regolith
+
+0:27:10.560,0:27:17.440
+but is any evidence of any post trm uh shock you 
+know obviously a lot of meteor impacts on the
+
+0:27:17.440,0:27:23.760
+surface of the moon and if there's any possibility 
+of any demagnetization occurring from uh impacts
+
+0:27:28.720,0:27:35.680
+or can you can you see any clues of any 
+evidence of um you know because it doesn't
+
+0:27:35.680,0:27:41.440
+shouldn't really take a huge amount of impact 
+to magnetize uh well i'm not sure about cameras
+
+0:27:42.080,0:27:51.760
+of these classes themselves yeah i mean the 
+class sample i i it's kind of like a far-fetched
+
+0:27:52.560,0:27:58.960
+idea that i i think i'm kind of holding on to and 
+thinking is really cool and i mean ben is way more
+
+0:27:58.960,0:28:04.400
+skeptical than i am on this and i think i'm just 
+very hopeful so i mean certainly it could have
+
+0:28:04.400,0:28:08.960
+been somewhat demagnetized but if it has been 
+that it's not been completely demagnetized at
+
+0:28:08.960,0:28:13.600
+least i mean it's still recording about 10 micro 
+tesla field so that i think the the significant
+
+0:28:13.600,0:28:18.160
+thing at least is the fact that it has recorded a 
+field from a period of time and if it's been able
+
+0:28:18.160,0:28:22.320
+to retain that even going through shock then it's 
+potentially been exposed to an even higher field
+
+0:28:23.760,0:28:30.000
+from like its original remnants was from a higher 
+field potentially okay i was also nice to see
+
+0:28:30.000,0:28:35.920
+you know these uh your your trm curves you don't 
+see many trm curves that haven't just completely
+
+0:28:35.920,0:28:43.680
+chemically altered from these lunar materials 
+and i was very happy to see that they do actually
+
+0:28:43.680,0:28:48.960
+seem to agree with the predictions of uh nagi 
+ital's paper from a couple of years ago yeah
+
+0:28:49.920,0:28:53.680
+that's something we're always bearing 
+in mind like around that 400 uh
+
+0:28:54.400,0:29:01.280
+celsius everything seems to be held in uh within 
+about 200 centigrade of the of the curing point
+
+0:29:01.280,0:29:06.320
+right all the remnants used to be held in there 
+or the demonetization curves see that that was
+
+0:29:06.320,0:29:13.200
+mostly responsible so that was good anyway 
+enjoyed your talk very nice thanks thank you
+
+0:29:13.760,0:29:21.200
+uh we have two raised hands so greg was first 
+and then nick greg do you want to go hi joey um
+
+0:29:21.200,0:29:26.880
+that was a really really interesting talk 
+um because my question is kind of this um
+
+0:29:28.160,0:29:32.080
+prelim result on the 10 micro test i 
+mean have you actually thought about
+
+0:29:32.080,0:29:36.080
+also the cooling rate corrections and what 
+they would do to the result because i mean
+
+0:29:36.640,0:29:43.440
+you're heating from room temperature to 700 and 
+back again um in you said was it 25 minutes and
+
+0:29:43.440,0:29:52.480
+that's that's like a that's a a one degree per 
+second um temperature change without any hold time
+
+0:29:53.120,0:29:57.920
+i mean you know how how much in thermal 
+equilibrium are the samples getting to
+
+0:29:57.920,0:30:03.840
+at high temperatures and what kind of cooling 
+rates then does that have for your experiments
+
+0:30:03.840,0:30:07.840
+because that's going to potentially crank up 
+your intensity volumes quite substantially
+
+0:30:10.880,0:30:14.240
+would wait so would having a 
+longer whole time help us with that
+
+0:30:15.680,0:30:18.320
+essentially i guess you have to 
+think about the size of your sample
+
+0:30:19.360,0:30:24.480
+because once the oven reaches temperature your 
+sample is lagging behind a little bit it needs
+
+0:30:24.480,0:30:30.640
+to reach the thermal equilibrium with with the 
+furnace um but also just the fact that that
+
+0:30:31.280,0:30:36.400
+you know even if you just heat it straight up 
+and then cool back down again the the the rate
+
+0:30:36.400,0:30:44.320
+of temperature change the cooling rate is pretty 
+huge um and that would um that would mean that the
+
+0:30:45.040,0:30:51.360
+um cooling rate process the the the um acquisition 
+of trm the lab is going to be very different
+
+0:30:51.360,0:30:56.640
+to that acquired in nature that'll have a 
+big impact on your paleo intensity results
+
+0:30:58.560,0:31:06.960
+okay yeah that's something to think about yeah no 
+definitely something to think about uh i mean yeah
+
+0:31:08.240,0:31:13.280
+with regards to just to clarify more on the 
+experiment uh heating rates and cooling rates uh
+
+0:31:14.480,0:31:25.920
+it heats up in about i would say uh 15 minutes 
+or so and then we have a whole time of about
+
+0:31:25.920,0:31:31.440
+five minutes at temperature and we have a 
+thermocouple right next to the samples as well to
+
+0:31:31.440,0:31:35.840
+check that the sample temperature within the 
+controlled atmosphere tube is actually the
+
+0:31:35.840,0:31:40.880
+temperature of what the oven is reading because 
+they're normally fairly different um so we go by
+
+0:31:40.880,0:31:48.320
+the sample temperature within the atmosphere tube 
+and we cool down in about five minutes i'd say
+
+0:31:51.440,0:31:55.760
+so yeah i'll i'll think about that 
+thanks greg yeah it's a good point
+
+0:31:55.760,0:31:58.640
+that cooling rate the comparison 
+between experiments and
+
+0:31:59.200,0:32:08.640
+nature it's really good question uh to investigate 
+so we have nick with your hand is right yeah
+
+0:32:10.160,0:32:16.080
+sure thanks thanks for the talk jay we've been 
+watching your talk as a as a family over breakfast
+
+0:32:16.080,0:32:23.600
+here in california and my nine-year-old maddie 
+has a has a question for you oh really um it's
+
+0:32:23.600,0:32:29.680
+really cool that you handle the moon rocks but do 
+you always have to use gloves or are you sometimes
+
+0:32:29.680,0:32:34.720
+allowed to use your bare hands we have to use 
+gloves i have to be very responsible when i'm
+
+0:32:35.360,0:32:39.600
+working with this as much as there is temptation 
+to actually touch the moon rock myself
+
+0:32:40.320,0:32:47.120
+i do refrain i wish i could be so lucky and 
+why do you have to wear gloves just to prevent
+
+0:32:47.120,0:32:54.160
+contamination if they with regards to us i mean 
+i'm not i'm not very magnetic as i am so i'm not
+
+0:32:54.160,0:32:59.520
+going to magnetize the rocks with my fingers 
+uh but if anyone ever wanted to do any studies
+
+0:33:00.240,0:33:06.320
+uh on the samples after me i'm sure they 
+don't want my sweaty fingers all over them
+
+0:33:08.000,0:33:11.200
+okay thank you thank you very much
+
+0:33:11.200,0:33:17.920
+thank you we always welcome questions from early 
+career scientists you're the youngest welcome
+
+0:33:19.760,0:33:26.800
+thank you and we have a question from yes 
+andrei do you want to ask your question yeah
+
+0:33:28.960,0:33:40.000
+can you hear me okay jay the ques the question the 
+question is and it's more it's more like a concern
+
+0:33:40.000,0:33:49.440
+and i'm wondering why did you uh select uh brexit 
+uh regulate and pressure and because it's known
+
+0:33:49.440,0:33:56.800
+from the terrestrial impacts that fracture are 
+generally not very good recorder of pelleting of
+
+0:33:58.720,0:34:05.840
+of geomagnetic field and how can you how 
+can you be sure that it acquires theory
+
+0:34:07.520,0:34:14.400
+but in particular that you you you absolutely 
+don't have field controls whether it's
+
+0:34:16.720,0:34:24.880
+where with respect to the cracker even you don't 
+have a control which which impact event created
+
+0:34:24.880,0:34:32.640
+that that particular breakthrough isn't it so 
+well it's it is my understanding that they were
+
+0:34:32.640,0:34:39.200
+heated up during the impact itself given that the 
+radiometric clocks are reset during that impacting
+
+0:34:40.320,0:34:46.640
+uh so they do they i think they do get heated 
+up and then cooling down to acquire an etrm
+
+0:34:47.840,0:34:53.440
+yeah okay so you didn't mention that with 
+regards to mineralogy they're excellent for
+
+0:34:54.720,0:35:00.960
+paleomagnetic analysis and they and they have been 
+behaving very well with our controlled atmosphere
+
+0:35:00.960,0:35:11.440
+system which is just yeah for us yeah and uh and 
+in continuation of this did you also try bezels
+
+0:35:12.480,0:35:20.560
+so i i don't think i have tried a puzzle i might 
+have um but yeah the issues that we've found with
+
+0:35:20.560,0:35:27.360
+basalts in the past are that because they have 
+trolite in them the trollite often will reduce
+
+0:35:27.360,0:35:33.120
+to iron metal and then release that sulfur so 
+until we can control sulfur fugacity we can't
+
+0:35:33.120,0:35:39.280
+prevent the alteration of that line so we see 
+this big spike in magnetization once we once was
+
+0:35:41.920,0:35:45.040
+so until we can do that and 
+also the basalts are from
+
+0:35:45.040,0:35:48.640
+a pretty discreet time period on that 
+lunar record so it'd be great to look
+
+0:35:48.640,0:35:52.240
+at as many pesos as we can but we 
+can't look at the whole time scale
+
+0:35:54.160,0:36:01.040
+yeah that's that's understandable thank you very 
+much yeah great talk thanks andre yeah great work
+
+0:36:03.120,0:36:06.880
+thank you thank you are there any other questions
+
+0:36:08.640,0:36:16.000
+space people no we have another race oh no i 
+think that's well win you have another question
+
+0:36:16.000,0:36:21.760
+oh you wrote some sorry exact but i was just 
+curious as to whether jay uh if you've got any uh
+
+0:36:22.640,0:36:28.880
+grain size estimates of the magnetic carriers 
+not yet okay that would be interesting to do
+
+0:36:29.680,0:36:34.720
+uh obviously to look at the um reliable of 
+the remnants but also for the cooling rate
+
+0:36:34.720,0:36:39.440
+uh corrections that greg mentioned i think we 
+could get a better estimate if we if we knew
+
+0:36:39.440,0:36:45.200
+the distribution of particle sizes you had okay 
+that's a good point yeah i'm going to make that
+
+0:36:45.200,0:36:49.840
+priority honestly actually because there's a 
+lot of yeah magnetic mineralogy rock magnetism
+
+0:36:51.280,0:36:55.920
+experiments we need to do all my samples and we 
+just don't have a lot of the instruments in our
+
+0:36:55.920,0:37:03.600
+lab so it's not the first uh protocol typically 
+so we're gonna gonna get to the magnetic analogy
+
+0:37:04.640,0:37:08.400
+as soon as i can yeah great 
+all right thanks jay thanks
+
+0:37:11.920,0:37:15.680
+well thank you thank you jay i 
+think we don't have other questions
+
+0:37:16.960,0:37:26.960
+do we okay not for now then uh thanks again 
+jay for giving this very nice talk and
+
+0:37:27.600,0:37:31.600
+i think we can we can conclude 
+here the recorded part
+
+0:37:35.680,0:37:36.180
+cheers
+
+0:37:39.120,0:37:43.040
+depending on the region you 
+are are we still recording greg
+
+0:37:44.560,0:37:48.960
+uh sorry do you want to throw up the last 
+slides just to let people know what's coming um
+
+0:37:49.600,0:37:57.200
+oh yeah sure sure ex magnets yay could you please 
+uh uh stop sharing or okay i can kick you out
+
+0:38:00.160,0:38:09.440
+right okay so um the next seminar is the 14th of 
+april we are gonna have andrea bidderman we are
+
+0:38:09.440,0:38:16.320
+gonna circulate more informations about this 
+um then we are gonna have a break for the egu
+
+0:38:16.320,0:38:21.680
+that's gonna last two weeks so you're gonna be 
+all very busy and you feel up there it's gonna be
+
+0:38:21.680,0:38:30.800
+a nice break i think and after egu we are gonna 
+from may we're gonna start uh um having one eu
+
+0:38:30.800,0:38:37.600
+europe us time and one eastern hemisphere and 
+time slots so we're going to have speakers from
+
+0:38:37.600,0:38:45.360
+australia la trobe university where a few lined 
+up but the problem is still to to to organize and
+
+0:38:46.960,0:38:52.720
+we always welcome more speakers especially 
+we encourage early career scientists and
+
+0:38:53.840,0:38:59.040
+and if you have any suggestions or feedback 
+or anything you please feel free to contact
+
+0:38:59.040,0:39:07.520
+me or greg by email or via our 
+social media so thank you very much

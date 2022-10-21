@@ -1,0 +1,1420 @@
+0:00:00.400,0:00:04.320
+so hi everyone thank you very 
+much um for joining us today for
+
+0:00:04.320,0:00:10.800
+uh this week's magnet seminar um we've got another 
+great turnout um 46 people at the moment and that
+
+0:00:10.800,0:00:15.760
+will probably grow over the next few minutes um 
+for those who are sort of unfamiliar with the
+
+0:00:15.760,0:00:21.600
+seminars and we'll have a 20 to 25 to 30 minute 
+presentation so we kindly ask that you keep your
+
+0:00:22.400,0:00:28.400
+microphones uh muted during this time but after 
+the the presentation there'll be a chance for
+
+0:00:28.400,0:00:34.080
+a 10 to 15 minute uh question and discussion 
+session um so please i just raise your hand with
+
+0:00:34.080,0:00:39.120
+the zoom feature there or if you're not quite 
+sure you can always just unmute and shout out
+
+0:00:39.120,0:00:43.440
+um but if you do want to ask a question 
+but you don't want to appear on camera or
+
+0:00:43.440,0:00:50.880
+um unmute yourself um please just type in your 
+question in the text chat and uh one of us will
+
+0:00:50.880,0:00:57.680
+read it out for you um as always we've got life 
+going on around us many of us are at home so
+
+0:00:57.680,0:01:03.200
+you do need to get up and go um please just 
+just go it's not an issue at all um and at
+
+0:01:03.200,0:01:08.320
+the end of the seminar we'll have a chance for 
+a bit of a catch up uh a bit of a chit chat and
+
+0:01:08.320,0:01:13.920
+socializing uh which won't actually be recorded 
+so it's a bit more of a relaxed um free-for-all
+
+0:01:15.600,0:01:19.520
+so today i'm very pleased to say that 
+we have uh andrea byderman um from the
+
+0:01:19.520,0:01:25.040
+university of bern and she will be talking 
+to us today about uh magnetic eye extra prey
+
+0:01:27.200,0:01:31.520
+characterization so i shall hand over to you
+
+0:01:34.880,0:01:37.600
+okay thanks a lot i'm very
+
+0:01:38.480,0:01:46.640
+excited to to talk about this very exotic topic 
+to you today so i'm just sharing my screen
+
+0:01:49.600,0:01:56.320
+all right so what i want to talk about is 
+how we might apply magnetic anise entropy to
+
+0:01:56.320,0:02:06.320
+characterizing pore space and the idea behind 
+this is that while we all know that we can
+
+0:02:06.320,0:02:13.120
+characterize mineral alignment in rocks 
+using magnetic and isotropy and there are
+
+0:02:13.120,0:02:21.840
+many empirical relationships telling us that the 
+magnetic anisotropy indicates fabric orientation
+
+0:02:22.640,0:02:29.840
+and also that magnetic anisotropy can then tell 
+us something about the degree of the anisotropy
+
+0:02:32.240,0:02:36.640
+a big advantage of the method is that it only 
+takes us a couple of minutes to do a measurement
+
+0:02:37.280,0:02:44.000
+and with these couple of minutes we are getting 
+an average second order tensor and that allows
+
+0:02:44.000,0:02:52.640
+us to then describe the fabric in 3d and it does 
+not matter in which direction we are drilling our
+
+0:02:52.640,0:02:58.640
+core or how we are orienting a sample because we 
+are going to get that full 3d description anyway
+
+0:03:00.480,0:03:11.200
+now let's quickly think about whether or how we 
+could apply this to characterizing poor fabrics
+
+0:03:12.000,0:03:17.440
+so poor fabrics they are really important 
+in any study where we are looking at
+
+0:03:17.440,0:03:24.080
+fluid migration or when we want to characterize 
+reservoirs because any anisotropy in the core
+
+0:03:24.080,0:03:31.440
+space might actually affect the fluid flow that 
+we have in the subsurface so when we do have
+
+0:03:31.440,0:03:38.560
+an iso an anisotropic pore space then we would 
+expect that there is a preferred flow direction
+
+0:03:38.560,0:03:45.680
+in which flow is faster and if we are for example 
+looking at contamination also contamination would
+
+0:03:45.680,0:03:54.720
+spread faster along that direction of preferred 
+flow and because of that we would like to be able
+
+0:03:54.720,0:04:03.040
+to describe the pore space and the pore fabric 
+and with many of the traditional methods we are
+
+0:04:03.040,0:04:09.360
+going to run into problems because we can either 
+look at very small samples at very high resolution
+
+0:04:10.160,0:04:19.200
+or we could look at larger samples at quite low 
+resolution and of course what we would like is to
+
+0:04:19.200,0:04:24.800
+look at a large sample that is representative at 
+high resolution and with many methods that is not
+
+0:04:24.800,0:04:33.120
+possible to do both at once and then also if we 
+are looking methods that are for example based on
+
+0:04:33.120,0:04:38.880
+x-ray tomography they are very time-consuming 
+and they require a lot of storage space
+
+0:04:40.560,0:04:47.680
+also we would want a full 3d description of 
+our core fabric and we would like to get that
+
+0:04:48.320,0:04:51.280
+independent of the orientation of our sample
+
+0:04:52.080,0:05:00.000
+now why is that important it is important because 
+if we are for example measuring permeability so
+
+0:05:00.000,0:05:07.200
+we are measuring fluid flow directly on a sample 
+we can normally only measure that along the long
+
+0:05:07.200,0:05:14.720
+axis of the core so depending on how we drilled 
+that core we would then get a different value and
+
+0:05:15.280,0:05:23.040
+often people would then drill free perpendicular 
+cores but of course if those do not contain
+
+0:05:23.040,0:05:29.920
+the principal directions we would then 
+underestimate the anisotropy and then also
+
+0:05:30.480,0:05:35.840
+a last point we have to think about when we are 
+interested in poor fabrics is that some of the
+
+0:05:35.840,0:05:42.720
+pores are connected so they do contribute 
+to fluid flow and other pores are isolated
+
+0:05:42.720,0:05:49.360
+and they do not contribute to fluid flow so we 
+would rather only describe the connected force
+
+0:05:51.120,0:05:57.360
+and one method with which we might be able 
+to do that is the method of magnetic poor
+
+0:05:57.360,0:06:06.800
+fabrics what has been found in the past is quite 
+promising empirical relationships between magnetic
+
+0:06:07.360,0:06:15.760
+data and pore space or also fluid flow properties 
+so namely what people have found is that
+
+0:06:15.760,0:06:22.480
+the maximum susceptibility that we measure is 
+parallel to the elongation direction of the pores
+
+0:06:23.040,0:06:28.080
+and also parallel to the flow direction 
+so the preferred flow direction
+
+0:06:28.880,0:06:36.240
+meaning that if we measure magnetic part fabrics 
+we could then predict preferred flow directions
+
+0:06:37.200,0:06:43.840
+and a second set of empirical relationships 
+that has been found is that a larger degree
+
+0:06:43.840,0:06:47.840
+of an isotropy so a larger ratio of 
+maximum to minimum susceptibility
+
+0:06:48.640,0:06:55.440
+would indicate more an isentropic pore space 
+and also a higher permeability anisotropy
+
+0:06:56.480,0:07:02.480
+and then it has been stated that with this 
+method we can isolate the connected force so
+
+0:07:02.480,0:07:08.160
+we are only looking at the fraction of the 
+pore space that is controlling fluid flow
+
+0:07:09.040,0:07:16.000
+it takes only a couple of minutes to measure 
+the anisotropy it is the same average second
+
+0:07:16.000,0:07:22.720
+order tensor that we would measure with standard 
+ams measurements so we are getting our full 3d
+
+0:07:22.720,0:07:32.400
+information again without needing any a priori 
+information on how we have to orient our samples
+
+0:07:33.920,0:07:42.480
+and we can look at a representative sample volume 
+and supposedly include pores down to 10 nanometers
+
+0:07:43.520,0:07:49.600
+and being able to do that looking at small 
+pores in a representative volume would kind of
+
+0:07:49.600,0:07:56.480
+add this extra information in addition 
+to what one could get with tomography
+
+0:07:57.680,0:08:03.440
+there is just one problem with the method 
+and that's this really large variability
+
+0:08:03.440,0:08:12.160
+that we have seen in the studies that were 
+published so far and when we're looking at this
+
+0:08:13.440,0:08:22.800
+we would see that a p-value so an isotropy degree 
+of for example 1.6 could represent pores with
+
+0:08:22.800,0:08:30.240
+an actual ratio of anything between 2 and 12 and 
+because of that these empirical relationships that
+
+0:08:30.240,0:08:37.120
+we have at the moment are not very useful when 
+we are trying to use the magnetic core fabrics
+
+0:08:37.760,0:08:46.880
+in order to make a statement about the workforce 
+based so the aim of my work and my group's work
+
+0:08:46.880,0:08:53.680
+is that we would really like to be able to 
+explain this large variability because if
+
+0:08:53.680,0:09:01.600
+we can explain it then it would would be possible 
+to interpret magnetic part fabrics quantitatively
+
+0:09:02.800,0:09:11.040
+now let's just take a step back and look 
+again at the anisotropy description of mineral
+
+0:09:11.040,0:09:21.040
+fabrics there we had a very similar problem 
+in the early days of magnetic fabric research
+
+0:09:21.600,0:09:28.160
+because yes there are empirical relationships 
+between magnetic and isotropic strain or magnetic
+
+0:09:28.160,0:09:36.480
+anisotropy and mineral alignment but it was found 
+that these relationships they vary by rock type
+
+0:09:37.280,0:09:42.160
+meaning that many different 
+empirical relationships were found
+
+0:09:43.120,0:09:52.800
+depending on the lythology or also depending on 
+on the on the exact methodology that that was used
+
+0:09:53.760,0:10:01.440
+and that's kind of what we see here right again 
+with this really large variation also it was found
+
+0:10:01.440,0:10:09.840
+that our maximum and minimum susceptibility 
+they are not necessarily parallel to delineation
+
+0:10:09.840,0:10:17.600
+or parallel to the pole to foliation and at that 
+point people could have given up and said well
+
+0:10:17.600,0:10:25.120
+we are not using magnetic anisotropy anymore 
+to describe mineral alignment but that's not
+
+0:10:25.120,0:10:34.720
+what happened rather what happened is new methods 
+were developed to look at either um all the grains
+
+0:10:34.720,0:10:41.840
+in our rock which is what we're doing with the 
+low field methods or to isolate specific grains
+
+0:10:42.880,0:10:50.480
+from our rock and then only uh described the 
+fabric of those and at the same time people have
+
+0:10:50.480,0:11:02.080
+started developing models on the physical origins 
+of the anisotropy and how we can predict uh the
+
+0:11:02.080,0:11:10.400
+dimension the measurements that that we expect so 
+a big question now is is it possible to transfer
+
+0:11:10.400,0:11:18.800
+that to the study of magnetic four fabrics and if 
+yes would it help us with that large variability
+
+0:11:18.800,0:11:25.840
+that was observed and before i want to go 
+into that a quick overview of how we are
+
+0:11:25.840,0:11:32.880
+measuring magnetic wire fabrics so first of all 
+we have a sample it could be a synthetic sample
+
+0:11:32.880,0:11:37.920
+i'm only going to show you results in some 
+that examples today but it could also be
+
+0:11:37.920,0:11:44.240
+a rock sample ideally a rock sample where 
+we know something about the force base for
+
+0:11:44.240,0:11:51.520
+example with a x-ray tomography data then we 
+are impregnating that sample with ferrofluid
+
+0:11:52.560,0:11:59.040
+we can use different types of fluids also 
+different concentrations and then measure the
+
+0:11:59.040,0:12:05.040
+anisotropy of magnetic susceptibility which 
+supposedly gives us an average poor fabric
+
+0:12:06.160,0:12:09.840
+now what we have done is we've done 
+these measurements at various frequencies
+
+0:12:10.640,0:12:18.080
+and we will see towards the end of this talk 
+why it is important that we are measuring at
+
+0:12:18.080,0:12:27.520
+various frequencies so i said that i'm only going 
+to show you today results on synthetic samples and
+
+0:12:28.720,0:12:36.320
+why are we looking at bone synthetic samples 
+well a very big advantage is that we are having
+
+0:12:36.320,0:12:41.280
+pores that are large enough so that 
+we can characterize them independently
+
+0:12:43.760,0:12:47.760
+we can control the shape of 
+the pores because we make them
+
+0:12:48.480,0:12:55.600
+we can also control the assembly of the 
+pores and we can compare any data with
+
+0:12:55.600,0:13:02.320
+previously published results that exist on 
+synthetic samples and i'm going to show you
+
+0:13:02.960,0:13:10.640
+two case studies here first of all i want to look 
+into that sample that we see here on the left
+
+0:13:11.600,0:13:21.440
+and it is from a study that was taken by uh that 
+was done by jones at all in 2006 and they had very
+
+0:13:21.440,0:13:30.000
+carefully defined different types of fabrics 
+that they were then describing with simplified
+
+0:13:30.000,0:13:39.360
+synthetic samples with a small number of cores for 
+for these pores we know that the size and shape
+
+0:13:39.360,0:13:44.240
+of the individual pore what we do not know from 
+that study is the distance between the cores
+
+0:13:45.760,0:13:53.520
+but now let's just take this this sample 
+that is supposed to show us a bedding type
+
+0:13:54.560,0:14:02.720
+fabric in this sample we have a couple of cores 
+aligned next to each other they all have the
+
+0:14:02.720,0:14:11.840
+same problematic shape and let's see what we 
+can do with what we know from the standard
+
+0:14:11.840,0:14:17.600
+interpretation for magnetic fabrics and what's 
+been published on magnetic port fabrics previously
+
+0:14:18.640,0:14:23.840
+to see if we can predict the measurements 
+that were reported in that study
+
+0:14:25.840,0:14:35.280
+so for magnetic core fabrics the theory so far has 
+been that the magnetic measurement would reflect
+
+0:14:35.280,0:14:39.120
+an average poor shape and 
+an average poor orientation
+
+0:14:40.560,0:14:48.720
+and the idea was that this would happen 
+very similar to say having a magnetite grain
+
+0:14:50.000,0:14:55.920
+surrounded by other grains while we can also 
+have a ferrofluid filled pore surrounded by
+
+0:14:55.920,0:15:02.720
+other grains both of those are expected 
+to have some shape on this entropy with
+
+0:15:02.720,0:15:08.480
+the maximum susceptibility then parallel to the 
+long axis of the grain or the long axis of the
+
+0:15:08.480,0:15:15.680
+pore and this is where this empirical relationship 
+is coming from that the maximum susceptibility of
+
+0:15:15.680,0:15:22.480
+the magnetic core fabric supposedly indicates 
+the average poor elongation direction
+
+0:15:24.960,0:15:31.840
+so i was calculating the anisotropy for the 
+average pore shape and average point orientation
+
+0:15:31.840,0:15:39.840
+because all the pores are the same that is 
+equivalent to just modeling a single pore
+
+0:15:40.560,0:15:47.280
+what i'm getting was this here what jones 
+at all measured is what we see there
+
+0:15:47.280,0:15:55.840
+and we see that there is quite a large difference 
+between my very simple model and the measurement
+
+0:15:56.480,0:16:06.080
+so obviously i have to adapt the model in order 
+to do that better and i then thought okay well
+
+0:16:06.080,0:16:14.240
+we don't have just one pore we have several 
+pores so let's include distribution and isotropy
+
+0:16:14.960,0:16:22.080
+because the pores that are next to each other 
+they are going to interact with one another and
+
+0:16:22.080,0:16:29.120
+distribution anisotropy has in the past 
+been modeled for infinite assemblies of
+
+0:16:29.120,0:16:37.440
+equal grains and that's basically what i was 
+doing here and the result i'm getting is depending
+
+0:16:37.440,0:16:45.760
+on the distance between the pores so i'm kind 
+of starting over here when i put my pores as
+
+0:16:45.760,0:16:53.840
+far apart as i can within the dimensions of 
+the sample and then i'm moving over that way
+
+0:16:55.440,0:17:00.720
+when i'm putting my pores closer and closer 
+together of course the limit would be the
+
+0:17:00.720,0:17:07.520
+moment where they are touching one another and 
+what we see is compared to the previous model
+
+0:17:08.480,0:17:16.480
+this is already doing better but we still 
+have a deviation and in order to solve that
+
+0:17:16.480,0:17:24.080
+we said well wouldn't it be possible to just model 
+the actual number of cores that we have in that
+
+0:17:24.080,0:17:34.000
+sample rather than having to create an infinite 
+line of course and that's what we did and we
+
+0:17:35.600,0:17:45.840
+we're then developing a model that is a bit 
+closer to reality so what we see here on the left
+
+0:17:46.720,0:17:54.800
+is the models that people were that were doing 
+before basically modeling shape and distribution
+
+0:17:54.800,0:18:03.040
+anisotropy four assemblies of particles so 
+that could be grains that could be pores
+
+0:18:03.040,0:18:09.840
+that all have the same shape they all have 
+the same orientation and they are arranged
+
+0:18:09.840,0:18:18.960
+either in lines as we see here or they are 
+arranged in planes where we have equal spacing
+
+0:18:20.080,0:18:26.800
+in all directions between neighboring 
+course and we said well in a real rock
+
+0:18:27.840,0:18:37.920
+it's unlikely that we have that so we are 
+trying to make a model that is able to calculate
+
+0:18:37.920,0:18:46.320
+that distribution anisotropy for unequal 
+sizes unequal orientations and unequal shapes
+
+0:18:47.600,0:18:53.280
+and the results of that model were 
+actually quite promising because
+
+0:18:54.560,0:19:02.960
+this is what i'm showing you here so now that the 
+blue dots with the dashed line in between we are
+
+0:19:03.520,0:19:13.920
+getting very close to the actual measurement with 
+a specific spacing between um between the cores so
+
+0:19:15.280,0:19:20.720
+it was really nice to see that result because 
+that tells me that with the current theory when
+
+0:19:20.720,0:19:26.480
+we are including both shape and isotropy 
+and distribution anisotropy we can explain
+
+0:19:26.480,0:19:32.480
+that measurement now it was not so easy 
+when i tried to explain my own data
+
+0:19:33.840,0:19:44.640
+so now going over to the other set of synthetic 
+samples that that we had and again we followed the
+
+0:19:44.640,0:19:51.600
+same procedure so we had our samples we've known 
+dimensions known geometry um we we're filling them
+
+0:19:51.600,0:20:00.080
+with ferrofluid using different types and also 
+different concentrations and then using that
+
+0:20:00.080,0:20:08.000
+model to predict what what we should get 
+so what we see up here for the top group
+
+0:20:08.000,0:20:15.280
+of samples actually these samples they are very 
+simple we have the same actual ratio for the core
+
+0:20:16.160,0:20:25.680
+it is a single core so it's easy to model and the 
+only thing that changes is the size of it and what
+
+0:20:25.680,0:20:32.560
+we did here is we were using the different fluids 
+at different concentrations and we found that
+
+0:20:32.560,0:20:39.440
+the higher the susceptibility of the fluid which 
+depends on the type and the concentration and the
+
+0:20:39.440,0:20:46.880
+larger is the degree of an isotropy that we would 
+expect for that given shape of the core then as
+
+0:20:46.880,0:20:55.360
+we are diluting our ferrofluid we are decreasing 
+the degree of anisotropy that we are expecting
+
+0:20:56.480,0:21:04.720
+and in the lower set of samples which we have 
+here we were then looking at assemblies of course
+
+0:21:04.720,0:21:13.360
+where we were first filling a single one then 
+we were filling um two at the corners a third
+
+0:21:13.360,0:21:21.920
+in the middle we were adding a second line and 
+in the end we had all of the course filled again
+
+0:21:23.040,0:21:29.920
+calculating models for different sizes and 
+different aspect ratios and we are getting
+
+0:21:29.920,0:21:35.680
+slightly different values depending on the 
+core assembly that uh that we are looking at
+
+0:21:37.440,0:21:43.520
+for that second series we were only using the 
+fluid with the highest susceptibility because
+
+0:21:43.520,0:21:48.080
+we thought when we have the the highest 
+degree of nslgb anyway then it's easiest
+
+0:21:48.720,0:21:59.760
+to actually see how it behaves and here are 
+now some of the data for the first set there
+
+0:22:00.640,0:22:07.200
+we were we are looking at the degree of 
+an isotropy um for the different fluids
+
+0:22:07.200,0:22:11.600
+so we have the water-based fluid 
+which has a higher susceptibility
+
+0:22:11.600,0:22:16.240
+on the left and then we have the oil-based 
+fluid with a lower susceptibility on the right
+
+0:22:18.400,0:22:27.600
+and what we see here are well two characteristics 
+one is that the smaller samples that we're showing
+
+0:22:27.600,0:22:34.880
+here with smaller symbols they had a lot of 
+artifacts those artifacts could be the ferrofluid
+
+0:22:34.880,0:22:43.600
+uh interacting with the seal and over time we 
+had air bubbles develop we also had fluid move
+
+0:22:45.680,0:22:53.840
+from under the seal and out of it and we also 
+had particle aggregation over time and then of
+
+0:22:53.840,0:23:01.360
+course when your particles aggregate as we see 
+over here then we are no longer measuring the
+
+0:23:01.360,0:23:07.840
+shape of the entire pore but we are just measuring 
+the shape of that cake of particles at the bottom
+
+0:23:08.960,0:23:15.200
+so that part we can explain what we can't 
+explain is this difference between the model
+
+0:23:15.200,0:23:22.320
+and the measurements our measurements are 
+constantly showing us lower and isotropy
+
+0:23:22.320,0:23:28.720
+um for the water-based fluid than what we expected 
+for the oil-based fluid we are doing pretty okay
+
+0:23:32.560,0:23:38.080
+and very similar results we had for 
+that second set of samples where we
+
+0:23:38.080,0:23:45.120
+were looking at assemblies of course i'm 
+only showing the two linear arrangements
+
+0:23:46.160,0:23:52.560
+but it was very similar for the for the other 
+sample sets two so again what we see here
+
+0:23:53.360,0:24:01.120
+is that for the smallest samples we 
+are having artifacts and then the
+
+0:24:01.120,0:24:07.920
+other thing we see is i'm showing you here the 
+measured anisotropy as a function of frequency
+
+0:24:08.800,0:24:16.560
+what we see is that the measured analyze entropy 
+decreases with increasing measurement frequency
+
+0:24:16.560,0:24:26.160
+and it's also always lower than what we modeled 
+so the pluses on the y-axis those are the models
+
+0:24:27.200,0:24:33.440
+and then the the circles are indicating 
+the measurements on the different samples
+
+0:24:35.200,0:24:40.240
+another big question was how do we 
+explain that right and what we found is
+
+0:24:42.320,0:24:45.520
+that especially that water-based fluid
+
+0:24:45.520,0:24:51.600
+that we have here on the left which shows 
+a very very strong frequency dependence
+
+0:24:52.880,0:25:01.120
+we also found that the frequency dependence 
+is different for each of the ferrofluids and
+
+0:25:04.640,0:25:12.160
+well for the water-based ferrofluids almost 
+always the susceptibility that we're measuring
+
+0:25:12.800,0:25:19.600
+is way lower than the susceptibility that is 
+specified in the fluids technical specifications
+
+0:25:21.040,0:25:27.200
+um we could have a susceptibility and measure 
+susceptibility of around 20 to 30 percent
+
+0:25:27.200,0:25:34.880
+of the specifications of the fluid whereas 
+for the oil-based fluids um we were often
+
+0:25:34.880,0:25:44.160
+getting susceptibilities between 120-130 percent 
+of what was specified but we know that the
+
+0:25:44.160,0:25:51.680
+expected anaxotropy depends on the susceptibility 
+of the fluid so what are we doing with these two
+
+0:25:51.680,0:25:57.520
+pieces of information our fluid at measurement 
+conditions has a different susceptibility from
+
+0:25:57.520,0:26:05.280
+the one we expect and the anisotropy that we 
+expect depends on the fluid susceptibility
+
+0:26:06.560,0:26:15.920
+so going back to our published relationships 
+not all of them were actually specifying the
+
+0:26:15.920,0:26:21.680
+fluids they used or the susceptibility 
+of the fluid but some of them were and
+
+0:26:23.520,0:26:31.120
+i was running a model basically predicting 
+what i would expect for these studies
+
+0:26:31.120,0:26:42.080
+with the specified susceptibilities and we see 
+here the measurements in red and what i predicted
+
+0:26:42.080,0:26:52.000
+was not very similar but when i then corrected for 
+the assumed measurement frequency based on my own
+
+0:26:52.000,0:27:00.080
+data i was then getting a relationship between 
+the magnetic anisotropy and the actual ratio of
+
+0:27:00.080,0:27:08.320
+the poor that was fitting a lot better with the 
+measured data so the integration of that is that
+
+0:27:08.320,0:27:14.880
+the variability in the empirical relationships 
+that has been observed is simply because
+
+0:27:14.880,0:27:21.280
+the data is not comparable people were using 
+different fluids with different susceptibilities
+
+0:27:21.920,0:27:28.160
+and because of that we would actually expect 
+them to get different empirical relationships
+
+0:27:29.520,0:27:37.680
+we have also found that we cannot use the 
+susceptibility that is specified by the
+
+0:27:37.680,0:27:46.560
+fluid supplier for modeling and we would really 
+encourage anyone who is doing magnetic pore fabric
+
+0:27:46.560,0:27:54.800
+work to check your effective fluid susceptibility 
+and specify that in your publications
+
+0:27:56.480,0:28:04.000
+the reason we are asking to do that is that once 
+we know the properties of the fluid at measurement
+
+0:28:04.000,0:28:10.080
+conditions then we are pretty confident that 
+a quantitative interpretation is possible
+
+0:28:11.440,0:28:18.000
+and we can then apply the magnetic 
+core fabric method to the rocks so
+
+0:28:18.000,0:28:26.080
+to sum up the method of magnetic port fabrics 
+has the potential to efficiently characterize
+
+0:28:26.080,0:28:34.560
+rocks for space so far the interpretation 
+was somewhat compromised because we were only
+
+0:28:34.560,0:28:43.760
+having empirical relationships and the differences 
+between different studies were quite large but we
+
+0:28:43.760,0:28:49.840
+now have a model that explains this variability 
+and that tells us that the quantitative
+
+0:28:49.840,0:28:57.840
+interpretation is now possible and we are 
+hoping that the method will be much more applied
+
+0:28:59.440,0:29:07.840
+for fluid flow studies aquifer and reservoir 
+characterization medium so geothermal and co2
+
+0:29:07.840,0:29:13.280
+applications and i'm also taking 
+the opportunity to just advertise
+
+0:29:14.320,0:29:21.680
+other work that's going on in my group and that's 
+going to be presented at each u one of my students
+
+0:29:21.680,0:29:30.000
+is spending a lot of time correlating magnetic 
+core fabric results with other methods and then my
+
+0:29:30.000,0:29:37.360
+other student is working on improving incarnation 
+methods so if you're interested in those you are
+
+0:29:37.360,0:29:43.120
+finding the details of the presentations here 
+and with that i'm very happy to take questions
+
+0:29:47.040,0:29:51.760
+thank you very much andrea so we can all 
+give andrea a virtual round of applause
+
+0:29:51.760,0:29:54.800
+uh via zoom for for a really 
+interesting talk thank you
+
+0:29:57.200,0:30:02.640
+thank you so um i'll open up the 
+the floor uh to questions so you
+
+0:30:02.640,0:30:08.320
+can raise your hand either via zoom 
+or throw a question into into the chat
+
+0:30:15.280,0:30:19.520
+if no one is going to open with a question 
+i certainly have a couple i can throw up
+
+0:30:19.520,0:30:22.960
+but i'll there we go we'll jump 
+in with with uh will mccarthy
+
+0:30:24.880,0:30:31.120
+hey yeah thanks for giving a talk it's really 
+really interesting stuff um i was just curious
+
+0:30:32.080,0:30:37.200
+at the mo at presents in order to do this 
+you basically need to impregnate the sample
+
+0:30:37.200,0:30:44.960
+with feral fluid is there a way that you 
+can do it or consider doing it without a
+
+0:30:44.960,0:30:53.520
+feral fluid at all is there a way that we can 
+look at the pore space without the ferrofluid
+
+0:30:54.160,0:31:02.160
+yeah um well in order to be able to look at 
+shape and isotropy or to to look at distribution
+
+0:31:03.840,0:31:10.480
+we will have to have something magnetic inside 
+the course right there are non-magnetic methods
+
+0:31:11.520,0:31:19.040
+um x-ray tomography is kind of the the standard 
+method that people use however they are having
+
+0:31:19.920,0:31:27.840
+big trouble with resolution so if you're taking a 
+standard sized core they are reaching resolution
+
+0:31:27.840,0:31:36.880
+of 1 to 10 micrometers and often that is kind 
+of losing most of the of the smaller pores
+
+0:31:38.320,0:31:43.040
+yeah the reason i ask i mean i kind of knew 
+the answer i suppose but i was just hoping
+
+0:31:43.040,0:31:49.200
+you had some magical solution um obviously 
+if you're interested in looking at something
+
+0:31:49.200,0:31:53.440
+on the scale of a reservoir be it you 
+know carbon capture or be as you know
+
+0:31:54.240,0:32:00.160
+hydro system or whatever um you're dealing 
+with quite a large area so so obviously the
+
+0:32:00.160,0:32:04.960
+character is that it would be great to be able to 
+analyze you know many samples very rapidly which
+
+0:32:04.960,0:32:11.840
+ams is good at um so yeah i was just curious 
+to see if if there was a way of leapfrogging
+
+0:32:11.840,0:32:17.200
+or potentially in the future will be plugged 
+in their feral fluid bit that's fine thanks
+
+0:32:19.920,0:32:30.320
+i mean one one idea that that we are may have is 
+um to use other magnetic molecules such as single
+
+0:32:30.320,0:32:35.920
+molecule magnets because they might be smaller 
+than the particles and the ferrofluid and they
+
+0:32:35.920,0:32:41.840
+may be high behave a bit better than the 
+ferrofluid all the frequency dependence issues
+
+0:32:42.720,0:32:47.200
+but other than that i i don't have the magical 
+solution because otherwise i would have presented
+
+0:32:47.200,0:32:55.600
+that absolutely yeah sure thanks thanks very much 
+will uh so gunther is throwing a question into the
+
+0:32:55.600,0:33:03.360
+the chat asking about interactions between uh the 
+particles in the ferrofluid and if there are any
+
+0:33:03.360,0:33:06.160
+how that might actually influence 
+your susceptibility measurements
+
+0:33:08.160,0:33:14.000
+yeah that's a very good question um it's something 
+that we've been trying to look into and we didn't
+
+0:33:14.000,0:33:22.640
+really get anywhere um normally what people do 
+in magnetic core fabric studies is that they are
+
+0:33:22.640,0:33:32.800
+treating the ferrofluid as a homogeneous fluid 
+so they are kind of ignoring the fact that we
+
+0:33:32.800,0:33:42.800
+have particles and non-magnetic carrier fluid now 
+what we realized is that over time and that means
+
+0:33:42.800,0:33:51.440
+as our ferrofluid ages and that could be times of 
+days or weeks the particles start aggregating and
+
+0:33:51.440,0:33:58.640
+that also changes their magnetic properties 
+um those are data that we have collected and
+
+0:33:58.640,0:34:03.040
+we have not really made a consistent story of 
+those yet that's why i'm not showing any of them
+
+0:34:04.480,0:34:11.440
+but certainly there are interactions between 
+the magnetic particles inside the fluid
+
+0:34:12.080,0:34:19.840
+and they are changing the magnetic properties 
+over time and we will see where that's taking us
+
+0:34:21.840,0:34:26.240
+thank you very much um so we have 
+another another question in the chat from
+
+0:34:26.240,0:34:32.880
+uh leonid and who is asking about the uh matrix 
+material in the synthetic samples if you'd
+
+0:34:32.880,0:34:37.920
+um maybe describe a little bit of 
+what the actual matrix material is
+
+0:34:39.920,0:34:46.320
+right um i guess that that question is 
+what's getting me really into trouble
+
+0:34:46.320,0:34:53.360
+with the geochemists because the the reason 
+i'm using synthetic samples is i'm trying to
+
+0:34:54.320,0:34:59.760
+or the only part i'm interested in 
+is getting a core of a known shape
+
+0:35:00.800,0:35:08.880
+we were using a polycarbonate plastic for 
+that and i'm totally aware that some people
+
+0:35:08.880,0:35:13.600
+are going to tell me that it has a different 
+wetability compared to your standard rock
+
+0:35:14.400,0:35:23.120
+so the the material we were using was was plastic 
+because it's making it simple for us we can see
+
+0:35:23.120,0:35:29.840
+what's going on so for example um when we had 
+particle aggregation we could see that right away
+
+0:35:31.440,0:35:37.200
+it's not your best equivalent for a 
+rock from the chemical perspective
+
+0:35:41.440,0:35:45.200
+thank you very much and so uh andre 
+has his hand up for a question
+
+0:35:48.160,0:35:54.320
+okay andre great talk thank 
+you and i have a little bit of
+
+0:35:55.200,0:36:02.080
+concern with the choice of the choice 
+of materials for modeling because
+
+0:36:04.800,0:36:13.680
+the organics in particular and water are 
+diamagnetic and if you apply different frequency
+
+0:36:14.480,0:36:21.520
+different frequencies then your susceptibility 
+diamagnetic susceptibility rises as a function of
+
+0:36:21.520,0:36:28.400
+free linearly as a function of frequency you can 
+easily find it out when you try to measure your
+
+0:36:29.280,0:36:39.840
+sample holder with mf mfk to uh at two 
+frequencies and how how do you account for this
+
+0:36:41.840,0:36:48.160
+so if i got that right you're asking for 
+the changes in susceptibility of the of
+
+0:36:48.160,0:36:54.080
+the plastic part of the sample of the pla yes 
+yes um i was measuring that separately and i
+
+0:36:54.080,0:37:03.200
+was subtracting it from my instrument yeah 
+and uh how how big was that was this effect
+
+0:37:03.200,0:37:15.520
+actually how big was sorry how how big was 
+the effect of uh changing the frequency on the
+
+0:37:15.520,0:37:23.680
+on the empty sample on the empty sample um it was 
+a lot weaker than what i see for the feral fluid
+
+0:37:24.240,0:37:28.800
+if you're interested in the actual numbers 
+i can send them to you okay okay thank you
+
+0:37:30.720,0:37:34.640
+thanks very much and so um vladimir has his 
+hand up and we've got another question in
+
+0:37:34.640,0:37:40.240
+the chat as well so we'll start with 
+vladimir okay uh thanks hopefully i'm
+
+0:37:41.360,0:37:48.960
+audible um i have a question uh great talk andra 
+it's very interesting what we are trying to do
+
+0:37:48.960,0:37:54.320
+um i have a question when when you were 
+trying to model the the anisotropy the
+
+0:37:54.320,0:38:02.240
+distribution of isotope actually with uh 
+you knew um two the fin errors or how it's
+
+0:38:02.880,0:38:10.640
+pronounced you you actually mentioned that 
+uh your results shuffle within within the
+
+0:38:11.360,0:38:18.080
+within the space of the results what was the 
+variable you were changing in the model as you
+
+0:38:18.080,0:38:25.920
+were trying to represent the actual distribution 
+of the porous pores in your sample so what was the
+
+0:38:25.920,0:38:31.840
+variable you were changing to move the 
+move the result in in the space thanks
+
+0:38:33.200,0:38:40.000
+right so so what you're asking about is is kind 
+of this graph right what's changing um on the line
+
+0:38:40.720,0:38:44.960
+exactly in the model you were uh using with the
+
+0:38:49.120,0:38:53.440
+so um i mean what did we do to get this
+
+0:38:55.760,0:39:02.640
+we no we know the susceptibility the average 
+susceptibility of the fluid inside the course
+
+0:39:03.600,0:39:12.400
+we know the the size or the dimension of the 
+course the only part we do not know is the
+
+0:39:12.400,0:39:20.000
+spacing between them right because 
+in in that paper they had given the
+
+0:39:21.520,0:39:27.120
+the size of their entire sample and they 
+had given the size of the pore but not the
+
+0:39:27.120,0:39:32.480
+spacing so we have some constraints because 
+the way this we can put the course apart
+
+0:39:33.120,0:39:40.160
+is having the outer pores touch the sample surface 
+and the closest we can have them together is have
+
+0:39:40.160,0:39:48.000
+them touch each other and basically when we 
+are moving between these points from here
+
+0:39:48.640,0:39:56.880
+and over to there the only part that i'm changing 
+is the spacing between the pores um here i'm doing
+
+0:39:56.880,0:40:06.800
+that for the finite number of four or five ports 
+that i have in the sample while on this line there
+
+0:40:08.080,0:40:15.120
+i was doing the exact same thing um but using 
+an infinite line of course right because i was
+
+0:40:15.120,0:40:22.320
+first using the the model that was available yeah 
+thank you very much i didn't catch that it was you
+
+0:40:22.320,0:40:27.760
+didn't know the the spacing of the pores that 
+it was the information missing so now it makes
+
+0:40:29.200,0:40:34.640
+great sense that you are able to find the 
+good result thanks thanks thank you very much
+
+0:40:35.280,0:40:38.720
+okay thanks for giving me the 
+opportunity to clarify that
+
+0:40:39.520,0:40:45.120
+thanks very much we have one time for one last 
+quick question from the chat from gunther uh
+
+0:40:45.120,0:40:52.160
+who was asking uh he saw the ajucos kappa bridge 
+he was asking if you used any other instruments
+
+0:40:52.160,0:40:57.200
+that would use running frequencies that are 
+not part of the electrical measurement routine
+
+0:41:01.360,0:41:10.640
+yes i did so what i was using here is kind of 
+the the red data that you see here is the actual
+
+0:41:10.640,0:41:20.480
+copper bridge results um measured at 1 4 and 
+16 kilohertz and then i was also using the sm
+
+0:41:20.480,0:41:31.120
+150 instrument that is um it's made by said age 
+instruments so it's another czech company they are
+
+0:41:32.480,0:41:40.960
+nominally reaching frequencies 
+between 60 hertz and 512 kilohertz um
+
+0:41:43.760,0:41:49.920
+i only did some initial measurements with that 
+instrument because what you see down here on
+
+0:41:49.920,0:41:57.360
+the second plot that's normalized by the by the 
+ferrofluid volume is that for all sample except
+
+0:41:57.360,0:42:05.120
+the largest one i have such a big nice level that 
+it's very hard to see any frequency dependence
+
+0:42:09.440,0:42:15.840
+thank you thank you very much um 
+so i think we'll we'll draw the uh
+
+0:42:16.400,0:42:23.360
+question uh session uh to a close for uh for today 
+uh so i just want to ask everybody to give andrea
+
+0:42:23.360,0:42:29.840
+another uh round of applause for uh a really uh 
+great and well presented talk thank you very much
+
+0:42:31.680,0:42:33.760
+well thank you it was a pleasure to
+
+0:42:35.440,0:42:41.280
+present that topic to you and i really appreciated 
+all the questions and the ideas we've had another
+
+0:42:41.280,0:42:48.240
+another uh great turnout uh today so thanks 
+everybody for that um but before we sort of
+
+0:42:48.240,0:42:56.800
+ends the um session for today it's got a couple of 
+um quick reminders and and announcements to make
+
+0:42:57.440,0:43:05.760
+um so this will be uh the last magnet seminar 
+before we go for a break for uh egu um and we
+
+0:43:05.760,0:43:13.760
+will return on uh may 19th with a speaker to 
+be confirmed um but we'll just have a single
+
+0:43:13.760,0:43:20.800
+uh seminar in the period between egu and the 
+irm conference which is in the uh beginning of
+
+0:43:21.440,0:43:29.920
+uh june um but following the irm conference we 
+will open up our european and eastern hemisphere
+
+0:43:29.920,0:43:36.240
+time slot with andrew roberts from australia 
+national university the exact time slot is to
+
+0:43:36.240,0:43:44.160
+be decided it's most likely going to be 8 a.m or 9 
+a.m uh in british time and we're just working with
+
+0:43:44.160,0:43:50.320
+our speakers in the eastern hemisphere to work out 
+what's going to be the best time for those guys
+
+0:43:50.880,0:43:56.880
+um but as always we're looking for more speakers 
+so if you are interested in presenting your
+
+0:43:57.520,0:44:05.280
+latest research at magnets please i reach out to 
+myself or to anita and just as a another reminder
+
+0:44:06.240,0:44:12.400
+um all of our uh videos and seminars are recorded 
+and will be are available on on youtube and
+
+0:44:12.400,0:44:17.520
+uh this talk will be put up a little bit later 
+this week um and so if you've missed anything
+
+0:44:17.520,0:44:21.520
+or if there's something you want to go back and 
+look at um there's all the seminars are there
+
+0:44:21.520,0:44:27.280
+for you to to use and we have citable uh dois as 
+well so if you do find something interesting that
+
+0:44:27.280,0:44:34.640
+you want to use uh you can uh cite your work 
+and just as a a very quick uh announcement um
+
+0:44:34.640,0:44:40.880
+um for our colleagues in uh the institute 
+of rock magnetism uh later on this year
+
+0:44:40.880,0:44:47.280
+they'll have their 12th irm conference on rock 
+magnetism it's running from june 1st to the 4th
+
+0:44:47.280,0:44:53.520
+2021 and this year it's going to be held 
+like all conferences uh virtually and so
+
+0:44:53.520,0:44:58.960
+there is the option for doing a free registration 
+there's no uh registration fees but there are a
+
+0:44:58.960,0:45:04.080
+limited number of of positions available and 
+if you want to find out some more information
+
+0:45:04.080,0:45:13.760
+uh have a look at their um the irm website or 
+reach out to max brown at the irm at umn.edu
+
+0:45:15.680,0:45:21.040
+so thank you all very much and thank 
+you for joining this week's magnets

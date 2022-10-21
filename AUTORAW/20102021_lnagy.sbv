@@ -1,0 +1,1643 @@
+0:00:00.400,0:00:07.200
+so um thanks everybody for um coming along to 
+uh another magnet and it's been great to see
+
+0:00:07.200,0:00:12.960
+another good turnout of people we will 
+um just a reminder for him who hasn't um
+
+0:00:12.960,0:00:19.280
+come along to one of these seminars um we have 
+presentations that are about uh 30 minutes or so
+
+0:00:19.280,0:00:25.920
+in in length uh we kindly ask that you keep your 
+microphones muted um during the presentation
+
+0:00:25.920,0:00:31.520
+so it's not to interrupt the speaker and if 
+you're struggling with um internet performance
+
+0:00:31.520,0:00:37.520
+or connection um if you turn off uh your video 
+uh that can help to improve the the connection
+
+0:00:38.480,0:00:45.200
+um at the end of the uh the seminar we'll have 
+time for a 10-15 minute um discussion and um
+
+0:00:45.200,0:00:51.040
+we'll invite you to to raise your hands and unmute 
+and to ask your questions but if you don't want to
+
+0:00:51.040,0:00:57.280
+to to ask a question in person by all means just 
+type it into to the chat and either myself or
+
+0:00:57.280,0:01:02.640
+one of the other conveners uh we'll read them out 
+for you and as always life is going on around us
+
+0:01:02.640,0:01:09.520
+in the background so if you have to to get up and 
+go and just uh get up and go and at the end of of
+
+0:01:09.520,0:01:16.560
+the seminars will have time for a bit of a catch 
+up uh but if a social which um is is not recorded
+
+0:01:18.160,0:01:24.800
+and so today um i'm really pleased to to to say 
+that we have uh lesnar from scripps institute of
+
+0:01:24.800,0:01:30.720
+oceanography and he will not be talking about 
+the application of the uh sunakawa shaw method
+
+0:01:30.720,0:01:37.680
+that's uh a copy-paste error from last week 
+um les will be talking about uh micromagnetism
+
+0:01:37.680,0:01:45.440
+and understanding the energy barriers that dictate 
+the stability of paleomagnetic grains so i'll
+
+0:01:45.440,0:01:55.200
+hand over to les he'll be able to give us his his 
+proper title okay um i'll quickly share my screen
+
+0:01:57.760,0:01:59.840
+so i'm assuming that everybody can see this
+
+0:02:04.240,0:02:10.720
+uh yes we can yeah okay fantastic all right 
+yeah so um i just want to thank greg and
+
+0:02:10.720,0:02:18.080
+um all the uh organizers for um asked me to 
+give this um presentation um and i'm just gonna
+
+0:02:18.080,0:02:24.480
+talk a bit about uh micromagnetic modeling 
+of size and thermal stability and really
+
+0:02:25.280,0:02:35.840
+what i want to expand upon is how we can 
+use micromagnetic modeling and computational
+
+0:02:36.560,0:02:42.320
+techniques to really try and get a grip on 
+some of the big questions in paleomagnetism
+
+0:02:48.960,0:02:57.120
+okay so so we know that uh paleomagnetism is one 
+of the few uh if not only uh geophysical methods
+
+0:02:57.120,0:03:06.240
+that really is paleo and uh we find it astonishing 
+that we can uh fight rocks that record events that
+
+0:03:06.240,0:03:13.120
+happened uh billions of years ago uh but the 
+existing uh theory that underpins paleomagnetism
+
+0:03:13.120,0:03:20.160
+is is currently quite old and it does 
+struggle to explain the next generation
+
+0:03:20.160,0:03:26.560
+of paleomagnetic problem and uh so 
+the images that you see here are some
+
+0:03:29.200,0:03:35.680
+images of technique that can be used to 
+directly um image the domain structures
+
+0:03:35.680,0:03:41.280
+that we see in the tiny magnetic grains 
+that we see in our pelletic samples
+
+0:03:41.920,0:03:48.400
+and the image that you see here on the 
+left is just a simple uniform domain but
+
+0:03:48.400,0:03:54.320
+the one on the right here is much more 
+complicated it's non-uniform but it's
+
+0:03:56.800,0:04:05.040
+all summary that we have is blind to how these 
+non-uniform brains behave um so before we examine
+
+0:04:05.040,0:04:10.800
+how we put together a more complete theoretical 
+understanding let's just take a quick overview
+
+0:04:10.800,0:04:19.520
+of some of the big impacts of the paleomagnetic 
+record phenomenon um so what do natural recorders
+
+0:04:19.520,0:04:26.400
+tell us well uh as we know um then natural 
+recorders can tell us about the evolution of
+
+0:04:26.400,0:04:32.000
+our planet's field they give us an indication 
+of yes how the escort formed and uh they give
+
+0:04:32.000,0:04:37.280
+us information about its current behavior and on 
+the surface of the earth we see that the magnetic
+
+0:04:37.280,0:04:43.520
+field isn't just a simple north-south dipole as 
+this map of the earth's field intensity shows
+
+0:04:45.120,0:04:50.960
+where do features such as the south atlantic 
+normally this big blue spot in the image come
+
+0:04:50.960,0:04:56.640
+from is it transient is it primordial we know 
+that changes in the field should be visible in the
+
+0:04:56.640,0:05:02.880
+paleomagnetic record but if we don't understand 
+the recording process how do we know that we're
+
+0:05:02.880,0:05:10.480
+reconstructing the field correctly and beyond 
+earth the paleomagnetism allows us to understand
+
+0:05:11.280,0:05:17.920
+the recording phenomena in solar planetesimals for 
+example we think that the moon once had an active
+
+0:05:17.920,0:05:23.840
+geodynamo but what are lunar samples actually 
+recording are the recording thermal magnetization
+
+0:05:24.480,0:05:31.200
+chemical remnancies or impacts recovering the 
+paleo intensity we know is particularly hard
+
+0:05:32.160,0:05:37.840
+but understanding it is vital to our models
+
+0:05:38.480,0:05:43.280
+but finally the recording phenomena tells 
+us something about how our societies evolved
+
+0:05:43.280,0:05:47.280
+uh archaea magnetism can be 
+used today at historical sites
+
+0:05:47.280,0:05:52.320
+and understand their usage as you can 
+see it's hot burning experiment and
+
+0:05:55.040,0:06:00.960
+even being a recent science paper it's quite 
+controversial it suggested that a paleomagnetic
+
+0:06:00.960,0:06:04.960
+event delachamp excursion was responsible 
+for the extinction of the neanderthals
+
+0:06:04.960,0:06:10.800
+so controversial findings like these rest 
+on our understanding of natural recorders
+
+0:06:10.800,0:06:18.560
+which are the foundation of the paleo magnetic 
+record so in a nutshell we're trying to understand
+
+0:06:18.560,0:06:26.160
+um what the earth's field tells us about planetary 
+processes uh we know that the field is recorded in
+
+0:06:26.160,0:06:33.040
+rocks and so in principle we're just to go away 
+dig up some samples and take measurements right
+
+0:06:33.680,0:06:38.640
+well unfortunately it's not that 
+easy because since forming a rock
+
+0:06:38.640,0:06:44.640
+has undergone all kinds of alteration chemical 
+physical and understanding how the recording
+
+0:06:45.280,0:06:52.640
+have these recorded signals change over time 
+uh allows us to reconstruct the original field
+
+0:06:54.320,0:07:00.720
+uh so i just want to give a brief outline of 
+what we're going to be looking at so first i just
+
+0:07:00.720,0:07:09.120
+want to take a brief um aside and really think 
+about what i mean by signal recording and domain
+
+0:07:09.120,0:07:17.280
+structure and um we'll also take a quick look at 
+realistic main structures using micromagnetics
+
+0:07:18.640,0:07:22.320
+next we'll take a look at an example 
+of what happens to the domain structure
+
+0:07:22.320,0:07:30.240
+of a grain as it grows and shrinks again 
+and finally i'll take a quick examination of
+
+0:07:30.240,0:07:35.040
+uh thermal stability of magnetic 
+recording for more realistic grains
+
+0:07:38.960,0:07:45.280
+so the term signal are recording and domain 
+they kind of closely related to each other
+
+0:07:45.280,0:07:51.120
+to the point where i tend to use them um 
+interchangeably um but what you're looking
+
+0:07:51.120,0:07:59.680
+at here in the picture is a 100 nanometer grain of 
+magnetite with some non-uniform domain structure
+
+0:07:59.680,0:08:05.360
+and a sample is going to consist of thousands 
+of these small grains and the next sum of the
+
+0:08:05.360,0:08:10.320
+magnetic field caused by these grains is what 
+you're going to measure in a magnetometer
+
+0:08:11.120,0:08:18.240
+so in a sense these domain structures um are 
+the signal um now for a grain we can just
+
+0:08:18.240,0:08:22.160
+plot some arrows and visualize what's 
+going on but it's not very clear
+
+0:08:22.960,0:08:28.160
+this picture here that you see is quite busy we 
+can't really see the structures inside the grain
+
+0:08:29.760,0:08:35.760
+so for example the vortex nature of the 
+structure here is quite difficult to discern
+
+0:08:38.000,0:08:44.960
+so to bring out the structure we can color 
+these arrows um by using various quantities
+
+0:08:45.520,0:08:51.280
+so the quality here is something we call helicity 
+and you can think of this as a way of measuring
+
+0:08:51.280,0:08:58.000
+the local twisting of the field so if you imagine 
+pointing your thumb along the vortex core so these
+
+0:08:58.000,0:09:05.600
+will be the sort of the red arrows pointing out 
+and your fingers will be kind of twisting around
+
+0:09:06.640,0:09:12.640
+this represents a right-handed port 
+i also use these iso surfaces here
+
+0:09:13.200,0:09:20.880
+um to reduce the complexity of the structure to 
+its essence um and that's what your um and that's
+
+0:09:20.880,0:09:26.720
+something that allows us really to peer inside 
+the grain and reduce these comp complex structures
+
+0:09:29.440,0:09:36.080
+uh we can also calculate other quantities uh 
+to help us visualize the domain structures uh
+
+0:09:36.080,0:09:42.880
+now one of these is um something we called an 
+anisotropic direction of moments or adm and it's
+
+0:09:42.880,0:09:50.480
+really just telling us uh how far the magnetic 
+moments are from one of the crystal and easy axes
+
+0:09:50.480,0:09:56.800
+uh suffer magnetite uh this colouring scheme is 
+going to be blue for anything along the easy axis
+
+0:09:57.520,0:10:03.360
+which is something pointing along a cubic 
+diagonal and uh for anything that's red
+
+0:10:03.360,0:10:08.080
+that's going to be a vector pointing 
+along the hard axis of a cube edge
+
+0:10:12.480,0:10:17.120
+and we can get most of here with these 
+things we can take slices through the planes
+
+0:10:17.120,0:10:23.200
+through the grains um to get an idea of what's 
+going on in the internal structure so one of
+
+0:10:23.200,0:10:30.800
+the things that we see um are the reason why 
+these vortex cores plot as three red spots when
+
+0:10:30.800,0:10:39.120
+we use the um the adm or the direction of moments 
+what we're really seeing are the magnetic moments
+
+0:10:39.120,0:10:45.440
+kind of rotating through 360 degrees so 
+they're going to sweep out the three easy
+
+0:10:45.440,0:10:52.320
+directions which you see blue so these are the 
+three easy directions and then the three three
+
+0:10:53.280,0:10:57.120
+which correspond to the spots 
+and that's the vortex core
+
+0:10:58.480,0:11:04.960
+um and so we spent some time looking at a 
+single grain um and how it can be visualized
+
+0:11:06.160,0:11:12.720
+is to put rock uh we know it's an assemblage 
+of these grains and we can break that uh grain
+
+0:11:12.720,0:11:18.320
+up into its constituent parts uh then 
+we can calculate the behavior of each
+
+0:11:18.320,0:11:25.600
+grain using micromagnetics and finally we can 
+reconstruct the behavior of realistic samples
+
+0:11:25.600,0:11:29.600
+so that's the that's the kind of the big 
+picture idea of what we're trying to achieve
+
+0:11:32.640,0:11:38.320
+so when we do micromagnetic calculations uh 
+what we find is that there's a real divergence
+
+0:11:38.320,0:11:41.840
+in domain structure from what the 
+existing theories are based on
+
+0:11:42.960,0:11:47.600
+most theories rely on a single 
+domain or uniform field assumption
+
+0:11:48.800,0:11:54.560
+but as grains increase in size and as you can 
+see in these pictures here the domain structures
+
+0:11:55.440,0:12:01.600
+available become much more complex so what 
+you're seeing here is a cube of magnetite
+
+0:12:02.160,0:12:06.080
+and an example of some of the domain 
+structures that are available to it
+
+0:12:06.080,0:12:15.360
+as we increase in size so we go from a classic 
+uniform to a boat shape we call this the flower
+
+0:12:15.360,0:12:23.840
+domain state to something that's a vortex and 
+then to other much more complicated domain states
+
+0:12:26.640,0:12:32.960
+so just a quick recap we want to be able to 
+reconstruct planetary fields in the past and
+
+0:12:32.960,0:12:38.560
+we know that these fields are locked away 
+in paleomagnetic particles in rocks or in
+
+0:12:38.560,0:12:44.800
+the magnetic particles in rocks but recovering the 
+field is difficult and we need a fuller picture of
+
+0:12:47.600,0:12:54.000
+how you can do this using micromagnetics and we 
+can reduce the complexity of our micromagnetic
+
+0:12:54.000,0:13:01.040
+models by calculating some useful quantities 
+like helicity and adm that i've just described
+
+0:13:03.760,0:13:09.520
+so one of the things that we're interested in is 
+how stable domain structures are as a function of
+
+0:13:09.520,0:13:16.000
+the grain size so we could think of this as a kind 
+of an analog to some kind of chemical alterations
+
+0:13:16.640,0:13:20.240
+so why don't we take a look at 
+what happens as a grain grows
+
+0:13:20.240,0:13:27.040
+and the images you see here along the bottom show 
+progression from single domain through to single
+
+0:13:27.040,0:13:34.240
+vortex through to something truly multi-domain and 
+the question really here is how do we get there
+
+0:13:34.240,0:13:41.200
+uh in a recent study we examined this process 
+from a grade from about 200 nanometers up to
+
+0:13:41.200,0:13:48.880
+about three microns and the procedure is to take 
+a starting demand state and then gradually grow
+
+0:13:48.880,0:13:53.200
+the grain geometry calculating the 
+magnetic structures along the way
+
+0:13:54.240,0:13:59.920
+so let's take a journey to see how the domain 
+structure evolves as a function of grain size
+
+0:13:59.920,0:14:07.760
+and hopefully we can fill in this last picture in 
+the sequence with something a bit more realistic
+
+0:14:10.720,0:14:16.960
+so when we begin at 200 nanometers um i've 
+plotted here the illicit the iso surfaces
+
+0:14:16.960,0:14:24.160
+in three directions on the top uh with the 
+direction of moments of this adm quantity
+
+0:14:25.360,0:14:31.360
+taken from two slice planes through the grain 
+at the bottom so one of them is through a
+
+0:14:31.360,0:14:37.680
+grain that's perpendicular to the one one one 
+direction or a cubic diagonal and the other one
+
+0:14:37.680,0:14:44.320
+uh so this is the cubic diagonal one here on 
+the bottom left at bottom right sorry and the
+
+0:14:44.320,0:14:49.360
+uh this is just an into some intermediate play 
+just to give you an idea of what's happening
+
+0:14:53.280,0:14:57.840
+and as we do that um we see that the vortex 
+call becomes a little bit more developed
+
+0:14:58.720,0:15:05.280
+but nothing too exciting is happening we can 
+keep increasing the size further and further
+
+0:15:06.160,0:15:14.160
+and further still we start to see some interesting 
+features forming so notice that there's a kind
+
+0:15:14.160,0:15:22.480
+of ridge forming here along the tube um and it's 
+kind of beginning to resemble something more like
+
+0:15:22.480,0:15:29.520
+a twisted triangle you can really see the kind of 
+more triangular structure in this image on the top
+
+0:15:29.520,0:15:37.280
+right uh you can also see the spots in the slice 
+image begin to elongate and look more like ovals
+
+0:15:37.280,0:15:43.440
+so let's continue but we can see that that 
+ridge begins to develop a little bit more
+
+0:15:44.400,0:15:51.600
+and at this point the exit ends of the 
+twisted triangle begin to form these fins
+
+0:15:51.600,0:15:56.320
+and you can really see the triangular 
+this kind of twisted triangular nature now
+
+0:15:56.880,0:16:04.960
+in the iso surface and if we look at the slices we 
+can see that these blue regions um are beginning
+
+0:16:04.960,0:16:13.120
+to form something so let's continue to increase 
+the size um at this point uh the ends of the ice
+
+0:16:14.560,0:16:18.560
+solar-like structure so they're 
+kind of growing out from the center
+
+0:16:18.560,0:16:24.240
+of the of the vortex and you can really see 
+the beginning of the formation of domains in
+
+0:16:24.240,0:16:29.600
+the slices that's these blue regions here 
+they're becoming very much more developed
+
+0:16:31.040,0:16:38.800
+if we continue to grow the grain uh so now 
+we're up to uh one point um 1.2 microns quite
+
+0:16:38.800,0:16:47.040
+big now um we um we see that these propeller this 
+kind of propeller structure really looks uh very
+
+0:16:47.040,0:16:52.480
+apparent and the domain structures begin to look 
+much more distinct on the on the bottom images
+
+0:16:54.800,0:17:01.840
+um and finally we we see the elements 
+of of these small caps at about 1.5
+
+0:17:02.640,0:17:10.880
+microns microns on the edges here and uh we 
+really begin to see the formation of domain walls
+
+0:17:10.880,0:17:18.080
+in the bottom images and these caps then finally 
+join with the main body so you've got these uh
+
+0:17:18.080,0:17:23.760
+kind of close your domains forming in so you can 
+kind of see these here in the bottom images you've
+
+0:17:23.760,0:17:33.760
+got these nice big distinct domains um forming and 
+finally the maximum size i was able to model we
+
+0:17:33.760,0:17:41.760
+see very distinct uh multi-dimensional structure 
+in the slices the iso surface is now very complex
+
+0:17:41.760,0:17:47.600
+but the spaces correspond to the domains that 
+we see in the slices so these spaces here
+
+0:17:51.040,0:17:57.520
+so the domains are colored blue and this is what 
+we would expect because blue if you recall from
+
+0:17:57.520,0:18:04.080
+the direction of moments corresponds to a vector 
+in the easy direction and so we would expect um
+
+0:18:04.880,0:18:13.440
+the magnetization in the domain region to be 
+pointing along the easy direction and or long
+
+0:18:13.440,0:18:20.560
+magnetic crystalline easy axes and this is indeed 
+the case and if we take this point and we start to
+
+0:18:20.560,0:18:28.160
+decrease the size so we start to shrink the 
+grain um we find that the domain structure is um
+
+0:18:29.680,0:18:36.160
+it's actually quite stable um and it 
+persists um we'll just keep reducing the size
+
+0:18:37.600,0:18:46.480
+so i'm just slowly cycle through the reduction of 
+the size um we see that at about 1.2 microns there
+
+0:18:46.480,0:18:52.480
+are still fairly distinct and clear domains and 
+if you recall from the slide that corresponds to
+
+0:18:52.480,0:18:58.640
+this as we were growing the domain walls they were 
+much more fuzzier and much uh less well-formed at
+
+0:18:58.640,0:19:06.000
+this size uh maybe i'll go back to that there 
+so you see these they're much more fuzzier
+
+0:19:07.840,0:19:14.560
+and here they're much more distinct so clearly 
+there's um uh there's a there's a size hysteresis
+
+0:19:14.560,0:19:20.720
+there um and reducing the size even further 
+we see that the complicated domain structure
+
+0:19:20.720,0:19:25.680
+begins to disappear the size of the grain it's 
+not big enough to support this domain it's big
+
+0:19:25.680,0:19:33.040
+domain structure anymore so it's beginning to 
+disappear and then we just keep reducing the size
+
+0:19:34.320,0:19:43.280
+until we get back to our back to our nice vortex 
+core and then finally um we're at a slightly
+
+0:19:43.280,0:19:50.160
+smaller size and we see that the vortex structure 
+persists and so what does this mean well this
+
+0:19:50.160,0:19:57.360
+means that there's definitely a scientists exist 
+in the observed structures and we uh we can also
+
+0:19:57.360,0:20:02.400
+see um that there's multi-domain structures 
+these multi-domain structures seem to form
+
+0:20:02.400,0:20:10.080
+as outgrowths from the core towards the air i can 
+also see that the domains themselves uh contain
+
+0:20:10.080,0:20:15.120
+moments pointing along the magneto crystal and 
+easy axes which is this is what we would expect
+
+0:20:15.680,0:20:23.200
+and finally uh we can complete our sequence with 
+a more realistic picture of a multi-domain grain
+
+0:20:26.080,0:20:30.400
+and if we look in a lot more detail 
+um at the largest grain so this was
+
+0:20:32.000,0:20:37.440
+the main structure at the largest size we find 
+that the domain will width estimates and the
+
+0:20:37.440,0:20:44.000
+angles are between adjacent domains they compare 
+really quite well with theoretical calculations
+
+0:20:45.040,0:20:51.440
+so we see that in some circumstances 
+the magnetic single um can remain
+
+0:20:51.440,0:20:57.920
+even though the grain is undergoing 
+quite um quite large changes in size
+
+0:21:00.160,0:21:06.960
+so what about the thermal behavior uh well we can 
+also look at thermal stability using our models
+
+0:21:07.760,0:21:14.240
+and we know that thermally acquired a remnant 
+magnetization of trm is a really important
+
+0:21:14.240,0:21:22.480
+mechanism of signal acquisition and the basic idea 
+is that a magnetic material cools from above the
+
+0:21:24.560,0:21:32.080
+curian field tools the ambient field is recorded 
+in the domain structure but as we know lots of
+
+0:21:32.080,0:21:37.200
+things happen to the grain before we get to 
+measure them so how thermally stable are they
+
+0:21:38.720,0:21:44.560
+oh so let's just take a quick recap of some 
+important ideas when we're considering trms
+
+0:21:45.200,0:21:51.040
+the curie temperature so this is a temperature 
+above which there is no magnetic structure
+
+0:21:51.600,0:21:57.760
+because the moments are just governed by thermal 
+noise and you can see this represented by the top
+
+0:21:57.760,0:22:08.320
+picture here and super paramagnetism uh there is a 
+domain structure but it's ch came all the possible
+
+0:22:08.320,0:22:14.560
+states to record anything for long enough uh 
+the relaxation time is uh the measurement of
+
+0:22:14.560,0:22:21.360
+the amount of time that it takes to jump from 
+one domain structure to another dimension and
+
+0:22:21.360,0:22:27.840
+the blocking temperature is a temperature at 
+which the grain ceases to be super paramagnetic
+
+0:22:27.840,0:22:36.640
+so we usually pick uh some lab length time like a 
+100 seconds or a thousand seconds to define this
+
+0:22:36.640,0:22:45.680
+time length and finally an lem state or a local 
+energy minimum state is the most energetically
+
+0:22:45.680,0:22:53.840
+favorable donate structure so everything that 
+we've been looking at so far have been lem states
+
+0:22:54.720,0:23:02.240
+and in the lab uh we recover a signal by 
+progressive key sample in the presence of
+
+0:23:02.240,0:23:10.240
+a known field uh this is called a partial trm or 
+ptrm and the lab experiment works on the principle
+
+0:23:10.240,0:23:18.240
+of risk of porosity independence and additivity 
+so these are called retalia laws um but these
+
+0:23:18.240,0:23:25.840
+laws are frequently violated in the laboratory we 
+can see this in in the lab the first image here
+
+0:23:25.840,0:23:32.480
+the first graph shows that single domain theory 
+predicts that the trm acquired versus the remnants
+
+0:23:33.120,0:23:39.280
+uh that remains ought to be linear but as these 
+experimental results show this is not the case
+
+0:23:40.080,0:23:46.160
+and in the second image we see that single demand 
+theory again gives us an indication that the
+
+0:23:46.160,0:23:52.320
+blocking temperature should be very distinct and 
+quite sharp but again the experimental results
+
+0:23:52.880,0:23:58.880
+don't behave this way and so the big question 
+is what is the cause of this non-linearity
+
+0:23:58.880,0:24:07.920
+of these so-called ptrm tails um in order to 
+understand the thermal stability we need to know
+
+0:24:07.920,0:24:16.080
+all the possible domain states that a grain can 
+support and the way that we do this is we just
+
+0:24:16.080,0:24:21.200
+generate lots of random initial guesses and then 
+we calculate the alien states that result from
+
+0:24:21.200,0:24:27.680
+those random initial states and the idea is that 
+once we have those lem states we can proceed
+
+0:24:27.680,0:24:34.480
+to calculate the energy barrier between them 
+and so what you're seeing here is an animation
+
+0:24:34.480,0:24:41.440
+of one such energy barrier uh transition between 
+two vortex domain states and this energy barrier
+
+0:24:41.440,0:24:47.120
+can be used to calculate the relaxation time 
+which can then give us a blocking temperature
+
+0:24:48.000,0:24:53.760
+and if you recall this is the temperature 
+at which a magnetic signal is locked in
+
+0:24:56.880,0:25:04.880
+so in a 2017 study we examined thermal stability 
+and magnetite by calculating the energy barriers
+
+0:25:04.880,0:25:14.160
+in uniform grains of these equidimensional grains 
+and i've plotted these in red on the graph here
+
+0:25:14.160,0:25:19.680
+whereas i've added a line based purely on 
+a single domain theory in black so this is
+
+0:25:20.240,0:25:28.800
+a single domain theory it's extended well beyond 
+the region which in which grains can actually
+
+0:25:28.800,0:25:37.040
+support um just purely single domain structures 
+um so first we see that for small magnetic grains
+
+0:25:38.160,0:25:44.480
+um our models actually correspond quite well 
+with single domain theory as the size increases
+
+0:25:46.000,0:25:50.320
+we see the flowering of the domain structure 
+so this bowing out that i showed you before
+
+0:25:50.880,0:25:53.920
+and our results are beginning 
+to diverge they're becoming
+
+0:25:53.920,0:25:58.960
+much more stable with higher blocking 
+temperatures of a much larger grain
+
+0:26:02.320,0:26:06.400
+150 nanometers liquid dimensional 
+grains are surprisingly stable
+
+0:26:06.960,0:26:14.480
+much more than their single domain counterparts 
+would be if we were to extrapolate this uh black
+
+0:26:14.480,0:26:23.040
+line um but the second surprise is the presence 
+of this small unstable region which is also
+
+0:26:23.040,0:26:28.800
+um invisible to the single domain calculations 
+so you don't see this in the single domain model
+
+0:26:30.880,0:26:40.400
+and this unstable uh zone kind of appears in 
+other materials as well so uh this work done by um
+
+0:26:41.040,0:26:48.880
+miguel valdez grijalva uh al they examined the 
+temporal stability of greg i at room temperature
+
+0:26:49.440,0:26:54.800
+this was a function of grain size 
+and um a truncation factor of a cubot
+
+0:26:55.920,0:26:59.440
+the hedren so if you imagine a cubot 
+tehran it's basically two pyramids
+
+0:26:59.440,0:27:05.840
+that's stuck together and the truncation factor 
+is the amount of the corners that you slice off
+
+0:27:06.960,0:27:13.520
+and what we clearly see that there is a distinct 
+region where the relaxation times drop with the
+
+0:27:13.520,0:27:20.720
+blue square and they drop sharply as a function 
+of grain size of the truncated octahedra
+
+0:27:21.600,0:27:28.400
+but we can also note that just for octahedra the 
+unstable region is actually quite spread out it it
+
+0:27:28.400,0:27:35.680
+um it's um you know it doesn't 
+go up above 10 to the three
+
+0:27:35.680,0:27:41.600
+you know very very um unstable uh 
+very unstable geometry uh for greg eye
+
+0:27:43.840,0:27:44.960
+and finally for i
+
+0:27:46.960,0:27:50.960
+know the state region also although in 
+this case it's a little bit more difficult
+
+0:27:51.520,0:27:59.760
+um uh to see the blocking temperature on the graph 
+uh but if we uh examine these uh puliar curves of
+
+0:27:59.760,0:28:07.600
+these polar nomograms uh for the cubes um on the 
+right so for these is for these are for iron cubes
+
+0:28:08.240,0:28:15.840
+um of different sizes um as the functioning 
+relaxation time as a function of temperature
+
+0:28:16.480,0:28:24.720
+um we again see a behavior similar to magnetite so 
+the first curve so here uh 30 nanometers is a is a
+
+0:28:26.480,0:28:29.840
+flower something that's quite stable 
+we can see it's got a nice steep
+
+0:28:30.880,0:28:39.440
+polar curve the next curve is something from 
+the unstable region at 34 nanometers it's much
+
+0:28:39.440,0:28:47.040
+more shallow indicating something that's much 
+less thermally stable and then at 37 nanometers
+
+0:28:47.600,0:28:54.400
+again it's much more thermally stable um so can 
+we possibly speculate that grains like these
+
+0:28:54.400,0:29:00.880
+are responsible for the non-linear behavior 
+of the demagnetizing experiments in the lab
+
+0:29:00.880,0:29:08.320
+well the size ranges that we're talking about are 
+very very small uh you know so here in iron we're
+
+0:29:08.320,0:29:17.120
+looking at 30 to 37 uh previously you know 
+we're looking at something that's about what
+
+0:29:19.280,0:29:27.840
+10 20 nanometers in size not very big but 
+these are for equidimensional grains uh only
+
+0:29:27.840,0:29:34.560
+and we don't really know what's going 
+on uh with uh elongate grains um
+
+0:29:37.280,0:29:44.240
+and beyond that uh if we if we do start to 
+look at what happens uh when uh when our grains
+
+0:29:44.240,0:29:51.760
+uh become more elongate um we can map out all of 
+the possible domain structures and elongations
+
+0:29:52.400,0:29:56.560
+and um as you can imagine this is 
+actually quite a computational challenge
+
+0:29:57.200,0:30:02.960
+just as some of these numbers here show um 
+and even if we don't do anything clever uh
+
+0:30:02.960,0:30:11.120
+with the data that we have uh we still find some 
+really interesting things so what you're seeing
+
+0:30:11.120,0:30:17.280
+here is an animation of some lem state 
+so local energy minimum states of grains
+
+0:30:18.720,0:30:25.360
+as a function of elongation so this is uh quite 
+interesting because it diverges from our singleton
+
+0:30:25.360,0:30:33.520
+expectation uh we kind of imagine that as we 
+elongate the grain um we expect that these vortex
+
+0:30:33.520,0:30:41.760
+structures would lie along the axis along which we 
+um kind of stretch the grain but what we actually
+
+0:30:41.760,0:30:49.840
+see is that for quite a significant um elongation 
+up to until it kind of doubles its length
+
+0:30:50.480,0:30:57.600
+um the vortex collides uh perpendicular to the 
+axis of elongation um and the real question is
+
+0:30:57.600,0:31:06.080
+um what's um what's the what are the consequences 
+of this behavior for the thermal behavior
+
+0:31:09.840,0:31:15.760
+so in summary we've seen that our calculations 
+predict some very different behavior from
+
+0:31:16.320,0:31:23.360
+classical single domain theory and this 
+behavior is possibly the cause of why so
+
+0:31:23.360,0:31:29.600
+many of our measurements fail uh but in order to 
+map out an accurate picture of what's going on
+
+0:31:29.600,0:31:38.000
+really does require an enormous computational 
+effort and this is what i'm planning to do with
+
+0:31:38.640,0:31:47.600
+virgil which is a virtual paleomagnetic laboratory 
+so what we can do is make use of machine learning
+
+0:31:47.600,0:31:54.960
+parallel computing and to make some significant 
+progress to understand the magnetic recorders
+
+0:31:54.960,0:32:02.000
+that store valuable information about the early 
+formation of our planet and our solar system
+
+0:32:04.160,0:32:07.440
+and so i just thank you like 
+thank you very much for listening
+
+0:32:11.760,0:32:14.800
+thanks very much liz i think we 
+can all um uh raise our hands and
+
+0:32:14.800,0:32:19.040
+give liz a virtual round of applause 
+for um a really really interesting
+
+0:32:19.040,0:32:26.640
+uh a really interesting talk um so i will have 
+um plenty time for questions so if anybody has
+
+0:32:26.640,0:32:32.480
+a question please just raise your hand via zoom 
+or turn your camera on and wave frantically
+
+0:32:37.680,0:32:43.680
+and if nobody has a question i do have a ton of 
+questions less as always go for it oh i see that i
+
+0:32:43.680,0:32:49.280
+see witness put his hand up so um we'll we'll get 
+an inside question from from when to start with
+
+0:32:53.680,0:33:00.160
+number one yeah nice talk uh there's so i 
+guess one of the things i'd uh i think um
+
+0:33:01.440,0:33:05.120
+you know we've discussed before and it's 
+probably worth sharing with the community as well
+
+0:33:05.920,0:33:11.840
+is that um you know we've identified this 
+unstable zone you know in essence that's
+
+0:33:11.840,0:33:17.040
+just another sort of super paramagnetic region 
+yeah but the most interesting thing is something
+
+0:33:17.040,0:33:22.160
+you alluded to towards the end of the talk 
+there was this multiplicity of domain steps
+
+0:33:22.800,0:33:27.920
+you know normally we we associate multiplicity 
+of domain states with multi-domain grains
+
+0:33:27.920,0:33:34.960
+low remnants carriers i think what you've found 
+particularly in elongated grains are multiplicity
+
+0:33:34.960,0:33:40.000
+of domain states even for high remnants 
+extremely high remnants high stability grains
+
+0:33:41.520,0:33:52.400
+and um as a possible solution or a reason why we 
+get these non-repeatability of thermal cycling i
+
+0:33:52.400,0:33:58.480
+think it's this multiplicity of domain states as 
+we know multiplication must exist if you're going
+
+0:33:58.480,0:34:07.680
+to have non-repeatable ptrms and thermocycling 
+and they must be relatively high remnants carriers
+
+0:34:08.400,0:34:13.840
+and as you showed towards the end there in these 
+elongated grains a number of surprising things
+
+0:34:14.400,0:34:23.760
+you have uh the vortex cores along the hot axis 
+the hard shape axis which uh another thing that
+
+0:34:23.760,0:34:30.400
+might result in is uh inverse ams for instance 
+where you apply a field normal to the long axis
+
+0:34:30.400,0:34:36.640
+and actually uh the remnants changes on the 
+orthogonal axis for the magnetization changes
+
+0:34:38.320,0:34:49.040
+but the uh the availability of the main states 
+along the hard axis of the shape the hard and easy
+
+0:34:49.040,0:34:54.320
+elongation crystalline on the zotropi axis 
+at different temperatures they become more
+
+0:34:54.320,0:35:00.640
+or less favorable and as well as the easy long 
+axis all those multiplicative domain states and
+
+0:35:00.640,0:35:05.040
+the probability and the ability to switch between 
+one another and thermal cycling i think that is
+
+0:35:06.000,0:35:12.320
+uh the likely um region in which 
+which will answer yield answers for uh
+
+0:35:14.080,0:35:22.480
+ptm tails right yeah uh so um i 
+do have some slides uh if if um
+
+0:35:24.240,0:35:30.880
+so i i didn't include these at the end uh just 
+uh for fear that the torque would drag on um
+
+0:35:30.880,0:35:37.760
+but if um just a quick note on the energy barriers 
+here if we kind of consider energy so this this
+
+0:35:37.760,0:35:44.080
+energy barrier is something typical that we 
+will see in an elongate grain and what's uh
+
+0:35:44.080,0:35:49.280
+really cool about this is that you've 
+got a an asymmetric energy barrier
+
+0:35:50.480,0:35:58.320
+um the right energy barrier uh let's color those 
+in blue left energy barry let's color those in red
+
+0:35:58.320,0:36:04.880
+and the energy barrier um represents the 
+probability of something that's stable metastable
+
+0:36:04.880,0:36:12.160
+but takes some time to jump across and if you look 
+at the thermal behavior here so this is a plot of
+
+0:36:12.160,0:36:21.200
+um um i didn't put uh that's on the axis um 
+so basically you've got relaxation time log
+
+0:36:21.200,0:36:29.920
+of relaxation time on the y-axis and size for this 
+particular geometry here and you can see that the
+
+0:36:29.920,0:36:38.240
+um that the thermal behavior in equidimensional 
+grains is just one nice simple straight line um
+
+0:36:38.960,0:36:45.120
+and nice symmetric energy barriers that's what 
+you expect to see but in elongate grains it's
+
+0:36:45.120,0:36:53.840
+much more complicated and what this does is it 
+opens up the possibility of um like you say um
+
+0:36:54.720,0:37:04.240
+possible uh explanations for things like you 
+know fragile curvature or um um ptrm tails and
+
+0:37:04.240,0:37:12.640
+the reason why is because it everything depends on 
+in a thermal cycling experiment everything depends
+
+0:37:12.640,0:37:17.840
+on the thermal history so what as you as 
+you heat something up cool something down
+
+0:37:18.480,0:37:25.760
+the domain state that your assemblage of grains 
+is going to acquire depends on what the previous
+
+0:37:27.280,0:37:32.800
+uh the distribution of domain states were 
+and in this case you can see that there
+
+0:37:32.800,0:37:38.720
+are definitely inflection points and 
+points where the two possible thermal
+
+0:37:40.240,0:37:45.600
+behavior curves change as a function of of size
+
+0:37:47.840,0:37:55.840
+and you can easily imagine that if you built a 
+statistical model based on something like this
+
+0:37:55.840,0:38:03.360
+you would get a much more complicated um set of 
+thermal behavior from something that's just based
+
+0:38:03.360,0:38:11.520
+on this simple single domains theory so like you 
+say you you see these transitions from um so you
+
+0:38:12.240,0:38:18.640
+see here these transitions from e 
+uh from short axis to the long axis
+
+0:38:19.440,0:38:26.160
+and then you see transitions from uh for 
+higher temperatures you see transitions for
+
+0:38:26.160,0:38:35.120
+um the long axis to the short axis and then you 
+see transitions from short axis to short axis
+
+0:38:36.000,0:38:43.440
+and at certain temperatures and this is this 
+is the taker at certain temperatures certain
+
+0:38:43.440,0:38:50.400
+um domain transitions are more favorable than 
+others and that those probabilities have a
+
+0:38:50.400,0:38:57.600
+very important effect on what your thermal 
+cycling experiments are going to go what results
+
+0:38:57.600,0:39:03.120
+you're going to measure in the laboratory as as 
+you perform these thermal cycling experiments
+
+0:39:06.640,0:39:13.840
+thanks very much les and we have time for 
+some more questions if anyone has them
+
+0:39:22.400,0:39:32.880
+um so when you're looking at um the the um the 
+growing grain size is going up into multi-domain
+
+0:39:32.880,0:39:37.440
+uh particles i mean from a 
+pathogenic perspective as you said we
+
+0:39:38.400,0:39:45.360
+we're physically we are measuring the the stray 
+field of these particles um and i i forget what
+
+0:39:45.360,0:39:50.960
+paper you did and we had a graph showing the 
+increasing moment of the particles with grain size
+
+0:39:52.320,0:39:58.000
+for these very large multi-domain particles 
+what what is their sort of net moment
+
+0:39:58.720,0:40:03.520
+i know i guess many of the the main states 
+are are probably cancelling each other out
+
+0:40:03.520,0:40:11.040
+but um you know because of their large volume 
+any small bias could potentially be quite a large
+
+0:40:11.040,0:40:18.160
+moment um i don't i don't know the answer 
+to that i i did calculate them at some point
+
+0:40:18.160,0:40:26.560
+and um for the large grains they are relatively 
+small the remnants are really small because the
+
+0:40:26.560,0:40:32.880
+grains are very big and the domains aren't aren't 
+cooperating with each other as you would expect in
+
+0:40:32.880,0:40:40.880
+a multi-domain you know in a multi-domain grain 
+and it's going to be relatively small anyway um
+
+0:40:42.880,0:40:49.840
+so yeah i i i i can get you those numbers i i have 
+them somewhere i don't know exactly what they are
+
+0:40:49.840,0:40:55.040
+sorry oh that's fine i'd be curious to see them 
+yeah i can i can dig them out i've got them
+
+0:40:58.320,0:41:05.840
+so we have time for for uh another quick 
+question before we wrap it up for today
+
+0:41:07.120,0:41:10.240
+i don't know if i can make a comment 
+that's just what you just said
+
+0:41:12.240,0:41:18.480
+right by all means when so i mean i think the the 
+issue really with the multidomain grains is that
+
+0:41:18.480,0:41:28.400
+um you know as you form the main walls then the 
+effect of dislocations and impurities become more
+
+0:41:28.400,0:41:34.240
+important and if you're looking for estimates 
+of remnants in these grains that have well
+
+0:41:34.240,0:41:40.560
+established domain walls then and they're likely 
+to be affected by um defect densities and so forth
+
+0:41:40.560,0:41:48.320
+much more so than vortex structures i think uh 
+none of those uh well of course we have um we have
+
+0:41:50.720,0:41:56.080
+a strain energy in immoral but we don't actually 
+have a formal elastic problem in there to look at
+
+0:41:56.080,0:42:03.280
+defects so um those things i think still are 
+in the realm of the sort of analytic models
+
+0:42:04.560,0:42:13.200
+but i mean i wouldn't and also the the model that 
+les uh published in this paper from mike from nano
+
+0:42:13.200,0:42:21.840
+to micro or whatever it was called uh is highly 
+idealized it suggests uh if unless would like
+
+0:42:21.840,0:42:29.200
+disagree with me but it's just to show the type of 
+evolution from a vortex structure to a divine war
+
+0:42:29.200,0:42:36.080
+really rather than trying to be predictive in 
+any realistic sense of friends yeah and and i
+
+0:42:36.080,0:42:44.960
+mean we didn't um we certainly didn't try to do 
+any kind of thermal calculation you know those
+
+0:42:44.960,0:42:55.600
+those um those grains you can imagine um something 
+very slowly growing um but all you're really
+
+0:42:55.600,0:43:01.280
+doing is you're looking at the evil of the 
+possible a possible path of evolution for one
+
+0:43:02.320,0:43:08.240
+for one type of domain structure it's not you know 
+if if you wanted to do anything more complicated
+
+0:43:08.240,0:43:13.440
+then um yes you would have to include magnetic 
+restriction the model doesn't include that
+
+0:43:15.440,0:43:22.000
+i also have to you know look at these random 
+random initial guesses calculate what kinds
+
+0:43:22.000,0:43:28.080
+of possible domestics are available to you 
+probably a lot um the bigger the grains get
+
+0:43:28.720,0:43:39.520
+the more i mean i can just go back to one of those 
+early slides um you see like you know this this
+
+0:43:39.520,0:43:46.320
+thing here this thing um in in a relatively small 
+i i think these these kinds of things they're not
+
+0:43:46.320,0:43:55.520
+multi-domain they're not vortex what are they 
+they're kind of these weird these very weird
+
+0:43:56.160,0:44:04.480
+um domain structures and um they appear 
+in magnetite uh in grains that are around
+
+0:44:05.680,0:44:12.320
+sort of 500 nanometers volt volumetrically 
+so imagine a cube with a with an edge of
+
+0:44:12.320,0:44:22.560
+500 nanometers and about that size you'll get this 
+you just get this weird stuff um and uh the larger
+
+0:44:22.560,0:44:30.000
+sizes there are more um there are different 
+types of domain structure available to you
+
+0:44:33.840,0:44:38.560
+thanks very much les i think we'll have 
+one last question from uh shibuya-san
+
+0:44:39.280,0:44:48.080
+before we wrap up for tonight i thank you a very 
+interesting talk and i'm just curious that the
+
+0:44:48.080,0:44:58.080
+kind of hexagonal hexagonal uh domain structure 
+the actual uh magnetic direction uh through the
+
+0:44:58.880,0:45:08.080
+that kind of hexagon yeah up upward downward 
+about downward bound yeah yeah correct that's
+
+0:45:08.080,0:45:12.880
+it well it's it's it's kind of uh which which 
+one are you talking about are you talking about
+
+0:45:14.400,0:45:20.560
+this one this one this one yes yeah up up 
+down that's what they do that's right yes
+
+0:45:20.560,0:45:28.000
+they if there's a kind of a wave that goes 
+up down okay okay i'm just i i just thought
+
+0:45:28.720,0:45:36.080
+reading after your paper i just thought what the 
+what would be the domain structure very related
+
+0:45:36.080,0:45:45.840
+to the kind of uh very stable uh state so i i 
+found that that kind of domain structure and
+
+0:45:45.840,0:45:54.880
+that that is related to the uh directional domain 
+structure very core very close to core so even
+
+0:45:54.880,0:46:03.280
+the though that the smaller ones uh it would be 
+a little bit better to think about the way of the
+
+0:46:03.280,0:46:13.840
+main structure and which will make me to better 
+understanding of that what what we are looking at
+
+0:46:17.040,0:46:26.320
+yes um um i mean um you certain you certainly do 
+see this um kind of wave structure um i have a
+
+0:46:26.320,0:46:32.000
+slightly i think in the paper there's 
+a slightly better picture um and um
+
+0:46:32.720,0:46:40.400
+i mean what what's also interesting is that you 
+you you're uh switching between uh easy between
+
+0:46:40.400,0:46:46.640
+uh magneto crystal and easy easy directions as 
+you so as you transition as you as you correctly
+
+0:46:47.200,0:46:55.600
+um observe as you transition uh across the domain 
+wall yeah yeah it's very you kind of yeah yeah you
+
+0:46:55.600,0:47:03.680
+you kind of um see this yes that's it yeah but 
+always always in an easy direction so you're
+
+0:47:03.680,0:47:08.720
+always going to magnetic crystal an easy direction 
+then a different one then back up and down and up
+
+0:47:08.720,0:47:16.880
+and down yeah yeah so yes you definitely see that 
+um in in this grain um the the question about
+
+0:47:16.880,0:47:25.840
+whether it the whether it's the absolute lem 
+um is an astonishingly difficult question
+
+0:47:26.640,0:47:35.600
+because um the larger the grain um the 
+more lemon states that are available to you
+
+0:47:35.600,0:47:42.720
+uh finding a global finding any optimization 
+that involves finding the global minimum is
+
+0:47:43.440,0:47:52.400
+an extraordinarily um computationally challenging 
+problem the way that i um the way that we we can
+
+0:47:52.400,0:47:58.640
+kind of cheat in the smaller grains because we 
+just pick like i said you just pick 50 random
+
+0:48:00.160,0:48:06.640
+direction all the all the moments all randomized 
+and then you relax and statistically you should be
+
+0:48:06.640,0:48:13.520
+able to pick out what all of the possible lem 
+states are going to be in a very big grain um
+
+0:48:14.560,0:48:21.120
+even in an idealized version like this um 
+you can assume i think you can i think it's
+
+0:48:21.120,0:48:26.960
+safe to assume but it is just a hypothesis 
+um that the number of domain states will be
+
+0:48:26.960,0:48:31.760
+extremely large yeah and the reason 
+why you get here is because as has been
+
+0:48:33.600,0:48:39.920
+his observed previously is highly 
+constrained because each each um
+
+0:48:40.880,0:48:47.520
+solution is dependent on the previous solution 
+so it's it's like here it's like you're kind of
+
+0:48:47.520,0:48:56.960
+very slowly growing the grain it's analogous 
+to a process like that yeah yeah excellent
+
+0:48:56.960,0:49:03.760
+thank you very much less thank you for assigning 
+everybody for um for their their questions um we
+
+0:49:03.760,0:49:10.640
+have a little bit of time um uh afterwards uh 
+so just give want to um ask everybody to give
+
+0:49:10.640,0:49:17.120
+les another uh round of applause for um a 
+really uh exciting and interesting talk there
+
+0:49:17.120,0:49:22.480
+and i've even actually gone and got the right 
+title this time um so thank you very much les
+
+0:49:23.840,0:49:30.320
+so um just before everybody uh uh leaves they 
+just want to give you a quick reminder of our
+
+0:49:30.320,0:49:38.720
+upcoming schedule so the uk uh in just under uh 
+two weeks we're going we're changing um back to to
+
+0:49:39.520,0:49:46.080
+gmt so please keep an eye on the times local 
+times for yourself for when the next seminars are
+
+0:49:46.640,0:49:54.240
+and we've got three seminars left for the 2021 
+season before we break for uh christmas and
+
+0:49:54.240,0:50:02.160
+and the new year but we are looking for any 
+speakers um for our 22 2022 season so if anybody
+
+0:50:02.160,0:50:07.760
+is interested in giving a talk or know somebody 
+who uh might be interested in giving a talk please
+
+0:50:07.760,0:50:14.640
+and just get in touch and as a reminder we still 
+have our our youtube channel um where all of our
+
+0:50:14.640,0:50:19.600
+our recordings will go and this is where leslie's 
+talk will go a little bit later today or tomorrow
+
+0:50:19.600,0:50:25.520
+and so please uh subscribe if you don't want to 
+to miss out on any of our seminars and i just want
+
+0:50:25.520,0:50:33.120
+to thank everybody for joining magnets today 
+and we'll see you in a couple of weeks thanks

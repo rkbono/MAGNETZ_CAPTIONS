@@ -1,0 +1,1794 @@
+0:00:00.320,0:00:07.600
+so thanks everybody for um joining this week's 
+uh magnet seminar um it's in in a nice uh late
+
+0:00:07.600,0:00:12.960
+uh or mid uh august uh schedule we've had a bit of 
+a disruption in the last couple of weeks with some
+
+0:00:12.960,0:00:19.840
+uh schedule shifts but um we're getting back on 
+to track again and that's the quick reminder for
+
+0:00:19.840,0:00:24.320
+people who haven't come to market seminar before 
+we have presentations that are about 30 minutes
+
+0:00:24.320,0:00:30.640
+long or so so we kindly ask that you keep your 
+microphones muted during the presentation so it's
+
+0:00:30.640,0:00:36.720
+not to disturb the presenter if you have problems 
+with your internet connection we recommend
+
+0:00:36.720,0:00:44.960
+turning off your video to allow better bandwidth 
+and at the end of the presentations we'll have
+
+0:00:44.960,0:00:51.200
+10 to 15 minutes um for questions and discussions 
+and you're welcome to to unmute and ask a question
+
+0:00:51.200,0:00:56.480
+but if you also want to just ask question by 
+text you can type it into the chat and i can
+
+0:00:56.480,0:01:02.320
+read it out for you as always uh life is going on 
+around us right now many of us are at home so you
+
+0:01:02.320,0:01:07.440
+have if you have to get up and go please just uh 
+get up and go uh that doesn't apply to you dave
+
+0:01:07.440,0:01:14.960
+you have to stay for the duration um but at the 
+end of it all uh we'll have a chance to uh have
+
+0:01:14.960,0:01:20.560
+a catch-up and a bit of a social at the end and 
+that part of our seminars uh it isn't recorded
+
+0:01:21.840,0:01:26.160
+and so today i'm really pleased to have uh 
+dave heslop from australia australia national
+
+0:01:26.160,0:01:32.400
+university who will be talking about uncertainty 
+propagation in paleomagnetic data so i will hand
+
+0:01:32.400,0:01:45.680
+over to you dave okay thanks greg so let me share 
+my screen and okay can you see that okay that's
+
+0:01:45.680,0:01:54.240
+perfect yeah okay well like i said thanks greg and 
+thanks for the invitation to give this um seminar
+
+0:01:54.240,0:02:00.080
+so as advertised i'm going to be talking about 
+simple uncertainty propagation for paleomagnetic
+
+0:02:00.080,0:02:03.920
+data and this is something that andrew and i 
+have been working on for a few years now and
+
+0:02:04.480,0:02:09.280
+importantly acknowledge the sponsors so this was 
+actually funded by the australian research council
+
+0:02:10.800,0:02:14.960
+now a lot of the things i talk about at the 
+beginning are going to be pretty familiar to you
+
+0:02:14.960,0:02:20.800
+and it's no big surprise that paleomagnetism 
+kind of has a hierarchical structure both in the
+
+0:02:20.800,0:02:26.080
+way that we deal with samples and specimens and 
+sites but also in the way that we do with our data
+
+0:02:26.720,0:02:31.680
+so i've got my little schematic here that 
+you know we collect specimens from a site
+
+0:02:31.680,0:02:37.280
+and or samples and then maybe we're averaging 
+samples to get some kind of sight mean direction
+
+0:02:38.160,0:02:41.920
+and then maybe we're averaging site 
+mean directions to get formation means
+
+0:02:41.920,0:02:46.640
+and maybe we're going from formation means to 
+paleomagnetic poles and then onto apparent polar
+
+0:02:46.640,0:02:52.160
+wonder path so we're really dealing with this 
+hierarchical structure throughout paleomagnetism
+
+0:02:54.640,0:02:59.120
+so in terms of the data processing i'm going 
+to refer to this as a data processing chain
+
+0:02:59.120,0:03:03.680
+not surprisingly that's hierarchical as well 
+so when we start at the the bottom of the data
+
+0:03:03.680,0:03:08.560
+processing chain we've got things like specimen 
+remnants directions that we'd assess using pca
+
+0:03:08.560,0:03:13.440
+and maximum angular deviations 
+and we're maybe combining specimen
+
+0:03:13.440,0:03:17.520
+directions to give us a slight mean 
+direction using typically fischer
+
+0:03:17.520,0:03:21.840
+statistics but maybe a bootstrap if you've 
+got sufficient observations available to you
+
+0:03:22.720,0:03:28.480
+then we could be combining into formation means 
+paleomagnetic poles apparent polar wonder paths
+
+0:03:28.480,0:03:34.480
+typically like i said always using vicious 
+statistics so within this data processing chain
+
+0:03:34.480,0:03:40.080
+or this hierarchy information is always going from 
+the bottom specimen remnants directions through to
+
+0:03:40.080,0:03:46.640
+the top and although we do assess uncertainty at 
+these different levels so of course with vicious
+
+0:03:46.640,0:03:52.640
+statistics we're talking about things like alpha 
+95s remnants directions we're maybe using mads
+
+0:03:53.200,0:03:58.880
+typically we don't actually propagate that 
+uncertainty so we don't consider the mads and
+
+0:03:58.880,0:04:03.040
+our specimen directions and think what effect 
+does that have on our site mean directions
+
+0:04:03.840,0:04:08.560
+maybe if we've got a collection of site mean 
+directions with their alpha 95s when we then
+
+0:04:08.560,0:04:14.720
+calculate a formation mean direction we just 
+ignore those site mean alpha 95s and just
+
+0:04:14.720,0:04:19.200
+carry on with our estimation of a mean so we don't 
+actually propagate those uncertainties through
+
+0:04:20.080,0:04:25.760
+now it's not as though we ignore the uncertainties 
+completely because we do use things like
+
+0:04:25.760,0:04:32.080
+mads and alpha 95s maybe a selection criteria if 
+i'm looking at a specimen remnants direction and
+
+0:04:32.080,0:04:37.840
+my mads over some value like 10 degrees maybe i 
+said well probably that's not very good and i just
+
+0:04:37.840,0:04:42.480
+remove it from the analysis similarly if my alpha 
+95 is very large maybe i think i won't include
+
+0:04:42.480,0:04:49.840
+that site so we do use these uncertainties but 
+we don't actually propagate them so the aims of
+
+0:04:49.840,0:04:54.960
+the project that andrew and i was working on were 
+to do what i was just talking about come up with
+
+0:04:54.960,0:05:02.400
+an error propagation scheme that can move through 
+or give us a way to propagate uncertainty through
+
+0:05:02.400,0:05:07.600
+this paleomagnetic data processing chain and 
+we set ourselves a couple of targets as well we
+
+0:05:07.600,0:05:12.880
+wanted it to be as simple as possible am i simple 
+i mean that you don't need some really complex
+
+0:05:12.880,0:05:18.240
+bespoke code for doing this rather it's something 
+that people can just code up themselves in excel
+
+0:05:19.040,0:05:24.960
+the other important thing was we wanted it to 
+apply to legacy data often with legacy data
+
+0:05:24.960,0:05:30.400
+you don't have full demagnetization information 
+available by which i mean individual thermal or
+
+0:05:30.400,0:05:36.880
+afd magnetization steps so what we wanted was a 
+way to propagate uncertainties from the specimen
+
+0:05:36.880,0:05:44.560
+level without actually having full demagnetization 
+information available now a bit of a spoiler alert
+
+0:05:44.560,0:05:50.160
+we've always we've already published the um the 
+paper on this so if you're interested in some
+
+0:05:50.160,0:05:56.320
+more of the details this is the paper you need 
+to look for it's in jgr last year uncertainty
+
+0:05:56.320,0:06:00.480
+propagation and hierarchy called paleomagnetic 
+reconstructions and obviously i don't have time to
+
+0:06:00.480,0:06:08.080
+go into all the details here so the paper is where 
+you need to look so what i'm going to talk about
+
+0:06:08.080,0:06:13.520
+is underpinned by the fischer distribution again 
+something familiar to all of us as paleomagnetists
+
+0:06:14.400,0:06:20.240
+um here's the equation for the fischer 
+distribution as defined in fish's 1953 paper this
+
+0:06:20.240,0:06:26.240
+is in its matrix form where we're using cartesian 
+coordinates but the key thing is the distribution
+
+0:06:26.240,0:06:34.000
+is defined by a mean and mu and kappa which is the 
+concentration so the distribution's rotationally
+
+0:06:34.000,0:06:40.800
+symmetric by which i mean it has circular contours 
+around the mean and just to give you an idea of
+
+0:06:40.800,0:06:45.280
+what the concentration parameter is doing if you 
+imagine i've sliced through a sphere here and i've
+
+0:06:45.280,0:06:51.680
+got a fischer distribution in blue then when kappa 
+is is low my distribution is very broad and may
+
+0:06:51.680,0:06:57.520
+actually wrap the whole way around the sphere and 
+as kappa increases the distribution gets narrower
+
+0:06:57.520,0:07:01.680
+and narrower until we reach a point as we're 
+moving towards infinity where the distribution
+
+0:07:01.680,0:07:09.200
+is infinitely thin but broadly speaking with 
+kappa is just the width of the distribution
+
+0:07:12.480,0:07:19.920
+now in his 1953 paper fisher gave what we call 
+maximum likelihood estimates of how for a given
+
+0:07:19.920,0:07:24.880
+set of directions so imagine we have n directions 
+which are represented by a collection of
+
+0:07:25.520,0:07:32.800
+unit vectors just in cartesian coordinates x 
+y and z how we can estimate the mean and the
+
+0:07:32.800,0:07:36.800
+concentration of the fissure 
+distribution that best fits that data
+
+0:07:37.520,0:07:41.200
+and this is nothing new if you look in 
+any paleomagnetism textbook you'll see
+
+0:07:41.200,0:07:47.680
+these equations first thing we do is estimate the 
+resultant vector length we get by adding together
+
+0:07:47.680,0:07:52.240
+all of these unit vector observations 
+so we just add together the x components
+
+0:07:52.240,0:07:56.560
+square them add together the y component 
+square them said components square them add
+
+0:07:56.560,0:08:01.920
+them all together take the square root that's our 
+resultant vector length okay no big surprise there
+
+0:08:03.760,0:08:08.320
+and then once we've got that resultant vector 
+length we can just deal again with the x
+
+0:08:08.320,0:08:15.280
+y and z components and this will give us our mean 
+direction of the best fitting distribution and the
+
+0:08:15.280,0:08:21.200
+mean is mu now we also need to work out kappa 
+this is an expression that maybe isn't quite
+
+0:08:21.200,0:08:26.560
+as familiar because it's typically not given in 
+the textbooks but this was the expression fischer
+
+0:08:26.560,0:08:33.200
+developed that relates the resultant vector length 
+to the concentration now the difficulty here
+
+0:08:33.200,0:08:38.640
+is that you can't actually solve this 
+equation in an analytical form if you know
+
+0:08:38.640,0:08:45.840
+r you can't solve for kappa so what fischer did 
+was come up with an approximation for estimating
+
+0:08:45.840,0:08:51.440
+kappa which is the one at the top here which again 
+is the familiar one that we see in textbooks where
+
+0:08:51.440,0:08:57.920
+it's simply n minus one over n minus r so this is 
+the approximate solution to this equation and it
+
+0:08:57.920,0:09:02.720
+works when we have higher concentrations 
+when kappa equals is greater than 3.
+
+0:09:04.000,0:09:10.400
+subsequently for example banerjee at al 2005 have 
+come up with a better approximation for kappa
+
+0:09:10.400,0:09:14.640
+you can see it's still just a function of n 
+and r so i'm actually going to work with this
+
+0:09:15.280,0:09:19.040
+expression from banerjee but you could 
+imagine working with fish's original
+
+0:09:19.040,0:09:21.840
+expression and it's not going to 
+make a huge amount of difference
+
+0:09:24.000,0:09:30.560
+now that's the fischer distribution in cartesian 
+coordinates but of course we can also work in
+
+0:09:30.560,0:09:36.080
+spherical coordinates as well inclination 
+declination again here's our expression
+
+0:09:36.080,0:09:43.200
+for uh kappa as a function of uh resultant 
+vector length which in this case is called a
+
+0:09:43.200,0:09:47.520
+now you may be thinking dave why are you showing 
+us the same set of equations with slightly
+
+0:09:47.520,0:09:53.280
+different nomenclature and they're all fuzzy 
+and this is maybe one thing if nothing else you
+
+0:09:53.280,0:09:59.200
+remember from this talk this is maybe one thing 
+you remember these come from the phd of arnold
+
+0:09:59.200,0:10:07.120
+phd thesis in 1941 on the spherical probability 
+distributions phd thesis from mit so fischer did
+
+0:10:07.120,0:10:12.560
+not discover the fischer distribution arnold 
+discovered the fischer distribution in 1941.
+
+0:10:13.840,0:10:18.160
+for continuity i will refer to it as the fischer 
+distribution for the remainder of the torque
+
+0:10:20.080,0:10:24.880
+so when we've got our efficient distribution 
+how do we actually deal with uncertainty
+
+0:10:26.640,0:10:33.680
+given n and r that we saw in a few slides 
+ago we calculate an alpha 95 again we find
+
+0:10:33.680,0:10:38.160
+this in all our paleomagnetic textbooks and 
+this was something that appeared in fischer's
+
+0:10:38.160,0:10:44.880
+1953 paper so the alpha 95 is this cone 
+of confidence around the mean that means
+
+0:10:45.520,0:10:52.480
+there's a 95 probability that the true 
+mean of the data actually lies somewhere
+
+0:10:52.480,0:10:58.240
+within the alpha 95 okay again very familiar 
+form but what's this actually based on
+
+0:10:59.840,0:11:06.400
+what fishes showed is that if we have a 
+collection of data and we estimate the mean and
+
+0:11:06.400,0:11:11.760
+the concentration okay then we've got the best 
+fit to the observations so we've got a fissure
+
+0:11:11.760,0:11:17.600
+distribution with a mean of mu and a concentration 
+of kappa but of course we don't know the true mean
+
+0:11:18.720,0:11:23.120
+all we've done is estimate the mean based on 
+the observations that we have available to us
+
+0:11:23.920,0:11:28.720
+so the distribution of the true mean 
+direction is also fissure distributed
+
+0:11:28.720,0:11:34.400
+centered on our estimated mean but with 
+a precision or a concentration equal to
+
+0:11:34.400,0:11:40.720
+kappa multiplied by r so we've now actually got a 
+probability distribution that itself is a fischer
+
+0:11:40.720,0:11:48.640
+distribution describing the uh probability 
+distribution of the true mean direction
+
+0:11:50.960,0:11:56.640
+so if we imagine let's try and do some error 
+propagation we're going to take two site mean
+
+0:11:56.640,0:12:02.560
+directions and combine them together so we've got 
+site a which is efficient distribution it's got
+
+0:12:02.560,0:12:08.480
+its own mean and the distribution of the mean 
+controlled by the concentration kappa a and
+
+0:12:08.480,0:12:14.400
+r a and then the same thing for b but i've just 
+used the b's here to indicate i'm working on site
+
+0:12:14.400,0:12:20.480
+b now if we were working with standard gaussian 
+statistics we could just add together the gaussian
+
+0:12:20.480,0:12:26.240
+distributions and we'd get a a resultant calcium 
+distribution and that's great makes things really
+
+0:12:26.240,0:12:30.880
+simple that's what a lot of error propagation 
+is based on that you add two gaussians together
+
+0:12:30.880,0:12:36.720
+you get another gaussian the challenge with the 
+fischer distribution is that if you add together
+
+0:12:36.720,0:12:42.240
+two fischer distributions such as our site 
+means here you don't get a fischer distribution
+
+0:12:42.800,0:12:48.960
+so immediately that means that simple hierarchical 
+error propagation is not possible because if for
+
+0:12:48.960,0:12:54.560
+example we combine site mean directions we don't 
+get another fischer distribution and we can't then
+
+0:12:55.200,0:13:00.400
+calculate a formation mean based on fisher 
+statistics so we could throw our hands up in
+
+0:13:00.400,0:13:06.480
+the air and say well this is impossible but maybe 
+we also need a healthy spoonful of pragmatism
+
+0:13:07.120,0:13:13.680
+and what we actually find is that if you add 
+together two fischer distributions you don't
+
+0:13:13.680,0:13:17.120
+get efficient distribution but you 
+will get something that's pretty
+
+0:13:17.120,0:13:24.080
+close to a fishy distribution so like i said 
+with this spoonful of pragmatism what we can
+
+0:13:24.080,0:13:30.960
+do is use a technique called moment matching 
+to find which fit which fischer distribution
+
+0:13:30.960,0:13:36.640
+best approximates the sum of a collection of 
+fisher distributions now i'm not going to go into
+
+0:13:36.640,0:13:42.000
+the details of moment matching that's in the paper 
+but what i will do is show you how this works
+
+0:13:44.000,0:13:50.160
+so again imagine we've got n site mean directions 
+and we want to take that average but also
+
+0:13:50.160,0:13:56.960
+propagate in the uncertainty associated with each 
+site mean direction now for each site we calculate
+
+0:13:56.960,0:14:06.800
+a weighting term rho that is just a function of 
+kappa and r from that site mean direction now you
+
+0:14:06.800,0:14:11.120
+may remember this from the definitions by fischer 
+and arnold this just corresponds to the resultant
+
+0:14:11.120,0:14:18.160
+vector length so what we're doing is representing 
+that distribution fischer distribution on the mean
+
+0:14:18.160,0:14:24.640
+as a vector with its length defined according 
+to the expected vector length for a certain
+
+0:14:24.640,0:14:29.840
+concentration in a fischer distribution 
+so for each site we calculate the row term
+
+0:14:31.920,0:14:38.240
+and then we find the weighted mean of 
+those n site directions simply using
+
+0:14:38.240,0:14:44.240
+our weighting terms for each site as we 
+combine the x components to get a resultant
+
+0:14:45.520,0:14:52.320
+vector length for the combination of all n site 
+mean directions so this slides very equationally
+
+0:14:52.320,0:14:56.320
+but what you can see is really this is exactly 
+the same as the fischer statistics we talked about
+
+0:14:56.320,0:15:04.720
+earlier all i've done is add in a waiting term for 
+each site once i've got that i can calculate my
+
+0:15:04.720,0:15:12.640
+mean direction from my combination of site means 
+again just by adding in my weighting term i can
+
+0:15:12.640,0:15:20.640
+calculate a kappa and i can calculate an alpha 95 
+that now just employs this resultant vector length
+
+0:15:20.640,0:15:26.160
+where things have been combined according to 
+their weight terms so what i've done here like
+
+0:15:26.160,0:15:30.640
+i said the equations are exactly the same apart 
+from this addition of this simple waiting term
+
+0:15:31.520,0:15:36.880
+and i've marked this with a little star indicating 
+that this is an alpha 95 that contains error
+
+0:15:36.880,0:15:41.920
+propagation okay so now we've got a way that 
+we can combine together site mean directions
+
+0:15:41.920,0:15:49.120
+with their uncertainties into an average site 
+mean direction with a propagated uncertainty
+
+0:15:51.360,0:15:56.400
+and importantly the result is fishy distributed 
+so we can continue up the hierarchy once i've
+
+0:15:56.400,0:15:59.680
+got an answer from this averaging i 
+can compare it with other averagings
+
+0:15:59.680,0:16:03.840
+i can get formation means and so on because 
+everything stays as efficient distribution
+
+0:16:06.640,0:16:10.640
+now we need to take a step 
+back um i've been talking
+
+0:16:10.640,0:16:17.200
+about um site level and site means but what 
+about the specimen level analysis now of course
+
+0:16:18.400,0:16:21.680
+typically for specimen level 
+analysis we're talking about
+
+0:16:21.680,0:16:30.880
+pca fits through demagnetization data as um 
+suggested by coach joe kirschbink in 1980 um
+
+0:16:33.120,0:16:39.200
+and we get our maximum angular deviations now 
+as i mentioned earlier in my talk typically we
+
+0:16:39.200,0:16:43.920
+use these for quality control if my mads over 
+a certain value we maybe throw the specimen
+
+0:16:43.920,0:16:52.320
+out of our analysis but if we want to use this 
+mad as a measure of uncertainty we've got to
+
+0:16:52.320,0:16:58.400
+find some way to convert it into a probability 
+distribution so working with mads by themselves
+
+0:16:58.400,0:17:04.160
+is not very obvious what kind of uncertainty 
+they actually represent so somehow we've got
+
+0:17:04.160,0:17:09.680
+to convert this into a probability distribution 
+so that we can include it in our error analysis
+
+0:17:12.240,0:17:20.080
+now this is uh a piece of work andrew and i did i 
+think it was published in 2016 where we we placed
+
+0:17:20.080,0:17:26.880
+principal component analysis in a full bayesian 
+framework in order that we could estimate uh
+
+0:17:26.880,0:17:35.200
+the uncertainties associated with these specimen 
+level directions this is difficult for a number
+
+0:17:35.200,0:17:41.040
+of reasons the first one that goes kind of against 
+our project aims is in order to do this you need
+
+0:17:41.040,0:17:46.960
+full demagnetization data which isn't always 
+available in the case of legacy data sets and
+
+0:17:46.960,0:17:51.520
+to be honest the algorithm to do this is pretty 
+nasty okay so if you read the paper you'll see
+
+0:17:51.520,0:17:56.960
+all these horrible equations and it isn't a simple 
+analysis to implement so this isn't something that
+
+0:17:56.960,0:18:01.680
+realistically we can use when we're trying to 
+come up with a simple error propagation scheme
+
+0:18:04.880,0:18:09.280
+but rather there's this really nice paper 
+by kokoloff and herlow and i i think this
+
+0:18:09.280,0:18:14.640
+paper is kind of under appreciated so you can see 
+that the title from the title this is going to be
+
+0:18:14.640,0:18:20.080
+particularly helpful principal component analysis 
+of paleomagnetic directions converting an mad
+
+0:18:20.080,0:18:27.040
+into an alpha 95 angle this is great and what 
+they showed through a collection of simulations
+
+0:18:27.040,0:18:30.000
+was that when you do pca analysis on um
+
+0:18:31.760,0:18:37.520
+your paleomagnetic or your demagnetization data 
+the uncertainty on the mean direction that you get
+
+0:18:37.520,0:18:42.080
+from that pca is visually distributed so this 
+is great because that means it's going to fit
+
+0:18:42.080,0:18:49.200
+into our general scheme of propagating fissure 
+distributions and what they showed is that mad
+
+0:18:49.200,0:18:54.720
+can be rescaled to an alpha 95 and this is 
+really easy to do based on this table that
+
+0:18:54.720,0:19:03.040
+they provided so for example if in your pca you 
+included five demagnetization steps in your fit
+
+0:19:04.080,0:19:11.520
+and you um you calculate your mad and 
+then to get your alpha 95 you just
+
+0:19:12.080,0:19:18.560
+multiply your mad by 3.18 in the case where you 
+didn't use an anchored fit but if you used an
+
+0:19:18.560,0:19:25.920
+anchored fit then you need to multiply it by 4.63 
+this is a really easy system to use and hopefully
+
+0:19:25.920,0:19:33.200
+it means that in the case of legacy data we can 
+actually still estimate these alpha 95s because as
+
+0:19:33.200,0:19:38.960
+long as we have the inclination declination number 
+of demagnetization steps and if we know if it was
+
+0:19:38.960,0:19:45.600
+anchored or unanchored then we can get an alpha 
+95 without having the full demagnetization data
+
+0:19:49.120,0:19:55.840
+so we've now got a way to convert specimen level 
+uncertainty into fissure distributions and then as
+
+0:19:55.840,0:20:01.520
+i showed we can just keep propagating that through 
+by using this weighting scheme in order to find
+
+0:20:01.520,0:20:06.080
+the best approximating fissure distribution 
+so i'm going to show you some examples
+
+0:20:06.880,0:20:13.440
+uh this is an example by bihar ital in 2019 where 
+they were looking at psv from the golan heights
+
+0:20:14.160,0:20:19.760
+um and i should say at this point i'm showing 
+these examples not because i'm disputing
+
+0:20:19.760,0:20:24.240
+the findings of these papers or i've got any 
+complaints about them it's because the data is
+
+0:20:24.240,0:20:29.520
+particularly demonstrative and importantly they 
+uploaded it to the magic database so i was able
+
+0:20:29.520,0:20:36.480
+to download it and and work with it so we're going 
+to look at the first site here what you can see is
+
+0:20:36.480,0:20:42.160
+the site mean directions based on seven specimens 
+which is pretty good you can see a lot of the
+
+0:20:42.160,0:20:48.400
+specimens have a high number of demagnetization 
+steps included in their pca so anywhere up to 19
+
+0:20:48.400,0:20:55.840
+11 9 that's a that's a reasonable number of 
+demagnetization steps and the mads associated with
+
+0:20:55.840,0:21:03.360
+the um with the pca fits are all pretty small so 
+we do our fischer propagation of the uncertainties
+
+0:21:03.360,0:21:08.320
+from the specimen into the site level mean 
+and what we find is if we just calculated the
+
+0:21:08.320,0:21:14.080
+site mean in the traditional way without error 
+propagation we get an alpha 95 of 4.7 degrees
+
+0:21:14.960,0:21:21.920
+when we do it with error propagation as indicated 
+by the little star then it comes out as 5.1 so
+
+0:21:21.920,0:21:26.800
+it's not a big increase and that isn't surprising 
+because we've got a reasonably large number of
+
+0:21:26.800,0:21:32.720
+specimens they're based on a reasonably large or 
+in some cases very large number of demagnetization
+
+0:21:32.720,0:21:38.400
+steps and they've got small mads so there isn't a 
+lot of uncertainty associated with these specimens
+
+0:21:38.400,0:21:45.600
+and that's reflected by only a small increase 
+in the um in the alpha 95 at the site level
+
+0:21:47.360,0:21:51.520
+but let's look at a contrasting 
+data set again from the same study
+
+0:21:51.520,0:21:55.360
+now we only have three specimens 
+and a relatively small number of
+
+0:21:55.360,0:22:01.760
+demagnetization steps for each specimen 
+and reasonably large mads and what we find
+
+0:22:01.760,0:22:09.680
+if we just calculate the site mean direction or 
+an alpha 95 without error propagation it's 1.9
+
+0:22:09.680,0:22:15.920
+degrees the alpha 95 do with error propagation 
+it becomes 8.7 degrees which is clearly a big
+
+0:22:15.920,0:22:22.080
+difference and again not surprising small number 
+of specimens small number of demagnetization steps
+
+0:22:22.080,0:22:26.800
+which makes the uncertainty associated 
+with the specimen level directions large
+
+0:22:26.800,0:22:33.280
+so whereas on the previous site most of the alpha 
+95 was dominated by scatter within the directions
+
+0:22:33.840,0:22:39.840
+in this case most of the alpha 95 is dominated 
+by the uncertainty on the individual specimens
+
+0:22:43.520,0:22:51.280
+now another example this is from some 
+sedimentary records from snowball etal 2013
+
+0:22:51.280,0:22:55.680
+again i'm not going to question the findings 
+of the paper this was simply that the data
+
+0:22:55.680,0:23:02.000
+was available and i was able to work with it um 
+so they were studying a swedish lake they had
+
+0:23:02.000,0:23:07.120
+four sediment cores from that lake that they were 
+able to place on a composite depth scale so the
+
+0:23:07.120,0:23:13.040
+four cores are represented by different colored 
+points they have inclination declination and mad
+
+0:23:13.920,0:23:21.280
+and then what they wanted to do to come up 
+with a single composite record was they used a
+
+0:23:21.280,0:23:26.640
+150-year moving average through the data where 
+they just used fishes statistics to estimate
+
+0:23:26.640,0:23:34.160
+the mean at each point along the record in this 
+150-year moving average so we basically repeated
+
+0:23:34.160,0:23:42.800
+that process but we did the error propagation for 
+each 150 year window and this is the result both
+
+0:23:42.800,0:23:49.840
+in terms of the inclination where you've got the 
+mean of the moving average in black and the 95
+
+0:23:49.840,0:23:55.840
+confidence interval in in gray for both the 
+inflation and the declination so what we actually
+
+0:23:55.840,0:24:02.720
+did in in this case is we were able to take the 
+alpha 95 error propagated version of the alpha 95
+
+0:24:02.720,0:24:08.800
+and marginalize those errors into separate errors 
+in the inclination and the declaration so we now
+
+0:24:08.800,0:24:15.680
+have specific confidence intervals on inflation 
+and declaration thanks to this error propagation
+
+0:24:17.440,0:24:24.240
+now of course snowball et al did it for four 
+sediment cores in a single lake but if you were
+
+0:24:24.240,0:24:28.080
+wanting to stack records from multiple lakes 
+you could use exactly the same process okay
+
+0:24:28.080,0:24:32.800
+you're just bringing these things together and 
+propagating the errors but how much of effect
+
+0:24:32.800,0:24:41.040
+did the error propagation actually have so here 
+i've got a plot of the alpha 95 without error
+
+0:24:41.040,0:24:46.400
+propagation if we just use his standard fischer 
+statistics and here's the alpha 95 with error
+
+0:24:46.400,0:24:52.480
+propagation and a one-to-one line so what you can 
+see for this specific case of the lake sediments
+
+0:24:53.040,0:25:00.640
+is for a lot of the samples or the the averages in 
+the in these 150-year windows it doesn't make that
+
+0:25:00.640,0:25:04.880
+much difference to include the error propagation 
+but you can see there's some samples where it does
+
+0:25:04.880,0:25:12.480
+make a big difference so in over a third of the 
+cases here the alpha 95 increases by more than
+
+0:25:12.480,0:25:19.040
+50 percent when we increase increase the error 
+propagation now the question is is that important
+
+0:25:19.040,0:25:25.120
+or not really comes down to what question you're 
+asking of your data okay so we can we can estimate
+
+0:25:25.120,0:25:29.200
+these uncertainties and then depending on the 
+inferences that you're trying to draw from your
+
+0:25:29.200,0:25:33.920
+data is really going to tell you if that change in 
+the uncertainty is is important or not important
+
+0:25:36.560,0:25:43.040
+now there is one kind of hurdle to this error 
+propagation technique and here's the example again
+
+0:25:43.040,0:25:49.760
+of how we can take samples and sites formations 
+up to paleomagnetic poles in this natural
+
+0:25:49.760,0:25:55.920
+kind of hierarchical fashion but once we start 
+working with poles we typically involve a vgp
+
+0:25:55.920,0:26:02.240
+transform so we go from our formation means 
+through to our poles via the vgp transform
+
+0:26:03.280,0:26:09.600
+and we know from the form of the vgp transform 
+that if we're assuming that for example our
+
+0:26:09.600,0:26:14.960
+data around here is fissure distributed for 
+example site means formation means and so on
+
+0:26:14.960,0:26:18.720
+and once we vgp transform it it will 
+no longer be fissure distributed
+
+0:26:20.240,0:26:24.720
+the opposite is true as well a lot of people 
+working in pot with poles and apparent polar
+
+0:26:24.720,0:26:30.400
+wonder paths assume that the data is fission 
+distributed and we know given the form of the vgp
+
+0:26:30.400,0:26:36.320
+transform if the poles are fissure distributed 
+that means the data that went into them for
+
+0:26:36.320,0:26:42.480
+example site means formation means can't be fishy 
+distributed so this actually breaks the assumption
+
+0:26:43.040,0:26:47.920
+of fissure distributed data at this point this is 
+something we're still working on at the moment to
+
+0:26:47.920,0:26:54.640
+try and work out how we can get past this hurdle 
+so it means that you can't go through the entire
+
+0:26:54.640,0:27:01.600
+hierarchy using this fischer technique because of 
+the need to be gp transform but all is not lost
+
+0:27:01.600,0:27:09.120
+okay here's an example uh from a paper by camp 
+setal where they're looking at late ligocene polls
+
+0:27:09.760,0:27:18.960
+and they had they measured or estimated a new poll 
+and collated polls from a series of publications
+
+0:27:18.960,0:27:24.800
+that they then average together so what we've got 
+in the figure here is their poll and a collection
+
+0:27:24.800,0:27:31.200
+of polls that are then averaged using fishes 
+statistics so even if because of the vgp transform
+
+0:27:31.200,0:27:37.200
+we haven't been able to propagate uncertainty up 
+all the way from the specimen level maybe you just
+
+0:27:37.200,0:27:43.120
+start your uncertainty propagation when you start 
+combining poles together that's okay it's not
+
+0:27:43.120,0:27:50.400
+a complete error propagation but it's better 
+than doing no error propagation at all so these
+
+0:27:50.400,0:27:56.880
+are the collections of all the polls collated by 
+camp satell they've got the poll that their new
+
+0:27:56.880,0:28:03.200
+poll that they estimated in 2007 and then their 
+collections of polls from the literature again
+
+0:28:03.200,0:28:10.160
+if you combine these with just traditional fischer 
+statistics you get an alpha 95 on the mean pole of
+
+0:28:10.160,0:28:15.680
+four degrees with error propagation it's four and 
+a half degrees so it's only gone up a little bit
+
+0:28:15.680,0:28:21.680
+you may say what's half a degree again it depends 
+on the question that you're asking of your data
+
+0:28:21.680,0:28:27.200
+and importantly if you actually do it with the 
+error propagation you know that you're not going
+
+0:28:27.200,0:28:31.600
+to be shocked dealing with a traditional mean and 
+then suddenly discover that the uncertainties have
+
+0:28:31.600,0:28:36.400
+a huge influence so of course it's always better 
+to work with error propagated estimates if you can
+
+0:28:39.840,0:28:47.840
+but if we refer back to this 
+um data from the collation or
+
+0:28:47.840,0:28:51.600
+the collection of camps that are what we 
+can see is it doesn't look particularly
+
+0:28:51.600,0:28:57.360
+fishy distributed it's kind of elongated 
+like this and i calculated the best fitting
+
+0:28:57.360,0:29:02.080
+fischer distribution to the data which is given 
+by this dash circle here and what you can see is
+
+0:29:02.080,0:29:07.760
+it's really quite different to the data itself so 
+it looks like this data aren't fisher distributed
+
+0:29:10.240,0:29:15.440
+we could imagine bootstrapping instead and 
+the bootstrap allows us to estimate means and
+
+0:29:15.440,0:29:20.400
+uncertainties associated with them but only when 
+the number of observations is relatively large
+
+0:29:21.120,0:29:25.760
+here the number of observations is kind of 
+small there isn't some magic number that
+
+0:29:25.760,0:29:31.200
+you can say if i have this many observations the 
+bootstrap will work but what we do know is that
+
+0:29:31.200,0:29:35.920
+if you only have a small number of observations 
+the bootstrap's going to be pretty unreliable
+
+0:29:38.240,0:29:41.920
+now of course looking at these kind of 
+distributions of paleo planting poles
+
+0:29:41.920,0:29:47.600
+is kind of challenging because they do have 
+systematic biases in them for example if a
+
+0:29:47.600,0:29:53.120
+place is migrating through time and then i'm 
+looking at poles estimated through a certain
+
+0:29:53.120,0:30:00.240
+time window then i might see that that trend of 
+the poles that corresponds to the plate motion
+
+0:30:00.240,0:30:04.800
+so distributions of poles are kind of tricky 
+to deal with but generally people assume
+
+0:30:04.800,0:30:09.840
+everything's fissure distributed looking 
+at the data here maybe that isn't the case
+
+0:30:11.360,0:30:19.760
+but what about psb i was talking about the site 
+averaging in the golan heights i talked about the
+
+0:30:19.760,0:30:27.760
+lake sediments in in sweden where that was about 
+averaging psv so is psv fishy distributed well
+
+0:30:27.760,0:30:36.320
+the simple answer is no okay so we have these 
+um giant gaussian process models of um secular
+
+0:30:36.320,0:30:43.120
+variation there's a number of different models 
+available and again a really nice paper here by
+
+0:30:43.120,0:30:49.040
+kokoloff where they were able to actually map 
+out what the distribution of psv directions
+
+0:30:49.040,0:30:56.720
+is for these ggp models as a function of latitude 
+so this is the distribution for 0 degrees
+
+0:30:56.720,0:30:59.600
+all the way up to 90 degrees and 
+i should say they're symmetrical
+
+0:30:59.600,0:31:05.840
+about the equator so we only need to in this 
+case consider positive latitudes um clearly
+
+0:31:08.240,0:31:17.200
+according to the ggp models these distributions 
+of psv are not fissure distributed again that
+
+0:31:17.200,0:31:21.040
+might be a bit of a problem if we're assuming 
+fischer distributions in our error propagation
+
+0:31:22.320,0:31:28.400
+but will the fischer statistics still work so i 
+set out to test this and i took one of the ggp
+
+0:31:28.400,0:31:36.560
+models at tk03 which was torx and kent in 2003 and 
+the nice thing about these models is if you select
+
+0:31:36.560,0:31:43.040
+a certain latitude you know from a model exactly 
+what the true or the time average field direction
+
+0:31:43.040,0:31:48.480
+is for the model okay so we can select a latitude 
+and we actually know what the time average field
+
+0:31:48.480,0:31:55.680
+is at that location we can then draw n random 
+directions from the model that kind of simulate
+
+0:31:55.680,0:32:03.600
+our observations of psv we can estimate an alpha 
+95 using fissure statistics and then we ask is the
+
+0:32:03.600,0:32:10.800
+true mean direction actually within that alpha 
+95 or not and we repeat that for example 1000
+
+0:32:10.800,0:32:18.320
+times so if the fish's statistics are providing 
+a reliable estimate then what we'd expect is that
+
+0:32:18.320,0:32:28.160
+the true field mean field direction falls within 
+the alpha 95 95 of the time so this is what i
+
+0:32:28.160,0:32:34.240
+did with my simulation so i did it for different 
+latitudes and different numbers of observations
+
+0:32:34.240,0:32:38.240
+you can see here i'm dealing with really small 
+numbers of observations that are kind of typical
+
+0:32:38.240,0:32:43.680
+of some psv studies so what happens when i'm just 
+working with three observations and equals three
+
+0:32:43.680,0:32:49.280
+four observations five observations and ten 
+observations and what you can see is we're hoping
+
+0:32:49.280,0:32:58.160
+for a value of 95 percent and you can see all 
+these values are pretty close to 95 so even though
+
+0:32:58.720,0:33:04.800
+psv data are clearly not fissure distributed 
+fischer's statistics work well in terms of
+
+0:33:04.800,0:33:13.680
+estimating the mean and the alpha 95 of the 
+observations even when n is very small for example
+
+0:33:13.680,0:33:18.240
+n equals three now if n was large enough you 
+could just bootstrap and not worry about it but
+
+0:33:18.240,0:33:23.280
+in a lot of cases a lot of studies bootstrapping 
+is not feasible because we just don't have enough
+
+0:33:23.280,0:33:29.520
+observations so for psv at least it seems assuming 
+efficient distribution is going to work just fine
+
+0:33:31.840,0:33:38.320
+so just to finish off um like i said here's the 
+paper where everything's in and we have online
+
+0:33:38.320,0:33:43.680
+calculators for doing these analyses they're 
+pretty simple you could code them up in excel
+
+0:33:43.680,0:33:49.200
+if you wanted to but we've also got the online 
+functions if you want them so there's code in
+
+0:33:49.200,0:33:54.800
+github but also these online calculators where 
+for example this is a specimen level just for
+
+0:33:54.800,0:34:00.640
+each specimen you give the declaration inclination 
+number of demagnetization steps used in the pca
+
+0:34:00.640,0:34:07.680
+analysis what's the mad was the fit anchored or 
+not and then it'll output the result that tells
+
+0:34:07.680,0:34:13.920
+you what the mean direction is and the alpha 95 
+with the uncertainty included and if you just
+
+0:34:13.920,0:34:19.440
+use traditional uh statistic fischer statistics 
+without uncertainty propagation you can see the
+
+0:34:19.440,0:34:26.320
+alpha 95s are quite different in this case okay 
+so that's all online and available so to conclude
+
+0:34:26.320,0:34:32.000
+hopefully we've i can convince you that we've 
+developed a scheme for simple hierarchical error
+
+0:34:32.000,0:34:38.160
+propagation and all it is is it takes our existing 
+framework of fischer's statistics and adds
+
+0:34:38.160,0:34:44.560
+a waiting term to it it's nothing more than 
+that it works from the specimen level upwards
+
+0:34:45.120,0:34:50.880
+so as long as you have inclination declination 
+mad number of demagnetization steps used in the
+
+0:34:50.880,0:34:56.640
+pca and was it an anchored or an anchored fit 
+then you can do the specimen level uncertainty
+
+0:34:57.280,0:35:03.520
+it can be applied to legacy data if you have this 
+information if you don't then you can just start
+
+0:35:03.520,0:35:07.360
+the error propagation later on in the sequence for 
+example when you start dealing with combinations
+
+0:35:07.360,0:35:13.200
+of site means vicious statistics appear to 
+be appropriate to handle psv directions when
+
+0:35:13.200,0:35:19.040
+bootstrapping is infeasible and as i just said 
+we've got code available python code and online
+
+0:35:19.040,0:35:24.960
+calculators which you can find by my website which 
+is the address here so i will stop there thank you
+
+0:35:27.760,0:35:32.160
+thank you very much steve give dave 
+a virtual round of applause for
+
+0:35:32.160,0:35:38.480
+um interesting talk i've certainly got a 
+couple of questions uh to throw your way um
+
+0:35:39.520,0:35:45.040
+we can open the floor uh to anybody else with some 
+questions so if you um just want to raise your
+
+0:35:45.040,0:35:51.920
+hand through through zoom and you can ask dave a 
+question otherwise i'll just jump in with my one
+
+0:35:54.960,0:36:01.280
+well i mean i'll kick it off then um so at the 
+start you're you're saying that you know when you
+
+0:36:01.280,0:36:06.800
+add two fischer distributions together they're not 
+fischer distributing but we can approximate them
+
+0:36:06.800,0:36:13.840
+as being fisher distributed i mean does does 
+that approximation hold if we're summing up an
+
+0:36:13.840,0:36:21.360
+arbitrary number official distributions or or does 
+it start to break down so what you yeah i should
+
+0:36:22.320,0:36:28.640
+in the paper we clarify this um and it's also what 
+is the best matching or best approximating fischer
+
+0:36:28.640,0:36:33.200
+distribution so it actually uh specifically 
+uses the callback of libra divergence metric
+
+0:36:34.560,0:36:41.440
+so we can actually from that calculate 
+how much deviation there is a way from
+
+0:36:42.400,0:36:46.000
+the sum to the fischer distribution 
+that we're approximating it with
+
+0:36:47.280,0:36:50.880
+so we can actually we actually have 
+a divergence measure to quantify that
+
+0:36:51.920,0:36:58.240
+okay is that then is it sort of recommended to use 
+that then to assess whether or not the assumption
+
+0:36:58.240,0:37:04.640
+is valid and whether or not the error propagation 
+is is valid then yeah so at the moment we we for
+
+0:37:04.640,0:37:11.440
+example don't provide threshold values to say 
+this is acceptable this is not acceptable i'm not
+
+0:37:11.440,0:37:16.400
+i'm not a big fan of these magic values that on 
+one side of it you're perfectly okay and then you
+
+0:37:16.400,0:37:22.000
+take a tiny step over and suddenly everything's 
+gone wrong you know so a little bit of judgment
+
+0:37:22.000,0:37:30.000
+is required on these deviations and what is a big 
+deviation what is a small deviation so at least i
+
+0:37:30.000,0:37:36.320
+can say we can measure the level of deviation 
+then how you choose to use that is a slightly
+
+0:37:36.320,0:37:40.640
+different question that i'm not going to attempt 
+to answer so that's a very pragmatic approach
+
+0:37:43.360,0:37:49.840
+and so does everyone else have 
+some some questions for for dave
+
+0:37:54.560,0:38:01.360
+this is probably a dumb question so um but when 
+you're talking about the challenge of going from
+
+0:38:02.000,0:38:08.960
+sight mean directions to the vgp transform 
+uh isn't it reversible so couldn't you just
+
+0:38:08.960,0:38:15.680
+i guess why can't you just uh say get your 
+vgps and then convert to like a common site
+
+0:38:15.680,0:38:20.800
+main direction and then presumably that's now 
+fisherian or is that not gonna work for the
+
+0:38:21.600,0:38:28.320
+error propagation yeah i'm not i'm not 
+sure about that so i i think probably the
+
+0:38:28.320,0:38:34.480
+the best way to do it is a similar step 
+where you do the transform and it's like
+
+0:38:34.480,0:38:39.920
+and i think this is what you suggested and then 
+you find the best fisher fit to that transform
+
+0:38:41.040,0:38:48.160
+um and maybe that works fine or maybe you 
+have something that's clearly not fisheries
+
+0:38:49.040,0:38:54.640
+um and i think that's where people actually 
+need to be looking at their data and checking
+
+0:38:54.640,0:38:59.680
+what's happening and actually making this even 
+if it's just a graphical assessment to say
+
+0:38:59.680,0:39:04.720
+no this clearly isn't for shearing anymore i 
+shouldn't be assuming efficient distribution
+
+0:39:05.760,0:39:10.400
+but i think that's the natural way to get through 
+the transform is to approximate everything as
+
+0:39:10.400,0:39:14.960
+fischer transform it again and then find the 
+best approximating fischer distribution again
+
+0:39:14.960,0:39:18.800
+um and i think maybe we need to 
+run some simulations to just see
+
+0:39:19.760,0:39:27.120
+how much of an issue that could actually be or if 
+it's a reasonable assumption to make we work with
+
+0:39:27.120,0:39:31.520
+um people over in the department of 
+statistics here at anu who are experts
+
+0:39:31.520,0:39:38.400
+on statistics on spheres and i showed them the 
+vgp transform and asked them if they were able to
+
+0:39:38.400,0:39:43.200
+work out what efficient district or the equation 
+for efficient distribution would be once it's been
+
+0:39:43.200,0:39:51.840
+vgp transformed and i got a i got a one sentence 
+email reply which would be this is not obvious
+
+0:39:52.640,0:39:57.040
+now considering these people are world experts 
+in these things i i think my chances of coming
+
+0:39:57.040,0:40:02.480
+up with it are slim to none and it sounds like it 
+might be a difficult problem to try to tackle um
+
+0:40:02.480,0:40:06.480
+so maybe just sticking with a best fitting 
+fischer distribution might be the way forward
+
+0:40:08.880,0:40:09.840
+that makes sense thank you
+
+0:40:13.120,0:40:18.080
+and do you have any any other questions 
+to throw dave's way excuse me this
+
+0:40:18.080,0:40:23.120
+is from osaka and
+
+0:40:33.360,0:40:39.440
+distribution yeah well that's 
+a good question it could be
+
+0:40:40.720,0:40:48.080
+almost meaningless i mean it yeah yeah yeah yeah 
+yeah it it depends so i guess it depends how much
+
+0:40:48.080,0:40:55.360
+your data deviates from um efficient distribution 
+so we saw in the case of psv that even though the
+
+0:40:55.360,0:41:01.280
+data isn't fissure distributed the fischer's 
+statistics will still still do a good job and
+
+0:41:02.400,0:41:08.640
+we can readily test that numerically because we 
+have these ggp models i think it's more difficult
+
+0:41:08.640,0:41:17.760
+to test with um poles because yeah we can't 
+really simulate poles in an obvious way that we
+
+0:41:17.760,0:41:24.800
+can do these kind of um you know monte carlo type 
+assessments of of how well the things are behaving
+
+0:41:26.640,0:41:31.200
+so it's like all statistical processes 
+though if if your data don't meet the
+
+0:41:31.200,0:41:36.080
+assumptions of the statistics then your 
+statistics will give you a spurious result
+
+0:41:36.080,0:41:40.480
+so that's always important for the users 
+to remember that they can't just blindly
+
+0:41:40.480,0:41:45.520
+put the numbers in there and expect what they 
+get to actually mean anything you know this is
+
+0:41:45.520,0:41:53.040
+old computer science adage of garbage in 
+equals garbage out so you know i i can't really
+
+0:41:54.160,0:41:59.200
+comment on that i think it may be about the 
+community having a more detailed conversation
+
+0:42:00.160,0:42:03.360
+i know lisa for example would say 
+you should be bootstrapping um
+
+0:42:08.720,0:42:14.480
+i believe yeah but you know one of one 
+of the limitations of the bootstrap is
+
+0:42:14.480,0:42:23.040
+it doesn't have any paramagnet paramagnetic any 
+parametric parametric electric assumption but
+
+0:42:23.680,0:42:30.160
+you have to have a large enough sample size 
+in order for it to be um robust yeah so if
+
+0:42:30.160,0:42:34.400
+dealing with n equals three n equals four 
+that's something you can't bootstrap um
+
+0:42:35.600,0:42:39.840
+because you're lacking information in your sample 
+you have to replace that with information your
+
+0:42:39.840,0:42:49.280
+assumptions which is with distributed or so on you 
+know another point is that some kind of hierarchy
+
+0:42:49.920,0:42:56.880
+hierarchy hierarchy uh statistical system 
+the the cause of error is different in
+
+0:42:57.840,0:43:08.560
+each hierarchy so alpha 95 or k are different 
+in each hierarchy are there any any way to
+
+0:43:10.080,0:43:18.640
+solve these hierarchical differences in the uh 
+cause of error well so so in the hierarchy you
+
+0:43:18.640,0:43:24.320
+you re-estimate kappa and r at each step in the 
+hierarchy depending on if you're dealing with
+
+0:43:24.320,0:43:29.040
+fights or formations or so on so it's 
+a continuous process of re-estimating
+
+0:43:29.040,0:43:32.640
+the parameters each at each level in the hierarchy
+
+0:43:32.640,0:43:39.040
+again just by these standard fischer 
+statistics with the weight term included yeah i
+
+0:43:45.600,0:43:53.040
+quite good right but the estimate of k or 
+delta is a little bit different so each step
+
+0:43:53.600,0:44:00.960
+k and or delta must be different so the 
+uh whole k does not mean anything right
+
+0:44:04.400,0:44:10.880
+well so what you would have for example for 
+each if you do a combination of site means
+
+0:44:12.000,0:44:20.240
+each site mean would have a kappa or a k value and 
+then when you um and an r value associated with it
+
+0:44:20.240,0:44:25.840
+and then when you combine into the formation you 
+would use those kappas and r's to formulate a new
+
+0:44:26.560,0:44:31.200
+fischer distribution for your formation 
+and that distribution has its own cap
+
+0:44:31.200,0:44:35.920
+and r so then if you've got that for some 
+formations you're just combining them so it
+
+0:44:35.920,0:44:42.800
+really is just a re-estimation of each 
+site each formation and and so on yeah
+
+0:44:44.640,0:44:50.960
+yeah so thank you very much especially i'll 
+just keep a quick eye on on our decline
+
+0:44:50.960,0:44:57.440
+sorry no that's not a problem um does anybody 
+else have a question to to throw uh dave's way
+
+0:44:58.320,0:45:06.000
+i have one very quick one dave can this the same 
+principles be applied to inclination-only data
+
+0:45:09.520,0:45:12.720
+um good question i had a
+
+0:45:14.640,0:45:24.560
+at a first guess i think they probably could 
+because the the statistics for inclination data is
+
+0:45:26.160,0:45:31.840
+still based on fissure distributions but it's 
+integra it's integrated over declination so
+
+0:45:31.840,0:45:38.400
+the yeah so the declination is kind of integrated 
+out so i think it it should be possible if that's
+
+0:45:38.400,0:45:44.640
+of interest to people then you know i can 
+i can take a look more deeply at it i think
+
+0:45:44.640,0:45:48.960
+there's a whole whole uh drilling community 
+that might uh might find that quite useful
+
+0:45:49.840,0:45:56.640
+now could you just rotate everything to have an 
+average declaration yeah yeah there we go started
+
+0:45:56.640,0:46:02.160
+excellent it's the kind of thing while we're here 
+i'll say yes it's it's simple it's easy and then
+
+0:46:02.160,0:46:08.240
+um i'll go quiet on that for about 18 months so 
+yeah and then get a one-line email saying it's not
+
+0:46:08.240,0:46:15.520
+very obvious it's not very obvious yeah excellent 
+thank you very much steve uh for a great talk give
+
+0:46:15.520,0:46:22.960
+dave another um virtual round of applause 
+through uh through our zoom uh and just before we
+
+0:46:22.960,0:46:32.960
+uh come to a close um just allow me to um wrap 
+up with a last little bit of housekeeping um so
+
+0:46:32.960,0:46:40.240
+we're going to have a a short break um for 
+iaga um we don't want to to overlap with the
+
+0:46:40.240,0:46:47.280
+other conference um but we'll be back in september 
+and september 8th uh with a speaker who's who's to
+
+0:46:47.280,0:46:51.280
+be confirmed uh we have somebody lined up but 
+we don't want to announce them until they say
+
+0:46:51.280,0:46:57.920
+absolutely yes uh and then we've got a couple more 
+uh presenters on this eastern hemisphere european
+
+0:46:57.920,0:47:04.960
+uh time slot and then in october we're actually 
+going to move back to um the european americas
+
+0:47:04.960,0:47:10.000
+time slots for for for the remainder of 
+the year so apologies to people who will be
+
+0:47:10.000,0:47:15.360
+in bed at that time but um you'll be able 
+to catch up on on our magnet seminars with
+
+0:47:15.360,0:47:21.520
+uh with the youtube channel and as always we're 
+looking for for uh future speakers um we've
+
+0:47:21.520,0:47:27.120
+filled up our schedule for 2021 so we're looking 
+for anybody who's interested in in presenting
+
+0:47:27.120,0:47:32.960
+uh next year and as always we're we're really 
+want to encourage um early career researchers
+
+0:47:32.960,0:47:39.360
+so please just get in touch as i mentioned um 
+you can catch up with all the magnet seminars
+
+0:47:40.000,0:47:48.400
+on our youtube channel so thank you all very 
+much for for joining magnets today cheers
