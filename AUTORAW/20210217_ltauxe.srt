@@ -304,7 +304,7 @@ understanding non-ideal
 
 77
 00:02:28,800 --> 00:02:32,239
-paleo intensity recorders in igneous
+paleointensity recorders in igneous
 
 78
 00:02:31,200 --> 00:02:36,400
@@ -376,7 +376,7 @@ okay so the talk today um uh
 
 95
 00:03:31,120 --> 00:03:35,040
-is with my uh collaborators christian
+is with my uh collaborators christeanne
 
 96
 00:03:34,000 --> 00:03:38,799
@@ -384,7 +384,7 @@ santos
 
 97
 00:03:35,040 --> 00:03:39,120
-uh brendan zhangzhou uh andrew roberts
+uh brendan cych uh andrew roberts
 
 98
 00:03:38,799 --> 00:03:42,640
@@ -392,7 +392,7 @@ les
 
 99
 00:03:39,120 --> 00:03:46,080
-nudge and wynn williams was the paper
+nagy and wynn williams was the paper
 
 100
 00:03:42,640 --> 00:03:48,560
@@ -424,7 +424,7 @@ the basic
 
 107
 00:03:58,319 --> 00:04:02,159
-laws of the paleo intensity experiment
+laws of the paleointensity experiment
 
 108
 00:04:01,200 --> 00:04:06,480
@@ -432,7 +432,7 @@ are
 
 109
 00:04:02,159 --> 00:04:09,599
-that um remnants is blocked at the same
+that remanence is blocked at the same
 
 110
 00:04:06,480 --> 00:04:12,640
@@ -440,7 +440,7 @@ temperature at which it's unblocked
 
 111
 00:04:09,599 --> 00:04:14,640
-that partial remnants that are blocked
+that partial remanences that are blocked
 
 112
 00:04:12,640 --> 00:04:16,479
@@ -496,7 +496,7 @@ then we do this experiment
 
 125
 00:04:46,880 --> 00:04:51,280
-which is a kernigsberger tele-atelier
+which is a koernigsberger thellier-thellier
 
 126
 00:04:49,600 --> 00:04:53,680
@@ -576,7 +576,7 @@ in this case you'll get a downward bowed
 
 145
 00:05:31,360 --> 00:05:37,280
-um eri plot
+arai plot
 
 146
 00:05:34,800 --> 00:05:39,120
@@ -584,7 +584,7 @@ on the right that's a the plot the
 
 147
 00:05:37,280 --> 00:05:39,919
-remnants remaining against the remnants
+remanence remaining against the remanence
 
 148
 00:05:39,120 --> 00:05:43,360
@@ -596,7 +596,7 @@ and it sags below the line now
 
 150
 00:05:43,360 --> 00:05:48,000
-i'm glad to see that dunlop anderson are
+i'm glad to see that dunlop and ozdemir are
 
 151
 00:05:45,360 --> 00:05:51,520
@@ -608,7 +608,7 @@ um you have um the
 
 153
 00:05:51,520 --> 00:05:59,039
-you give it a they gave remnants to
+you give it a they gave remanence to
 
 154
 00:05:54,880 --> 00:06:00,560
@@ -620,7 +620,7 @@ and 350
 
 156
 00:06:00,560 --> 00:06:06,400
-and then demagnetized that remnants
+and then demagnetized that remanence
 
 157
 00:06:03,600 --> 00:06:08,240
@@ -628,7 +628,7 @@ and found that much a lot of the
 
 158
 00:06:06,400 --> 00:06:11,440
-remnants started to decay
+remanence started to decay
 
 159
 00:06:08,240 --> 00:06:13,919
@@ -664,7 +664,7 @@ and they did ery they did um
 
 167
 00:06:28,880 --> 00:06:32,240
-uh paleonty experiments on them and
+uh paleointensity experiments on them and
 
 168
 00:06:31,600 --> 00:06:34,240
@@ -672,7 +672,7 @@ plotted
 
 169
 00:06:32,240 --> 00:06:35,520
-something that looked a lot like an ery
+something that looked a lot like an arai
 
 170
 00:06:34,240 --> 00:06:38,639
@@ -696,7 +696,7 @@ gives significantly saggy
 
 175
 00:06:50,960 --> 00:06:55,840
-um air i plots whereas as
+um arai plots whereas as
 
 176
 00:06:54,000 --> 00:06:58,160
@@ -704,7 +704,7 @@ the grain size gets smaller and smaller
 
 177
 00:06:55,840 --> 00:07:00,560
-you get straighter eri plots
+you get straighter arai plots
 
 178
 00:06:58,160 --> 00:07:01,280
@@ -832,7 +832,7 @@ and that just seemed to be that the more
 
 209
 00:08:20,560 --> 00:08:27,360
-curved the eri plots the worse
+curved the arai plots the worse
 
 210
 00:08:24,080 --> 00:08:28,879
@@ -884,7 +884,7 @@ that gave
 
 222
 00:08:56,480 --> 00:09:00,880
-very nice straight array plots that's
+very nice straight arai plots that's
 
 223
 00:08:59,040 --> 00:09:04,480
@@ -924,7 +924,7 @@ microtesla is the correct answer
 
 232
 00:09:24,640 --> 00:09:28,959
-this hit the er i plot from the straight
+this hit the arai plot from the straight
 
 233
 00:09:27,120 --> 00:09:32,800
@@ -960,7 +960,7 @@ you take
 
 241
 00:09:44,800 --> 00:09:50,240
-uh straight ery plots from lava flows in
+uh straight arai plots from lava flows in
 
 242
 00:09:48,160 --> 00:09:51,120
@@ -988,7 +988,7 @@ associated with
 
 248
 00:10:02,640 --> 00:10:07,440
-with uh curved arroy plots and it tends
+with uh curved arai plots and it tends
 
 249
 00:10:06,079 --> 00:10:10,560
@@ -1132,7 +1132,7 @@ flow
 
 284
 00:11:26,959 --> 00:11:33,920
-that um the ery plot in the original
+that um the arai plot in the original
 
 285
 00:11:31,040 --> 00:11:35,120
@@ -1148,7 +1148,7 @@ diagram was quite curved but
 
 288
 00:11:38,160 --> 00:11:42,320
-the uh eri plot when we gave it a fresh
+the uh arai plot when we gave it a fresh
 
 289
 00:11:41,440 --> 00:11:45,120
@@ -1232,7 +1232,7 @@ thing
 
 309
 00:12:30,399 --> 00:12:33,920
-that what dunlop and erzdimer were
+that what dunlop and ozdemir were
 
 310
 00:12:32,160 --> 00:12:36,399
@@ -1292,7 +1292,7 @@ problem a while ago
 
 324
 00:13:09,440 --> 00:13:18,839
-what causes curvature and air iplots and
+what causes curvature and arai plots and
 
 325
 00:13:14,240 --> 00:13:20,320
@@ -1308,7 +1308,7 @@ does this fragile curvature we start out
 
 328
 00:13:22,639 --> 00:13:25,760
-with a nice straight er i plot does the
+with a nice straight arai plot does the
 
 329
 00:13:24,560 --> 00:13:28,880
@@ -1392,7 +1392,7 @@ because most of my samples don't have
 
 349
 00:14:16,959 --> 00:14:21,120
-multi-domain greens
+multi-domain grains
 
 350
 00:14:18,320 --> 00:14:22,320
@@ -1428,7 +1428,7 @@ hoping that
 
 358
 00:14:35,279 --> 00:14:39,120
-less nudge and when williams can help me
+less nagy and when williams can help me
 
 359
 00:14:38,399 --> 00:14:42,639
@@ -1512,7 +1512,7 @@ the lab field so
 
 379
 00:15:23,760 --> 00:15:27,199
-then christian santos was a master's
+then christeanne santos was a master's
 
 380
 00:15:26,720 --> 00:15:30,800
@@ -1536,7 +1536,7 @@ what we considered to be ideal specimens
 
 385
 00:15:37,519 --> 00:15:42,959
-so ones that had straight eri plots to
+so ones that had straight arai plots to
 
 386
 00:15:41,199 --> 00:15:46,399
@@ -1568,7 +1568,7 @@ behavior
 
 393
 00:15:59,440 --> 00:16:06,639
-and here we used greg's marvelous
+and here we used greig's marvelous
 
 394
 00:16:03,440 --> 00:16:08,000
@@ -1672,7 +1672,7 @@ um the straight
 
 419
 00:17:06,000 --> 00:17:09,439
-uh original era plot in the lower
+uh original arai plot in the lower
 
 420
 00:17:08,079 --> 00:17:12,480
@@ -1720,7 +1720,7 @@ study where we had a lava flow
 
 431
 00:17:32,080 --> 00:17:39,360
-that gave a curved ri plot and that's
+that gave a curved arai plot and that's
 
 432
 00:17:35,679 --> 00:17:43,200
@@ -1736,7 +1736,7 @@ in the lab they became straight
 
 435
 00:17:45,360 --> 00:17:50,640
-according to greg's criterion you can
+according to greig's criterion you can
 
 436
 00:17:47,280 --> 00:17:53,520
@@ -1772,7 +1772,7 @@ they're much straighter but they're
 
 444
 00:18:10,240 --> 00:18:13,200
-still curved according to greg's
+still curved according to greig's
 
 445
 00:18:12,000 --> 00:18:15,760
@@ -1788,7 +1788,7 @@ behavior
 
 448
 00:18:17,280 --> 00:18:23,520
-so then um christiane and i
+so then um christeanne and i
 
 449
 00:18:21,039 --> 00:18:24,559
@@ -1980,11 +1980,11 @@ you are familiar with the conventional
 
 496
 00:20:15,200 --> 00:20:20,720
-fork diagrams
+forc diagrams
 
 497
 00:20:17,840 --> 00:20:21,440
-so the top one is a conventional fork
+so the top one is a conventional forc
 
 498
 00:20:20,720 --> 00:20:25,679
@@ -2024,7 +2024,7 @@ um distribution in their conventional
 
 507
 00:20:45,840 --> 00:20:49,200
-fork
+forc
 
 508
 00:20:46,960 --> 00:20:50,240
@@ -2048,15 +2048,15 @@ then we did the remnants forks and
 
 513
 00:20:57,360 --> 00:21:03,039
-the transient fork and the
+the transient forc and the
 
 514
 00:21:00,400 --> 00:21:04,799
-induced fork and the one on the right is
+induced forc and the one on the right is
 
 515
 00:21:03,039 --> 00:21:08,000
-this induced fork that
+this induced forc that
 
 516
 00:21:04,799 --> 00:21:09,360
@@ -2072,7 +2072,7 @@ andy i don't know one of those two
 
 519
 00:21:11,679 --> 00:21:18,080
-um and the induced fork
+um and the induced forc
 
 520
 00:21:15,039 --> 00:21:19,200
