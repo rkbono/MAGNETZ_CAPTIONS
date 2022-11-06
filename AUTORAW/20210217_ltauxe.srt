@@ -1,6 +1,6 @@
 1
 00:00:02,560 --> 00:00:05,600
-um
+[Greig]
 
 2
 00:00:03,120 --> 00:00:06,240
@@ -316,11 +316,11 @@ so i will hand over to you lisa okay can
 
 80
 00:02:36,400 --> 00:02:41,680
-i share my screen
+[Lisa] I share my screen
 
 81
 00:02:38,400 --> 00:02:43,920
-yep okay
+[Greig] yep okay
 
 82
 00:02:41,680 --> 00:02:43,920
@@ -332,7 +332,7 @@ um
 
 84
 00:02:45,440 --> 00:02:55,280
-if this works
+[Lisa] if this works
 
 85
 00:02:50,480 --> 00:02:55,280
@@ -3544,7 +3544,7 @@ questions?
 
 887
 00:37:14,480 --> 00:37:19,200
-excellent thank you very much Lisa that
+[Greig] excellent thank you very much Lisa that
 
 888
 00:37:16,160 --> 00:37:20,240
@@ -3596,7 +3596,7 @@ for Lisa
 
 900
 00:37:43,520 --> 00:37:47,920
-and Ii do have a bundle so um I will
+and I do have a bundle so um I will
 
 901
 00:37:46,079 --> 00:37:51,839
@@ -3608,7 +3608,7 @@ uh jump in
 
 903
 00:37:52,320 --> 00:37:56,320
-i will say i'm loving your curvature
+[Lisa] I will say I'm loving your curvature
 
 904
 00:37:54,960 --> 00:38:00,079
@@ -3616,11 +3616,11 @@ parameter
 
 905
 00:37:56,320 --> 00:38:03,119
-uh yeah I think I mean it's um
+[Greig] uh yeah I think I mean it's um
 
 906
 00:38:00,079 --> 00:38:05,119
-yes BDS not so much but yeah I mean the
+[Lisa]yes BDS not so much but [Greig] yeah I mean the
 
 907
 00:38:03,119 --> 00:38:06,560
@@ -3680,7 +3680,7 @@ the Dekkers Bohnel method and the
 
 921
 00:38:35,760 --> 00:38:42,720
-um uh Fabian uh corrected method
+um uh Fabian corrected method
 
 922
 00:38:40,640 --> 00:38:43,920
@@ -3700,7 +3700,7 @@ fraction
 
 926
 00:38:47,040 --> 00:38:51,760
-correction into account is it no it was
+correction into account is it? [Lisa] no it was
 
 927
 00:38:49,680 --> 00:38:54,480
@@ -3724,7 +3724,7 @@ mainstay corrected one of Fabian
 
 932
 00:39:02,160 --> 00:39:05,200
-so the i guess i mean the domain state
+[Gregig] so the I guess I mean the domain state
 
 933
 00:39:03,920 --> 00:39:07,599
@@ -3768,7 +3768,7 @@ more precision maybe
 
 943
 00:39:22,240 --> 00:39:25,680
-and something I'm not optimistic maybe
+and something [Lisa] I'm not optimistic maybe
 
 944
 00:39:25,119 --> 00:39:28,480
@@ -3784,7 +3784,7 @@ know which category you're in
 
 947
 00:39:30,800 --> 00:39:35,040
-if you do this you only know that do a
+if you do this, you only know that do a
 
 948
 00:39:34,000 --> 00:39:38,079
@@ -3848,7 +3848,7 @@ to by especially
 
 963
 00:40:08,839 --> 00:40:14,400
-um I sorry Adrian did you flash your hand
+[Greig] um I.. sorry Adrian did you flash your hand
 
 964
 00:40:12,480 --> 00:40:17,599
@@ -3868,11 +3868,11 @@ raise your hands through some otherwise
 
 968
 00:40:21,280 --> 00:40:25,680
-i will i'll just dominate and ask
+I will I'll just dominate and ask
 
 969
 00:40:23,040 --> 00:40:26,240
-tons more questions are clear clear has
+tons more questions.. Ah Claire Claire has
 
 970
 00:40:25,680 --> 00:40:28,079
@@ -3880,7 +3880,7 @@ a question
 
 971
 00:40:26,240 --> 00:40:29,599
-Clair Nichols when you go clear all
+Claire Nichols when you go [Claire] all
 
 972
 00:40:28,079 --> 00:40:32,480
@@ -3888,7 +3888,7 @@ right look at the wrong screen
 
 973
 00:40:29,599 --> 00:40:34,480
-i'm yeah um hi lisa great talk i was
+I'm yeah um hi lisa great talk I was
 
 974
 00:40:32,480 --> 00:40:36,640
@@ -3904,7 +3904,7 @@ five microtesla and
 
 977
 00:40:38,160 --> 00:40:41,440
-i guess if that's a linear bias that
+I guess if that's a linear bias that
 
 978
 00:40:40,000 --> 00:40:44,160
@@ -3928,15 +3928,15 @@ settles or if it continues like
 
 983
 00:40:49,440 --> 00:40:53,839
-is it twice as bad after five years
+is it twice as bad after five years?
 
 984
 00:40:54,319 --> 00:41:01,280
-it's time to talk to you in five years
+[Lisa] it's time to talk to you in five years
 
 985
 00:40:57,599 --> 00:41:02,319
-i i just uh in order to do these last
+I just uh in order to do these last
 
 986
 00:41:01,280 --> 00:41:05,200
@@ -3956,7 +3956,7 @@ aging and so now we don't have any more
 
 990
 00:41:09,599 --> 00:41:13,040
-so someone else can start i just retired
+so someone else can start I just retired
 
 991
 00:41:12,079 --> 00:41:16,400
@@ -3964,19 +3964,19 @@ so
 
 992
 00:41:13,040 --> 00:41:20,160
-i've gotta be here to get to the answer
+I've gotta be here to get to the answer
 
 993
 00:41:16,400 --> 00:41:22,800
-um uh i think it keeps getting worse
+um uh iI think it keeps getting worse
 
 994
 00:41:20,160 --> 00:41:24,960
-i don't know the answer if you look at
+I don't know the answer if you look at
 
 995
 00:41:22,800 --> 00:41:26,800
-the original era plots
+the original Arai plots
 
 996
 00:41:24,960 --> 00:41:28,079
@@ -3984,7 +3984,7 @@ for some of these they're really very
 
 997
 00:41:26,800 --> 00:41:31,520
-curved and so i
+curved and so I
 
 998
 00:41:28,079 --> 00:41:34,480
@@ -3992,7 +3992,7 @@ imagine that the curvature just was
 
 999
 00:41:31,520 --> 00:41:35,200
-you know over a hundred thousand years i
+you know over a hundred thousand years I
 
 1000
 00:41:34,480 --> 00:41:38,480
@@ -4000,11 +4000,11 @@ don't know
 
 1001
 00:41:35,200 --> 00:41:41,599
-okay have to start aging some samples
+[Claire] okay have to start aging some samples
 
 1002
 00:41:38,480 --> 00:41:43,680
-why don't you do it we'll talk to you in
+[Lisa]why don't you do it we'll talk to you in
 
 1003
 00:41:41,599 --> 00:41:45,200
@@ -4012,7 +4012,7 @@ five years ten years
 
 1004
 00:41:43,680 --> 00:41:46,880
-so it sounds like somebody could start a
+[Greig] so it sounds like somebody could start a
 
 1005
 00:41:45,200 --> 00:41:50,160
@@ -4020,7 +4020,7 @@ career out of this
 
 1006
 00:41:46,880 --> 00:41:54,140
-um so uh andre you have your hand up
+um so uh Andrei you have your hand up
 
 1007
 00:41:50,160 --> 00:41:54,140
@@ -4032,11 +4032,11 @@ oh okay now
 
 1009
 00:42:02,079 --> 00:42:08,160
-okay now yeah okay
+[Andrei] okay now yeah okay
 
 1010
 00:42:05,280 --> 00:42:08,160
-okay eliza
+okay Lisa
 
 1011
 00:42:09,920 --> 00:42:16,400
@@ -4060,7 +4060,7 @@ when you see in your curved
 
 1016
 00:42:24,640 --> 00:42:28,000
-nagatara plots
+nagata Arari plots
 
 1017
 00:42:29,200 --> 00:42:34,640
@@ -4072,7 +4072,7 @@ behave
 
 1019
 00:42:35,520 --> 00:42:39,440
-these samples were chosen because they
+[Lisa] these samples were chosen because they
 
 1020
 00:42:38,400 --> 00:42:43,280
@@ -4096,15 +4096,15 @@ that's not the issue
 
 1025
 00:42:50,800 --> 00:42:57,200
-here in this case all right
+here, in this case all right
 
 1026
 00:42:53,839 --> 00:42:59,760
-let's still uh okay i might i'm
+[Andrei] let's still uh okay i might i'm
 
 1027
 00:42:57,200 --> 00:43:01,520
-i may be blowing in my own trumpet but
+I may be blowing in my own trumpet but
 
 1028
 00:42:59,760 --> 00:43:05,040
@@ -4116,7 +4116,7 @@ uh some 20 20 plus years ago
 
 1030
 00:43:05,040 --> 00:43:08,319
-mr michelle prabhu and i published the
+Michelle Prevot and I published the
 
 1031
 00:43:07,760 --> 00:43:12,319
@@ -4140,11 +4140,11 @@ with two
 
 1036
 00:43:19,359 --> 00:43:27,839
-what was that published we published
+[Lisa] what was that published [Andrei] we published
 
 1037
 00:43:22,400 --> 00:43:27,839
-the the paper in ggi in 98
+the the paper in JGI in '98
 
 1038
 00:43:31,280 --> 00:43:34,800
@@ -4168,7 +4168,7 @@ have very
 
 1043
 00:43:41,760 --> 00:43:45,760
-very curved negative right plots on
+very curved Nagata-Arai right plots on
 
 1044
 00:43:44,880 --> 00:43:48,640
@@ -4176,7 +4176,7 @@ original
 
 1045
 00:43:45,760 --> 00:43:50,480
-samples and then you get uh almost
+samples and then you get almost
 
 1046
 00:43:48,640 --> 00:43:54,560
@@ -4184,7 +4184,7 @@ straight lines when you do the
 
 1047
 00:43:50,480 --> 00:43:59,200
-chile experiment on the turtle theory
+Thellier experiment on the total TRM
 
 1048
 00:43:54,560 --> 00:44:02,720
@@ -4192,7 +4192,7 @@ and we we did the we went a little bit
 
 1049
 00:43:59,200 --> 00:44:06,480
-further on on the rock mug line and
+further on on the rock mag line and
 
 1050
 00:44:02,720 --> 00:44:10,000
@@ -4252,15 +4252,15 @@ this clearly irreversible behavior of
 
 1064
 00:44:48,160 --> 00:44:52,240
-history
+histeresis
 
 1065
 00:44:48,800 --> 00:44:54,319
-of high studies and our
+of histeresis and our
 
 1066
 00:44:52,240 --> 00:44:55,520
-our interpretation with michelle was
+our interpretation with Michelle was
 
 1067
 00:44:54,319 --> 00:44:58,480
@@ -4268,7 +4268,7 @@ that uh
 
 1068
 00:44:55,520 --> 00:44:59,839
-when you hit this uh when you hit the
+when you heat this uh when you heat the
 
 1069
 00:44:58,480 --> 00:45:04,160
@@ -4288,7 +4288,7 @@ controls
 
 1073
 00:45:07,440 --> 00:45:14,240
-the core civility and that's
+the coercitivity and that's
 
 1074
 00:45:11,359 --> 00:45:15,599
@@ -4312,7 +4312,7 @@ perhaps this
 
 1079
 00:45:20,720 --> 00:45:27,280
-[Music]
+
 
 1080
 00:45:22,960 --> 00:45:29,520
@@ -4340,7 +4340,7 @@ properly
 
 1086
 00:45:37,599 --> 00:45:43,839
-so maybe brennan can get a seminar in uh
+[Lisa] so maybe Brendan can get a seminar in uh
 
 1087
 00:45:41,280 --> 00:45:45,200
@@ -4356,15 +4356,15 @@ because he's about to submit a
 
 1090
 00:45:46,800 --> 00:45:51,359
-manuscript which i
+manuscript which I
 
 1091
 00:45:48,319 --> 00:45:54,720
-i think may be
+I think may be
 
 1092
 00:45:51,359 --> 00:45:58,319
-a way forward yeah of course and
+a way forward [Andrei] yeah of course and
 
 1093
 00:45:54,720 --> 00:46:01,520
@@ -4388,7 +4388,7 @@ largest
 
 1098
 00:46:08,480 --> 00:46:14,640
-mrsms ratio
+Mrs/Ms ratio
 
 1099
 00:46:11,520 --> 00:46:17,920
@@ -4400,7 +4400,7 @@ in the single domain verge
 
 1101
 00:46:17,920 --> 00:46:24,079
-i don't know yeah and the coercivity was
+[Lisa]i don't know yeah [Andrei] and the coercivity was
 
 1102
 00:46:21,359 --> 00:46:25,599
@@ -4420,7 +4420,7 @@ uh we did see the we did see the
 
 1106
 00:46:34,079 --> 00:46:41,599
-failed ptrm checks at the uh
+failed pTRM checks at the uh
 
 1107
 00:46:38,160 --> 00:46:42,480
@@ -4435,12 +4435,11 @@ developed
 because well
 
 1110
-00:46:46,000 --> 00:46:52,240
-okay yeah richard has a question now
+[Lisa] okay yeah richard has a question now
 
 1111
 00:46:50,319 --> 00:46:54,160
-yeah i agree we'll move on to it
+[Greig] yeah i agree we'll move on to it
 
 1112
 00:46:52,240 --> 00:46:57,280
@@ -4448,7 +4447,7 @@ otherwise we'll lose all of our time
 
 1113
 00:46:54,160 --> 00:46:59,839
-yeah okay um okay so
+[Richard] yeah okay um okay so
 
 1114
 00:46:57,280 --> 00:47:01,280
@@ -4496,11 +4495,11 @@ um is this only volcanic
 
 1125
 00:47:20,880 --> 00:47:27,920
-so are kim
+so archeom.
 
 1126
 00:47:24,480 --> 00:47:28,880
-but i i do think that to feel the
+[Lisa] but I do think that to feel the
 
 1127
 00:47:27,920 --> 00:47:30,720
@@ -4520,7 +4519,7 @@ uh good results that have straight
 
 1131
 00:47:35,680 --> 00:47:40,160
-era plots that's what it shows so i i'm
+Arai plots that's what it shows so I'm
 
 1132
 00:47:38,960 --> 00:47:43,520
@@ -4540,7 +4539,7 @@ databases that do not include the
 
 1136
 00:47:49,119 --> 00:47:54,000
-original measurements
+original measurements?
 
 1137
 00:47:50,960 --> 00:47:55,359
@@ -4548,11 +4547,11 @@ what confidence can we have in those
 
 1138
 00:47:54,000 --> 00:47:57,359
-results
+results?
 
 1139
 00:47:55,359 --> 00:47:58,559
-like for example the pint database that
+like for example the PINT database that
 
 1140
 00:47:57,359 --> 00:48:01,599
@@ -4580,7 +4579,7 @@ so um uh
 
 1146
 00:48:12,319 --> 00:48:16,480
-i'm advocating for people putting their
+I'm advocating for people putting their
 
 1147
 00:48:14,800 --> 00:48:18,880
@@ -4588,7 +4587,7 @@ data into the database
 
 1148
 00:48:16,480 --> 00:48:20,000
-and the good news is that if brendan's
+and the good news is that if Brendan's
 
 1149
 00:48:18,880 --> 00:48:23,200
@@ -4620,7 +4619,7 @@ archaeological artifacts um
 
 1156
 00:48:36,559 --> 00:48:40,880
-despi was on uh she can attest to the
+Despina was on uh she can attest to the
 
 1157
 00:48:39,839 --> 00:48:42,960
@@ -4636,7 +4635,7 @@ archaeomagnetic data are really
 
 1160
 00:48:44,880 --> 00:48:48,160
-great they're straight eri plots they're
+great they're straight Arai plots they're
 
 1161
 00:48:47,440 --> 00:48:51,359
@@ -4648,7 +4647,7 @@ have this problem it's only when you get
 
 1163
 00:48:51,359 --> 00:48:55,359
-back further further in time and i would
+back further further in time and I would
 
 1164
 00:48:53,359 --> 00:49:00,000
@@ -4676,7 +4675,7 @@ and so you can get good results from
 
 1170
 00:49:07,520 --> 00:49:13,760
-lava flows as shown by cromwell
+lava flows as shown by Cromwell
 
 1171
 00:49:10,720 --> 00:49:17,440
@@ -4688,7 +4687,7 @@ for the last 30 30 years
 
 1173
 00:49:17,440 --> 00:49:21,359
-20 long time 20 since 1990 i started
+20 long time 20 since 1990 I started
 
 1174
 00:49:20,240 --> 00:49:25,040
@@ -4700,7 +4699,7 @@ single domain material um
 
 1176
 00:49:25,040 --> 00:49:27,760
-i'm very pleased that you're not
+[Richard] i'm very pleased that you're not
 
 1177
 00:49:26,319 --> 00:49:29,200
@@ -4716,7 +4715,7 @@ own um
 
 1180
 00:49:30,559 --> 00:49:36,240
-so that's very good to hear i'm not
+so that's very good to hear [Lisa] I'm not
 
 1181
 00:49:33,599 --> 00:49:37,440
@@ -4724,7 +4723,7 @@ throwing away the glassy stuff although
 
 1182
 00:49:36,240 --> 00:49:41,119
-really bowls might
+Julie Bowles might
 
 1183
 00:49:37,440 --> 00:49:43,599
@@ -4732,7 +4731,7 @@ for me for some other reason
 
 1184
 00:49:41,119 --> 00:49:45,359
-i don't know no but i mean i can
+[Richard] i don't know no but I mean I can
 
 1185
 00:49:43,599 --> 00:49:47,040
@@ -4748,7 +4747,7 @@ you were going through your conditions
 
 1188
 00:49:48,800 --> 00:49:52,400
-i have to admit i was less worried about
+I have to admit I was less worried about
 
 1189
 00:49:50,319 --> 00:49:53,119
@@ -4760,7 +4759,7 @@ at least
 
 1191
 00:49:53,119 --> 00:49:56,480
-accurate i didn't care so much because
+accurate I didn't care so much because
 
 1192
 00:49:55,599 --> 00:49:58,960
@@ -4792,7 +4791,7 @@ that's right so that's
 
 1199
 00:50:19,839 --> 00:50:24,000
-give me another five years and maybe
+[Lisa] give me another five years and maybe
 
 1200
 00:50:21,440 --> 00:50:27,599
@@ -4800,7 +4799,7 @@ we'll solve it
 
 1201
 00:50:24,000 --> 00:50:29,839
-um i just want to thank uh lisa again um
+[Greig] um i just want to thank uh Lisa again um
 
 1202
 00:50:27,599 --> 00:50:31,119
@@ -4812,7 +4811,7 @@ interesting stuff in there
 
 1204
 00:50:31,119 --> 00:50:34,480
-and i'm looking forward to uh some of
+and I'm looking forward to uh some of
 
 1205
 00:50:33,119 --> 00:50:36,640
@@ -4820,23 +4819,23 @@ the future stuff
 
 1206
 00:50:34,480 --> 00:50:37,680
-um as i note because you kept mentioning
+um as a note because you kept mentioning
 
 1207
 00:50:36,640 --> 00:50:39,280
-brendan's
+Brendan's
 
 1208
 00:50:37,680 --> 00:50:41,119
-method and brendan should give a
+method and Brendan should give a
 
 1209
 00:50:39,280 --> 00:50:42,400
-presentation he ate
+presentation he 
 
 1210
 00:50:41,119 --> 00:50:44,319
-bread and such actually gave a
+Brendan actually gave a
 
 1211
 00:50:42,400 --> 00:50:47,359
@@ -4844,7 +4843,7 @@ presentation as part of
 
 1212
 00:50:44,319 --> 00:50:48,400
-uh magnetic interactions um earlier uh
+uh Magnetic Interactions um earlier uh
 
 1213
 00:50:47,359 --> 00:50:51,040
@@ -4852,7 +4851,7 @@ this year
 
 1214
 00:50:48,400 --> 00:50:51,839
-um as part of magnets we recorded that
+um as part of MagNetZ we recorded that
 
 1215
 00:50:51,040 --> 00:50:55,520
@@ -4860,7 +4859,7 @@ seminar
 
 1216
 00:50:51,839 --> 00:50:57,839
-and one of my magnets duties is to
+and one of my  MagNetZ duties is to
 
 1217
 00:50:55,520 --> 00:50:59,359
@@ -4884,7 +4883,7 @@ on uh magnetic interactions um 2020 and
 
 1222
 00:51:07,119 --> 00:51:11,680
-brendan's talk and his uh pretty cool
+Brendan's talk and its a pretty cool
 
 1223
 00:51:09,440 --> 00:51:14,960
@@ -4892,7 +4891,7 @@ looking method of of correcting
 
 1224
 00:51:11,680 --> 00:51:15,599
-um some of these uh biases so i just
+um some of these uh biases so I just
 
 1225
 00:51:14,960 --> 00:51:17,760
@@ -4900,7 +4899,7 @@ want to thank
 
 1226
 00:51:15,599 --> 00:51:18,880
-uh lisa once again and you can throw up
+uh Lisa once again and you can throw up
 
 1227
 00:51:17,760 --> 00:51:21,280
@@ -4908,7 +4907,7 @@ another virtual
 
 1228
 00:51:18,880 --> 00:51:22,000
-uh round of applause for for lisa for a
+uh round of applause for for Lisa for a
 
 1229
 00:51:21,280 --> 00:51:25,200
@@ -4924,11 +4923,11 @@ and and before we um bring um today's
 
 1232
 00:51:28,640 --> 00:51:31,520
-obsession to
+session to
 
 1233
 00:51:29,599 --> 00:51:32,880
-to a close um i just want to remind
+to a close um I just want to remind
 
 1234
 00:51:31,520 --> 00:51:35,520
@@ -4988,7 +4987,7 @@ uh not be bombarded by too many um
 
 1248
 00:52:02,160 --> 00:52:05,760
-seminars um but after egu we're actually
+seminars um but after EGU we're actually
 
 1249
 00:52:05,040 --> 00:52:08,720
@@ -5000,7 +4999,7 @@ um our time slot a little bit um so that
 
 1251
 00:52:08,720 --> 00:52:13,280
-we're running in an eu
+we're running in an EU
 
 1252
 00:52:10,800 --> 00:52:14,960
@@ -5012,11 +5011,11 @@ have a chance for
 
 1254
 00:52:14,960 --> 00:52:18,319
-some of our colleagues in australia and
+some of our colleagues in Australia and
 
 1255
 00:52:16,720 --> 00:52:20,880
-china and japan
+China and Japan
 
 1256
 00:52:18,319 --> 00:52:21,760
@@ -5036,7 +5035,7 @@ they're doing
 
 1260
 00:52:25,200 --> 00:52:29,520
-um and i'll give more details about that
+um and I'll give more details about that
 
 1261
 00:52:27,440 --> 00:52:29,920
@@ -5088,7 +5087,7 @@ um and one last little mention is um
 
 1273
 00:52:53,680 --> 00:52:58,960
-up until now um our magnet seminars have
+up until now um our MagNetZ seminars have
 
 1274
 00:52:57,680 --> 00:53:00,720
@@ -5096,11 +5095,11 @@ been made available through
 
 1275
 00:52:58,960 --> 00:53:02,640
-the magic youtube channel and i want to
+the MagIC YouTube channel and I want to
 
 1276
 00:53:00,720 --> 00:53:05,680
-thank the magic team
+thank the MagIC team
 
 1277
 00:53:02,640 --> 00:53:08,160
@@ -5116,7 +5115,7 @@ dedicated
 
 1280
 00:53:09,440 --> 00:53:12,839
-magnets youtube channel where these
+MagNetZ YouTube channel where these
 
 1281
 00:53:11,119 --> 00:53:15,359
@@ -5124,7 +5123,7 @@ videos will be
 
 1282
 00:53:12,839 --> 00:53:17,760
-uploaded um well i'll send around some
+uploaded um well I'll send around some
 
 1283
 00:53:15,359 --> 00:53:18,640
@@ -5140,7 +5139,7 @@ but this will have our 2021 series
 
 1286
 00:53:22,480 --> 00:53:26,160
-and i'll have the magnetic interactions
+and I'll have the Magnetic Interactions
 
 1287
 00:53:24,720 --> 00:53:29,200
@@ -5148,7 +5147,7 @@ uh seminars as well
 
 1288
 00:53:26,160 --> 00:53:32,240
-but i'll pass those uh details around um
+but I'll pass those uh details around um
 
 1289
 00:53:29,200 --> 00:53:34,720
