@@ -340,7 +340,7 @@ can y'all see that yeah that's perfect
 
 86
 00:02:55,840 --> 00:03:03,599
-uh i think i shared the wrong screen
+uh I think I shared the wrong screen
 
 87
 00:02:59,920 --> 00:03:07,120
@@ -384,7 +384,7 @@ Santos
 
 97
 00:03:35,040 --> 00:03:39,120
-uh Brendan Cych uh Andrew Roberts
+Brendan Cych Xiang Zhao Andrew Roberts
 
 98
 00:03:38,799 --> 00:03:42,640
@@ -400,7 +400,7 @@ and um and so
 
 101
 00:03:46,080 --> 00:03:50,239
-i just i'm going to launch in without
+I just I'm going to launch in without
 
 102
 00:03:48,560 --> 00:03:51,760
@@ -412,7 +412,7 @@ beginning
 
 104
 00:03:51,760 --> 00:03:57,040
-and uh talk about i mean mostly
+and uh talk about I mean mostly
 
 105
 00:03:54,879 --> 00:03:58,319
@@ -576,7 +576,7 @@ in this case you'll get a downward bowed
 
 145
 00:05:31,360 --> 00:05:37,280
-arai plot
+Arai plot
 
 146
 00:05:34,800 --> 00:05:39,120
@@ -592,7 +592,7 @@ gained
 
 149
 00:05:39,919 --> 00:05:45,360
-and it sags below the line now
+and it sags below the line, now
 
 150
 00:05:43,360 --> 00:05:48,000
@@ -608,7 +608,7 @@ um you have um the
 
 153
 00:05:51,520 --> 00:05:59,039
-you give it a they gave remanence to
+you give it uh they gave remanence to
 
 154
 00:05:54,880 --> 00:06:00,560
@@ -660,7 +660,7 @@ temperature tails
 
 166
 00:06:24,960 --> 00:06:31,600
-and they did ery they did um
+and they did Arai they did um
 
 167
 00:06:28,880 --> 00:06:32,240
@@ -708,7 +708,7 @@ you get straighter Arai plots
 
 178
 00:06:58,160 --> 00:07:01,280
-and i didn't notice for a long time but
+and I didn't notice for a long time but
 
 179
 00:07:00,560 --> 00:07:04,400
@@ -756,7 +756,7 @@ uh shown by a few years later by
 
 190
 00:07:25,680 --> 00:07:31,039
-cross-eyed all 2003
+Krasa et al. 2003
 
 191
 00:07:28,479 --> 00:07:33,039
@@ -776,7 +776,7 @@ field the
 
 195
 00:07:36,240 --> 00:07:41,280
-the le these experiments were done in 60
+the um these experiments were done in 60
 
 196
 00:07:39,759 --> 00:07:44,160
@@ -784,7 +784,7 @@ microtesla lab fields
 
 197
 00:07:41,280 --> 00:07:46,479
-and you can see the figure on the left i
+and you can see the figure on the left I
 
 198
 00:07:44,160 --> 00:07:49,840
@@ -792,7 +792,7 @@ don't know if you can see my mouse but
 
 199
 00:07:46,479 --> 00:07:53,759
-i can't even see my mouse never mind um
+I can't even see my mouse never mind um
 
 200
 00:07:49,840 --> 00:07:55,759
@@ -856,11 +856,11 @@ just big synthetic magnetites
 
 215
 00:08:37,680 --> 00:08:45,200
-um so i um
+um so I um
 
 216
 00:08:42,479 --> 00:08:46,160
-i have been collecting data for a long
+I have been collecting data for a long
 
 217
 00:08:45,200 --> 00:08:49,519
@@ -912,7 +912,7 @@ have this hawaii 108
 
 229
 00:09:14,320 --> 00:09:21,600
-um we know the answer the answer was
+um we know the answer; the answer was
 
 230
 00:09:18,320 --> 00:09:24,640
@@ -924,7 +924,7 @@ microtesla is the correct answer
 
 232
 00:09:24,640 --> 00:09:28,959
-this hit the arai plot from the straight
+this uh the Arai plot from the straight
 
 233
 00:09:27,120 --> 00:09:32,800
@@ -940,7 +940,7 @@ flow uh the best fit line and the total
 
 236
 00:09:35,680 --> 00:09:39,920
-trm
+TRM
 
 237
 00:09:36,320 --> 00:09:40,720
@@ -960,7 +960,7 @@ you take
 
 241
 00:09:44,800 --> 00:09:50,240
-uh straight arai plots from lava flows in
+uh straight Arai plots from lava flows in
 
 242
 00:09:48,160 --> 00:09:51,120
@@ -980,7 +980,7 @@ flow you tend to get
 
 246
 00:09:55,279 --> 00:10:02,160
-an underestimate so there is a bias
+an underestimate, so there is a bias
 
 247
 00:09:58,560 --> 00:10:02,160
@@ -1020,7 +1020,7 @@ it tends to be overestimated
 
 256
 00:10:20,959 --> 00:10:24,000
-why i don't know and maybe we can figure
+why? I don't know and maybe we can figure
 
 257
 00:10:23,040 --> 00:10:27,760
@@ -1060,7 +1060,7 @@ in the Pacific Ocean
 
 266
 00:10:48,880 --> 00:10:53,279
-and um and found this and i thought
+and um and found this and I thought
 
 267
 00:10:52,000 --> 00:10:57,120
@@ -1072,7 +1072,7 @@ this was about in 2006.
 
 269
 00:10:57,200 --> 00:11:01,200
-we were talking in the community i
+we were talking in the community I
 
 270
 00:10:59,440 --> 00:11:02,240
@@ -1100,11 +1100,11 @@ blocking with unblocking and so on and
 
 276
 00:11:09,600 --> 00:11:13,920
-so forth so i thought well
+so forth so I thought well
 
 277
 00:11:11,680 --> 00:11:15,040
-why don't i just give this guy a fresh
+why don't I just give this guy a fresh
 
 278
 00:11:13,920 --> 00:11:18,480
@@ -1112,7 +1112,7 @@ TRM
 
 279
 00:11:15,040 --> 00:11:19,440
-and then do it properly but the problem
+and then do it properly. but the problem
 
 280
 00:11:18,480 --> 00:11:23,040
@@ -1192,7 +1192,7 @@ would not give
 
 299
 00:12:02,639 --> 00:12:07,360
-a good result um and i don't i did not
+a good result um and I don't I did not
 
 300
 00:12:06,079 --> 00:12:11,279
@@ -1200,7 +1200,7 @@ understand
 
 301
 00:12:07,360 --> 00:12:13,200
-why uh this happened i couldn't
+why uh this happened I couldn't
 
 302
 00:12:11,279 --> 00:12:14,480
@@ -1212,19 +1212,19 @@ old lava flows so
 
 304
 00:12:14,480 --> 00:12:23,200
-vrm is not really an option here
+VRM is not really an option here
 
 305
 00:12:18,399 --> 00:12:26,560
-and um and so i was puzzled
+and um and so I was puzzled
 
 306
 00:12:23,200 --> 00:12:29,760
-uh and i i now call this behavior
+uh and I I now call this behavior
 
 307
 00:12:26,560 --> 00:12:30,399
-fragile curvature so it's not the same
+"fragile curvature" so it's not the same
 
 308
 00:12:29,760 --> 00:12:32,160
@@ -1236,7 +1236,7 @@ that what Dunlop and Ozdemir were
 
 310
 00:12:32,160 --> 00:12:36,399
-looking at or crossovers
+looking at or Krasa
 
 311
 00:12:33,920 --> 00:12:37,519
@@ -1324,7 +1324,7 @@ these kinds of
 
 332
 00:13:30,399 --> 00:13:36,560
-samples biased and is there
+samples biased? and is there
 
 333
 00:13:34,000 --> 00:13:38,240
@@ -1344,7 +1344,7 @@ slides
 
 337
 00:13:43,519 --> 00:13:50,000
-so i i can think right now of of
+so I I can think right now of of
 
 338
 00:13:46,880 --> 00:13:52,079
@@ -1352,15 +1352,15 @@ two sources of curvature
 
 339
 00:13:50,000 --> 00:13:53,519
-one is the stuff that donal upper nurse
+one is the stuff that Dunlopt and
 
 340
 00:13:52,079 --> 00:13:59,040
-number published about
+Ozdemir published about
 
 341
 00:13:53,519 --> 00:14:01,199
-and crassa and uh those are domain walls
+and Krasa and uh those are domain walls
 
 342
 00:13:59,040 --> 00:14:04,000
@@ -1372,7 +1372,7 @@ separation of blocking and unblocking
 
 344
 00:14:04,000 --> 00:14:10,800
-and i think that um that
+and I think that um that
 
 345
 00:14:07,440 --> 00:14:13,839
@@ -1384,7 +1384,7 @@ pretty well understood maybe not but
 
 347
 00:14:13,839 --> 00:14:16,959
-um i'm not going to worry about it
+um I'm not going to worry about it
 
 348
 00:14:15,120 --> 00:14:18,320
@@ -1404,7 +1404,7 @@ fragile curvature
 
 352
 00:14:22,320 --> 00:14:27,680
-which is not reproducible it's caused as
+which is not reproducible its cause is
 
 353
 00:14:25,120 --> 00:14:29,839
@@ -1428,7 +1428,7 @@ hoping that
 
 358
 00:14:35,279 --> 00:14:39,120
-Les nagy and Wyn Williams can help me
+Les Nagy and Wyn Williams can help me
 
 359
 00:14:38,399 --> 00:14:42,639
@@ -1440,7 +1440,7 @@ what is going on um
 
 361
 00:14:42,639 --> 00:14:45,760
-and um i mean you can you can ima i've
+and um I mean you can you can ima I've
 
 362
 00:14:45,360 --> 00:14:49,199
@@ -1456,11 +1456,11 @@ um it is a serious problem
 
 365
 00:14:52,639 --> 00:14:57,600
-because i think anything that is
+because I think anything that is
 
 366
 00:14:55,680 --> 00:14:58,720
-curved right now i would be highly
+curved right now I would be highly
 
 367
 00:14:57,600 --> 00:15:01,920
@@ -1476,19 +1476,19 @@ in order to investigate this further
 
 370
 00:15:04,079 --> 00:15:10,720
-char rancher then my postdoc
+Shaar Ron Shaar then my postdoc
 
 371
 00:15:07,199 --> 00:15:12,800
-and i took a bunch of samples that were
+and I took a bunch of samples that were
 
 372
 00:15:10,720 --> 00:15:14,480
-curved curved Arai plots originally gave
+curved Arai plots originally gave
 
 373
 00:15:12,800 --> 00:15:14,880
-them fresh trms they were perfectly
+them fresh TRMs they were perfectly
 
 374
 00:15:14,480 --> 00:15:18,160
@@ -1512,7 +1512,7 @@ the lab field so
 
 379
 00:15:23,760 --> 00:15:27,199
-then Christeanne Santos was a master's
+then Christeanne Santos was a master
 
 380
 00:15:26,720 --> 00:15:30,800
@@ -1592,7 +1592,7 @@ poorly
 
 399
 00:16:15,360 --> 00:16:23,199
-behaved curved area plots so it's just a
+behaved curved Arai plots so it's just a
 
 400
 00:16:19,600 --> 00:16:24,399
@@ -1620,7 +1620,7 @@ four categories of behavior one
 
 406
 00:16:34,880 --> 00:16:40,480
-that the original trms in the upper
+that the original TRMs in the upper
 
 407
 00:16:38,720 --> 00:16:42,240
@@ -1640,7 +1640,7 @@ straight and we call those
 
 411
 00:16:46,399 --> 00:16:52,959
-straight goes to straight and that's ss
+straight goes to straight and that's SS
 
 412
 00:16:50,160 --> 00:16:54,480
@@ -1660,11 +1660,11 @@ but it's a
 
 416
 00:16:58,000 --> 00:17:02,240
-it's a it's kind of over represented
+it's a it's kind of overrepresented
 
 417
 00:16:59,839 --> 00:17:06,000
-because i thought they were straight
+because I thought they were straight
 
 418
 00:17:02,240 --> 00:17:08,079
@@ -1700,7 +1700,7 @@ and so that we call the straight goes to
 
 426
 00:17:20,959 --> 00:17:23,600
-curve i'm not going to focus a lot on
+curve I'm not going to focus a lot on
 
 427
 00:17:22,640 --> 00:17:26,959
@@ -1728,7 +1728,7 @@ on the right hand side top row
 
 433
 00:17:39,360 --> 00:17:45,360
-and then when we gave them a fresh trm
+and then when we gave them a fresh TRM
 
 434
 00:17:43,200 --> 00:17:47,280
@@ -1736,7 +1736,7 @@ in the lab they became straight
 
 435
 00:17:45,360 --> 00:17:50,640
-according to greig's criterion you can
+according to Greig's criterion you can
 
 436
 00:17:47,280 --> 00:17:53,520
@@ -1744,7 +1744,7 @@ see that it really did straighten out
 
 437
 00:17:50,640 --> 00:17:55,840
-and that's what i'm calling fragile
+and that's what I'm calling fragile
 
 438
 00:17:53,520 --> 00:17:59,360
@@ -1772,7 +1772,7 @@ they're much straighter but they're
 
 444
 00:18:10,240 --> 00:18:13,200
-still curved according to greig's
+still curved according to Greig's
 
 445
 00:18:12,000 --> 00:18:15,760
@@ -1788,11 +1788,11 @@ behavior
 
 448
 00:18:17,280 --> 00:18:23,520
-so then um christeanne and i
+so then um Christeanne and I
 
 449
 00:18:21,039 --> 00:18:24,559
-and i pulled in some others to help me
+and I pulled in some others to help me
 
 450
 00:18:23,520 --> 00:18:27,520
@@ -1868,7 +1868,7 @@ sister specimens from each of those
 
 468
 00:19:00,640 --> 00:19:05,520
-samples that i just
+samples that I just
 
 469
 00:19:02,559 --> 00:19:05,520
@@ -1880,7 +1880,7 @@ and we uh gave them um
 
 471
 00:19:09,600 --> 00:19:16,080
-identical uh we we gave them a trm and a
+identical uh we we gave them a TRM and a
 
 472
 00:19:13,679 --> 00:19:18,559
@@ -1900,7 +1900,7 @@ so a 70 microtesla lab field parallel to
 
 476
 00:19:24,559 --> 00:19:28,000
-the remnants
+the remanence
 
 477
 00:19:25,280 --> 00:19:29,120
@@ -1948,7 +1948,7 @@ same positions and so
 
 488
 00:19:52,559 --> 00:20:00,320
-we um for the study the tokusat 2021
+we um for the study the Tauxe et al. 2021
 
 489
 00:19:56,559 --> 00:20:03,679
@@ -1960,7 +1960,7 @@ and um and did some rock mag
 
 491
 00:20:03,679 --> 00:20:07,840
-on them to try to characterize them i
+on them to try to characterize them I
 
 492
 00:20:06,000 --> 00:20:10,400
@@ -1968,7 +1968,7 @@ did have a whole set of slides to
 
 493
 00:20:07,840 --> 00:20:13,280
-explain these figures but i'm just gonna
+explain these figures but I'm just gonna
 
 494
 00:20:10,400 --> 00:20:15,200
@@ -1980,11 +1980,11 @@ you are familiar with the conventional
 
 496
 00:20:15,200 --> 00:20:20,720
-forc diagrams
+FORC diagrams
 
 497
 00:20:17,840 --> 00:20:21,440
-so the top one is a conventional forc
+so the top one is a conventional FORC
 
 498
 00:20:20,720 --> 00:20:25,679
@@ -1992,7 +1992,7 @@ diagram
 
 499
 00:20:21,440 --> 00:20:28,159
-the top left of one of the ss
+the top left of one of the SS
 
 500
 00:20:25,679 --> 00:20:30,080
@@ -2004,11 +2004,11 @@ domain and they look single domain right
 
 502
 00:20:30,080 --> 00:20:34,240
-i mean sure they're single domain and
+I mean sure they're single domain and
 
 503
 00:20:32,960 --> 00:20:37,520
-then the sc
+then the SC
 
 504
 00:20:34,240 --> 00:20:42,960
@@ -2024,7 +2024,7 @@ um distribution in their conventional
 
 507
 00:20:45,840 --> 00:20:49,200
-forc
+FORC
 
 508
 00:20:46,960 --> 00:20:50,240
@@ -2044,39 +2044,39 @@ multi-domain in there
 
 512
 00:20:54,320 --> 00:21:00,400
-then we did the remnants forc and
+then we did the remanence FORV and
 
 513
 00:20:57,360 --> 00:21:03,039
-the transient forc and the
+the transient FORC and the
 
 514
 00:21:00,400 --> 00:21:04,799
-induced forc and the one on the right is
+induced FORC and the one on the right is
 
 515
 00:21:03,039 --> 00:21:08,000
-this induced forc that
+this induced FORC that
 
 516
 00:21:04,799 --> 00:21:09,360
-shenzhou came up with um
+Xiang Zhao came up with um
 
 517
 00:21:08,000 --> 00:21:11,679
-i think it was him it might have been
+I think it was him it might have been
 
 518
 00:21:09,360 --> 00:21:15,039
-andy i don't know one of those two
+Andy I don't know one of those two
 
 519
 00:21:11,679 --> 00:21:18,080
-um and the induced forc
+um and the induced FORC
 
 520
 00:21:15,039 --> 00:21:19,200
-has has some features and i don't
+has has some features and I don't
 
 521
 00:21:18,080 --> 00:21:23,280
@@ -2128,7 +2128,7 @@ or multi-axial large um
 
 533
 00:21:46,000 --> 00:21:50,240
-i mean i think we call them casually
+I mean I think we call them casually
 
 534
 00:21:48,159 --> 00:21:53,960
@@ -2140,7 +2140,7 @@ some of these weird bizarre um
 
 536
 00:21:53,960 --> 00:21:58,640
-multi-axial vortex states i don't know
+multi-axial vortex states I don't know
 
 537
 00:21:57,919 --> 00:22:00,559
@@ -2172,11 +2172,11 @@ coarsest grains
 
 544
 00:22:10,320 --> 00:22:14,559
-now these two middle eye forks
+now these two middle iFORCS
 
 545
 00:22:14,640 --> 00:22:17,760
-have a feature which i haven't seen
+have a feature which I haven't seen
 
 546
 00:22:16,240 --> 00:22:21,280
@@ -2184,11 +2184,11 @@ described in the literature
 
 547
 00:22:17,760 --> 00:22:24,480
-yet it's i've called it n plus
+yet it's I've called it n plus
 
 548
 00:22:21,280 --> 00:22:26,480
-so it's a double slope of negative you
+so it's a double lobe of negative you
 
 549
 00:22:24,480 --> 00:22:28,720
@@ -2220,19 +2220,19 @@ um in the in uh in the zone
 
 556
 00:22:40,480 --> 00:22:48,559
-uh one and three of the i forc
+uh one and three of the iFORC
 
 557
 00:22:44,720 --> 00:22:52,640
-and so i interpret this to mean that
+and so I interpret this to mean that
 
 558
 00:22:48,559 --> 00:22:55,840
-ss are single domain mostly
+SS are single domain mostly
 
 559
 00:22:52,640 --> 00:22:59,039
-and cc is a broad
+and CC is a broad
 
 560
 00:22:55,840 --> 00:23:01,200
@@ -2240,7 +2240,7 @@ span of grain sizes between
 
 561
 00:22:59,039 --> 00:23:04,000
-all the way from super paramagnetic up
+all the way from superparamagnetic up
 
 562
 00:23:01,200 --> 00:23:07,039
@@ -2256,7 +2256,7 @@ and then um the two middle ones
 
 565
 00:23:10,480 --> 00:23:15,520
-i think are intermediate grain sizes
+I think are intermediate grain sizes
 
 566
 00:23:13,200 --> 00:23:18,640
@@ -2276,7 +2276,7 @@ up to single vortex and and um
 
 570
 00:23:26,080 --> 00:23:31,600
-and i i don't know any more than that
+and I I don't know any more than that
 
 571
 00:23:28,960 --> 00:23:35,520
@@ -2316,11 +2316,11 @@ n
 
 580
 00:23:50,720 --> 00:23:59,200
-plus what i'm calling a butterfly
+plus what I'm calling a butterfly
 
 581
 00:23:54,400 --> 00:23:59,200
-uh lobe in the eye forc
+uh lobe in the iFORC
 
 582
 00:23:59,279 --> 00:24:03,360
@@ -2340,7 +2340,7 @@ curvature has something to do
 
 586
 00:24:09,840 --> 00:24:13,679
-with um i mean the Neel state is you
+with um I mean the Neel state is you
 
 587
 00:24:12,400 --> 00:24:16,000
@@ -2380,7 +2380,7 @@ pointed out that there's many more
 
 596
 00:24:32,080 --> 00:24:36,960
-states um i mean Wynn was one of the
+states um I mean Wynn was one of the
 
 597
 00:24:35,039 --> 00:24:38,320
@@ -2396,7 +2396,7 @@ and along with uh Dunlop and
 
 600
 00:24:41,840 --> 00:24:47,039
-um and my buddy Neil bertram
+um and my buddy Neil Bertram
 
 601
 00:24:44,880 --> 00:24:47,039
@@ -2440,7 +2440,7 @@ and uh that if you have a multiplicity
 
 611
 00:25:10,320 --> 00:25:14,799
-of choice i call it it's sort of the
+of choice I call it it's sort of the
 
 612
 00:25:12,799 --> 00:25:17,279
@@ -2516,15 +2516,15 @@ is uh does fragile curvature increase
 
 630
 00:25:56,320 --> 00:26:00,159
-with time and
+with time? and
 
 631
 00:25:57,200 --> 00:26:02,159
-two are data from curved error plots
+two are data from curved Arai plots
 
 632
 00:26:00,159 --> 00:26:04,400
-generally biased
+generally biased?
 
 633
 00:26:02,159 --> 00:26:06,400
@@ -2536,7 +2536,7 @@ this because this is
 
 635
 00:26:06,400 --> 00:26:12,720
-most of the data in the pint database
+most of the data in the PINT database
 
 636
 00:26:09,520 --> 00:26:14,320
@@ -2552,11 +2552,11 @@ about the ancient magnetic field we have
 
 639
 00:26:16,240 --> 00:26:22,559
-to solve this problem
+to solve this problem.
 
 640
 00:26:19,200 --> 00:26:26,000
-so does curvature change with time um
+so does curvature change with time?
 
 641
 00:26:22,559 --> 00:26:26,640
@@ -2568,11 +2568,11 @@ estimates
 
 643
 00:26:26,640 --> 00:26:34,720
-of curvature in the fresh trms
+of curvature in the fresh TRMs
 
 644
 00:26:30,320 --> 00:26:37,840
-from the santos study the the 2019 study
+from the Santos study the the 2019 study
 
 645
 00:26:34,720 --> 00:26:38,400
@@ -2612,7 +2612,7 @@ curve there which are the
 
 654
 00:26:57,840 --> 00:27:04,400
-ss samples but
+SS samples but
 
 655
 00:27:01,039 --> 00:27:08,320
@@ -2620,7 +2620,7 @@ it changed a lot for the
 
 656
 00:27:04,400 --> 00:27:11,360
-cc and um
+CC and um
 
 657
 00:27:08,320 --> 00:27:14,559
@@ -2628,11 +2628,11 @@ um and the um
 
 658
 00:27:11,360 --> 00:27:18,240
-cs and the sc to some extent
+CS and the SC to some extent
 
 659
 00:27:14,559 --> 00:27:20,159
-yes so um those the x axes are the same
+yes so um those the x-axes are the same
 
 660
 00:27:18,240 --> 00:27:22,720
@@ -2640,7 +2640,7 @@ on both of those plots
 
 661
 00:27:20,159 --> 00:27:25,279
-and so i can say i think with some
+and so I can say I think with some
 
 662
 00:27:22,720 --> 00:27:28,480
@@ -2668,7 +2668,7 @@ and curved on the right
 
 668
 00:27:42,880 --> 00:27:46,480
-i hope you can't hear the screaming in
+I hope you can't hear the screaming in
 
 669
 00:27:44,799 --> 00:27:48,080
@@ -2700,7 +2700,7 @@ by any kind of viscous theory that
 
 676
 00:28:01,919 --> 00:28:07,360
-involves an al theory so
+involves Neel theory so
 
 677
 00:28:04,159 --> 00:28:10,320
@@ -2712,15 +2712,15 @@ then the then the critical question is
 
 679
 00:28:10,320 --> 00:28:15,279
-is what i
+is what I
 
 680
 00:28:11,120 --> 00:28:17,440
-said uh true i said in the beginning
+said uh true I said in the beginning
 
 681
 00:28:15,279 --> 00:28:19,679
-i started the talk by saying i think
+I started the talk by saying I think
 
 682
 00:28:17,440 --> 00:28:23,279
@@ -2744,7 +2744,7 @@ uh samples perform
 
 687
 00:28:30,399 --> 00:28:37,600
-so um i lumped all the
+so um I lumped all the
 
 688
 00:28:33,679 --> 00:28:41,520
@@ -2752,7 +2752,7 @@ uh fresh and aged results
 
 689
 00:28:37,600 --> 00:28:44,960
-the fresh results from the santos 2019
+the fresh results from the Santos 2019
 
 690
 00:28:41,520 --> 00:28:48,159
@@ -2772,7 +2772,7 @@ was 70
 
 694
 00:28:52,320 --> 00:28:55,919
-as i said and you can see that there is
+as I said and you can see that there is
 
 695
 00:28:54,880 --> 00:28:57,760
@@ -2788,11 +2788,11 @@ only five microtesla lisa
 
 698
 00:28:59,760 --> 00:29:04,080
-don't worry about it but i said this is
+don't worry about it but I said this is
 
 699
 00:29:01,440 --> 00:29:07,679
-only two years come on
+only two years, come on!
 
 700
 00:29:04,080 --> 00:29:13,120
@@ -2816,7 +2816,7 @@ which is also biased
 
 705
 00:29:19,360 --> 00:29:24,720
-and if you take the straight uh eri
+and if you take the straight Arai
 
 706
 00:29:22,559 --> 00:29:26,159
@@ -2840,7 +2840,7 @@ associated with
 
 711
 00:29:34,320 --> 00:29:37,360
-curved arrow plots
+curved Arai plots
 
 712
 00:29:37,919 --> 00:29:45,120
@@ -2848,7 +2848,7 @@ and um so now um
 
 713
 00:29:41,840 --> 00:29:48,159
-do i have time to keep going greg
+do I have time to keep going Greig
 
 714
 00:29:45,120 --> 00:29:48,880
@@ -2872,7 +2872,7 @@ um and here are some ideas whoops
 
 719
 00:29:55,679 --> 00:30:02,320
-um you could do ltd shaw method
+um you could do LTD-shaw method
 
 720
 00:29:59,200 --> 00:30:04,559
@@ -2884,7 +2884,7 @@ multi-domain contribution
 
 722
 00:30:04,559 --> 00:30:09,039
-and yuji yamamoto i gave him one of the
+and Yuhji Yamamoto I gave him one of the
 
 723
 00:30:07,200 --> 00:30:12,159
@@ -2892,15 +2892,15 @@ sets of samples which had been
 
 724
 00:30:09,039 --> 00:30:15,200
-aged at the time i think four years
+aged at the time I think four years
 
 725
 00:30:12,159 --> 00:30:18,240
-and his method i can he's
+and his method I can he's
 
 726
 00:30:15,200 --> 00:30:19,679
-writing up the paper i think but
+writing up the paper I think but
 
 727
 00:30:18,240 --> 00:30:22,240
@@ -2916,15 +2916,15 @@ the same
 
 730
 00:30:23,200 --> 00:30:26,480
-samples that i do if i use greg
+samples that i do if i use Greig
 
 731
 00:30:25,760 --> 00:30:28,480
-patterson's
+Paterson's
 
 732
 00:30:26,480 --> 00:30:30,240
-curvature criterion to say okay i'm not
+curvature criterion to say okay I'm not
 
 733
 00:30:28,480 --> 00:30:33,440
@@ -2936,7 +2936,7 @@ results that's what the
 
 735
 00:30:33,440 --> 00:30:38,960
-cromwell criteria does um
+Cromwell criteria does um
 
 736
 00:30:36,799 --> 00:30:40,799
@@ -2956,7 +2956,7 @@ because he just chucks them out the way
 
 740
 00:30:45,279 --> 00:30:49,760
-i do
+I do
 
 741
 00:30:47,039 --> 00:30:51,039
@@ -2984,7 +2984,7 @@ to
 
 747
 00:31:02,880 --> 00:31:07,039
-thomas bernt that maybe a fragile
+Thomas Bernt that maybe a fragile
 
 748
 00:31:06,159 --> 00:31:10,480
@@ -3000,7 +3000,7 @@ things i've been calling the bad boys
 
 751
 00:31:13,360 --> 00:31:19,679
-maybe if we af demagnetized
+maybe if we AF demagnetize
 
 752
 00:31:16,399 --> 00:31:21,760
@@ -3016,7 +3016,7 @@ measurement we just af
 
 755
 00:31:23,279 --> 00:31:28,320
-at 10 micro melee tesla maybe that
+at 10 milli tesla maybe that
 
 756
 00:31:26,480 --> 00:31:31,440
@@ -3036,7 +3036,7 @@ and correct for it and that's the work
 
 760
 00:31:33,760 --> 00:31:37,039
-of brendan siegen i'm not going to talk
+of Brendan Cych I'm not going to talk
 
 761
 00:31:35,919 --> 00:31:39,760
@@ -3044,23 +3044,23 @@ about that because it's
 
 762
 00:31:37,039 --> 00:31:42,080
-i'm going to he's working on a way to
+I'm going to he's working on a way to
 
 763
 00:31:39,760 --> 00:31:45,519
-get around this that i think might work
+get around this that I think might work
 
 764
 00:31:42,080 --> 00:31:49,200
-i'm pretty excited so
+I'm pretty excited so
 
 765
 00:31:45,519 --> 00:31:51,120
-so um i um
+so um I um
 
 766
 00:31:49,200 --> 00:31:53,679
-did some of these things so i'm going to
+did some of these things so I'm going to
 
 767
 00:31:51,120 --> 00:31:55,840
@@ -3076,11 +3076,11 @@ approach it was first proposed by
 
 770
 00:31:57,679 --> 00:32:04,559
-hoffman ken hoffman in 1989
+Hoffman ken Hoffman in 1989
 
 771
 00:32:01,919 --> 00:32:05,200
-and then deckers and bernal uh refined
+and then Dekkers and Bohnel uh refined
 
 772
 00:32:04,559 --> 00:32:08,080
@@ -3092,7 +3092,7 @@ and their title is reliable absolute
 
 774
 00:32:08,080 --> 00:32:11,039
-pale intensity is independent of
+paleointensity is independent of
 
 775
 00:32:09,360 --> 00:32:12,480
@@ -3104,7 +3104,7 @@ a good place to start
 
 777
 00:32:12,480 --> 00:32:16,399
-then fabian and leonhardt uh refined it
+then Fabian and Leonhardt uh refined it
 
 778
 00:32:15,279 --> 00:32:18,960
@@ -3124,7 +3124,7 @@ and so um let's try those out
 
 782
 00:32:25,039 --> 00:32:30,240
-on one of the sets of age specimens so
+on one of the sets of aged specimens so
 
 783
 00:32:28,000 --> 00:32:35,039
@@ -3132,7 +3132,7 @@ here
 
 784
 00:32:30,240 --> 00:32:38,000
-i took uh one batch and applied
+I took uh one batch and applied
 
 785
 00:32:35,039 --> 00:32:38,000
@@ -3140,7 +3140,7 @@ the um
 
 786
 00:32:38,240 --> 00:32:45,360
-did did the decker's bernal approach
+did did the Dekkers Bohnel approach
 
 787
 00:32:42,080 --> 00:32:48,880
@@ -3148,7 +3148,7 @@ to uh this the upper left
 
 788
 00:32:45,360 --> 00:32:50,240
-is decker's bernal on our ss sample so
+is Dekkers Bohnel on our ss sample so
 
 789
 00:32:48,880 --> 00:32:53,679
@@ -3184,7 +3184,7 @@ and these are the single domain ones
 
 797
 00:33:06,720 --> 00:33:10,559
-then if you do the fabian and leonhardt
+then if you do the Fabian and Leonhardt
 
 798
 00:33:08,840 --> 00:33:14,480
@@ -3216,15 +3216,15 @@ curved um ones that's pretty accurate
 
 805
 00:33:32,399 --> 00:33:35,919
-on the decker's bernal but then when you
+on the Dekkers Bohnel but then when you
 
 806
 00:33:34,559 --> 00:33:39,039
-apply the fabian
+apply the Fabian
 
 807
 00:33:35,919 --> 00:33:42,720
-leonhardt correction it's inaccurate
+Leonhardt correction it's inaccurate
 
 808
 00:33:39,039 --> 00:33:43,760
@@ -3236,11 +3236,11 @@ sizes
 
 810
 00:33:43,760 --> 00:33:50,559
-the decker's bernal method
+the Dekkers Bohnel method
 
 811
 00:33:47,200 --> 00:33:53,120
-on the the cs samples
+on the the CS samples
 
 812
 00:33:50,559 --> 00:33:54,559
@@ -3252,7 +3252,7 @@ the right answer but it's
 
 814
 00:33:54,559 --> 00:33:58,880
-extremely imprecise of course i suppose
+extremely imprecise of course I suppose
 
 815
 00:33:57,279 --> 00:34:00,960
@@ -3264,7 +3264,7 @@ try to tamp it down
 
 817
 00:34:00,960 --> 00:34:04,399
-and when you do the fabian and leonhardt
+and when you do the Fabian and Leonhardt
 
 818
 00:34:03,760 --> 00:34:06,720
@@ -3284,15 +3284,15 @@ so um the
 
 822
 00:34:11,200 --> 00:34:18,320
-the curvature ones uh
+the curvatured ones uh
 
 823
 00:34:14,399 --> 00:34:22,159
-the the coarsest grain ones the cc's
+the the coarsest grain ones the CCs
 
 824
 00:34:18,320 --> 00:34:25,679
-um the decker's bernal approach
+um the Dekkers Bohnel  approach
 
 825
 00:34:22,159 --> 00:34:29,040
@@ -3304,11 +3304,11 @@ um it's very imprecise and um
 
 827
 00:34:29,040 --> 00:34:33,440
-but when you apply the decker's bernal
+but when you apply the Dekkers Bohnel 
 
 828
 00:34:31,280 --> 00:34:34,800
-the fabian leonhardt correction you get
+the Fabian Leonhardt correction you get
 
 829
 00:34:33,440 --> 00:34:37,200
@@ -3336,7 +3336,7 @@ were the things on the lower um lower
 
 835
 00:34:46,480 --> 00:34:54,800
-row there so maybe there's another way
+row there, so maybe there's another way
 
 836
 00:34:50,240 --> 00:34:58,560
@@ -3344,15 +3344,15 @@ um uh we uh
 
 837
 00:34:54,800 --> 00:35:01,920
-and that is to do this af izzy uh
+and that is to do this AF-IZZI uh
 
 838
 00:34:58,560 --> 00:35:03,440
-technique and so i did a bunch or
+technique and so I did a bunch or
 
 839
 00:35:01,920 --> 00:35:06,480
-christiane did a bunch
+Christeanne did a bunch
 
 840
 00:35:03,440 --> 00:35:10,240
@@ -3380,7 +3380,7 @@ and so you can see on the top row
 
 846
 00:35:19,520 --> 00:35:24,880
-that's the results of our af izzy
+that's the results of our AF-IZZI
 
 847
 00:35:22,560 --> 00:35:25,760
@@ -3392,15 +3392,15 @@ side
 
 849
 00:35:25,760 --> 00:35:33,680
-as a curved went curved this af
+as a curved went curved this AF
 
 850
 00:35:28,960 --> 00:35:37,200
-izzy did not cure the curvature
+IZZI did not cure the curvature
 
 851
 00:35:33,680 --> 00:35:39,520
-and uh and i was hoping it would
+and uh and I was hoping it would
 
 852
 00:35:37,200 --> 00:35:40,400
@@ -3412,11 +3412,11 @@ it's still
 
 854
 00:35:40,400 --> 00:35:48,480
-and so is it still biased
+and so is it still biased?
 
 855
 00:35:45,119 --> 00:35:52,000
-so af izzy um here
+so AF-IZZI um here
 
 856
 00:35:48,480 --> 00:35:52,960
@@ -3432,11 +3432,11 @@ left hand side the curve the
 
 859
 00:35:56,800 --> 00:36:02,240
-results of af izzy of course these were
+results of AF-IZZI of course these were
 
 860
 00:36:00,480 --> 00:36:04,160
-there's a i mean there's a technical
+there's a I mean there's a technical
 
 861
 00:36:02,240 --> 00:36:05,760
@@ -3456,11 +3456,11 @@ there's a slight difference
 
 865
 00:36:09,520 --> 00:36:14,000
-however it seems pretty clear that af
+however it seems pretty clear that AF
 
 866
 00:36:12,560 --> 00:36:18,720
-izzy
+-IZZI
 
 867
 00:36:14,000 --> 00:36:21,839
@@ -3472,7 +3472,7 @@ in all cases and
 
 869
 00:36:21,839 --> 00:36:28,240
-the total trms are
+the total TRMs are
 
 870
 00:36:25,119 --> 00:36:32,320
@@ -3488,7 +3488,7 @@ biased high so
 
 873
 00:36:36,320 --> 00:36:40,400
-i don't know uh and with the plain izzy
+I don't know uh and with the plain IZZI
 
 874
 00:36:39,920 --> 00:36:43,520
@@ -3500,7 +3500,7 @@ the curved results were biased low
 
 876
 00:36:43,520 --> 00:36:47,599
-so maybe five milli teslas is better i
+so maybe five milli tesla is better I
 
 877
 00:36:47,119 --> 00:36:51,040
@@ -3508,11 +3508,11 @@ don't know
 
 878
 00:36:47,599 --> 00:36:53,920
-but um i'm i'm now uh over
+but um I'm I'm now uh over
 
 879
 00:36:51,040 --> 00:36:54,320
-curved results and so um what i want to
+curved results and so um what I want to
 
 880
 00:36:53,920 --> 00:36:57,760
@@ -3520,7 +3520,7 @@ do
 
 881
 00:36:54,320 --> 00:37:00,960
-is to encourage uh brendan
+is to encourage uh Brendan Cych
 
 882
 00:36:57,760 --> 00:37:05,040
@@ -3528,7 +3528,7 @@ to work on on his idea
 
 883
 00:37:00,960 --> 00:37:08,160
-of how to fix this so stay tuned i'm
+of how to fix this so stay tuned I'm
 
 884
 00:37:05,040 --> 00:37:11,359
@@ -3540,11 +3540,11 @@ right now okay
 
 886
 00:37:11,359 --> 00:37:13,839
-questions
+questions?
 
 887
 00:37:14,480 --> 00:37:19,200
-excellent thank you very much lisa that
+excellent thank you very much Lisa that
 
 888
 00:37:16,160 --> 00:37:20,240
@@ -3564,11 +3564,11 @@ background
 
 892
 00:37:22,400 --> 00:37:27,440
-um i'll just ask everybody to join me in
+um I'll just ask everybody to join me in
 
 893
 00:37:25,440 --> 00:37:28,880
-a virtual round of applause for lisa you
+a virtual round of applause for Lisa you
 
 894
 00:37:27,440 --> 00:37:30,400
@@ -3584,7 +3584,7 @@ clap that's a really interesting
 
 897
 00:37:32,079 --> 00:37:40,320
-um presentation so i will um
+um presentation so I will um
 
 898
 00:37:37,040 --> 00:37:42,960
@@ -3592,15 +3592,15 @@ open open the floor to any questions for
 
 899
 00:37:40,320 --> 00:37:42,960
-for lisa
+for Lisa
 
 900
 00:37:43,520 --> 00:37:47,920
-and i do have a bundle so um i will
+and Ii do have a bundle so um I will
 
 901
 00:37:46,079 --> 00:37:51,839
-invite other people before i
+invite other people before I
 
 902
 00:37:47,920 --> 00:37:51,839
@@ -3616,11 +3616,11 @@ parameter
 
 905
 00:37:56,320 --> 00:38:03,119
-uh yeah i think i mean it's um
+uh yeah I think I mean it's um
 
 906
 00:38:00,079 --> 00:38:05,119
-yes bds not so much but yeah i mean the
+yes BDS not so much but yeah I mean the
 
 907
 00:38:03,119 --> 00:38:06,560
@@ -3632,7 +3632,7 @@ you know an empirical thing it's a
 
 909
 00:38:06,560 --> 00:38:11,839
-geometry of of how the arrive plot um
+geometry of of how the Arai plot um
 
 910
 00:38:09,359 --> 00:38:12,800
@@ -3652,7 +3652,7 @@ selecting a sort of
 
 914
 00:38:15,920 --> 00:38:18,960
-inaccurate result if you're a right plot
+inaccurate result if you're Arai plot
 
 915
 00:38:18,640 --> 00:38:22,240
@@ -3664,7 +3664,7 @@ isn't straight um so
 
 917
 00:38:22,240 --> 00:38:27,040
-i'm going to jump in with a question
+I'm going to jump in with a question
 
 918
 00:38:24,000 --> 00:38:32,160
@@ -3676,19 +3676,19 @@ um so you're comparing the um
 
 920
 00:38:32,160 --> 00:38:40,640
-the decorative bonnell method and the
+the Dekkers Bohnel method and the
 
 921
 00:38:35,760 --> 00:38:42,720
-um uh fabian uh corrected method
+um uh Fabian uh corrected method
 
 922
 00:38:40,640 --> 00:38:43,920
-is that when you're doing the decoration
+is that when you're doing the Dekkers
 
 923
 00:38:42,720 --> 00:38:46,160
-banal that's just the
+Bohnel that's just the
 
 924
 00:38:43,920 --> 00:38:47,040
@@ -3708,7 +3708,7 @@ just the original one as proposed
 
 928
 00:38:51,760 --> 00:38:55,520
-and then i used the fabian and but but
+and then I used the Fabian and but but
 
 929
 00:38:54,480 --> 00:38:59,040
@@ -3720,7 +3720,7 @@ it seems to work better than the the
 
 931
 00:38:59,040 --> 00:39:03,920
-mainstay corrected one of fabian
+mainstay corrected one of Fabian
 
 932
 00:39:02,160 --> 00:39:05,200
@@ -3740,7 +3740,7 @@ downwards it can never
 
 936
 00:39:08,880 --> 00:39:12,960
-increase the intensity but i wonder if
+increase the intensity but I wonder if
 
 937
 00:39:11,520 --> 00:39:14,800
@@ -3768,7 +3768,7 @@ more precision maybe
 
 943
 00:39:22,240 --> 00:39:25,680
-and something i'm not optimistic maybe
+and something I'm not optimistic maybe
 
 944
 00:39:25,119 --> 00:39:28,480
@@ -3792,7 +3792,7 @@ full
 
 949
 00:39:35,040 --> 00:39:41,440
-uh paleo intensity experiment um
+uh paleointensity experiment um
 
 950
 00:39:38,079 --> 00:39:44,480
@@ -3848,11 +3848,11 @@ to by especially
 
 963
 00:40:08,839 --> 00:40:14,400
-um i said adrian did you flash your hand
+um I sorry Adrian did you flash your hand
 
 964
 00:40:12,480 --> 00:40:17,599
-up for a quick question i don't see you
+up for a quick question I don't see you
 
 965
 00:40:14,400 --> 00:40:19,119
@@ -3880,7 +3880,7 @@ a question
 
 971
 00:40:26,240 --> 00:40:29,599
-clear nichols when you go clear all
+Clair Nichols when you go clear all
 
 972
 00:40:28,079 --> 00:40:32,480
