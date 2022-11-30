@@ -1,350 +1,350 @@
 0:00:00.400,0:00:09.920
-okay hi everyone uh welcome to magnets um so the 
-similar format is as usual 25 minutes presentation
+[Anita] ok, hi everyone. Welcome to MagNetZ. So the 
+format is as usual, 25 minutes presentation
 
 0:00:09.920,0:00:16.080
-during which i recommend you keep your microphone 
-mutes um and then there's gonna be time for
+during which I recommend you keep your microphone 
+muted, and then there's gonna be time for
 
 0:00:16.080,0:00:22.400
-questions and answers uh any question is welcome 
-you can text you can put use the chat box if you
+questions and answers. Any question is welcome.
+you can..use the chat box if you
 
 0:00:22.400,0:00:29.520
-want and and after uh this part is going to be 
-a part that is not recorded that you can stay
+want, and after this part is going to be 
+a part that is not recorded, that you can stay
 
 0:00:29.520,0:00:36.560
-for an informal catch up it would be nice so for 
-today i'm very excited we have uh marco maffione
+for an informal catch up, it would be nice. For 
+today I'm very excited we have Marco Maffione
 
 0:00:37.200,0:00:44.160
-presenting uh uh the um the presentational 
-title tilt correction versus net rotation
+presenting the presentation
+entitled "Tilt correction versus net rotation:
 
 0:00:44.160,0:00:51.280
-poly magnetic analysis um so thanks marco 
-thank you very much for accepting orientation
+paleomagnetic analysis". So, thanks Marco,
+thank you very much for accepting the invitation,
 
 0:00:51.280,0:00:58.160
-and the floors is yours now okay so let me share
+and the floors is yours now.
 
 0:00:58.160,0:01:00.880
-okay so let me share my screen and
+[Marco] ok, so let me share..
 
 0:01:03.760,0:01:04.800
-can you all see this
+can you all see this?
 
 0:01:08.000,0:01:15.120
-yeah yeah okay yes thank you thank you thank 
-you for the invitation anita and craig um
+[Anita] yes, thank you. [Marco] Thank 
+you for the invitation Anita and Greig.
 
 0:01:15.120,0:01:23.520
-so what i want to talk about today is about a very 
-broadly uh known and applied method in magnetic
+So, what I want to talk about today is about a very 
+broadly known and applied method in magnetic
 
 0:01:23.520,0:01:30.000
-analysis which is the tilt correction what i 
+analysis, which is the tilt correction. What I 
 will talk about will be the about the limitation
 
 0:01:30.000,0:01:37.520
-of this method and how we can overcome uh problems 
-about this method with another approach which is
+of this method, and how we can overcome problems 
+about this method with another approach, which is
 
 0:01:37.520,0:01:44.080
-known as net tectonic rotation i will also talk 
+known as net tectonic rotation. I will also talk 
 about the limitation of the net tectonic rotation
 
 0:01:44.080,0:01:50.880
-analysis uh so we'll conclude this uh talk 
-by showing you some data some applications
+analysis. So we'll conclude this uh talk 
+by showing you some data, some applications
 
 0:01:51.680,0:01:58.960
-of the netatonic rotation that we did in 
-the past so um to start i first of all
+of the net tectonic rotation that we did in 
+the past. To start I, first of all
 
 0:01:58.960,0:02:05.520
-want to make some acknowledgments uh because um 
-i'm not the first let's say person to use this one
+want to make some acknowledgments, because
+I'm not the first person to use this one,
 
 0:02:06.240,0:02:13.440
-i'm actually one of the last and all i know about 
-this method is coming from tony morris uh plymouth
+I'm actually one of the last and all I know about 
+this method is coming from Tony Morris from Plymouth
 
 0:02:13.440,0:02:20.240
-uh which i've collaborated with since 2010 and so 
-he told me everything about this this method so
+which I've collaborated with since 2010, and so 
+he told me everything about this method.
 
 0:02:20.880,0:02:27.520
-basically he's my my mentor in this in this topic 
+Basically he's my mentor in this topic.
 he published several papers applying these methods
 
 0:02:27.520,0:02:36.720
-in in cyprus uh intruder sophia line uh since 
+in Cyprus in the Troodos Ophiolite. Since 
 1990 then 1998 he applied the method to other
 
 0:02:36.720,0:02:45.040
-officialites in syria and then we ended up 
-writing a paper together in cyprus in 2016.
+Ophiolites in Syria and then we ended up 
+writing a paper together in Cyprus in 2016.
 
 0:02:45.840,0:02:53.360
-so what we can say about the tilt correction 
+So what we can say about the tilt correction 
 is that the tilt correction approach
 
 0:02:53.360,0:02:59.360
-it's uh it's mainly based on the assumption 
+it's mainly based on the assumption 
 that deformation can be decomposed into two
 
 0:03:00.720,0:03:06.000
-components of rotation one is a tilt and 
-the other one is a vertical axis rotation
+components of rotation, one is a tilt and 
+the other one is a vertical axis rotation.
 
 0:03:06.800,0:03:11.440
-that's a big assumption and you will see how 
+That's a big assumption and you will see how 
 this can actually produce some bias in the
 
 0:03:11.440,0:03:18.080
-interpretation so as a general point of view what 
+interpretation. As a general point of view, what 
 we typically do in paleomagnetic analysis when we
 
 0:03:18.800,0:03:29.040
 apply the analysis to deformation analysis and 
-restoration what we do we measure the remnants
+restoration, what we do, we measure the remanence
 
 0:03:29.040,0:03:35.120
-in a specific rock which could be a sediment or 
-it could be volcanic layer and what we measure is
+in a specific rock, which could be a sediment or 
+it could be volcanic layer, and what we measure is
 
 0:03:35.120,0:03:42.800
-called the in-situ magnetization and then because 
-this unit is not um as in the original position
+called the in-situ magnetization. And then because 
+this unit is not as in the original position
 
 0:03:43.600,0:03:49.840
-but it's been affected by local deformation 
-which here is observed as a tilt what we
+but it's been affected by local deformation, 
+which here is observed as a tilt, what we
 
 0:03:49.840,0:03:58.320
 typically do we remove the tilt by performing a 
-strike parallel rotation by doing so we correct
+strike parallel rotation. By doing so, we correct
 
 0:03:58.320,0:04:04.320
-this in situ by the magnetic direction and we 
+this in-situ by the magnetic direction and we 
 obtain a new magnetic direction that we call
 
 0:04:04.320,0:04:12.480
-the tilt corrected direction and then what we 
-do we compare once this is the tilt corrected
+the tilt corrected direction. And then what we 
+do we compare once this is the tilt corrected,
 
 0:04:12.480,0:04:18.880
 in other words correspond to the direction of 
-the magnetic field when the rock was horizontal
+the magnetic field when the rock was horizontal.
 
 0:04:18.880,0:04:24.880
-uh we then compared that to a reference direction 
+We then compared that to a reference direction, 
 which is typically a direction from a tectonic
 
 0:04:24.880,0:04:31.520
-plate where the rocks has been sampled from 
-and we infer the vertical axis rotation
+plate where the rocks has been sampled from, 
+and we infer the vertical axis rotation.
 
 0:04:32.240,0:04:37.440
-it's a very simple approach everybody used 
-it and including me and other people so it's
+It's a very simple approach everybody used 
+it, including me and other people, so it's
 
 0:04:37.440,0:04:42.480
-nothing wrong with this but i'll show you 
-the limitations of this method in a second
+nothing wrong with this but I'll show you 
+the limitations of this method in a second.
 
 0:04:43.520,0:04:50.160
-the limitations have actually been 
+The limitations have actually been 
 already identified in the early 80s by
 
 0:04:50.160,0:04:57.120
-mcdonald who published this paper talking about 
+MacDonald who published this paper talking about 
 the tilt correction and he actually recognized
 
 0:04:57.120,0:05:06.640
-that there are some miscalculations that you 
+that there are some miscalculations that 
 you may introduce by when you have some specific
 
 0:05:06.640,0:05:16.160
-let's say tectonic configurations or or tectonic 
-um let's say process going on uh in fact what he
+let's say tectonic configurations or tectonic 
+let's say process going on. In fact what he
 
 0:05:16.160,0:05:22.480
-says is that you can actually ended up recording 
-not the true tectonic rotation by the apparent
+says is that you can actually end up recording 
+not the true tectonic rotation but the apparent.
 
 0:05:22.480,0:05:29.600
-so in other words it's not the real one and when 
-we have this it's essentially in two situations
+So, in other words, it's not the real one, and when 
+we have this it's essentially in two situations.
 
 0:05:29.600,0:05:35.520
-the first one is when the rotation are not 
-parallel to the strike which is something
+The first one is when the rotation are not 
+parallel to the strike, which is
 
 0:05:35.520,0:05:41.280
-one of the main assumption of the tilt correction 
-and the tilt correction method um we can actually
+one of the main assumption of the tilt correction,
+Of the tilt correction method. We can actually
 
 0:05:41.840,0:05:49.040
-in fact have some some weird rotation not 
-weird but some let's say uncommon rotation axis
+in fact have some weird rotation..not 
+weird but some, let's say uncommon rotation axis,
 
 0:05:49.040,0:05:56.640
-or maybe they are common who knows that are not 
-horizontal but they are inclined so in this case
+or maybe they are common, who knows, that are not 
+horizontal but they are inclined. So in this case
 
 0:05:57.600,0:06:04.080
-basically what you calculate you will end up 
-calculating an apparent tectonic rotation the
+basically what you calculate..you will end up 
+calculating an apparent tectonic rotation. The
 
 0:06:04.080,0:06:09.760
 second condition to introduce this bias is 
-when you have multiple phases of rotations
+when you have multiple phases of rotations.
 
 0:06:10.560,0:06:16.560
-so imagine some situation like this when you have 
-like a first bending and then a faulting so when
+So, imagine some situation like this, when you have 
+like a first bending and then a faulting. So when
 
 0:06:16.560,0:06:23.360
 you have multiple phases of rotation you also 
 end up calculating an apparent tectonic rotation
 
 0:06:23.360,0:06:32.320
-when you apply a tilt correction so um this is for 
-sediments so horizon originally horizontal layers
+when you apply a tilt correction. So, this is for 
+sediments, so originally horizontal layers.
 
 0:06:32.960,0:06:40.000
-the situation is even more dramatic when we apply 
-the tail correction in dykes and i'm talking about
+The situation is even more dramatic when we apply 
+the tilt correction in dykes, and I'm talking about
 
 0:06:40.000,0:06:48.080
-shitty dykes because it's what i've been 
-working on so far so originally vertical dykes
+sheeted dykes because it's what I've been 
+working on so far, so originally vertical dykes.
 
 0:06:48.080,0:06:54.000
-if you apply a teal correction on diets you 
-are 100 sure you are going to introduce error
+If you apply a tilt correction on dykes you 
+are 100% sure you are going to introduce error.
 
 0:06:55.040,0:07:02.880
-again what we do or what people have been 
+Again what we do, or what people have been 
 doing in dykes is taking dyke performing a
 
 0:07:02.880,0:07:10.480
-dike parallel rotation to restore it to vertical 
-and then from the till corrected direction here
+dike parallel rotation to restore it to vertical, 
+and then from the tilt corrected direction here.
 
 0:07:11.280,0:07:15.840
-again you compare it to a reference direction 
-and you calculate the vertical axis rotation
+Again you compare it to a reference direction 
+and you calculate the vertical axis rotation.
 
 0:07:16.480,0:07:24.240
-now the main problem with dikes is that you cannot 
+Now the main problem with dykes is that you cannot 
 resolve any components of rotations that are
 
 0:07:24.960,0:07:30.640
-perpendicular to the dike in fact if you look 
-at this image if you rotate the spike which is
+perpendicular to the dyke. In fact if you look 
+at this image..if you rotate the dyke which is
 
 0:07:30.640,0:07:38.960
-originally vertical by 40 degrees by 90 degrees by 
-450 degrees nothing will change to the strike or
+originally vertical by 40 degrees, by 90 degrees, by 
+450 degrees nothing will change to the strike.
 
 0:07:38.960,0:07:45.520
-so the only way here to realize that some rotation 
-occurred is by looking at the remnants direction
+So the only way here to realize that some rotation 
+occurred is by looking at the remanence direction.
 
 0:07:46.080,0:07:51.760
-so in dikes the situation as i said is quite 
-complex it's quite critical when we apply till
+So in dykes the situation, as I said, is quite 
+complex.. it's quite critical when we apply tilt
 
 0:07:51.760,0:07:58.400
-correction and you cannot resolve those dike 
-normal components of rotation in other words
+correction and you cannot resolve those dyke's 
+normal components of rotation. In other words
 
 0:07:59.520,0:08:08.000
-because a dike parallel rotation it's pretty 
-much a big coincidence so we imply that every
+because a dyke parallel rotation it's pretty 
+much a big coincidence, so we imply that every
 
 0:08:08.000,0:08:15.360
 rotation it's most of the time not parallel to the 
-strike then we can conclude that applying this to
+strike, then we can conclude that applying this to
 
 0:08:15.360,0:08:24.880
-dike can always or 99.9 of the time introduce an 
-error okay so how do we uh overcome this problem
+dyke can always, or 99.9% of the time, introduce an 
+error. Ok so, how do we uh overcome this problem?
 
 0:08:25.440,0:08:33.120
-the alternative method that have been introduced 
-by alerton and vine in in 1987 it's called
+The alternative method that have been introduced 
+by Allerton and Vine in 1987 it's called
 
 0:08:33.120,0:08:41.600
-the net tectonic rotation now the net tectonic 
-rotation um is essentially calculates a single
+the net tectonic rotation. Now the net tectonic 
+rotation essentially calculates a single
 
 0:08:41.600,0:08:50.080
 rotation around an inclined axis that can restore 
-the structure to the original position which is
+the structure to the original position, which is
 
 0:08:50.080,0:08:57.600
-what the kill correction approach does but on top 
-of this the net tectonic rotation also wants to
+what the tilt correction approach does, but on top 
+of this, the net tectonic rotation also wants to
 
 0:08:57.600,0:09:04.720
 restore the in-situ magnetization to the reference 
-magnetization now the reference magnetization
+magnetization Now the reference magnetization
 
 0:09:04.720,0:09:11.760
 is the original direction the magnetic field 
-recorded by the rock when the rock was already
+recorded by the rock when the rock was
 
 0:09:11.760,0:09:17.840
-was still in situ so before any deformation so in 
-other words in the tilt correction we only look
+still in situ, so before any deformation. In 
+other words, in the tilt correction we only look
 
 0:09:17.840,0:09:23.440
-at this portion so we take the structure back 
+at this portion, so we take the structure back 
 to the original position and we calculate the
 
 0:09:24.640,0:09:33.520
-tilt corrected magnetization which is not here in 
-this approach so if we look at dikes for example
+tilt corrected magnetization, which is not here in 
+this approach. So if we look at dikes, for example,
 
 0:09:34.720,0:09:40.160
-when you take this strike in the original position 
-um the stack is affected by some deformation
+when you take this strike in the original position, 
+this dyke is affected by some deformation.
 
 0:09:41.120,0:09:48.160
-you can see here the remnants in blue and we also 
-uh highlighted the dyke uh to this uh the pole to
+You can see here the remanence in blue and we also 
+highlighted the dyke, the pole to
 
 0:09:48.160,0:09:56.720
-this dike in red what the netatonic rotation 
-analysis does is calculate a inclined axis
+this dyke in red. What the net tectonic rotation 
+analysis does is calculate an inclined axis
 
 0:09:57.520,0:10:02.080
 rotation that can restore 
-simultaneously the type to vertical
+simultaneously the dyke to vertical.
 
 0:10:02.640,0:10:08.800
-so in other words this pole will correspond 
-to that pole so bring it back to horizontal
+So in other words this pole will correspond 
+to that pole, so bring it back to horizontal
 
 0:10:08.800,0:10:16.000
-but also the remnants back to the original 
-remnants what we called the reference direction
+but also the remanence back to the original 
+remanence what we called the reference direction.
 
 0:10:16.880,0:10:22.560
-so it's a double correction so you bypass 
-the till correction uh the till corrected
+So it's a double correction. So you bypass 
+the tilt correction..the tilt corrected
 
 0:10:22.560,0:10:29.440
 direction that you obtain in the tilt correction 
-approach now this net tectonic rotation analysis
+approach. Now this net tectonic rotation analysis
 
 0:10:29.440,0:10:35.680
-is based on several assumptions uh the first one 
+is based on several assumptions. The first one 
 is that you can identify that reference direction
 
 0:10:35.680,0:10:41.200
@@ -352,19 +352,19 @@ and that could be the direction expected 
 from a specific plate where you collected
 
 0:10:41.200,0:10:46.800
-the data from or it could be any other direction 
-could be the geographic direction so the north
+the data from, or it could be any other direction, 
+could be the geographic direction so the north.
 
 0:10:46.800,0:10:52.720
-you just want to see what was the 
+You just want to see what was the 
 deformation of your rock from north and so on
 
 0:10:54.000,0:11:00.720
-the second assumption is that as in any other kind 
-of paleomagnetic analysis you want your remnants
+the second assumption is that, as in any other kind 
+of paleomagnetic analysis, you want your remanence
 
 0:11:00.720,0:11:08.320
-to be pre-deformation and possibly primary the 
+to be pre-deformation and possibly primary. The 
 third assumption is that you want to restore your
 
 0:11:09.280,0:11:17.440
@@ -372,148 +372,148 @@ structures back to the original position so 
 we assume strata like sedimentary beds to be
 
 0:11:17.440,0:11:25.920
-originally horizontal and dikes not all dikes but 
-maybe dikes in ortholytic complex shaded diets
+originally horizontal and dykes, not all dykes but 
+maybe dikes in ophiolitic complex, sheeted dykes
 
 0:11:25.920,0:11:32.240
-back to vertical and the last one and probably 
+back to vertical. And the last one, and probably 
 most important and you will see in a moment
 
 0:11:32.240,0:11:39.200
-why is that there is no internal strain in your 
-rock so the rock shouldn't be deformed internally
+why is that, there is no internal strain in your 
+rock. So the rock shouldn't be deformed internally.
 
 0:11:40.160,0:11:47.440
-now let's see what the netatonic rotation analysis 
-can calculate for us um so these are the three
+Now let's see what the net tectonic rotation analysis 
+can calculate for us. So these are the three
 
 0:11:48.000,0:11:56.080
 kind of input data that we have at the beginning 
-of our analysis so we we have measured the in-situ
+of our analysis. So we have measured the in-situ
 
 0:11:56.080,0:12:03.200
-magnetization of our rock we have measured the 
-structure in this particular example is based
+magnetization of our rock, we have measured the 
+structure, in this particular example is based
 
 0:12:03.200,0:12:11.280
-on dikes that were originally vertical so this 
-would be the pole to die and that is our reference
+on dykes that were originally vertical so this 
+would be the pole to dyke, and that is our reference
 
 0:12:11.280,0:12:17.840
-magnetization so because we want to restore so 
-the net atomic rotation analysis restores the
+magnetization. So because we want to restore.. 
+the net tectonic rotation analysis restores the
 
 0:12:17.840,0:12:26.240
-in situ magnetization to the initial magnetization 
-which is our reference but also the structure back
+in situ magnetization to the initial magnetization, 
+which is our reference, but also the structure back
 
 0:12:26.240,0:12:33.040
-to the original position we can obtain multiple 
-solutions from this analysis the first solution
+to the original position. We can obtain multiple 
+solutions from this analysis. The first solution
 
 0:12:33.680,0:12:42.720
-is the initial structure the initial orientation 
-of in this case of the dyke so what you have at
+is the initial structure, the initial orientation 
+of in this case of the dyke, so what you have at
 
 0:12:42.720,0:12:51.840
-the beginning is that your the angle between 
-the measured magnetization and your structure
+the beginning is the angle between 
+the measured magnetization and your structure.
 
 0:12:52.400,0:12:58.720
-in this case will be the pole to the dyke 
+In this case will be the pole to the dyke 
 that this distance measured as an angle
 
 0:12:58.720,0:13:06.720
-angled beta that angle will not change during all 
-deformations that this rock can ever experience
+beta. That angle will not change during all 
+deformations that this rock can ever experience.
 
 0:13:07.280,0:13:13.680
-so that angle will stay the same so everything uh 
-incision magnetization and pole to die will rotate
+So that angle will stay the same so everything
+8incision magnetization and pole to dyke will rotate,
 
 0:13:15.200,0:13:22.160
-two three four so many times but that angle will 
-not change so what we know is that originally
+two, three, four, so many times..but that angle will 
+not change. So what we know is that originally
 
 0:13:22.160,0:13:30.000
 the in-situ magnetization was coincident with the 
-reference magnetization so before deformation that
+reference magnetization, so before deformation, that
 
 0:13:30.000,0:13:39.600
-was our original magnetization because the beta 
-angle will stay the same then we can infer two
+was our original magnetization, because the beta 
+angle will stay the same. Then we can infer two
 
 0:13:40.640,0:13:48.640
-conditions where our dike is vertical which 
-is because this is the pole to the dike
+conditions where our dyke is vertical, which 
+is because this is the pole to the dike.
 
 0:13:48.640,0:13:56.320
-these two are the only two conditions that 
-will restore the dike back to vertical
+These two are the only two conditions that 
+will restore the dike back to vertical.
 
 0:13:56.320,0:14:04.720
-okay so from this we calculate the 
-strike the initial strike of the dikes
+Ok so, from this we calculate the 
+initial strike of the dikes.
 
 0:14:06.160,0:14:13.440
-so the first solution of the net atomic rotation 
-is therefore in case of dikes will allow you to
+So the first solution of the net tectonic rotation 
+is therefore in case of dykes will allow you to
 
 0:14:13.440,0:14:18.960
-calculate the initial orientation of the dikes and 
-you will see that you have two solutions so you
+calculate the initial orientation of the dikes, and 
+you will see that you have two solutions. So you
 
 0:14:18.960,0:14:27.040
-need to select the most geologically meaningful 
-based perhaps on other geological evidence
+need to select the most geologically meaningful, 
+based perhaps on other geological evidence.
 
 0:14:29.600,0:14:36.480
-the second types or the other kind of solutions 
-that we can obtain with the net tectonic rotation
+The second types, or the other kind of solutions 
+that we can obtain with the net tectonic rotation,
 
 0:14:36.480,0:14:43.840
-is the rotation pose now this uh as an image 
-looks pretty complex but it's actually not
+is the rotation pole. Now this as an image 
+looks pretty complex but it's actually not,
 
 0:14:44.640,0:14:52.560
-and i'll go i will drive you through each step 
-of how we calculate the rotation axis here so the
+and I will drive you through each step 
+of how we calculate the rotation axis here. So the
 
 0:14:52.560,0:14:59.440
-three input vectors are this one highlighted this 
-is the the remnants the in-situ remnants this is
+three input vectors are this one highlighted, this 
+is the the remnants..the in-situ remnants, this is
 
 0:14:59.440,0:15:08.320
-the dike pole and that is the reference direction 
-so as i mentioned before the lantatonic rotation
+the dyke pole, and that is the reference direction. 
+So as i mentioned before, the net tectonic rotation
 
 0:15:08.880,0:15:16.160
-analysis performed simultaneously two rotations 
-the first one brings the in-situ remnants
+analysis performed simultaneously two rotations, 
+the first one brings the in-situ remanence
 
 0:15:16.160,0:15:23.280
-to the reference direction which is basically 
-what the original direction was before deformation
+to the reference direction, which is basically 
+what the original direction was before deformation,
 
 0:15:23.840,0:15:31.120
 and at the same time restore the structure back to 
-its original position so for a dike like in this
+its original position. So for a dyke like in this
 
 0:15:31.120,0:15:38.800
-case you want the dyke to be back to vertical and 
+case you want the dyke to be back to vertical, and 
 because we have two possible orientation of the
 
 0:15:38.800,0:15:46.320
 dyke could be either that rotation or the other 
-rotation these two points are you can see the beta
+rotation. These two points are.. you can see the beta
 
 0:15:46.880,0:15:57.600
-circle that will be the two initial dike 
-orientation okay so to perform the first rotation
+circle that will be the two initial dyke 
+orientation. Ok so, to perform the first rotation
 
 0:15:58.320,0:16:05.440
 we need the rotation axis that is contained within 
-the bisectoric plane between the two vectors
+the bisectrix plane between the two vectors
 
 0:16:06.160,0:16:10.640
 okay so we have two vectors how to 
@@ -521,11 +521,11 @@ rotate this vector away from this one
 
 0:16:11.280,0:16:18.400
 is through a rotation pole that lies within 
-the bisectoric plane between the two vectors
+the bisectrix plane between the two vectors,
 
 0:16:18.400,0:16:25.760
-which is this great circle here okay so that 
-satisfies the first rotation we have infinite
+which is this great circle here okay. So that 
+satisfies the first rotation. We have infinite
 
 0:16:25.760,0:16:31.840
 solutions of rotation poles here along this 
@@ -533,83 +533,83 @@ great circle because we have to satisfy
 
 0:16:31.840,0:16:39.920
 also simultaneously another rotation which is 
-bringing back rock to in its its original position
+bringing back the rock to its original position.
 
 0:16:39.920,0:16:49.360
-to do that again we need another rotation axis 
+To do that, again we need another rotation axis 
 which brings this pole either there or there
 
 0:16:49.360,0:16:56.800
 and again the rotation pole that brings this 
-pole to that direction is along the bisectoric
+pole to that direction is along the bisectrix
 
 0:16:56.800,0:17:02.320
-plane which is this red line so also here 
+plane, which is this red line. So also here 
 you have infinite solutions of the rotation
 
 0:17:02.320,0:17:08.720
-pole that can perform that rotation but because we 
-need for the netatonic rotation analysis that two
+pole that can perform that rotation, but because we 
+need for the net tectonic rotation analysis that
 
 0:17:09.360,0:17:15.120
-these two rotations are simultaneous there 
+these two rotations are simultaneous, there 
 is only one solution that satisfies both
 
 0:17:15.120,0:17:20.400
-conditions which is given by the intersection 
-between this two great circle which is the red
+conditions, which is given by the intersection 
+between this two great circle, which is the red..
 
 0:17:21.040,0:17:30.960
-the yellow star here okay so that would be the 
-rotation axis that can perform uh this correction
+the yellow star here. Ok so that would be the 
+rotation axis that can perform this correction,
 
 0:17:30.960,0:17:37.280
-so bring back the initial the incident remnants 
+so bring back the initial the in-situ remanence 
 to the reference but also the structure back to
 
 0:17:37.280,0:17:43.280
-initial to initial position you will see that you 
+initial position. You will see that you 
 have also another solution here and that's because
 
 0:17:43.280,0:17:49.840
-we have two possible initial dike orientation 
-so you will have another great circle bisector
+we have two possible initial dyke orientation, 
+so you will have another great circle bisectix
 
 0:17:50.480,0:18:00.080
-between this the dipole and the other alternative 
-initial dike orientation so you end up with two
+between this, the dyke pole, and the other alternative 
+initial dyke orientation, so you end up with two
 
 0:18:00.080,0:18:06.400
 rotation axis orientation and from 
 this you can also calculate the amount
 
 0:18:06.400,0:18:13.840
-and sense of rotation that can perform this um 
-that brings this vector away from the reference
+and sense of rotation that can perform this,
+that brings this vector away from the reference.
 
 0:18:16.240,0:18:24.160
-so this this method is has been written by 
-by tony a while ago on a dos program and and
+So this method has been written by 
+by Tony a while ago on a dos program and
 
 0:18:24.160,0:18:31.680
-i've worked on that previously but then recently 
-have been implemented in a in an online software
+I've worked on that previously but then recently 
+have been implemented in an online software
 
 0:18:31.680,0:18:37.520
-uh developed by the group in utrecht uh 
-led by darwin van isbergen which is called
+developed by the group in Utrecht 
+led by Douwe van Insberger, which is called
 
 0:18:37.520,0:18:42.800
-paleomagnetism.org and in this online 
+paleomagnetism.org, and in this online 
 software that can perform a number of
 
 0:18:43.520,0:18:52.560
-standard paleomagnetic analysis you also find the 
-net tectonic rotation protocol all right so this
+standard paleomagnetic analysis ,you also find the 
+net tectonic rotation protocol. All right so, this
 
 0:18:52.560,0:19:00.160
-is pretty much what i wanted to tell you about 
-the method um what i i will spend now the rest of
+is pretty much what I wanted to tell you about 
+the method what I will spend now the rest of
 
 0:19:00.160,0:19:07.200
 another 5-10 minutes talking about the application 
@@ -617,158 +617,158 @@ and bringing you an example of how we applied the
 
 0:19:07.200,0:19:13.680
 net tectonic rotation analysis to understand the 
-evolution of the true dose of your light in cyprus
+evolution of the Troodos ophiolite in Cyprus.
 
 0:19:15.280,0:19:22.640
-so the true disophelite in cyprus is a very 
-unique light because it's well preserved but also
+So the Troodos ophiolite in Cyprus is a very 
+unique ophiolite because it's well preserved but also
 
 0:19:22.640,0:19:30.480
-it because it can serve it a fossil spreading 
-axis which is the solia robin here in the middle
+because it conserves a fossil spreading 
+axis, which is the Solea Graben here in the middle
 
 0:19:30.480,0:19:37.600
-of the island of the theophilite and also a 
+of the island.. of the ophiolite, and also a 
 fossil transform fault which is the southern
 
 0:19:37.600,0:19:44.160
-trudeau's trans uh transform fault zone very 
-long name this black line is the transformer
+Troodos transform fault zone, very 
+long name. This black line is the transform.
 
 0:19:45.280,0:19:53.840
-so what has been observed um in the past is that 
-the dyke orientation which is this pink unit here
+So what has been observed in the past is that 
+the dyke orientation, which is this pink unit here,
 
 0:19:54.480,0:20:01.040
 which should be parallel to the spreading axis 
-which is the uh indicated here by the solar graven
+which is the uh indicated here by the *solar graben.
 
 0:20:02.000,0:20:09.680
-so the dyke when they approach the transform 
-they bend uh to get more almost parallel to
+So the dyke when they approach the transform 
+they bend to get more almost parallel to
 
 0:20:09.680,0:20:18.480
-this transform fold and this has been studied by 
+this transform fault, and this has been studied by 
 several people and they have realized that indeed
 
 0:20:18.480,0:20:25.760
-the band the trend of the dykes that looks more 
-east-west indeed is affected by strong clockwise
+the trend of the dykes, that looks more 
+east-west, indeed is affected by strong clockwise
 
 0:20:25.760,0:20:33.440
-rotations so that helped to understand the 
-kinematics of this transform fold and we realized
+rotations. So that helped to understand the 
+kinematics of this transform fault and we realized
 
 0:20:33.440,0:20:40.800
 that clockwise rotations are typically associated 
-with a dextro uh strike slip fault or in this case
+with a dextral strike slip fault or in this case
 
 0:20:40.800,0:20:48.400
-as a transform and therefore we developed a model 
-about this ophelite where um the spreading reach
+as a transform, and therefore we developed a model 
+about this ophiolite where the spreading ridge
 
 0:20:48.400,0:20:54.640
-is located to the to the left the the solia grab 
-and spreading reach and we need therefore another
+is located to the left the the Solea Graben 
+spreading ridge, and we need therefore another
 
 0:20:54.640,0:21:04.240
-segment of the reach located here to the west of 
-the aracapa forest so many years a few years ago
+segment of the ridge located here, to the west of 
+the Arakapas forest. So a few years ago
 
 0:21:04.240,0:21:11.040
-with tony actually we we performed some additional 
-sampling in the western part of the shitty dykes
+with Tony actually we performed some additional 
+sampling in the western part of the sheeted dykes
 
 0:21:11.040,0:21:18.320
-complex of cyprus and what we realized by 
-simple structural analysis is that the dikes
+complex of Cyprus and what we realized by 
+simple structural analysis is that the dykes
 
 0:21:18.320,0:21:26.000
-moving away along this transect moving to the 
-north they get bent they they actually rotate
+moving away along this transect, moving to the 
+north, they get bent.. they actually rotate
 
 0:21:26.000,0:21:32.560
-uh getting more into parallel to an east-west 
-direction rather than a north-south direction you
+getting more into parallel to an east-west 
+direction rather than a north-south direction. You
 
 0:21:32.560,0:21:39.760
-can see here that we over this region we observed 
-kind of two clusters of directions of the dykes
+can see here that over this region we observed 
+kind of two clusters of directions of the dykes.
 
 0:21:41.760,0:21:48.800
-we then performed a classic perimagnetic analysis 
-we demagnetized our rocks with af the mag and
+We then performed a classic paleomagnetic analysis 
+we demagnetized our rocks with AF demag, and
 
 0:21:48.800,0:21:55.520
-this is the in-situ remnants that we calculated 
-from those dikes and you can see that all of them
+this is the in-situ remanence that we calculated 
+from those dikes, and you can see that all of them
 
 0:21:56.160,0:22:03.360
-are different from the tmv which is the trudus 
-magnetization vector so the expected direction
+are different from the TMV, which is the Troodos 
+magnetization vector, so the expected direction..
 
 0:22:03.360,0:22:09.440
-so all those types have been 
-rotated from their initial position
+So all those dykes have been 
+rotated from their initial position.
 
 0:22:11.760,0:22:18.240
-so we applied a netatonic rotation analysis 
+So we applied a net tectonic rotation analysis 
 because again you cannot apply a simple tilt
 
 0:22:18.240,0:22:24.400
-correction analysis to dykes uh we applied 
-net telephonic rotation on all of these sides
+correction analysis to dykes uh, applied 
+net tectonic rotation on all of these dykes
 
 0:22:24.400,0:22:32.000
-and we calculated the initial dike orientation 
-before deformation and the rotation axis for
+and we calculated the initial dyke orientation 
+before deformation, and the rotation axis for
 
 0:22:32.000,0:22:41.680
-each one of these sides the summary of all this 
-analysis is in this figure and i've divided here
+each one of these sides. The summary of all these 
+analyses is in this figure, and I've divided here
 
 0:22:41.680,0:22:50.240
-the results from the northern domain which is the 
-one that shows more east-west dikes in situ from
+the results from the northern domain, which is the 
+one that shows more east-west dikes in situ, from
 
 0:22:50.240,0:22:57.200
 the southern domain which is more close to the 
-the expected north-south directions of the dykes
+the expected north-south directions of the dykes.
 
 0:22:57.920,0:23:04.480
-so as i said before the nittatonic rotation 
-analysis can provide the initial dike orientation
+So as I said before the net tectonic rotation 
+analysis can provide the initial dyke orientation,
 
 0:23:05.440,0:23:13.040
-which is here represented by this rose diagram and 
-you can see that despite in situ the dikes are in
+which is here represented by this rose diagram, and 
+you can see that despite in situ the dikes that are in
 
 0:23:13.040,0:23:20.240
 the south and north domain of the standard area 
-they show significantly significantly different
+they show significantly different
 
 0:23:20.240,0:23:27.840
-in situ directions they initially had a pretty 
-much consistent uh trend when they actually were
+in situ directions. They initially had a pretty 
+much consistent trend when they actually were
 
 0:23:27.840,0:23:34.960
 in place in the oceanic crust then the second type 
 of solutions of the net tectonic rotation analysis
 
 0:23:34.960,0:23:41.920
-is the rotation axis which we we modeled here we 
+is the rotation axis which we modeled here. We 
 showed the density distribution of the rotation
 
 0:23:41.920,0:23:50.000
 axis and again what you see here is that those 
-types have been affected by some kind of shallow
+types have been affected by some kind of
 
 0:23:50.000,0:23:57.840
-shallowly plunging rotation axis trending slightly 
-to the northwest then the interesting part of the
+shallowly plunging rotation axis, trending slightly 
+to the northwest. Then the interesting part of the
 
 0:23:57.840,0:24:05.120
-analysis is the amount of rotation so all of 
+analysis is the amount of rotation, so all of 
 the sides have been rotated clockwise from the
 
 0:24:05.120,0:24:13.600
@@ -780,7 +780,7 @@ rotations and you can see that the north domain 
 has rotation that are nearly double the rotations
 
 0:24:22.640,0:24:28.320
-that we observe in the southern domain and this 
+that we observe in the southern domain, and this 
 is a pretty unique resource that we could not
 
 0:24:28.320,0:24:33.920
@@ -788,334 +788,334 @@ have obtained with a simple tail correction 
 approach where only the net tectonic rotation can
 
 0:24:34.960,0:24:43.600
-allow you to to get those kind of data so in other 
-words to to summarize those results we observed
+allow you to to get those kind of data. So in other 
+words, to summarize those results we observed,
 
 0:24:43.600,0:24:49.200
-this is the studied area in cyprus and what 
+this is the studied area in Cyprus and what 
 we saw was that we observed an increasing
 
 0:24:50.560,0:24:58.480
 magnitude of rotations more clockwise moving to 
-the north so what we interpret this kind of trend
+the north, so what we interpret this kind of trend
 
 0:24:59.280,0:25:06.000
-was uh was something similar to what you 
-see in the in the east in the in nearby
+was something similar to what you 
+see in the east nearby
 
 0:25:06.000,0:25:12.320
-the southern trudeau's transform and in fact here 
-as soon as you approach the fault the rotations
+the southern Troodos transform, and in fact here 
+as soon as you approach the fault, the rotations
 
 0:25:13.840,0:25:20.640
 they are all clockwise because the kinematics of 
-this transform is textural and because we observe
+this transform is dextral, and because we observe
 
 0:25:20.640,0:25:29.200
-a similar pattern here what we interpret was 
-that we must have or we we should have another
+a similar pattern here, what we interpret was 
+that we must have or we should have another
 
 0:25:29.200,0:25:35.280
 transform fault very close to the edge of 
-the ovulite so unfortunately we cannot test
+the ophiolite. So unfortunately, we cannot test
 
 0:25:35.280,0:25:40.800
 this with field evidence because it must be 
-here uh just outside the of your light but
+here, just outside the ophiolite, but
 
 0:25:40.800,0:25:47.600
-because the rotations here are so strong we 
+because the rotations here are so strong, we 
 expect that this what we call the northern
 
 0:25:47.600,0:25:54.240
-trudus transform fault zone must have been very 
-very close to this location here and again because
+Troodos transform fault zone must have been very 
+very close to this location here. And again because
 
 0:25:54.240,0:26:02.640
-the rotations are clockwise we need a textural 
-kinematics here therefore we need another
+the rotations are clockwise, we need a dextral 
+kinematics here, therefore we need another
 
 0:26:02.640,0:26:08.080
 reach segment to be located here in the 
-west so this all together create a nice
+west, so this all together create a nice
 
 0:26:09.440,0:26:16.560
-very consistent um dextral kind of 
-step down of the spreading reach uh
+very consistent dextral kind of 
+step down of the spreading ridge
 
 0:26:16.560,0:26:23.520
-of that created this this ovulate in the back 
-in cretaceous so to place this result into
+of that created this ophiolite in the back 
+in Cretaceous, so to place this result into
 
 0:26:23.520,0:26:30.640
-the in situ context at the time the ovulate 
-was created and 93 million years ago um we
+the in situ context at the time the ophiolite 
+was created, and 93 million years ago we
 
 0:26:30.640,0:26:39.440
-can see that basically the ophelite was pretty 
-much a a complete rich segment and perhaps the
+can see that basically the ophiolite was pretty 
+much a complete ridge segment, and perhaps the
 
 0:26:40.160,0:26:46.960
-transforms here this is the subduction zone of the 
-neo-tethys ocean that was going on at that time
+transforms here, this is the subduction zone of the 
+neo-Tethys Ocean that was going on at that time.
 
 0:26:47.520,0:26:52.960
-uh so the isolation of the star of this 
-ophelite must have been therefore um
+So the isolation of this 
+ophiolite must have been therefore
 
 0:26:54.080,0:27:02.160
-hided or or supported by the the fractures 
-uh let's say the discontinuities of the
+*hided or supported by the fractures, 
+let's say the discontinuities of the
 
 0:27:02.160,0:27:10.160
-transform faults that are in this in this 
-system all right so i want to just conclude
+transform faults that are in this 
+system. All right so I want to just conclude
 
 0:27:10.160,0:27:17.280
-um with showing you some pro and cons of each 
-one of the two methods so the till correction and
+with showing you some pro and cons of each 
+one of the two methods, the tilt correction and
 
 0:27:17.280,0:27:26.320
-the net tonic rotation now in terms of benefit of 
-pros the tip correction can provide paleo latitude
+the net tectonic rotation. Now in terms of benefit of 
+pros, the tilt correction can provide paleo latitude
 
 0:27:27.040,0:27:33.280
 which can be sometimes very useful for specific 
-studies so we really want to know the latitude of
+studies. So, we really want to know the latitude of
 
 0:27:33.280,0:27:40.320
 rock and you only can obtain that if you calculate 
-the till correct direction of magnetization
+the tilt corrected direction of magnetization,
 
 0:27:41.360,0:27:47.360
-which cannot be obtained by the net atomic 
-rotation analysis the other pro of the tilt
+which cannot be obtained by the net tectonic 
+rotation analysis. The other pro of the tilt
 
 0:27:47.360,0:27:52.560
 correction is that it's quite reliable when we 
-deal with simple structures so structures that
+deal with simple structures, so structures that
 
 0:27:52.560,0:28:01.200
 either experience the simple tilt by just very 
-normal kind of geological structures like normal
+normal kind of geological structures, like normal
 
 0:28:01.200,0:28:08.640
-falls reverse faults and maybe with just one 
-phase of deformation the benefit of applying
+faults, reverse faults, and maybe with just one 
+phase of deformation. The benefit of applying
 
 0:28:08.640,0:28:16.080
 the net tectonic rotation analysis is that it's 
-the only method necessary for for dikes especially
+the only method necessary for for dykes, especially
 
 0:28:16.080,0:28:22.320
-sheeted dykes that were originally vertical okay 
-so if you're dealing with that you need to apply
+sheeted dykes that were originally vertical. Ok 
+so if you're dealing with that, you need to apply
 
 0:28:22.320,0:28:30.160
-net tonight rotation analysis and the other 
+net tectonic rotation analysis. And the other 
 pro is that the application can be necessary
 
 0:28:30.160,0:28:36.960
-in very complexly deformed structures so when 
+in very complexly deformed structures, so when 
 you have multiple phases of deformation then
 
 0:28:36.960,0:28:43.840
-the the negative side of the till corrections 
-is that we calculate um the apparent rotation
+the negative side of the tilt corrections 
+is that we calculate the apparent rotation.
 
 0:28:45.760,0:28:51.360
-in case the the deformation is very complex 
-so you don't calculate the true rotation
+In case that the deformation is very complex 
+so you don't calculate the true rotation,
 
 0:28:52.240,0:28:57.840
 which means that you introduce a number 
-of errors in your calculations and
+of errors in your calculations, and
 
 0:29:00.480,0:29:06.560
 on the other side the negative side of the 
-metatonic rotation is that you cannot obtain
+Net tectonic rotation is that you cannot obtain
 
 0:29:06.560,0:29:16.320
-a paleo altitude as you may need in several in 
-several studies the other negative side of the
+a paleo latitude as you may need in several 
+studies. The other negative side of the
 
 0:29:16.320,0:29:23.120
-tonic rotation is that there are some limitations 
-due to some technicality of the method and
+tectonic rotation is that there are some limitations 
+due to some technicality of the method, and
 
 0:29:23.120,0:29:29.760
-because of time constraint i cannot discuss about 
+because of time constraint I cannot discuss about 
 this but there has been a paper published by
 
 0:29:29.760,0:29:37.920
-titus and davis last year that talk about all 
-these potential limitations of the net atomic
+Titus and Davis last year that talk about all 
+these potential limitations of the net tectonic
 
 0:29:37.920,0:29:46.640
-rotations um and yeah with this one i think i've 
-i've concluded so thank you for your attention
+rotations. And yeah with this one I think 
+I've concluded, so thank you for your attention
 
 0:29:48.560,0:29:54.320
-thank you very much marco thank you 
-let's give marco a big round of applause
+[Anita] thank you very much, Marco, thank you. 
+Let's give Marco a big round of applause.
 
 0:29:54.320,0:30:07.840
-thank you video presentation thanks um now 
-there is time for questions should anybody
+Thank you for your presentation. Now 
+there is time for questions should anybody..
 
 0:30:13.280,0:30:20.720
-hi i have a question um so it seemed to 
-me when i was working on dykes and trottos
+[Lisa] Hi, I have a question. So it seemed to 
+me when I was working on dykes in Troodos,
 
 0:30:22.400,0:30:29.760
-you have a package of a dyke swarm like 
-in one outcrop you have a bunch of dikes
+you have a package of a dyke swarm, like 
+in one outcrop you have a bunch of dykes,
 
 0:30:30.800,0:30:37.680
-they're not sheeted dikes they're just a bunch 
-of dikes most of them are not sheeted and the
+they're not sheeted dikes, they're just a bunch 
+of dykes. Most of them are not sheeted and the
 
 0:30:37.680,0:30:48.880
-average uh was probably vertical but but 
-there's quite a bit of um you know 10 20 degrees
+average was probably vertical but
+there's quite a bit of, you know, 10, 20 degrees
 
 0:30:50.720,0:30:56.960
-for any individual dike so do you take how 
+for any individual dyke, so do you take..how 
 do you approach that do you take the average
 
 0:30:56.960,0:31:04.800
-and then call that used to be vertical yes yeah so 
-it's a good question you're totally right indeed
+and then call that used to be vertical? [Marco] yes,
+it's a good question, you're totally right. Indeed
 
 0:31:04.800,0:31:11.120
 when you go in the field you see dykes can swing 
-quite brutally from you know from one another they
+quite brutally from, you know, from one another they
 
 0:31:11.120,0:31:17.680
-do what they want in the example they go well 
-wherever they find the space and indeed uh my
+do what they want. In the example they go well 
+wherever they find the space, and indeed my
 
 0:31:17.680,0:31:23.680
-approach which is pretty much what uh should be 
-uh done in the field is to measure multiple dikes
+approach, which is pretty much what should be 
+done in the field, is to measure multiple dykes
 
 0:31:23.680,0:31:31.680
-from one location uh so i typically measured um 
-about ten dikes and then calculated an error uh
+from one location. So I typically measure
+about ten dykes and then calculate an error,
 
 0:31:31.680,0:31:38.480
 take calculated an average and then an error of 
-that direction and in fact something i didn't
+that direction. And in fact something I didn't
 
 0:31:38.480,0:31:45.840
 mention is that you can go even further with 
-the analysis you can do a modeling of the error
+the analysis, you can do a modeling of the error.
 
 0:31:46.400,0:31:51.280
-yeah you can model the error around the three 
-input vectors so this the integer remnant has
+You can model the error around the three 
+input vectors so the *integer remanence has
 
 0:31:51.280,0:31:56.960
-an error which is the alpha 95 then the dike 
+an error which is the alpha 95, then the dike 
 direction has an error because of this measurement
 
 0:31:56.960,0:32:03.280
-of different dikes in one station and then the 
-remnants direction also has an error which is the
+of different dykes in one station, and then the 
+remanence direction also has an error which is the
 
 0:32:03.280,0:32:09.600
-alpha 95 of the remnants so indeed that measuring 
-multiple dikes is actually essential if you want
+alpha 95 of the remanence. So indeed that measuring 
+multiple dykes is actually essential if you want
 
 0:32:09.600,0:32:15.360
-to do this properly and in theory it should 
+to do this properly, and in theory it should 
 give the vertical direction when you average
 
 0:32:15.360,0:32:22.240
-out let's say 10 likes we may be off of some 
-degrees who knows but that's the best we can do
+out, let's say, 10 likes we may be off of some 
+degrees, who knows, but that's the best we can do.
 
 0:32:24.240,0:32:31.120
-okay thank you yeah in fact actually the the 
-paper of uh titus and davis the one i mentioned
+[Lisa] Ok, thank you. [Marco] Yeah in fact actually the 
+paper of Titus and Davis, the one I mentioned
 
 0:32:31.120,0:32:38.160
-at the end uh the the limitations are in fact 
-uh basically introduced when the dikes are
+at the end, the limitations are in fact 
+basically introduced when the dykes are
 
 0:32:38.160,0:32:43.920
-not perfectly vertical right and they said they 
+not perfectly vertical, right? and they said they 
 calculated exactly how much error you introduce
 
 0:32:44.720,0:32:51.760
 for each degree away from the 
-verticality and but yeah right okay
+verticality and but yeah right ok.
 
 0:32:54.560,0:32:57.760
-thank you uh any other question
+[Anita] thank you, any other question?
 
 0:33:01.520,0:33:02.020
-tony
+Tony
 
 0:33:04.240,0:33:08.800
-yeah it's just a corollary of that really 
-following on from lisa's um question and
+[Tony] yeah it's just a corollary of that really, 
+following on from Lisa's question and
 
 0:33:08.800,0:33:14.560
-marco's answer is that um if you want to apply 
-this to like discrete dikes in another setting
+Marco's answer is that if you want to apply 
+this to like discrete dykes in another setting
 
 0:33:15.200,0:33:19.760
 then you've got to be really really careful 
-because you know we you can be pretty sure
+because, you know, we you can be pretty sure
 
 0:33:19.760,0:33:23.920
 that the average orientation of a whole 
 suite of sheeted dikes is originally
 
 0:33:23.920,0:33:28.720
-vertical because of the tectonic scenario in 
-which those dikes form but if you're sampling
+vertical, because of the tectonic scenario in 
+which those dikes form, but if you're sampling,
 
 0:33:29.360,0:33:33.360
-you know individual dikes that are cutting through 
-sedimentary layers for instance or whatever
+you know, individual dykes that are cutting through 
+sedimentary layers, for instance, or whatever
 
 0:33:33.360,0:33:37.280
-um then they do go wherever they want to go you 
-know they're responding to the local stress field
+then they do go wherever they want to go, you 
+know, they're responding to the local stress field
 
 0:33:37.280,0:33:44.080
-and and that might not be originally vertical 
-yeah so in that case in those cases neither
+and that might not be originally vertical. 
+Yeah so in those cases neither
 
 0:33:44.080,0:33:51.840
-the till correction and nor the the net atomic 
+the tilt correction and nor the net tectonic 
 rotation analysis are reliable enough for saying
 
 0:33:51.840,0:33:57.600
-for calculating the rotation of those dikes so 
-it may be better to stay away from those dikes
+for calculating the rotation of those dykes, so 
+it may be better to stay away from those dykes.
 
 0:34:00.480,0:34:06.640
-maybe i was wondering sorry to jump in uh if you 
+[Anita] maybe I was wondering sorry to jump in..if you 
 can combine actually field evidence for instance
 
 0:34:06.640,0:34:12.000
-if you have a die can you that's including through 
-sedimentary layers you have some tilting observing
+if you have a dyke can you..that's intruding through 
+sedimentary layers, you have some tilting observing
 
 0:34:12.000,0:34:16.480
 sedimentary layers so you can kind of tilt 
 everything back in a way i don't know if you
 
 0:34:16.480,0:34:22.400
-need that replication for that no yeah i mean if 
-you have the the main problem with dykes is that
+need net tectonic rotation for that [Marco] no yeah I mean if 
+you have..the main problem with dykes is that
 
 0:34:22.400,0:34:29.360
-you don't have the paleo horizontal and if you do 
-have a pale horizontal constraint which can come
+you don't have the paleohorizontal and if you do 
+have a paleohorizontal constraint which can come
 
 0:34:29.360,0:34:34.800
 from sediments on top and between knows what 
@@ -1123,166 +1123,166 @@ the situation is then yes you can actually
 
 0:34:34.800,0:34:42.400
 use that and basically you can either apply the 
-net tectonic rotation uh using the horizontal
+net tectonic rotation using the horizontal..
 
 0:34:43.120,0:34:49.680
-so just bringing back those layers to horizontal 
-which i haven't discussed i always made examples
+so just bringing back those layers to horizontal, 
+which I haven't discussed I always made examples
 
 0:34:49.680,0:34:57.520
 about dykes but you can apply the net tectonic 
 rotation analysis also to horizontal layers and
 
 0:34:59.840,0:35:04.880
-and then yeah so you can either 
+then yeah..so you can either 
 do one or the other in those those
 
 0:35:06.160,0:35:14.560
-circumstances sure thanks i i would i would 
-think that you can use kind of a multiple kind
+circumstances. [Anita] sure thanks. I would I would 
+think that you can use kind of a multiple kind..
 
 0:35:14.560,0:35:20.960
 of restoring back if the deformation is assumed 
-to be kind of coheival in a way right yeah
+to be kind of coheval in a way right? [Marco] yeah
 
 0:35:20.960,0:35:31.280
-yeah absolutely okay thank you um any other 
-question greg hi marco um so you you use the
+yeah, absolutely. [Anita] ok, thank you. Any other 
+question? [Greig] Hi Marco, so you use the
 
 0:35:31.280,0:35:35.680
 sort of differential rotation between the 
 the northern domain and the southern domain
 
 0:35:35.680,0:35:43.120
-to infer the presence of a transformed fault in 
-the north and but you see that i mean there's no
+to infer the presence of a transform fault in 
+the north, and but, you see that I mean, there's no
 
 0:35:43.120,0:35:48.560
-other physical evidence there because it's it's 
-it's no longer part of the of you like are there
+other physical evidence there because it's
+no longer part of the..
 
 0:35:48.560,0:35:55.200
-any is there anything else that you can look at 
-to to to confirm um that there was a transform
+is there anything else that you can look at 
+to confirm that there was a transform
 
 0:35:55.200,0:36:02.800
-fault in in the north of the ophelia we could move 
-to the west sorry to the east and looking to the
+fault in the north of the ophiolite? [Marco] We could move 
+to the west..sorry to the east and looking to the
 
 0:36:04.800,0:36:12.160
-look into the the pillows because you as soon 
-as you stay to the west of the soliagraven
+look into the pillows because you as soon 
+as you stay to the west of the Solea Graben,
 
 0:36:13.040,0:36:20.080
-you if our interpretation is true you should 
+if our interpretation is true, you should 
 expect some strong rotation in the upper part of
 
 0:36:20.080,0:36:26.400
-the if you like but also because the office has a 
-kind of a the orientation is it's not suitable so
+the ophiolite, but also because the ophiolite has a 
+kind of a..the orientation it's not suitable, so
 
 0:36:26.400,0:36:33.840
-if i show again the map basically if you move from 
+if I show again the map, basically if you move from 
 the highest point where we saw this high rotation
 
 0:36:33.840,0:36:40.640
-in dikes you move to the east you probably get 
-into this sedimentary cover above the ufo light
+in dykes you move to the east, you probably get 
+into this sedimentary cover above the ophiolite,
 
 0:36:42.160,0:36:47.120
-but anyway that that could be a way to test that 
+but anyway that could be a way to test that,
 just looking a little bit more to the east and
 
 0:36:47.120,0:36:54.960
-see whether you see the consistent rotations 
-otherwise i'm not sure how other what other um
+see whether you see the consistent rotations. 
+Otherwise I'm not sure  what other
 
 0:36:56.160,0:37:02.960
-evidence we can claim because indeed the ovulation 
+evidence we can claim because indeed the ophiolite
 just ends there so the other part knows of that
 
 0:37:03.520,0:37:10.720
-potential transform has never been in 
-place so it's a it's an idea it's a model
+potential transform has never been emplaced
+.so it's a it's an idea it's a model
 
 0:37:11.440,0:37:16.240
 maybe true maybe not that's the 
 that's what the data are suggesting
 
 0:37:18.560,0:37:26.880
-thank you lisa yeah so um i was 
+thank you [Anita] isa yeah [Lisa] so, I was 
 just thinking there must be we have
 
 0:37:28.480,0:37:38.880
-hundreds and hundreds of dikes that we drilled 
-and have the data for um uh and there have been so
+hundreds and hundreds of dykes that we drilled 
+and have the data for and there have been so
 
 0:37:38.880,0:37:46.320
 many studies there must be thousands and thousands 
-of dikes that have been drilled and and measured
+of dykes that have been drilled and measured
 
 0:37:46.320,0:37:52.240
-and all this um stuff and i was just wondering 
+and all this um stuff and I was just wondering 
 wouldn't it be nice to compile all those data
 
 0:37:52.240,0:38:00.560
 together in some consistent format so somebody 
-could do a meta-analysis of the entire uh thing um
+could do a meta-analysis of the entire thing.
 
 0:38:02.560,0:38:09.840
-yeah i mean sounds like a good project a big 
-project well i was going to put our data into
+[Marco] Yeah, I mean, sounds like a good project a big 
+project [Lisa] Well, I was going to put our data into
 
 0:38:09.840,0:38:18.880
-magic soon you know bits of it are there but not 
-all that stuff that we did back in the 90s yeah
+MagIC soon you know bits of it are there but not 
+all that stuff that we did back in the 90s [Marco] Yeah
 
 0:38:18.880,0:38:24.960
-i mean it depends also on the on the reasons 
-like what was the the research question behind
+I mean, it depends also on the reasons 
+like what was the research question behind..
 
 0:38:24.960,0:38:32.320
-that like in our case because the for example the 
-net tectonic rotation analysis can restore it can
+that like in our case, because for example the 
+net tectonic rotation analysis can restore..it can
 
 0:38:32.320,0:38:41.120
-provide the initial dike orientation for example 
-i use that to reconstruct the the spreading system
+provide the initial dyke orientation. For example, 
+I use that to reconstruct the spreading system
 
 0:38:41.120,0:38:50.160
-in the neotecis by compiling multiple ovulites 
-from turkey greece cyprus and using that
+in the neo Tethys by compiling multiple ophiolites
+from Turkey, Greece, Cyprus and using that
 
 0:38:51.280,0:38:56.720
-i reconstructed also the subduction the geometry 
+I reconstructed also the subduction..the geometry 
 of the subduction zone that was responsible
 
 0:38:57.600,0:39:03.840
-for the formation of those opulents now 
-that is a very specific question um right
+for the formation of those ophiolites. Now 
+that is a very specific question. [Lisa] Right
 
 0:39:05.040,0:39:09.440
 and what we were interested in is what direction 
 was the magma flowing when it went in there
 
 0:39:09.440,0:39:18.080
-and yeah yeah so we had to do some kind of 
-rotation and we did it not the way you're doing it
+and yeah so we had to do some kind of 
+rotation and we did it, not the way you're doing it,
 
 0:39:18.080,0:39:22.320
-but we did find that there were it 
+but we did find that there were..it 
 wasn't just vertical there was also this
 
 0:39:22.880,0:39:29.040
-yeah which can always happen yeah i mean indeed 
+[Marco]yeah which can always happen. Yeah I mean indeed 
 flow directions could be another application of
 
 0:39:29.040,0:39:34.640
-metatonic rotation analysis of two two lines 
-i mean that's what we were after but you know
+net tectonic rotation analysis oto dykes
+[Lisa] I mean that's what we were after but you know
 
 0:39:34.640,0:39:40.400
-yeah there's just a lot of data on it exactly 
+yeah there's just a lot of data on it. [Marco] Exactly 
 it's good that the data are there and they're
 
 0:39:40.400,0:39:49.920
@@ -1291,10 +1291,10 @@ and people to go further into the analysis
 
 0:39:50.640,0:39:56.800
 as far as the data are there they will be 
-there forever i guess and the samples yeah yeah
+there forever i guess [Lisa] and the samples yeah [Marco] yeah
 
 0:40:00.240,0:40:04.160
-thank you well maybe i'll do 
+[Anita] thank you, well.. [Lisa] Maybe I'll do 
 mine and then you can add yours
 
 0:40:07.360,0:40:09.840
@@ -1302,27 +1302,27 @@ try to collect them all
 
 0:40:13.360,0:40:23.840
 okay thank you any other question maybe 
-we have time for one last question
+we have time for one last question..
 
 0:40:27.760,0:40:33.360
-tony yes go ahead again just the comment i think 
-i think marco's underplayed the importance of
+Tony, yes go ahead.. [Tony] Again just the comment, I think 
+Marco's underplayed the importance of
 
 0:40:33.360,0:40:38.160
 this bigger study that he's mentioned about the 
-the sort of broader context of spreading in the
+the sort of broader context of spreading
 
 0:40:38.160,0:40:43.680
-in the near tethys because um you know it's it's 
+in the neo Tethys because, you know, it's 
 easy to look at these what these single units and
 
 0:40:43.680,0:40:49.120
 and i think um you know all of that research 
-that lisa was referring to in cyprus over
+that lisa was referring to in Cyprus over
 
 0:40:49.120,0:40:55.520
-over many um decades has been using this local 
-reference direction and it was it was marco's
+over many decades has been using this local 
+reference direction and it was Marco's
 
 0:40:55.520,0:41:01.280
 insight to use actually the a northerly directive 
@@ -1330,95 +1330,95 @@ reference direction that allowed him to work out
 
 0:41:01.920,0:41:06.160
 that the spreading axes aren't what you might 
-expect in tethys which you know you'd expect an
+expect in Tethys which you know you'd expect an
 
 0:41:06.160,0:41:10.160
 east-west trending ocean to have the east-west 
-training spreading axes but that's not the
+training spreading axes, but that's not the
 
 0:41:10.160,0:41:17.040
-case and and um and that that work was something 
+case and that that work was something 
 that solved problems about data that was sitting
 
 0:41:17.040,0:41:22.000
-around for years that no one really understood 
+around for years that no one really understood, 
 how you ended up with these northeast trending
 
 0:41:22.560,0:41:27.920
-dike strikes in a in an east-west trending 
-ocean so it's just a comment really that
+dyke strikes in a east-west trending 
+Ocean. So it's just a comment really that
 
 0:41:27.920,0:41:32.560
-i think you know it's downplayed the extent 
-of that work goes far beyond cyprus which is
+I think, you know, it's downplayed the extent 
+of that work goes far beyond Cyprus which is..
 
 0:41:37.280,0:41:47.680
-thank you yes thank you um oh we have another 
-question okay and then yeah so to come back to
+[Anita] thank you. Yes, oh we have another 
+question okay ELder [ELder] Yeah so, to come back to
 
 0:41:47.680,0:41:53.600
-uh lisa's remark about uh correcting the 
-flow or the magmatic flow in these dikes
+Lisa's remark about correcting the 
+flow or the magmatic flow in these dykes.
 
 0:41:53.600,0:42:00.400
 we actually have a data set from dykes in 
-uh intruders and what we want to do is now
+Troodos and what we want to do is now
 
 0:42:01.200,0:42:10.800
-use the net tectonic rotation to correct back ams 
-patterns in these dikes to see what the flow is
+use the net tectonic rotation to correct back AMS
+patterns in these dykes to see what the flow is.
 
 0:42:12.080,0:42:19.520
-so to do that full 3d restoration so 
+So to do that full 3d restoration so 
 we'll see when we have time at hand to
 
 0:42:20.400,0:42:26.560
 get that done and see what kind of outcomes we 
-get and how much they differ from previous studies
+get and how much they differ from previous studies.
 
 0:42:28.480,0:42:33.120
-good luck then sounds fun or a headache
+[Anita] Good luck then sounds fun or a headache
 
 0:42:35.440,0:42:43.840
-yeah one of the things is uh how to to put 
-that net tectonic rotation in unisoft uh indeed
+[Elder] yeah one of the things is uh how to to put 
+that net tectonic rotation in Anioft uh indeed
 
 0:42:46.960,0:42:55.200
-yeah okay thanks um i think it's time to 
-give another big round of applause to marco
+[Anita] yeah okay thanks. I think it's time to 
+give another big round of applause to Marco
 
 0:42:56.080,0:43:03.680
 thank you and yeah thank you very much for 
 presenting uh and um yeah if anybody else has
 
 0:43:03.680,0:43:14.240
-questions you know you can email marco or tony and 
-um yeah now we can uh okay share the latest slides
+questions you know you can email Marco or Tony and 
+now we can share the latest slides
 
 0:43:21.520,0:43:27.360
-i fixed the date i got it wrong my 
-apologies thank you great presentation
+I fixed the date, I got it wrong my 
+apologies. Thank you great presentation
 
 0:43:30.560,0:43:37.200
 so um yeah thanks again marco um our next 
-speaker will be in the sixth of april
+speaker will be in the 6th of April
 
 0:43:37.760,0:43:44.400
-journey janine from university of sao paulo on 
-the 4th of may gonna have sanya from jeff said
+Janine from University of Sao Paulo, on 
+the 4th of may gonna have Sanja fromG FZ,
 
 0:43:45.280,0:43:52.320
-18 of my ween williams then we're going to stop 
-for egu and we are fully going to then move
+on 18 of June Wyn Williams. Then we're going to stop 
+for EGU and we are fully going to then move
 
 0:43:52.320,0:43:59.040
-to to eastern hemisphere timeslot and we 
-always welcome more speakers and i would like
+to eastern hemisphere timeslot. And we 
+always welcome more speakers. I would like
 
 0:43:59.040,0:44:06.160
-uh to remind you that you can review re-watch and 
-spread these videos uh uh they're only on youtube
+to remind you that you can review, re-watch and 
+spread these videos, they're all on Youtube,
 
 0:44:06.800,0:44:13.840
-and you can cite them through ref and so thank 
-you very much all for coming and see you next time
+and you can cite them through Earthref. And so thank 
+you very much all for coming and see you next time!
